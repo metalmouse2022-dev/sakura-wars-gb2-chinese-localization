@@ -2,6 +2,8 @@
 
 《樱花大战 GB2：雷霆作战》（GBC）汉化工程，包含翻译底稿、文本提取/注入工具、字库与 UI 逆向记录，以及后续维护者的构建和验证说明。
 
+【GBC《樱花大战GB2雷霆行动》汉化版 发布】 https://www.bilibili.com/video/BV17Vnj6cEA4/?share_source=copy_web&vd_source=7b1ecc57cdb2b13046184d98c5e68a95
+
 ## 先读这些
 
 - [汉化者指南](docs/README_汉化者指南.md)：目录、环境、构建流程、常见问题、验证清单和复现步骤。
