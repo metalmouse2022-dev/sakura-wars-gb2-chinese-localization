@@ -1,0 +1,42 @@
+[
+  {
+    "bank": "0x01",
+    "offset": "0x00757A",
+    "bank_offset": "0x357A",
+    "format": "Shift-JIS",
+    "raw_hex": "826e752059",
+    "text": "Ｏu Y"
+  },
+  {
+    "bank": "0x01",
+    "offset": "0x0077BA",
+    "bank_offset": "0x37BA",
+    "format": "Shift-JIS",
+    "raw_hex": "82ae772129",
+    "text": "ぐw!)"
+  },
+  {
+    "bank": "0x01",
+    "offset": "0x007871",
+    "bank_offset": "0x3871",
+    "format": "Shift-JIS",
+    "raw_hex": "8265782154",
+    "text": "Ｆx!T"
+  },
+  {
+    "bank": "0x01",
+    "offset": "0x0078EC",
+    "bank_offset": "0x38EC",
+    "format": "Shift-JIS",
+    "raw_hex": "82e07822",
+    "text": "もx\""
+  },
+  {
+    "bank": "0x01",
+    "offset": "0x007BB0",
+    "bank_offset": "0x3BB0",
+    "format": "Shift-JIS",
+    "raw_hex": "82aa7b300d",
+    "text": "が{0\r"
+  }
+]

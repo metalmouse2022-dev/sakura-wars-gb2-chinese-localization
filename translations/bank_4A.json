@@ -1,0 +1,7170 @@
+[
+  {
+    "bank": "0x4A",
+    "offset": "0x128000",
+    "bank_offset": "0x0000",
+    "format": "1-Byte-Script",
+    "raw_hex": "79907174990d907c90106f95fb6e529f0d",
+    "text": "を２ゆりっ\n２ぎ２ﾜﾍもぃビめかウ"
+  },
+  {
+    "bank": "0x4A",
+    "offset": "0x128015",
+    "bank_offset": "0x0015",
+    "format": "1-Byte-Script",
+    "raw_hex": "0101010358906f917b9f0d107879a01050609654596597f901040d",
+    "text": "(7(7(7ﾘoし２もぷがウ\nﾜﾍわをエﾜﾍえとぅくすのぇド(7\u001a<"
+  },
+  {
+    "bank": "0x4A",
+    "offset": "0x128031",
+    "bank_offset": "0x0031",
+    "format": "1-Byte-Script",
+    "raw_hex": "0a160603d7fbd7fb",
+    "text": "!\u0019!\u0004}!ﾘoヒビヒビ"
+  },
+  {
+    "bank": "0x4A",
+    "offset": "0x128040",
+    "bank_offset": "0x0040",
+    "format": "1-Byte-Script",
+    "raw_hex": "5fa16e8c",
+    "text": "てオめぶ"
+  },
+  {
+    "bank": "0x4A",
+    "offset": "0x128045",
+    "bank_offset": "0x0045",
+    "format": "1-Byte-Script",
+    "raw_hex": "016f567c9d",
+    "text": "(7もこぎア"
+  },
+  {
+    "bank": "0x4A",
+    "offset": "0x12806C",
+    "bank_offset": "0x006C",
+    "format": "1-Byte-Script",
+    "raw_hex": "0101669150107d5210a3a5ec",
+    "text": "(7(7はぷえﾜﾍぐかﾜﾍキケギ"
+  },
+  {
+    "bank": "0x4A",
+    "offset": "0x128079",
+    "bank_offset": "0x0079",
+    "format": "1-Byte-Script",
+    "raw_hex": "9f0dd7fbd7fb",
+    "text": "ウ\nヒビヒビ"
+  },
+  {
+    "bank": "0x4A",
+    "offset": "0x128082",
+    "bank_offset": "0x0082",
+    "format": "1-Byte-Script",
+    "raw_hex": "e9f59f0d",
+    "text": "ヲダウ"
+  },
+  {
+    "bank": "0x4A",
+    "offset": "0x128087",
+    "bank_offset": "0x0087",
+    "format": "1-Byte-Script",
+    "raw_hex": "0a1904010105408b038b010128",
+    "text": "!\u0019Au\u001a<(7(7(\u0010ょびﾘoび(7(7瑁"
+  },
+  {
+    "bank": "0x4A",
+    "offset": "0x128095",
+    "bank_offset": "0x0095",
+    "format": "1-Byte-Script",
+    "raw_hex": "01d7fbd7fb",
+    "text": "(7ヒビヒビ"
+  },
+  {
+    "bank": "0x4A",
+    "offset": "0x12809D",
+    "bank_offset": "0x009D",
+    "format": "1-Byte-Script",
+    "raw_hex": "e9f59f0d9dfb52105879526f91a1790da5",
+    "text": "ヲダウ\nアビかﾜﾍしをかもぷオを\nケ"
+  },
+  {
+    "bank": "0x4A",
+    "offset": "0x1280B0",
+    "bank_offset": "0x00B0",
+    "format": "1-Byte-Script",
+    "raw_hex": "eb6596fb7176fafa0d",
+    "text": "ガのぅビゆれババ"
+  },
+  {
+    "bank": "0x4A",
+    "offset": "0x1280C0",
+    "bank_offset": "0x00C0",
+    "format": "1-Byte-Script",
+    "raw_hex": "0101669150107d5210a3a5ec",
+    "text": "(7(7はぷえﾜﾍぐかﾜﾍキケギ"
+  },
+  {
+    "bank": "0x4A",
+    "offset": "0x1280CD",
+    "bank_offset": "0x00CD",
+    "format": "1-Byte-Script",
+    "raw_hex": "9f0d5fa16e8c9f0d",
+    "text": "ウ\nてオめぶウ"
+  },
+  {
+    "bank": "0x4A",
+    "offset": "0x1280D6",
+    "bank_offset": "0x00D6",
+    "format": "1-Byte-Script",
+    "raw_hex": "0a19040707015fa16e8cf90da3a5ec",
+    "text": "!\u0019Au\u001a<\u0017\u0000\u0017\u0000(7てオめぶド\nキケギ"
+  },
+  {
+    "bank": "0x4A",
+    "offset": "0x1280E6",
+    "bank_offset": "0x00E6",
+    "format": "1-Byte-Script",
+    "raw_hex": "1061a1787c0d52977852fa0d",
+    "text": "ﾜﾍなオわぎ\nかぇわかバ"
+  },
+  {
+    "bank": "0x4A",
+    "offset": "0x1280F9",
+    "bank_offset": "0x00F9",
+    "format": "1-Byte-Script",
+    "raw_hex": "0101669150107d5210a3a5ec",
+    "text": "(7(7はぷえﾜﾍぐかﾜﾍキケギ"
+  },
+  {
+    "bank": "0x4A",
+    "offset": "0x128106",
+    "bank_offset": "0x0106",
+    "format": "1-Byte-Script",
+    "raw_hex": "9f0d6f567c9d9f0d",
+    "text": "ウ\nもこぎアウ"
+  },
+  {
+    "bank": "0x4A",
+    "offset": "0x12810F",
+    "bank_offset": "0x010F",
+    "format": "1-Byte-Script",
+    "raw_hex": "0a19040707016f567c9df90d61a1787c9097716d9710a3a5ec",
+    "text": "!\u0019Au\u001a<\u0017\u0000\u0017\u0000(7もこぎアド\nなオわぎ２ぇゆむぇﾜﾍキケギ"
+  },
+  {
+    "bank": "0x4A",
+    "offset": "0x128129",
+    "bank_offset": "0x0129",
+    "format": "1-Byte-Script",
+    "raw_hex": "0d6f567b7210756f915496fa0d",
+    "text": "もこがよﾜﾍるもぷくぅバ"
+  },
+  {
+    "bank": "0x4A",
+    "offset": "0x12813D",
+    "bank_offset": "0x013D",
+    "format": "1-Byte-Script",
+    "raw_hex": "0101ffffffffffffffffffffffffffff0d",
+    "text": "(7(7パパパパパパパパパパパパパパ"
+  },
+  {
+    "bank": "0x4A",
+    "offset": "0x12814F",
+    "bank_offset": "0x014F",
+    "format": "1-Byte-Script",
+    "raw_hex": "0a1904030301ffffffffffffffffffffffff0d",
+    "text": "!\u0019Au\u001a<ﾘoﾘo(7パパパパパパパパパパパパ"
+  },
+  {
+    "bank": "0x4A",
+    "offset": "0x128167",
+    "bank_offset": "0x0167",
+    "format": "1-Byte-Script",
+    "raw_hex": "038b010320",
+    "text": "ﾘoび(7ﾘoﾉﾕ"
+  },
+  {
+    "bank": "0x4A",
+    "offset": "0x128170",
+    "bank_offset": "0x0170",
+    "format": "1-Byte-Script",
+    "raw_hex": "038b010220",
+    "text": "ﾘoび(7\u0011\u0000ﾉﾕ"
+  },
+  {
+    "bank": "0x4A",
+    "offset": "0x128179",
+    "bank_offset": "0x0179",
+    "format": "1-Byte-Script",
+    "raw_hex": "190401011a40940394010828",
+    "text": "Au\u001a<(7(7!\u0006ょぁﾘoぁ(7\u0019ｾ瑁"
+  },
+  {
+    "bank": "0x4A",
+    "offset": "0x128186",
+    "bank_offset": "0x0186",
+    "format": "1-Byte-Script",
+    "raw_hex": "01081050985a76549f0da3a5ec",
+    "text": "(7\u0019ｾﾜﾍえぉせれくウ\nキケギ"
+  },
+  {
+    "bank": "0x4A",
+    "offset": "0x128194",
+    "bank_offset": "0x0194",
+    "format": "1-Byte-Script",
+    "raw_hex": "7c76619b790d506b8179105b745d9a6da16e7b9f0d",
+    "text": "ぎれなーを\nえまじをﾜﾍそりち　むオめがウ"
+  },
+  {
+    "bank": "0x4A",
+    "offset": "0x1281B2",
+    "bank_offset": "0x01B2",
+    "format": "1-Byte-Script",
+    "raw_hex": "1a40940394010628",
+    "text": "!\u0006ょぁﾘoぁ(7}!瑁"
+  },
+  {
+    "bank": "0x4A",
+    "offset": "0x1281BB",
+    "bank_offset": "0x01BB",
+    "format": "1-Byte-Script",
+    "raw_hex": "01081050985a76549f0d76619b7510787965790d5b6da16e715ff90d",
+    "text": "(7\u0019ｾﾜﾍえぉせれくウ\nれなーるﾜﾍわをのを\nそむオめゆてド"
+  },
+  {
+    "bank": "0x4A",
+    "offset": "0x1281DB",
+    "bank_offset": "0x01DB",
+    "format": "1-Byte-Script",
+    "raw_hex": "010156fb76ffff0d506b81795b6d7c969f0d",
+    "text": "(7(7こビれパパ\nえまじをそむぎぅウ"
+  },
+  {
+    "bank": "0x4A",
+    "offset": "0x1281F2",
+    "bank_offset": "0x01F2",
+    "format": "1-Byte-Script",
+    "raw_hex": "190402020176619b750d787965795b6d7cf90d089f0d",
+    "text": "Au\u001a<\u0011\u0000\u0011\u0000(7れなーる\nわをのをそむぎド\n\u0019ｾウ"
+  },
+  {
+    "bank": "0x4A",
+    "offset": "0x12820C",
+    "bank_offset": "0x020C",
+    "format": "1-Byte-Script",
+    "raw_hex": "010156fb76ffff0d506b81795b6d7c969f0d",
+    "text": "(7(7こビれパパ\nえまじをそむぎぅウ"
+  },
+  {
+    "bank": "0x4A",
+    "offset": "0x128224",
+    "bank_offset": "0x0224",
+    "format": "1-Byte-Script",
+    "raw_hex": "0166915010a3a5ec",
+    "text": "(7はぷえﾜﾍキケギ"
+  },
+  {
+    "bank": "0x4A",
+    "offset": "0x12822F",
+    "bank_offset": "0x022F",
+    "format": "1-Byte-Script",
+    "raw_hex": "e5f5defbed7610587d78655a0d50995997108c6d7b9f0d",
+    "text": "ルダメビグれﾜﾍしぐわのせ\nえっすぇﾜﾍぶむがウ"
+  },
+  {
+    "bank": "0x4A",
+    "offset": "0x12824D",
+    "bank_offset": "0x024D",
+    "format": "1-Byte-Script",
+    "raw_hex": "011e14077001038a010120",
+    "text": "(7珸wﾍ\u0017\u0000や(7ﾘoば(7(7ﾉﾕ"
+  },
+  {
+    "bank": "0x4A",
+    "offset": "0x128259",
+    "bank_offset": "0x0259",
+    "format": "1-Byte-Script",
+    "raw_hex": "079a01038a010220",
+    "text": "\u0017\u0000　(7ﾘoば(7\u0011\u0000ﾉﾕ"
+  },
+  {
+    "bank": "0x4A",
+    "offset": "0x128264",
+    "bank_offset": "0x0264",
+    "format": "1-Byte-Script",
+    "raw_hex": "01038a010320",
+    "text": "(7ﾘoば(7ﾘoﾉﾕ"
+  },
+  {
+    "bank": "0x4A",
+    "offset": "0x12826D",
+    "bank_offset": "0x026D",
+    "format": "1-Byte-Script",
+    "raw_hex": "0101615497a163a1107c76619b860d525b8c6595549f0d",
+    "text": "(7(7なくぇオぬオﾜﾍぎれなー１\nかそぶのぃくウ"
+  },
+  {
+    "bank": "0x4A",
+    "offset": "0x128289",
+    "bank_offset": "0x0289",
+    "format": "1-Byte-Script",
+    "raw_hex": "04878601ff20",
+    "text": "\u001a<づ１(7パﾉﾕ"
+  },
+  {
+    "bank": "0x4A",
+    "offset": "0x128298",
+    "bank_offset": "0x0298",
+    "format": "1-Byte-Script",
+    "raw_hex": "01ffff615497a163a17c0d76619b867d1063715b0d52716d9d7bffff0d",
+    "text": "(7パパなくぇオぬオぎ\nれなー１ぐﾜﾍぬゆそ\nかゆむアがパパ"
+  },
+  {
+    "bank": "0x4A",
+    "offset": "0x1282B6",
+    "bank_offset": "0x02B6",
+    "format": "1-Byte-Script",
+    "raw_hex": "0a0189597c80767c1076619b860d525b8c6595549f0d",
+    "text": "!\u0019(7どすぎざれぎﾜﾍれなー１\nかそぶのぃくウ"
+  },
+  {
+    "bank": "0x4A",
+    "offset": "0x1282D7",
+    "bank_offset": "0x02D7",
+    "format": "1-Byte-Script",
+    "raw_hex": "01615497a163a19f0d65729a52658c679f0d",
+    "text": "(7なくぇオぬオウ\nのよ　かのぶひウ"
+  },
+  {
+    "bank": "0x4A",
+    "offset": "0x1282EA",
+    "bank_offset": "0x02EA",
+    "format": "1-Byte-Script",
+    "raw_hex": "0a0587860101",
+    "text": "!\u0019(\u0010づ１(7(7"
+  },
+  {
+    "bank": "0x4A",
+    "offset": "0x1282F1",
+    "bank_offset": "0x02F1",
+    "format": "1-Byte-Script",
+    "raw_hex": "05408a038a010128",
+    "text": "(\u0010ょばﾘoば(7(7瑁"
+  },
+  {
+    "bank": "0x4A",
+    "offset": "0x1282FD",
+    "bank_offset": "0x02FD",
+    "format": "1-Byte-Script",
+    "raw_hex": "01925010087da19f0d78a159965459f90d",
+    "text": "(7ぺえﾜﾍ\u0019ｾぐオウ\nわオすぅくすド"
+  },
+  {
+    "bank": "0x4A",
+    "offset": "0x128312",
+    "bank_offset": "0x0312",
+    "format": "1-Byte-Script",
+    "raw_hex": "01017d5210615497a163a19f0d725c7c10635d69a18c75106761650d6659a15a1050526da175679f0d",
+    "text": "(7(7ぐかﾜﾍなくぇオぬオウ\nよたぎﾜﾍぬちへオぶるﾜﾍひなの\nはすオせﾜﾍえかむオるひウ"
+  },
+  {
+    "bank": "0x4A",
+    "offset": "0x12833C",
+    "bank_offset": "0x033C",
+    "format": "1-Byte-Script",
+    "raw_hex": "0a016b617510615497a163a1790d6d6d59527c10a3",
+    "text": "!\u0019(7まなるﾜﾍなくぇオぬオを\nむむすかぎﾜﾍキ"
+  },
+  {
+    "bank": "0x4A",
+    "offset": "0x128355",
+    "bank_offset": "0x0355",
+    "format": "1-Byte-Script",
+    "raw_hex": "a00d526d6e615476105890528c65749f0d",
+    "text": "エ\nかむめなくれﾜﾍし２かぶのりウ"
+  },
+  {
+    "bank": "0x4A",
+    "offset": "0x12836C",
+    "bank_offset": "0x036C",
+    "format": "1-Byte-Script",
+    "raw_hex": "016d6d59527c10a3",
+    "text": "(7むむすかぎﾜﾍキ"
+  },
+  {
+    "bank": "0x4A",
+    "offset": "0x128378",
+    "bank_offset": "0x0378",
+    "format": "1-Byte-Script",
+    "raw_hex": "f90d6b5459fa106b97106f955477a9a90d7661795b6d92a1599f0d",
+    "text": "ド\nまくすバﾜﾍまぇﾜﾍもぃくろスス\nれなをそむぺオすウ"
+  },
+  {
+    "bank": "0x4A",
+    "offset": "0x128394",
+    "bank_offset": "0x0394",
+    "format": "1-Byte-Script",
+    "raw_hex": "0a01087da17d0d528c106684a179106d97a190a17d0d78a19276589054f90d",
+    "text": "!\u0019(7\u0019ｾぐオぐ\nかぶﾜﾍはぞオをﾜﾍむぇオ２オぐ\nわオぺれし２くド"
+  },
+  {
+    "bank": "0x4A",
+    "offset": "0x1283B4",
+    "bank_offset": "0x03B4",
+    "format": "1-Byte-Script",
+    "raw_hex": "0a1606036d5298955d",
+    "text": "!\u0019!\u0004}!ﾘoむかぉぃち"
+  },
+  {
+    "bank": "0x4A",
+    "offset": "0x1283BF",
+    "bank_offset": "0x03BF",
+    "format": "1-Byte-Script",
+    "raw_hex": "677e9263",
+    "text": "ひげぺぬ"
+  },
+  {
+    "bank": "0x4A",
+    "offset": "0x1283C4",
+    "bank_offset": "0x03C4",
+    "format": "1-Byte-Script",
+    "raw_hex": "019a5298955d",
+    "text": "(7　かぉぃち"
+  },
+  {
+    "bank": "0x4A",
+    "offset": "0x1283EC",
+    "bank_offset": "0x03EC",
+    "format": "1-Byte-Script",
+    "raw_hex": "01016d5298955d1075677b9f0d",
+    "text": "(7(7むかぉぃちﾜﾍるひがウ"
+  },
+  {
+    "bank": "0x4A",
+    "offset": "0x128400",
+    "bank_offset": "0x0400",
+    "format": "1-Byte-Script",
+    "raw_hex": "0101677e92631075677b9f0d",
+    "text": "(7(7ひげぺぬﾜﾍるひがウ"
+  },
+  {
+    "bank": "0x4A",
+    "offset": "0x128413",
+    "bank_offset": "0x0413",
+    "format": "1-Byte-Script",
+    "raw_hex": "01019a5298955d1075677b9f0d",
+    "text": "(7(7　かぉぃちﾜﾍるひがウ"
+  },
+  {
+    "bank": "0x4A",
+    "offset": "0x128427",
+    "bank_offset": "0x0427",
+    "format": "1-Byte-Script",
+    "raw_hex": "0101ffffffffffffffffffffffff0d",
+    "text": "(7(7パパパパパパパパパパパパ"
+  },
+  {
+    "bank": "0x4A",
+    "offset": "0x12843C",
+    "bank_offset": "0x043C",
+    "format": "1-Byte-Script",
+    "raw_hex": "0178a192108c9674a17c59f90d8978109054527159529f0d",
+    "text": "(7わオぺﾜﾍぶぅりオぎすド\nどわﾜﾍ２くかゆすかウ"
+  },
+  {
+    "bank": "0x4A",
+    "offset": "0x128459",
+    "bank_offset": "0x0459",
+    "format": "1-Byte-Script",
+    "raw_hex": "19050505016d5298955d59fa0d967165911096716591fafa0d",
+    "text": "Au(\u0010(\u0010(\u0010(7むかぉぃちすバ\nぅゆのぷﾜﾍぅゆのぷババ"
+  },
+  {
+    "bank": "0x4A",
+    "offset": "0x128477",
+    "bank_offset": "0x0477",
+    "format": "1-Byte-Script",
+    "raw_hex": "1905050501677e926359fa0d967165911096716591fafa0d",
+    "text": "Au(\u0010(\u0010(\u0010(7ひげぺぬすバ\nぅゆのぷﾜﾍぅゆのぷババ"
+  },
+  {
+    "bank": "0x4A",
+    "offset": "0x128494",
+    "bank_offset": "0x0494",
+    "format": "1-Byte-Script",
+    "raw_hex": "19050505019a5298955d59fa0d967165911096716591fafa0d",
+    "text": "Au(\u0010(\u0010(\u0010(7　かぉぃちすバ\nぅゆのぷﾜﾍぅゆのぷババ"
+  },
+  {
+    "bank": "0x4A",
+    "offset": "0x1284B2",
+    "bank_offset": "0x04B2",
+    "format": "1-Byte-Script",
+    "raw_hex": "016d5298955d759010677e926375900d9a5298955d75901078a175900d8fa177548d6d9bfa0d",
+    "text": "(7むかぉぃちる２ﾜﾍひげぺぬる２\n　かぉぃちる２ﾜﾍわオる２\nぱオろくべむーバ"
+  },
+  {
+    "bank": "0x4A",
+    "offset": "0x1284DD",
+    "bank_offset": "0x04DD",
+    "format": "1-Byte-Script",
+    "raw_hex": "7c1065a17d728f520ddda3a3",
+    "text": "ぎﾜﾍのオぐよぱか\nムキキ"
+  },
+  {
+    "bank": "0x4A",
+    "offset": "0x1284EA",
+    "bank_offset": "0x04EA",
+    "format": "1-Byte-Script",
+    "raw_hex": "d85da192fafa0d",
+    "text": "フちオぺババ"
+  },
+  {
+    "bank": "0x4A",
+    "offset": "0x1284F5",
+    "bank_offset": "0x04F5",
+    "format": "1-Byte-Script",
+    "raw_hex": "0101dd10dda3a3",
+    "text": "(7(7ムﾜﾍムキキ"
+  },
+  {
+    "bank": "0x4A",
+    "offset": "0x1284FD",
+    "bank_offset": "0x04FD",
+    "format": "1-Byte-Script",
+    "raw_hex": "d85da1f90d",
+    "text": "フちオド"
+  },
+  {
+    "bank": "0x4A",
+    "offset": "0x128503",
+    "bank_offset": "0x0503",
+    "format": "1-Byte-Script",
+    "raw_hex": "0a19050505016b921065a159527d72fa0d79a160a17c107c5498955da00d6b6150606799e3ac78a192fa0d",
+    "text": "!\u0019Au(\u0010(\u0010(\u0010(7まぺﾜﾍのオすかぐよバ\nをオとオぎﾜﾍぎくぉぃちエ\nまなえとひっラタわオぺバ"
+  },
+  {
+    "bank": "0x4A",
+    "offset": "0x12852F",
+    "bank_offset": "0x052F",
+    "format": "1-Byte-Script",
+    "raw_hex": "0a01619a7510087da1900d63525b95547c10615484d1",
+    "text": "!\u0019(7な　るﾜﾍ\u0019ｾぐオ２\nぬかそぃくぎﾜﾍなくぞナ"
+  },
+  {
+    "bank": "0x4A",
+    "offset": "0x128546",
+    "bank_offset": "0x0546",
+    "format": "1-Byte-Script",
+    "raw_hex": "ebfb0d8c6f5a52786592fafa0d",
+    "text": "ガビ\nぶもせかわのぺババ"
+  },
+  {
+    "bank": "0x4A",
+    "offset": "0x128559",
+    "bank_offset": "0x0559",
+    "format": "1-Byte-Script",
+    "raw_hex": "01897810619aa010725f740d90975859789f0d",
+    "text": "(7どわﾜﾍな　エﾜﾍよてり\n２ぇしすわウ"
+  },
+  {
+    "bank": "0x4A",
+    "offset": "0x128570",
+    "bank_offset": "0x0570",
+    "format": "1-Byte-Script",
+    "raw_hex": "01017d107d529f0d",
+    "text": "(7(7ぐﾜﾍぐかウ"
+  },
+  {
+    "bank": "0x4A",
+    "offset": "0x12857E",
+    "bank_offset": "0x057E",
+    "format": "1-Byte-Script",
+    "raw_hex": "016b656d9710a7",
+    "text": "(7まのむぇﾜﾍサ"
+  },
+  {
+    "bank": "0x4A",
+    "offset": "0x128586",
+    "bank_offset": "0x0586",
+    "format": "1-Byte-Script",
+    "raw_hex": "5a10528c59970d5254617610588a5674929f0d",
+    "text": "せﾜﾍかぶすぇ\nかくなれﾜﾍしばこりぺウ"
+  },
+  {
+    "bank": "0x4A",
+    "offset": "0x12859A",
+    "bank_offset": "0x059A",
+    "format": "1-Byte-Script",
+    "raw_hex": "0a05408b01",
+    "text": "!\u0019(\u0010ょび(7"
+  },
+  {
+    "bank": "0x4A",
+    "offset": "0x1285A6",
+    "bank_offset": "0x05A6",
+    "format": "1-Byte-Script",
+    "raw_hex": "a0108d5c9f0d",
+    "text": "エﾜﾍべたウ"
+  },
+  {
+    "bank": "0x4A",
+    "offset": "0x1285B0",
+    "bank_offset": "0x05B0",
+    "format": "1-Byte-Script",
+    "raw_hex": "a01054569f0d",
+    "text": "エﾜﾍくこウ"
+  },
+  {
+    "bank": "0x4A",
+    "offset": "0x1285BA",
+    "bank_offset": "0x05BA",
+    "format": "1-Byte-Script",
+    "raw_hex": "a010806e989f0d",
+    "text": "エﾜﾍざめぉウ"
+  },
+  {
+    "bank": "0x4A",
+    "offset": "0x1285C6",
+    "bank_offset": "0x05C6",
+    "format": "1-Byte-Script",
+    "raw_hex": "5a10505268656d970d6693a17ea179105867a192759f0da9a959f90d",
+    "text": "せﾜﾍえかふのむぇ\nはぽオげオをﾜﾍしひオぺるウ\nススすド"
+  },
+  {
+    "bank": "0x4A",
+    "offset": "0x1285E3",
+    "bank_offset": "0x05E3",
+    "format": "1-Byte-Script",
+    "raw_hex": "0a01897810525d759f0d8c68635265957c10",
+    "text": "!\u0019(7どわﾜﾍかちるウ\nぶふぬかのぃぎﾜﾍ"
+  },
+  {
+    "bank": "0x4A",
+    "offset": "0x1285F9",
+    "bank_offset": "0x05F9",
+    "format": "1-Byte-Script",
+    "raw_hex": "a00d529a99a1929f0d",
+    "text": "エ\nか　っオぺウ"
+  },
+  {
+    "bank": "0x4A",
+    "offset": "0x12860B",
+    "bank_offset": "0x060B",
+    "format": "1-Byte-Script",
+    "raw_hex": "a0108d5c",
+    "text": "エﾜﾍべた"
+  },
+  {
+    "bank": "0x4A",
+    "offset": "0x128615",
+    "bank_offset": "0x0615",
+    "format": "1-Byte-Script",
+    "raw_hex": "a010806e98",
+    "text": "エﾜﾍざめぉ"
+  },
+  {
+    "bank": "0x4A",
+    "offset": "0x128620",
+    "bank_offset": "0x0620",
+    "format": "1-Byte-Script",
+    "raw_hex": "a0105456",
+    "text": "エﾜﾍくこ"
+  },
+  {
+    "bank": "0x4A",
+    "offset": "0x128646",
+    "bank_offset": "0x0646",
+    "format": "1-Byte-Script",
+    "raw_hex": "0105408b038b010128",
+    "text": "(7(\u0010ょびﾘoび(7(7瑁"
+  },
+  {
+    "bank": "0x4A",
+    "offset": "0x128650",
+    "bank_offset": "0x0650",
+    "format": "1-Byte-Script",
+    "raw_hex": "018c687d0d",
+    "text": "(7ぶふぐ"
+  },
+  {
+    "bank": "0x4A",
+    "offset": "0x128659",
+    "bank_offset": "0x0659",
+    "format": "1-Byte-Script",
+    "raw_hex": "a0108d5c0d75677b9f0d",
+    "text": "エﾜﾍべた\nるひがウ"
+  },
+  {
+    "bank": "0x4A",
+    "offset": "0x12866A",
+    "bank_offset": "0x066A",
+    "format": "1-Byte-Script",
+    "raw_hex": "010156fc76ffff0d",
+    "text": "(7(7こブれパパ"
+  },
+  {
+    "bank": "0x4A",
+    "offset": "0x128676",
+    "bank_offset": "0x0676",
+    "format": "1-Byte-Script",
+    "raw_hex": "a010806e980d5978ffff0d",
+    "text": "エﾜﾍざめぉ\nすわパパ"
+  },
+  {
+    "bank": "0x4A",
+    "offset": "0x128688",
+    "bank_offset": "0x0688",
+    "format": "1-Byte-Script",
+    "raw_hex": "010156fc76ffff0d",
+    "text": "(7(7こブれパパ"
+  },
+  {
+    "bank": "0x4A",
+    "offset": "0x128694",
+    "bank_offset": "0x0694",
+    "format": "1-Byte-Script",
+    "raw_hex": "a01054560d5978ffff0d",
+    "text": "エﾜﾍくこ\nすわパパ"
+  },
+  {
+    "bank": "0x4A",
+    "offset": "0x1286A5",
+    "bank_offset": "0x06A5",
+    "format": "1-Byte-Script",
+    "raw_hex": "0101ffffffffffffffffffffffff0d",
+    "text": "(7(7パパパパパパパパパパパパ"
+  },
+  {
+    "bank": "0x4A",
+    "offset": "0x1286B5",
+    "bank_offset": "0x06B5",
+    "format": "1-Byte-Script",
+    "raw_hex": "0a1905070701087da1fa0ddd",
+    "text": "!\u0019Au(\u0010\u0017\u0000\u0017\u0000(7\u0019ｾぐオバ\nム"
+  },
+  {
+    "bank": "0x4A",
+    "offset": "0x1286C4",
+    "bank_offset": "0x06C4",
+    "format": "1-Byte-Script",
+    "raw_hex": "766576716d970da3acf5759f0d",
+    "text": "れのれゆむぇ\nキタダるウ"
+  },
+  {
+    "bank": "0x4A",
+    "offset": "0x1286D7",
+    "bank_offset": "0x06D7",
+    "format": "1-Byte-Script",
+    "raw_hex": "019d679a6da159f90d8978109054527159520d635265955997929f0d",
+    "text": "(7アひ　むオすド\nどわﾜﾍ２くかゆすか\nぬかのぃすぇぺウ"
+  },
+  {
+    "bank": "0x4A",
+    "offset": "0x1286F8",
+    "bank_offset": "0x06F8",
+    "format": "1-Byte-Script",
+    "raw_hex": "1905010101967165919f0d897810725c7c",
+    "text": "Au(\u0010(7(7(7ぅゆのぷウ\nどわﾜﾍよたぎ"
+  },
+  {
+    "bank": "0x4A",
+    "offset": "0x128719",
+    "bank_offset": "0x0719",
+    "format": "1-Byte-Script",
+    "raw_hex": "a0105456",
+    "text": "エﾜﾍくこ"
+  },
+  {
+    "bank": "0x4A",
+    "offset": "0x128723",
+    "bank_offset": "0x0723",
+    "format": "1-Byte-Script",
+    "raw_hex": "a010656d",
+    "text": "エﾜﾍのむ"
+  },
+  {
+    "bank": "0x4A",
+    "offset": "0x12872D",
+    "bank_offset": "0x072D",
+    "format": "1-Byte-Script",
+    "raw_hex": "a0108d5c",
+    "text": "エﾜﾍべた"
+  },
+  {
+    "bank": "0x4A",
+    "offset": "0x128753",
+    "bank_offset": "0x0753",
+    "format": "1-Byte-Script",
+    "raw_hex": "0105408b038b010128",
+    "text": "(7(\u0010ょびﾘoび(7(7瑁"
+  },
+  {
+    "bank": "0x4A",
+    "offset": "0x12875D",
+    "bank_offset": "0x075D",
+    "format": "1-Byte-Script",
+    "raw_hex": "01725c790d",
+    "text": "(7よたを"
+  },
+  {
+    "bank": "0x4A",
+    "offset": "0x128766",
+    "bank_offset": "0x0766",
+    "format": "1-Byte-Script",
+    "raw_hex": "a01054560d75677b9f0d",
+    "text": "エﾜﾍくこ\nるひがウ"
+  },
+  {
+    "bank": "0x4A",
+    "offset": "0x128777",
+    "bank_offset": "0x0777",
+    "format": "1-Byte-Script",
+    "raw_hex": "010156fc76ffff0d",
+    "text": "(7(7こブれパパ"
+  },
+  {
+    "bank": "0x4A",
+    "offset": "0x128783",
+    "bank_offset": "0x0783",
+    "format": "1-Byte-Script",
+    "raw_hex": "a010656d0d5978ffff0d",
+    "text": "エﾜﾍのむ\nすわパパ"
+  },
+  {
+    "bank": "0x4A",
+    "offset": "0x128794",
+    "bank_offset": "0x0794",
+    "format": "1-Byte-Script",
+    "raw_hex": "010156fc76ffff0d",
+    "text": "(7(7こブれパパ"
+  },
+  {
+    "bank": "0x4A",
+    "offset": "0x1287A0",
+    "bank_offset": "0x07A0",
+    "format": "1-Byte-Script",
+    "raw_hex": "a0108d5c0d5978ffff0d",
+    "text": "エﾜﾍべた\nすわパパ"
+  },
+  {
+    "bank": "0x4A",
+    "offset": "0x1287AF",
+    "bank_offset": "0x07AF",
+    "format": "1-Byte-Script",
+    "raw_hex": "1905010101967165919f0d8978106352627c",
+    "text": "Au(\u0010(7(7(7ぅゆのぷウ\nどわﾜﾍぬかにぎ"
+  },
+  {
+    "bank": "0x4A",
+    "offset": "0x1287D1",
+    "bank_offset": "0x07D1",
+    "format": "1-Byte-Script",
+    "raw_hex": "a010806e98",
+    "text": "エﾜﾍざめぉ"
+  },
+  {
+    "bank": "0x4A",
+    "offset": "0x1287DC",
+    "bank_offset": "0x07DC",
+    "format": "1-Byte-Script",
+    "raw_hex": "a0105456",
+    "text": "エﾜﾍくこ"
+  },
+  {
+    "bank": "0x4A",
+    "offset": "0x1287E6",
+    "bank_offset": "0x07E6",
+    "format": "1-Byte-Script",
+    "raw_hex": "a0108d5c",
+    "text": "エﾜﾍべた"
+  },
+  {
+    "bank": "0x4A",
+    "offset": "0x12880C",
+    "bank_offset": "0x080C",
+    "format": "1-Byte-Script",
+    "raw_hex": "0105408b038b010128",
+    "text": "(7(\u0010ょびﾘoび(7(7瑁"
+  },
+  {
+    "bank": "0x4A",
+    "offset": "0x128816",
+    "bank_offset": "0x0816",
+    "format": "1-Byte-Script",
+    "raw_hex": "016352627d0d",
+    "text": "(7ぬかにぐ"
+  },
+  {
+    "bank": "0x4A",
+    "offset": "0x128820",
+    "bank_offset": "0x0820",
+    "format": "1-Byte-Script",
+    "raw_hex": "a010806e980d75677b9f0d",
+    "text": "エﾜﾍざめぉ\nるひがウ"
+  },
+  {
+    "bank": "0x4A",
+    "offset": "0x128832",
+    "bank_offset": "0x0832",
+    "format": "1-Byte-Script",
+    "raw_hex": "010156fc76ffff0d",
+    "text": "(7(7こブれパパ"
+  },
+  {
+    "bank": "0x4A",
+    "offset": "0x12883E",
+    "bank_offset": "0x083E",
+    "format": "1-Byte-Script",
+    "raw_hex": "a01054560d5978ffff0d",
+    "text": "エﾜﾍくこ\nすわパパ"
+  },
+  {
+    "bank": "0x4A",
+    "offset": "0x12884F",
+    "bank_offset": "0x084F",
+    "format": "1-Byte-Script",
+    "raw_hex": "010156fc76ffff0d",
+    "text": "(7(7こブれパパ"
+  },
+  {
+    "bank": "0x4A",
+    "offset": "0x12885B",
+    "bank_offset": "0x085B",
+    "format": "1-Byte-Script",
+    "raw_hex": "a0108d5c0d5978ffff0d",
+    "text": "エﾜﾍべた\nすわパパ"
+  },
+  {
+    "bank": "0x4A",
+    "offset": "0x12886A",
+    "bank_offset": "0x086A",
+    "format": "1-Byte-Script",
+    "raw_hex": "190501010196716591fa0d59a198955492fa0d6350106952615467995978faf90d",
+    "text": "Au(\u0010(7(7(7ぅゆのぷバ\nすオぉぃくぺバ\nぬえﾜﾍへかなくひっすわバド"
+  },
+  {
+    "bank": "0x4A",
+    "offset": "0x12888F",
+    "bank_offset": "0x088F",
+    "format": "1-Byte-Script",
+    "raw_hex": "010169ffff0d0107695261546799597801087174ffff0d",
+    "text": "(7(7へパパ\n(7\u0017\u0000へかなくひっすわ(7\u0019ｾゆりパパ"
+  },
+  {
+    "bank": "0x4A",
+    "offset": "0x1288AA",
+    "bank_offset": "0x08AA",
+    "format": "1-Byte-Script",
+    "raw_hex": "0119050101015871fa1054625b6e656d759f0d",
+    "text": "(7Au(\u0010(7(7(7しゆバﾜﾍくにそめのむるウ"
+  },
+  {
+    "bank": "0x4A",
+    "offset": "0x1288C2",
+    "bank_offset": "0x08C2",
+    "format": "1-Byte-Script",
+    "raw_hex": "038b010320",
+    "text": "ﾘoび(7ﾘoﾉﾕ"
+  },
+  {
+    "bank": "0x4A",
+    "offset": "0x1288CB",
+    "bank_offset": "0x08CB",
+    "format": "1-Byte-Script",
+    "raw_hex": "190501010192716dfbfa0d6f91a176105462526d75fc9f0d",
+    "text": "Au(\u0010(7(7(7ぺゆむビバ\nもぷオれﾜﾍくにかむるブウ"
+  },
+  {
+    "bank": "0x4A",
+    "offset": "0x1288E4",
+    "bank_offset": "0x08E4",
+    "format": "1-Byte-Script",
+    "raw_hex": "0a1a40950395010828",
+    "text": "!\u0019!\u0006ょぃﾘoぃ(7\u0019ｾ瑁"
+  },
+  {
+    "bank": "0x4A",
+    "offset": "0x1288EE",
+    "bank_offset": "0x08EE",
+    "format": "1-Byte-Script",
+    "raw_hex": "01087da15a0dd1",
+    "text": "(7\u0019ｾぐオせ\nナ"
+  },
+  {
+    "bank": "0x4A",
+    "offset": "0x1288F7",
+    "bank_offset": "0x08F7",
+    "format": "1-Byte-Script",
+    "raw_hex": "ec1079935498955d0d755b6d599792fafa0d",
+    "text": "ギﾜﾍをぽくぉぃち\nるそむすぇぺババ"
+  },
+  {
+    "bank": "0x4A",
+    "offset": "0x12890D",
+    "bank_offset": "0x090D",
+    "format": "1-Byte-Script",
+    "raw_hex": "0101fd6f91a176105462526d75fcfe0d7174109d6d655a107d668f747c0d66715fa16e52106e716d7cfaf90d",
+    "text": "(7(7ベもぷオれﾜﾍくにかむるブボ\nゆりﾜﾍアむのせﾜﾍぐはぱりぎ\nはゆてオめかﾜﾍめゆむぎバド"
+  },
+  {
+    "bank": "0x4A",
+    "offset": "0x12893A",
+    "bank_offset": "0x093A",
+    "format": "1-Byte-Script",
+    "raw_hex": "0a19050202131e01015010509afcf90d768c717465906d78f90d",
+    "text": "!\u0019Au(\u0010\u0011\u0000\u0011\u0000\u0000\u0019珸(7(7えﾜﾍえ　ブド\nれぶゆりの２むわド"
+  },
+  {
+    "bank": "0x4A",
+    "offset": "0x128955",
+    "bank_offset": "0x0955",
+    "format": "1-Byte-Script",
+    "raw_hex": "0a0c03131b0101509af910509af90d777852787174a17b92f90d",
+    "text": "!\u0019T]ﾘo\u0000\u0019\u0000\u0019(7(7え　ドﾜﾍえ　ド\nろわかわゆりオがぺド"
+  },
+  {
+    "bank": "0x4A",
+    "offset": "0x128973",
+    "bank_offset": "0x0973",
+    "format": "1-Byte-Script",
+    "raw_hex": "01016e106e5266955484787c5965970dffffffffffff0d",
+    "text": "(7(7めﾜﾍめかはぃくぞわぎすのぇ\nパパパパパパ"
+  },
+  {
+    "bank": "0x4A",
+    "offset": "0x128995",
+    "bank_offset": "0x0995",
+    "format": "1-Byte-Script",
+    "raw_hex": "01016110615497a163a1fa0d6e5266955484756759f90d",
+    "text": "(7(7なﾜﾍなくぇオぬオバ\nめかはぃくぞるひすド"
+  },
+  {
+    "bank": "0x4A",
+    "offset": "0x1289B1",
+    "bank_offset": "0x09B1",
+    "format": "1-Byte-Script",
+    "raw_hex": "20015050ffff0d6e526695548492ffff0d",
+    "text": "ﾉﾕ(7ええパパ\nめかはぃくぞぺパパ"
+  },
+  {
+    "bank": "0x4A",
+    "offset": "0x1289C3",
+    "bank_offset": "0x09C3",
+    "format": "1-Byte-Script",
+    "raw_hex": "0a01678ca159716d78fc0d087da1ffff0d65717f5292716dffffffff0d",
+    "text": "!\u0019(7ひぶオすゆむわブ\n\u0019ｾぐオパパ\nのゆごかぺゆむパパパパ"
+  },
+  {
+    "bank": "0x4A",
+    "offset": "0x1289E5",
+    "bank_offset": "0x09E5",
+    "format": "1-Byte-Script",
+    "raw_hex": "131e0119050202015010509afcf90d768c717465906d78f90d",
+    "text": "\u0000\u0019珸(7Au(\u0010\u0011\u0000\u0011\u0000(7えﾜﾍえ　ブド\nれぶゆりの２むわド"
+  },
+  {
+    "bank": "0x4A",
+    "offset": "0x1289FF",
+    "bank_offset": "0x09FF",
+    "format": "1-Byte-Script",
+    "raw_hex": "0a01087da10d79935498955d108c6f5a566d789f0d",
+    "text": "!\u0019(7\u0019ｾぐオ\nをぽくぉぃちﾜﾍぶもせこむわウ"
+  },
+  {
+    "bank": "0x4A",
+    "offset": "0x128A18",
+    "bank_offset": "0x0A18",
+    "format": "1-Byte-Script",
+    "raw_hex": "0101678d8c69a19f0d",
+    "text": "(7(7ひべぶへオウ"
+  },
+  {
+    "bank": "0x4A",
+    "offset": "0x128A22",
+    "bank_offset": "0x0A22",
+    "format": "1-Byte-Script",
+    "raw_hex": "0a0c0d1308010c03131b011905020201509af910509af90d777852787174a17b92f90d",
+    "text": "!\u0019T]\n\u0000\u0019\u0019ｾ(7T]ﾘo\u0000\u0019\u0000\u0019(7Au(\u0010\u0011\u0000\u0011\u0000(7え　ドﾜﾍえ　ド\nろわかわゆりオがぺド"
+  },
+  {
+    "bank": "0x4A",
+    "offset": "0x128A49",
+    "bank_offset": "0x0A49",
+    "format": "1-Byte-Script",
+    "raw_hex": "01016110615497a163a1ffff0d",
+    "text": "(7(7なﾜﾍなくぇオぬオパパ"
+  },
+  {
+    "bank": "0x4A",
+    "offset": "0x128A62",
+    "bank_offset": "0x0A62",
+    "format": "1-Byte-Script",
+    "raw_hex": "200150716f91fbffff0d92717490fb6dffff0d",
+    "text": "ﾉﾕ(7えゆもぷビパパ\nぺゆり２ビむパパ"
+  },
+  {
+    "bank": "0x4A",
+    "offset": "0x128A79",
+    "bank_offset": "0x0A79",
+    "format": "1-Byte-Script",
+    "raw_hex": "01016110615497a163a1fa0d6e5266955484756759f90d",
+    "text": "(7(7なﾜﾍなくぇオぬオバ\nめかはぃくぞるひすド"
+  },
+  {
+    "bank": "0x4A",
+    "offset": "0x128A95",
+    "bank_offset": "0x0A95",
+    "format": "1-Byte-Script",
+    "raw_hex": "20015050ffff0d6e526695548492ffff0d",
+    "text": "ﾉﾕ(7ええパパ\nめかはぃくぞぺパパ"
+  },
+  {
+    "bank": "0x4A",
+    "offset": "0x128AAA",
+    "bank_offset": "0x0AAA",
+    "format": "1-Byte-Script",
+    "raw_hex": "0101678d8c69a110615497a163a19f0d9d6d657ce0",
+    "text": "(7(7ひべぶへオﾜﾍなくぇオぬオウ\nアむのぎヤ"
+  },
+  {
+    "bank": "0x4A",
+    "offset": "0x128AC0",
+    "bank_offset": "0x0AC0",
+    "format": "1-Byte-Script",
+    "raw_hex": "751061a1786176790d78716f917174ffff0d",
+    "text": "るﾜﾍなオわなれを\nわゆもぷゆりパパ"
+  },
+  {
+    "bank": "0x4A",
+    "offset": "0x128AD7",
+    "bank_offset": "0x0AD7",
+    "format": "1-Byte-Script",
+    "raw_hex": "20015292ffff10e0",
+    "text": "ﾉﾕ(7かぺパパﾜﾍヤ"
+  },
+  {
+    "bank": "0x4A",
+    "offset": "0x128AE0",
+    "bank_offset": "0x0AE0",
+    "format": "1-Byte-Script",
+    "raw_hex": "7174900dd1",
+    "text": "ゆり２\nナ"
+  },
+  {
+    "bank": "0x4A",
+    "offset": "0x128AE8",
+    "bank_offset": "0x0AE8",
+    "format": "1-Byte-Script",
+    "raw_hex": "7d1069fb86a1d0",
+    "text": "ぐﾜﾍへビ１オト"
+  },
+  {
+    "bank": "0x4A",
+    "offset": "0x128AF0",
+    "bank_offset": "0x0AF0",
+    "format": "1-Byte-Script",
+    "raw_hex": "0d92716da1929f0d",
+    "text": "ぺゆむオぺウ"
+  },
+  {
+    "bank": "0x4A",
+    "offset": "0x128AFF",
+    "bank_offset": "0x0AFF",
+    "format": "1-Byte-Script",
+    "raw_hex": "656d106f93fb61767d0da7",
+    "text": "のむﾜﾍもぽビなれぐ\nサ"
+  },
+  {
+    "bank": "0x4A",
+    "offset": "0x128B0B",
+    "bank_offset": "0x0B0B",
+    "format": "1-Byte-Script",
+    "raw_hex": "7c1069715f52e0",
+    "text": "ぎﾜﾍへゆてかヤ"
+  },
+  {
+    "bank": "0x4A",
+    "offset": "0x128B13",
+    "bank_offset": "0x0B13",
+    "format": "1-Byte-Script",
+    "raw_hex": "900d50716d106f93fb61716f919f0d",
+    "text": "２\nえゆむﾜﾍもぽビなゆもぷウ"
+  },
+  {
+    "bank": "0x4A",
+    "offset": "0x128B23",
+    "bank_offset": "0x0B23",
+    "format": "1-Byte-Script",
+    "raw_hex": "0a01678ca159716d78fc0d087da1ffff0d",
+    "text": "!\u0019(7ひぶオすゆむわブ\n\u0019ｾぐオパパ"
+  },
+  {
+    "bank": "0x4A",
+    "offset": "0x128B3C",
+    "bank_offset": "0x0B3C",
+    "format": "1-Byte-Script",
+    "raw_hex": "20018c5010509a92789f0d668d6f79107798955d659b0d6f93fb61716f919f0d",
+    "text": "ﾉﾕ(7ぶえﾜﾍえ　ぺわウ\nはべもをﾜﾍろぉぃちのー\nもぽビなゆもぷウ"
+  },
+  {
+    "bank": "0x4A",
+    "offset": "0x128B5D",
+    "bank_offset": "0x0B5D",
+    "format": "1-Byte-Script",
+    "raw_hex": "0a01087da10d5aa17e7174789f0d",
+    "text": "!\u0019(7\u0019ｾぐオ\nせオげゆりわウ"
+  },
+  {
+    "bank": "0x4A",
+    "offset": "0x128B72",
+    "bank_offset": "0x0B72",
+    "format": "1-Byte-Script",
+    "raw_hex": "011e14077001038a010120",
+    "text": "(7珸wﾍ\u0017\u0000や(7ﾘoば(7(7ﾉﾕ"
+  },
+  {
+    "bank": "0x4A",
+    "offset": "0x128B7E",
+    "bank_offset": "0x0B7E",
+    "format": "1-Byte-Script",
+    "raw_hex": "079a01038a010220",
+    "text": "\u0017\u0000　(7ﾘoば(7\u0011\u0000ﾉﾕ"
+  },
+  {
+    "bank": "0x4A",
+    "offset": "0x128B89",
+    "bank_offset": "0x0B89",
+    "format": "1-Byte-Script",
+    "raw_hex": "01038a010320",
+    "text": "(7ﾘoば(7ﾘoﾉﾕ"
+  },
+  {
+    "bank": "0x4A",
+    "offset": "0x128B92",
+    "bank_offset": "0x0B92",
+    "format": "1-Byte-Script",
+    "raw_hex": "0101acf5",
+    "text": "(7(7タダ"
+  },
+  {
+    "bank": "0x4A",
+    "offset": "0x128B97",
+    "bank_offset": "0x0B97",
+    "format": "1-Byte-Script",
+    "raw_hex": "63a1107c76619b860d525b8c6595549f0d",
+    "text": "ぬオﾜﾍぎれなー１\nかそぶのぃくウ"
+  },
+  {
+    "bank": "0x4A",
+    "offset": "0x128BAD",
+    "bank_offset": "0x0BAD",
+    "format": "1-Byte-Script",
+    "raw_hex": "04878701ff20",
+    "text": "\u001a<づづ(7パﾉﾕ"
+  },
+  {
+    "bank": "0x4A",
+    "offset": "0x128BBC",
+    "bank_offset": "0x0BBC",
+    "format": "1-Byte-Script",
+    "raw_hex": "01ffffacf5",
+    "text": "(7パパタダ"
+  },
+  {
+    "bank": "0x4A",
+    "offset": "0x128BC2",
+    "bank_offset": "0x0BC2",
+    "format": "1-Byte-Script",
+    "raw_hex": "63a17c0d76619b867d1063715b0d52716d9d7bffff0d",
+    "text": "ぬオぎ\nれなー１ぐﾜﾍぬゆそ\nかゆむアがパパ"
+  },
+  {
+    "bank": "0x4A",
+    "offset": "0x128BD9",
+    "bank_offset": "0x0BD9",
+    "format": "1-Byte-Script",
+    "raw_hex": "0a0189597c80767c1076619b860d525b8c6595549f0d",
+    "text": "!\u0019(7どすぎざれぎﾜﾍれなー１\nかそぶのぃくウ"
+  },
+  {
+    "bank": "0x4A",
+    "offset": "0x128BF6",
+    "bank_offset": "0x0BF6",
+    "format": "1-Byte-Script",
+    "raw_hex": "0101acf5",
+    "text": "(7(7タダ"
+  },
+  {
+    "bank": "0x4A",
+    "offset": "0x128BFB",
+    "bank_offset": "0x0BFB",
+    "format": "1-Byte-Script",
+    "raw_hex": "63a19f0d",
+    "text": "ぬオウ"
+  },
+  {
+    "bank": "0x4A",
+    "offset": "0x128C00",
+    "bank_offset": "0x0C00",
+    "format": "1-Byte-Script",
+    "raw_hex": "05408b01",
+    "text": "(\u0010ょび(7"
+  },
+  {
+    "bank": "0x4A",
+    "offset": "0x128C06",
+    "bank_offset": "0x0C06",
+    "format": "1-Byte-Script",
+    "raw_hex": "0165729a52658c679f0d",
+    "text": "(7のよ　かのぶひウ"
+  },
+  {
+    "bank": "0x4A",
+    "offset": "0x128C11",
+    "bank_offset": "0x0C11",
+    "format": "1-Byte-Script",
+    "raw_hex": "0a0587870101",
+    "text": "!\u0019(\u0010づづ(7(7"
+  },
+  {
+    "bank": "0x4A",
+    "offset": "0x128C18",
+    "bank_offset": "0x0C18",
+    "format": "1-Byte-Script",
+    "raw_hex": "05408a038a010128",
+    "text": "(\u0010ょばﾘoば(7(7瑁"
+  },
+  {
+    "bank": "0x4A",
+    "offset": "0x128C25",
+    "bank_offset": "0x0C25",
+    "format": "1-Byte-Script",
+    "raw_hex": "01585410089f0d78a1599654599f0d",
+    "text": "(7しくﾜﾍ\u0019ｾウ\nわオすぅくすウ"
+  },
+  {
+    "bank": "0x4A",
+    "offset": "0x128C38",
+    "bank_offset": "0x0C38",
+    "format": "1-Byte-Script",
+    "raw_hex": "01017d5210acf5",
+    "text": "(7(7ぐかﾜﾍタダ"
+  },
+  {
+    "bank": "0x4A",
+    "offset": "0x128C40",
+    "bank_offset": "0x0C40",
+    "format": "1-Byte-Script",
+    "raw_hex": "63a19f0d725c7c10635d69a18c75106761650d6659a15a1050526da175679f0d",
+    "text": "ぬオウ\nよたぎﾜﾍぬちへオぶるﾜﾍひなの\nはすオせﾜﾍえかむオるひウ"
+  },
+  {
+    "bank": "0x4A",
+    "offset": "0x128C61",
+    "bank_offset": "0x0C61",
+    "format": "1-Byte-Script",
+    "raw_hex": "0a016b617510acf5",
+    "text": "!\u0019(7まなるﾜﾍタダ"
+  },
+  {
+    "bank": "0x4A",
+    "offset": "0x128C6A",
+    "bank_offset": "0x0C6A",
+    "format": "1-Byte-Script",
+    "raw_hex": "63a1790d6d6d59527c10a3",
+    "text": "ぬオを\nむむすかぎﾜﾍキ"
+  },
+  {
+    "bank": "0x4A",
+    "offset": "0x128C79",
+    "bank_offset": "0x0C79",
+    "format": "1-Byte-Script",
+    "raw_hex": "a00d526d6e615476105890528c65749f0d",
+    "text": "エ\nかむめなくれﾜﾍし２かぶのりウ"
+  },
+  {
+    "bank": "0x4A",
+    "offset": "0x128C90",
+    "bank_offset": "0x0C90",
+    "format": "1-Byte-Script",
+    "raw_hex": "016d6d59527c10a3",
+    "text": "(7むむすかぎﾜﾍキ"
+  },
+  {
+    "bank": "0x4A",
+    "offset": "0x128C9C",
+    "bank_offset": "0x0C9C",
+    "format": "1-Byte-Script",
+    "raw_hex": "f90d6ba17890a1105b8c71749966910d7bfb599f0d",
+    "text": "ド\nまオわ２オﾜﾍそぶゆりっはぷ\nがビすウ"
+  },
+  {
+    "bank": "0x4A",
+    "offset": "0x128CB2",
+    "bank_offset": "0x0CB2",
+    "format": "1-Byte-Script",
+    "raw_hex": "0a1906020201565296547c5099907ca00d6571599876105d56fafa0d",
+    "text": "!\u0019Au}!\u0011\u0000\u0011\u0000(7こかぅくぎえっ２ぎエ\nのゆすぉれﾜﾍちこババ"
+  },
+  {
+    "bank": "0x4A",
+    "offset": "0x128CD4",
+    "bank_offset": "0x0CD4",
+    "format": "1-Byte-Script",
+    "raw_hex": "01966510506d525a0d565296548ca174a17c0d98955498a0105865567492996afa0d",
+    "text": "(7ぅのﾜﾍえむかせ\nこかぅくぶオりオぎ\nぉぃくぉエﾜﾍしのこりぺっほバ"
+  },
+  {
+    "bank": "0x4A",
+    "offset": "0x128CF7",
+    "bank_offset": "0x0CF7",
+    "format": "1-Byte-Script",
+    "raw_hex": "0a1906010101acf5",
+    "text": "!\u0019Au}!(7(7(7タダ"
+  },
+  {
+    "bank": "0x4A",
+    "offset": "0x128D00",
+    "bank_offset": "0x0D00",
+    "format": "1-Byte-Script",
+    "raw_hex": "765d69520d",
+    "text": "れちへか"
+  },
+  {
+    "bank": "0x4A",
+    "offset": "0x128D09",
+    "bank_offset": "0x0D09",
+    "format": "1-Byte-Script",
+    "raw_hex": "e5f5d8edfbffff0dacf5",
+    "text": "ルダフグビパパ\nタダ"
+  },
+  {
+    "bank": "0x4A",
+    "offset": "0x128D17",
+    "bank_offset": "0x0D17",
+    "format": "1-Byte-Script",
+    "raw_hex": "e5ed6efafa0d",
+    "text": "ルグめババ"
+  },
+  {
+    "bank": "0x4A",
+    "offset": "0x128D23",
+    "bank_offset": "0x0D23",
+    "format": "1-Byte-Script",
+    "raw_hex": "01725d98596d7d1059a16da16e9f0d5252591065715998760d588a5699a16e6c9f0d",
+    "text": "(7よちぉすむぐﾜﾍすオむオめウ\nかかすﾜﾍのゆすぉれ\nしばこっオめみウ"
+  },
+  {
+    "bank": "0x4A",
+    "offset": "0x128D46",
+    "bank_offset": "0x0D46",
+    "format": "1-Byte-Script",
+    "raw_hex": "0a015d9bd7",
+    "text": "!\u0019(7ちーヒ"
+  },
+  {
+    "bank": "0x4A",
+    "offset": "0x128D4F",
+    "bank_offset": "0x0D4F",
+    "format": "1-Byte-Script",
+    "raw_hex": "fbe6a00d",
+    "text": "ビレエ"
+  },
+  {
+    "bank": "0x4A",
+    "offset": "0x128D58",
+    "bank_offset": "0x0D58",
+    "format": "1-Byte-Script",
+    "raw_hex": "76105d9b",
+    "text": "れﾜﾍちー"
+  },
+  {
+    "bank": "0x4A",
+    "offset": "0x128D5E",
+    "bank_offset": "0x0D5E",
+    "format": "1-Byte-Script",
+    "raw_hex": "e9a7750d526d8f996e5f6e9f0d",
+    "text": "ヲサる\nかむぱっめてめウ"
+  },
+  {
+    "bank": "0x4A",
+    "offset": "0x128D6C",
+    "bank_offset": "0x0D6C",
+    "format": "1-Byte-Script",
+    "raw_hex": "0a019d59716d59f90d",
+    "text": "!\u0019(7アすゆむすド"
+  },
+  {
+    "bank": "0x4A",
+    "offset": "0x128D79",
+    "bank_offset": "0x0D79",
+    "format": "1-Byte-Script",
+    "raw_hex": "010156fc7176ffff0d",
+    "text": "(7(7こブゆれパパ"
+  },
+  {
+    "bank": "0x4A",
+    "offset": "0x128D83",
+    "bank_offset": "0x0D83",
+    "format": "1-Byte-Script",
+    "raw_hex": "fbe676ffffffff0d",
+    "text": "ビレれパパパパ"
+  },
+  {
+    "bank": "0x4A",
+    "offset": "0x128D8C",
+    "bank_offset": "0x0D8C",
+    "format": "1-Byte-Script",
+    "raw_hex": "0a1606035d9bd7",
+    "text": "!\u0019!\u0004}!ﾘoちーヒ"
+  },
+  {
+    "bank": "0x4A",
+    "offset": "0x128DA5",
+    "bank_offset": "0x0DA5",
+    "format": "1-Byte-Script",
+    "raw_hex": "dfa0ffff",
+    "text": "モエパパ"
+  },
+  {
+    "bank": "0x4A",
+    "offset": "0x128DCB",
+    "bank_offset": "0x0DCB",
+    "format": "1-Byte-Script",
+    "raw_hex": "0101ffffffffffffffffffffffffffff0d",
+    "text": "(7(7パパパパパパパパパパパパパパ"
+  },
+  {
+    "bank": "0x4A",
+    "offset": "0x128DE2",
+    "bank_offset": "0x0DE2",
+    "format": "1-Byte-Script",
+    "raw_hex": "05408b038b010128",
+    "text": "(\u0010ょびﾘoび(7(7瑁"
+  },
+  {
+    "bank": "0x4A",
+    "offset": "0x128DEB",
+    "bank_offset": "0x0DEB",
+    "format": "1-Byte-Script",
+    "raw_hex": "0178a16e96fc0d588a567478527c59969f0d",
+    "text": "(7わオめぅブ\nしばこりわかぎすぅウ"
+  },
+  {
+    "bank": "0x4A",
+    "offset": "0x128DFE",
+    "bank_offset": "0x0DFE",
+    "format": "1-Byte-Script",
+    "raw_hex": "0a0190545271595210525459970d",
+    "text": "!\u0019(7２くかゆすかﾜﾍかくすぇ"
+  },
+  {
+    "bank": "0x4A",
+    "offset": "0x128E0E",
+    "bank_offset": "0x0E0E",
+    "format": "1-Byte-Script",
+    "raw_hex": "acec760d588a5699a16e6c9f0d",
+    "text": "タギれ\nしばこっオめみウ"
+  },
+  {
+    "bank": "0x4A",
+    "offset": "0x128E22",
+    "bank_offset": "0x0E22",
+    "format": "1-Byte-Script",
+    "raw_hex": "01015d9bd7",
+    "text": "(7(7ちーヒ"
+  },
+  {
+    "bank": "0x4A",
+    "offset": "0x128E28",
+    "bank_offset": "0x0E28",
+    "format": "1-Byte-Script",
+    "raw_hex": "a00d5d9b",
+    "text": "エ\nちー"
+  },
+  {
+    "bank": "0x4A",
+    "offset": "0x128E2E",
+    "bank_offset": "0x0E2E",
+    "format": "1-Byte-Script",
+    "raw_hex": "e9a776ffff0d",
+    "text": "ヲサれパパ"
+  },
+  {
+    "bank": "0x4A",
+    "offset": "0x128E35",
+    "bank_offset": "0x0E35",
+    "format": "1-Byte-Script",
+    "raw_hex": "0a190601010154a11054a19f0d",
+    "text": "!\u0019Au}!(7(7(7くオﾜﾍくオウ"
+  },
+  {
+    "bank": "0x4A",
+    "offset": "0x128E49",
+    "bank_offset": "0x0E49",
+    "format": "1-Byte-Script",
+    "raw_hex": "0105408b038b010128",
+    "text": "(7(\u0010ょびﾘoび(7(7瑁"
+  },
+  {
+    "bank": "0x4A",
+    "offset": "0x128E53",
+    "bank_offset": "0x0E53",
+    "format": "1-Byte-Script",
+    "raw_hex": "01659bd7",
+    "text": "(7のーヒ"
+  },
+  {
+    "bank": "0x4A",
+    "offset": "0x128E58",
+    "bank_offset": "0x0E58",
+    "format": "1-Byte-Script",
+    "raw_hex": "a00d5d9b",
+    "text": "エ\nちー"
+  },
+  {
+    "bank": "0x4A",
+    "offset": "0x128E5E",
+    "bank_offset": "0x0E5E",
+    "format": "1-Byte-Script",
+    "raw_hex": "e9a776ffff0d",
+    "text": "ヲサれパパ"
+  },
+  {
+    "bank": "0x4A",
+    "offset": "0x128E65",
+    "bank_offset": "0x0E65",
+    "format": "1-Byte-Script",
+    "raw_hex": "0a1906020201659bd7",
+    "text": "!\u0019Au}!\u0011\u0000\u0011\u0000(7のーヒ"
+  },
+  {
+    "bank": "0x4A",
+    "offset": "0x128E6F",
+    "bank_offset": "0x0E6F",
+    "format": "1-Byte-Script",
+    "raw_hex": "66917bfb6c9f0d",
+    "text": "はぷがビみウ"
+  },
+  {
+    "bank": "0x4A",
+    "offset": "0x128E77",
+    "bank_offset": "0x0E77",
+    "format": "1-Byte-Script",
+    "raw_hex": "0a0190545271595210525459970d",
+    "text": "!\u0019(7２くかゆすかﾜﾍかくすぇ"
+  },
+  {
+    "bank": "0x4A",
+    "offset": "0x128E87",
+    "bank_offset": "0x0E87",
+    "format": "1-Byte-Script",
+    "raw_hex": "acec760d588a56745d9a969f0d",
+    "text": "タギれ\nしばこりち　ぅウ"
+  },
+  {
+    "bank": "0x4A",
+    "offset": "0x128E9B",
+    "bank_offset": "0x0E9B",
+    "format": "1-Byte-Script",
+    "raw_hex": "0105408b038b010128",
+    "text": "(7(\u0010ょびﾘoび(7(7瑁"
+  },
+  {
+    "bank": "0x4A",
+    "offset": "0x128EA9",
+    "bank_offset": "0x0EA9",
+    "format": "1-Byte-Script",
+    "raw_hex": "dfa00d5d9b",
+    "text": "モエ\nちー"
+  },
+  {
+    "bank": "0x4A",
+    "offset": "0x128EB0",
+    "bank_offset": "0x0EB0",
+    "format": "1-Byte-Script",
+    "raw_hex": "e9a776ffff0d",
+    "text": "ヲサれパパ"
+  },
+  {
+    "bank": "0x4A",
+    "offset": "0x128EB7",
+    "bank_offset": "0x0EB7",
+    "format": "1-Byte-Script",
+    "raw_hex": "0a19060202015d9b",
+    "text": "!\u0019Au}!\u0011\u0000\u0011\u0000(7ちー"
+  },
+  {
+    "bank": "0x4A",
+    "offset": "0x128EC0",
+    "bank_offset": "0x0EC0",
+    "format": "1-Byte-Script",
+    "raw_hex": "df66917bfb6c9f0d",
+    "text": "モはぷがビみウ"
+  },
+  {
+    "bank": "0x4A",
+    "offset": "0x128EC9",
+    "bank_offset": "0x0EC9",
+    "format": "1-Byte-Script",
+    "raw_hex": "0a0190545271595210525459970d",
+    "text": "!\u0019(7２くかゆすかﾜﾍかくすぇ"
+  },
+  {
+    "bank": "0x4A",
+    "offset": "0x128ED9",
+    "bank_offset": "0x0ED9",
+    "format": "1-Byte-Script",
+    "raw_hex": "acec760d588a56745d9a969f0d",
+    "text": "タギれ\nしばこりち　ぅウ"
+  },
+  {
+    "bank": "0x4A",
+    "offset": "0x128F28",
+    "bank_offset": "0x0F28",
+    "format": "1-Byte-Script",
+    "raw_hex": "7510526d8f99ffff0d75677b9f0d",
+    "text": "るﾜﾍかむぱっパパ\nるひがウ"
+  },
+  {
+    "bank": "0x4A",
+    "offset": "0x128F37",
+    "bank_offset": "0x0F37",
+    "format": "1-Byte-Script",
+    "raw_hex": "0a19060101016b546e9f0d",
+    "text": "!\u0019Au}!(7(7(7まくめウ"
+  },
+  {
+    "bank": "0x4A",
+    "offset": "0x128F43",
+    "bank_offset": "0x0F43",
+    "format": "1-Byte-Script",
+    "raw_hex": "0a0158745a997910",
+    "text": "!\u0019(7しりせっをﾜﾍ"
+  },
+  {
+    "bank": "0x4A",
+    "offset": "0x128F4D",
+    "bank_offset": "0x0F4D",
+    "format": "1-Byte-Script",
+    "raw_hex": "755b9959970d6684a175725d71740d6d87748d997652526c9f0d",
+    "text": "るそっすぇ\nはぞオるよちゆり\nむづりべっれかかみウ"
+  },
+  {
+    "bank": "0x4A",
+    "offset": "0x128F68",
+    "bank_offset": "0x0F68",
+    "format": "1-Byte-Script",
+    "raw_hex": "0a068d3d0f",
+    "text": "!\u0019}!べ。\u0003\u0018"
+  },
+  {
+    "bank": "0x4A",
+    "offset": "0x128F73",
+    "bank_offset": "0x0F73",
+    "format": "1-Byte-Script",
+    "raw_hex": "d47510526d8f99ffff0d756759f90d",
+    "text": "ネるﾜﾍかむぱっパパ\nるひすド"
+  },
+  {
+    "bank": "0x4A",
+    "offset": "0x128F83",
+    "bank_offset": "0x0F83",
+    "format": "1-Byte-Script",
+    "raw_hex": "0a1906050505408b038b010128",
+    "text": "!\u0019Au}!(\u0010(\u0010(\u0010ょびﾘoび(7(7瑁"
+  },
+  {
+    "bank": "0x4A",
+    "offset": "0x128F91",
+    "bank_offset": "0x0F91",
+    "format": "1-Byte-Script",
+    "raw_hex": "016f5a54969f",
+    "text": "(7もせくぅウ"
+  },
+  {
+    "bank": "0x4A",
+    "offset": "0x128F9A",
+    "bank_offset": "0x0F9A",
+    "format": "1-Byte-Script",
+    "raw_hex": "d47174ffff0d",
+    "text": "ネゆりパパ"
+  },
+  {
+    "bank": "0x4A",
+    "offset": "0x128FA6",
+    "bank_offset": "0x0FA6",
+    "format": "1-Byte-Script",
+    "raw_hex": "7510526d8f74900d6595545a78526e9bf90d",
+    "text": "るﾜﾍかむぱり２\nのぃくせわかめード"
+  },
+  {
+    "bank": "0x4A",
+    "offset": "0x128FB9",
+    "bank_offset": "0x0FB9",
+    "format": "1-Byte-Script",
+    "raw_hex": "0a0190545271595210525459970d61a177616b1065715998760d588a5699a16e6c9f0d",
+    "text": "!\u0019(7２くかゆすかﾜﾍかくすぇ\nなオろなまﾜﾍのゆすぉれ\nしばこっオめみウ"
+  },
+  {
+    "bank": "0x4A",
+    "offset": "0x128FE8",
+    "bank_offset": "0x0FE8",
+    "format": "1-Byte-Script",
+    "raw_hex": "e97510526d8f99ffff0d756759f90d",
+    "text": "ヲるﾜﾍかむぱっパパ\nるひすド"
+  },
+  {
+    "bank": "0x4A",
+    "offset": "0x128FF8",
+    "bank_offset": "0x0FF8",
+    "format": "1-Byte-Script",
+    "raw_hex": "0a1906050505408b038b010128",
+    "text": "!\u0019Au}!(\u0010(\u0010(\u0010ょびﾘoび(7(7瑁"
+  },
+  {
+    "bank": "0x4A",
+    "offset": "0x129006",
+    "bank_offset": "0x1006",
+    "format": "1-Byte-Script",
+    "raw_hex": "016f5a54969f0d",
+    "text": "(7もせくぅウ"
+  },
+  {
+    "bank": "0x4A",
+    "offset": "0x129010",
+    "bank_offset": "0x1010",
+    "format": "1-Byte-Script",
+    "raw_hex": "e97d1072599d78526c9f0d",
+    "text": "ヲぐﾜﾍよすアわかみウ"
+  },
+  {
+    "bank": "0x4A",
+    "offset": "0x12901C",
+    "bank_offset": "0x101C",
+    "format": "1-Byte-Script",
+    "raw_hex": "0a0190545271595210525459970d61a177616b1065715998760d588a5699a16e6c9f0d",
+    "text": "!\u0019(7２くかゆすかﾜﾍかくすぇ\nなオろなまﾜﾍのゆすぉれ\nしばこっオめみウ"
+  },
+  {
+    "bank": "0x4A",
+    "offset": "0x129048",
+    "bank_offset": "0x1048",
+    "format": "1-Byte-Script",
+    "raw_hex": "0176619b7510",
+    "text": "(7れなーるﾜﾍ"
+  },
+  {
+    "bank": "0x4A",
+    "offset": "0x12904F",
+    "bank_offset": "0x104F",
+    "format": "1-Byte-Script",
+    "raw_hex": "fbe671740d78a16e596571749959f90d",
+    "text": "ビレゆり\nわオめすのゆりっすド"
+  },
+  {
+    "bank": "0x4A",
+    "offset": "0x129060",
+    "bank_offset": "0x1060",
+    "format": "1-Byte-Script",
+    "raw_hex": "0a160603795a5498",
+    "text": "!\u0019!\u0004}!ﾘoをせくぉ"
+  },
+  {
+    "bank": "0x4A",
+    "offset": "0x12906A",
+    "bank_offset": "0x106A",
+    "format": "1-Byte-Script",
+    "raw_hex": "5b935498",
+    "text": "そぽくぉ"
+  },
+  {
+    "bank": "0x4A",
+    "offset": "0x12906F",
+    "bank_offset": "0x106F",
+    "format": "1-Byte-Script",
+    "raw_hex": "016c5498",
+    "text": "(7みくぉ"
+  },
+  {
+    "bank": "0x4A",
+    "offset": "0x129074",
+    "bank_offset": "0x1074",
+    "format": "1-Byte-Script",
+    "raw_hex": "02072b3e020101",
+    "text": "\u0011\u0000\u0017\u0000ﾁﾑゃ\u0011\u0000(7(7"
+  },
+  {
+    "bank": "0x4A",
+    "offset": "0x12907E",
+    "bank_offset": "0x107E",
+    "format": "1-Byte-Script",
+    "raw_hex": "07563e0201010120",
+    "text": "\u0017\u0000こゃ\u0011\u0000(7(7(7ﾉﾕ"
+  },
+  {
+    "bank": "0x4A",
+    "offset": "0x129087",
+    "bank_offset": "0x1087",
+    "format": "1-Byte-Script",
+    "raw_hex": "079f3e0201010220",
+    "text": "\u0017\u0000ウゃ\u0011\u0000(7(7\u0011\u0000ﾉﾕ"
+  },
+  {
+    "bank": "0x4A",
+    "offset": "0x129090",
+    "bank_offset": "0x1090",
+    "format": "1-Byte-Script",
+    "raw_hex": "06dc3d0f",
+    "text": "}!ミ。\u0003\u0018"
+  },
+  {
+    "bank": "0x4A",
+    "offset": "0x129095",
+    "bank_offset": "0x1095",
+    "format": "1-Byte-Script",
+    "raw_hex": "0101ffffffffffffffffffffffff0d",
+    "text": "(7(7パパパパパパパパパパパパ"
+  },
+  {
+    "bank": "0x4A",
+    "offset": "0x1290AA",
+    "bank_offset": "0x10AA",
+    "format": "1-Byte-Script",
+    "raw_hex": "05408b038b010128",
+    "text": "(\u0010ょびﾘoび(7(7瑁"
+  },
+  {
+    "bank": "0x4A",
+    "offset": "0x1290B3",
+    "bank_offset": "0x10B3",
+    "format": "1-Byte-Script",
+    "raw_hex": "019d59977852a16e789f0d",
+    "text": "(7アすぇわかオめわウ"
+  },
+  {
+    "bank": "0x4A",
+    "offset": "0x1290BF",
+    "bank_offset": "0x10BF",
+    "format": "1-Byte-Script",
+    "raw_hex": "0a01695259527d10795a54986e9f0d588a5676527410",
+    "text": "!\u0019(7へかすかぐﾜﾍをせくぉめウ\nしばこれかりﾜﾍ"
+  },
+  {
+    "bank": "0x4A",
+    "offset": "0x1290D6",
+    "bank_offset": "0x10D6",
+    "format": "1-Byte-Script",
+    "raw_hex": "f57d78526a9f0d",
+    "text": "ダぐわかほウ"
+  },
+  {
+    "bank": "0x4A",
+    "offset": "0x1290E4",
+    "bank_offset": "0x10E4",
+    "format": "1-Byte-Script",
+    "raw_hex": "0101795a54981075679f0d",
+    "text": "(7(7をせくぉﾜﾍるひウ"
+  },
+  {
+    "bank": "0x4A",
+    "offset": "0x1290F0",
+    "bank_offset": "0x10F0",
+    "format": "1-Byte-Script",
+    "raw_hex": "0a19060101016b546e9f0d965d6571749966917852599f0d",
+    "text": "!\u0019Au}!(7(7(7まくめウ\nぅちのゆりっはぷわかすウ"
+  },
+  {
+    "bank": "0x4A",
+    "offset": "0x12910F",
+    "bank_offset": "0x110F",
+    "format": "1-Byte-Script",
+    "raw_hex": "01015b935498ffff10756759f90d",
+    "text": "(7(7そぽくぉパパﾜﾍるひすド"
+  },
+  {
+    "bank": "0x4A",
+    "offset": "0x129123",
+    "bank_offset": "0x1123",
+    "format": "1-Byte-Script",
+    "raw_hex": "05408b038b010128",
+    "text": "(\u0010ょびﾘoび(7(7瑁"
+  },
+  {
+    "bank": "0x4A",
+    "offset": "0x12912C",
+    "bank_offset": "0x112C",
+    "format": "1-Byte-Script",
+    "raw_hex": "016f5a54969f0d",
+    "text": "(7もせくぅウ"
+  },
+  {
+    "bank": "0x4A",
+    "offset": "0x129134",
+    "bank_offset": "0x1134",
+    "format": "1-Byte-Script",
+    "raw_hex": "fbe67d10795a54986e9f0d",
+    "text": "ビレぐﾜﾍをせくぉめウ"
+  },
+  {
+    "bank": "0x4A",
+    "offset": "0x129140",
+    "bank_offset": "0x1140",
+    "format": "1-Byte-Script",
+    "raw_hex": "0a01588a5676527410",
+    "text": "!\u0019(7しばこれかりﾜﾍ"
+  },
+  {
+    "bank": "0x4A",
+    "offset": "0x12914A",
+    "bank_offset": "0x114A",
+    "format": "1-Byte-Script",
+    "raw_hex": "f57d78526a9f0d",
+    "text": "ダぐわかほウ"
+  },
+  {
+    "bank": "0x4A",
+    "offset": "0x129158",
+    "bank_offset": "0x1158",
+    "format": "1-Byte-Script",
+    "raw_hex": "0105408b038b010128",
+    "text": "(7(\u0010ょびﾘoび(7(7瑁"
+  },
+  {
+    "bank": "0x4A",
+    "offset": "0x129162",
+    "bank_offset": "0x1162",
+    "format": "1-Byte-Script",
+    "raw_hex": "016c5498ffff10756759f90d",
+    "text": "(7みくぉパパﾜﾍるひすド"
+  },
+  {
+    "bank": "0x4A",
+    "offset": "0x12916F",
+    "bank_offset": "0x116F",
+    "format": "1-Byte-Script",
+    "raw_hex": "0a19060202016c5498717410",
+    "text": "!\u0019Au}!\u0011\u0000\u0011\u0000(7みくぉゆりﾜﾍ"
+  },
+  {
+    "bank": "0x4A",
+    "offset": "0x12917E",
+    "bank_offset": "0x117E",
+    "format": "1-Byte-Script",
+    "raw_hex": "ed5d71740d775467a16e96fa0d",
+    "text": "グちゆり\nろくひオめぅバ"
+  },
+  {
+    "bank": "0x4A",
+    "offset": "0x12918F",
+    "bank_offset": "0x118F",
+    "format": "1-Byte-Script",
+    "raw_hex": "fbe671747c7d0d795a54987c61761078a16e9f0d588a5676527410",
+    "text": "ビレゆりぎぐ\nをせくぉぎなれﾜﾍわオめウ\nしばこれかりﾜﾍ"
+  },
+  {
+    "bank": "0x4A",
+    "offset": "0x1291AB",
+    "bank_offset": "0x11AB",
+    "format": "1-Byte-Script",
+    "raw_hex": "f57d78526a9f0d",
+    "text": "ダぐわかほウ"
+  },
+  {
+    "bank": "0x4A",
+    "offset": "0x1291B6",
+    "bank_offset": "0x11B6",
+    "format": "1-Byte-Script",
+    "raw_hex": "3f071b3f038b01",
+    "text": "ゅ\u0017\u0000\u0000\u0019ゅﾘoび(7"
+  },
+  {
+    "bank": "0x4A",
+    "offset": "0x1291C0",
+    "bank_offset": "0x11C0",
+    "format": "1-Byte-Script",
+    "raw_hex": "07743f038b010125038b0102231c",
+    "text": "\u0017\u0000りゅﾘoび(7(7>Nﾘoび(7\u0011\u0000>\u001fw\u0018"
+  },
+  {
+    "bank": "0x4A",
+    "offset": "0x1291CF",
+    "bank_offset": "0x11CF",
+    "format": "1-Byte-Script",
+    "raw_hex": "06db3f190601011a40960396010828",
+    "text": "}!マゅAu}!(7(7!\u0006ょぅﾘoぅ(7\u0019ｾ瑁"
+  },
+  {
+    "bank": "0x4A",
+    "offset": "0x1291DF",
+    "bank_offset": "0x11DF",
+    "format": "1-Byte-Script",
+    "raw_hex": "0166915010657159985d71740d657159981054a1775465740d",
+    "text": "(7はぷえﾜﾍのゆすぉちゆり\nのゆすぉﾜﾍくオろくのり"
+  },
+  {
+    "bank": "0x4A",
+    "offset": "0x1291F9",
+    "bank_offset": "0x11F9",
+    "format": "1-Byte-Script",
+    "raw_hex": "0a015fa16154781059976ea00d725d99a16e6c9f0d",
+    "text": "!\u0019(7てオなくわﾜﾍすぇめエ\nよちっオめみウ"
+  },
+  {
+    "bank": "0x4A",
+    "offset": "0x12920F",
+    "bank_offset": "0x120F",
+    "format": "1-Byte-Script",
+    "raw_hex": "0a016b54679a7e10",
+    "text": "!\u0019(7まくひ　げﾜﾍ"
+  },
+  {
+    "bank": "0x4A",
+    "offset": "0x129218",
+    "bank_offset": "0x1218",
+    "format": "1-Byte-Script",
+    "raw_hex": "f1a5907c78a1740d78656e6a9f0d",
+    "text": "ジケ２ぎわオり\nわのめほウ"
+  },
+  {
+    "bank": "0x4A",
+    "offset": "0x129227",
+    "bank_offset": "0x1227",
+    "format": "1-Byte-Script",
+    "raw_hex": "0a066040190601011a40960396010628",
+    "text": "!\u0019}!とょAu}!(7(7!\u0006ょぅﾘoぅ(7}!瑁"
+  },
+  {
+    "bank": "0x4A",
+    "offset": "0x129238",
+    "bank_offset": "0x1238",
+    "format": "1-Byte-Script",
+    "raw_hex": "0178a1765910588a566d96546e780d089f0d",
+    "text": "(7わオれすﾜﾍしばこむぅくめわ\n\u0019ｾウ"
+  },
+  {
+    "bank": "0x4A",
+    "offset": "0x12924B",
+    "bank_offset": "0x124B",
+    "format": "1-Byte-Script",
+    "raw_hex": "0a01657159985d71740d657159981054a1775465740d",
+    "text": "!\u0019(7のゆすぉちゆり\nのゆすぉﾜﾍくオろくのり"
+  },
+  {
+    "bank": "0x4A",
+    "offset": "0x129262",
+    "bank_offset": "0x1262",
+    "format": "1-Byte-Script",
+    "raw_hex": "0a015fa161547859976ea00d725d99a16e9f0d",
+    "text": "!\u0019(7てオなくわすぇめエ\nよちっオめウ"
+  },
+  {
+    "bank": "0x4A",
+    "offset": "0x129276",
+    "bank_offset": "0x1276",
+    "format": "1-Byte-Script",
+    "raw_hex": "0a016b54679a7e10",
+    "text": "!\u0019(7まくひ　げﾜﾍ"
+  },
+  {
+    "bank": "0x4A",
+    "offset": "0x12927F",
+    "bank_offset": "0x127F",
+    "format": "1-Byte-Script",
+    "raw_hex": "f1a5907c78a1740d78656e6a9f0d",
+    "text": "ジケ２ぎわオり\nわのめほウ"
+  },
+  {
+    "bank": "0x4A",
+    "offset": "0x12928E",
+    "bank_offset": "0x128E",
+    "format": "1-Byte-Script",
+    "raw_hex": "0a0660401906",
+    "text": "!\u0019}!とょAu}!"
+  },
+  {
+    "bank": "0x4A",
+    "offset": "0x129296",
+    "bank_offset": "0x1296",
+    "format": "1-Byte-Script",
+    "raw_hex": "0178a1765910588a566d96546e780d089f0d",
+    "text": "(7わオれすﾜﾍしばこむぅくめわ\n\u0019ｾウ"
+  },
+  {
+    "bank": "0x4A",
+    "offset": "0x1292A9",
+    "bank_offset": "0x12A9",
+    "format": "1-Byte-Script",
+    "raw_hex": "0a01657159985d71740d657159981054a1775465740d",
+    "text": "!\u0019(7のゆすぉちゆり\nのゆすぉﾜﾍくオろくのり"
+  },
+  {
+    "bank": "0x4A",
+    "offset": "0x1292C0",
+    "bank_offset": "0x12C0",
+    "format": "1-Byte-Script",
+    "raw_hex": "0a015fa161547859976ea00d725d99a16e9f0d",
+    "text": "!\u0019(7てオなくわすぇめエ\nよちっオめウ"
+  },
+  {
+    "bank": "0x4A",
+    "offset": "0x1292D4",
+    "bank_offset": "0x12D4",
+    "format": "1-Byte-Script",
+    "raw_hex": "0a016b54679a7e10",
+    "text": "!\u0019(7まくひ　げﾜﾍ"
+  },
+  {
+    "bank": "0x4A",
+    "offset": "0x1292DD",
+    "bank_offset": "0x12DD",
+    "format": "1-Byte-Script",
+    "raw_hex": "f1a5907c78a1740d785d7899639f0d",
+    "text": "ジケ２ぎわオり\nわちわっぬウ"
+  },
+  {
+    "bank": "0x4A",
+    "offset": "0x1292ED",
+    "bank_offset": "0x12ED",
+    "format": "1-Byte-Script",
+    "raw_hex": "0a016d6d595271747c7d0d6684a179106665a1a0907174990de6",
+    "text": "!\u0019(7むむすかゆりぎぐ\nはぞオをﾜﾍはのオエ２ゆりっ\nレ"
+  },
+  {
+    "bank": "0x4A",
+    "offset": "0x129308",
+    "bank_offset": "0x1308",
+    "format": "1-Byte-Script",
+    "raw_hex": "5a10597290a16e6a9f0d",
+    "text": "せﾜﾍすよ２オめほウ"
+  },
+  {
+    "bank": "0x4A",
+    "offset": "0x129313",
+    "bank_offset": "0x1313",
+    "format": "1-Byte-Script",
+    "raw_hex": "0a06604001669150105aa17e9a960d089f0d",
+    "text": "!\u0019}!とょ(7はぷえﾜﾍせオげ　ぅ\n\u0019ｾウ"
+  },
+  {
+    "bank": "0x4A",
+    "offset": "0x12932C",
+    "bank_offset": "0x132C",
+    "format": "1-Byte-Script",
+    "raw_hex": "011e14077001038a010120",
+    "text": "(7珸wﾍ\u0017\u0000や(7ﾘoば(7(7ﾉﾕ"
+  },
+  {
+    "bank": "0x4A",
+    "offset": "0x129338",
+    "bank_offset": "0x1338",
+    "format": "1-Byte-Script",
+    "raw_hex": "079a01038a010220",
+    "text": "\u0017\u0000　(7ﾘoば(7\u0011\u0000ﾉﾕ"
+  },
+  {
+    "bank": "0x4A",
+    "offset": "0x129343",
+    "bank_offset": "0x1343",
+    "format": "1-Byte-Script",
+    "raw_hex": "01038a010320",
+    "text": "(7ﾘoば(7ﾘoﾉﾕ"
+  },
+  {
+    "bank": "0x4A",
+    "offset": "0x12934C",
+    "bank_offset": "0x134C",
+    "format": "1-Byte-Script",
+    "raw_hex": "01015898808f63a1107c76619b860d525b8c6595549f0d",
+    "text": "(7(7しぉざぱぬオﾜﾍぎれなー１\nかそぶのぃくウ"
+  },
+  {
+    "bank": "0x4A",
+    "offset": "0x129367",
+    "bank_offset": "0x1367",
+    "format": "1-Byte-Script",
+    "raw_hex": "4004878801ff20",
+    "text": "ょ\u001a<づで(7パﾉﾕ"
+  },
+  {
+    "bank": "0x4A",
+    "offset": "0x12936F",
+    "bank_offset": "0x136F",
+    "format": "1-Byte-Script",
+    "raw_hex": "1e1f131c0106f94001ffff5898808f63a17c0d76619b867d1063715b0d52716d9d7bffff0d",
+    "text": "珸瀾\u0000\u0019w\u0018(7}!ドょ(7パパしぉざぱぬオぎ\nれなー１ぐﾜﾍぬゆそ\nかゆむアがパパ"
+  },
+  {
+    "bank": "0x4A",
+    "offset": "0x129395",
+    "bank_offset": "0x1395",
+    "format": "1-Byte-Script",
+    "raw_hex": "0a0189597c80767c1076619b860d525b8c6595549f0d",
+    "text": "!\u0019(7どすぎざれぎﾜﾍれなー１\nかそぶのぃくウ"
+  },
+  {
+    "bank": "0x4A",
+    "offset": "0x1293B6",
+    "bank_offset": "0x13B6",
+    "format": "1-Byte-Script",
+    "raw_hex": "015898808f63a19f0d",
+    "text": "(7しぉざぱぬオウ"
+  },
+  {
+    "bank": "0x4A",
+    "offset": "0x1293C0",
+    "bank_offset": "0x13C0",
+    "format": "1-Byte-Script",
+    "raw_hex": "05408b01",
+    "text": "(\u0010ょび(7"
+  },
+  {
+    "bank": "0x4A",
+    "offset": "0x1293C6",
+    "bank_offset": "0x13C6",
+    "format": "1-Byte-Script",
+    "raw_hex": "0165729a52658c679f0d",
+    "text": "(7のよ　かのぶひウ"
+  },
+  {
+    "bank": "0x4A",
+    "offset": "0x1293D1",
+    "bank_offset": "0x13D1",
+    "format": "1-Byte-Script",
+    "raw_hex": "0a0587880101",
+    "text": "!\u0019(\u0010づで(7(7"
+  },
+  {
+    "bank": "0x4A",
+    "offset": "0x1293D8",
+    "bank_offset": "0x13D8",
+    "format": "1-Byte-Script",
+    "raw_hex": "05408a038a010128",
+    "text": "(\u0010ょばﾘoば(7(7瑁"
+  },
+  {
+    "bank": "0x4A",
+    "offset": "0x1293E4",
+    "bank_offset": "0x13E4",
+    "format": "1-Byte-Script",
+    "raw_hex": "010863a10d78795996fb756759f90d",
+    "text": "(7\u0019ｾぬオ\nわをすぅビるひすド"
+  },
+  {
+    "bank": "0x4A",
+    "offset": "0x1293F7",
+    "bank_offset": "0x13F7",
+    "format": "1-Byte-Script",
+    "raw_hex": "01017d52105898808f63a19f0d725c7c10635d69a18c75106761650d6659a15a1050526da175679f0d",
+    "text": "(7(7ぐかﾜﾍしぉざぱぬオウ\nよたぎﾜﾍぬちへオぶるﾜﾍひなの\nはすオせﾜﾍえかむオるひウ"
+  },
+  {
+    "bank": "0x4A",
+    "offset": "0x129421",
+    "bank_offset": "0x1421",
+    "format": "1-Byte-Script",
+    "raw_hex": "0a016b6175105898808f63a1790d6d6d59527c10a3",
+    "text": "!\u0019(7まなるﾜﾍしぉざぱぬオを\nむむすかぎﾜﾍキ"
+  },
+  {
+    "bank": "0x4A",
+    "offset": "0x12943A",
+    "bank_offset": "0x143A",
+    "format": "1-Byte-Script",
+    "raw_hex": "a00d526d6e615476105890528c65749f0d",
+    "text": "エ\nかむめなくれﾜﾍし２かぶのりウ"
+  },
+  {
+    "bank": "0x4A",
+    "offset": "0x129451",
+    "bank_offset": "0x1451",
+    "format": "1-Byte-Script",
+    "raw_hex": "016d6d59527c10a3",
+    "text": "(7むむすかぎﾜﾍキ"
+  },
+  {
+    "bank": "0x4A",
+    "offset": "0x12945D",
+    "bank_offset": "0x145D",
+    "format": "1-Byte-Script",
+    "raw_hex": "f90d6bfb75677bfbffff0d",
+    "text": "ド\nまビるひがビパパ"
+  },
+  {
+    "bank": "0x4A",
+    "offset": "0x129469",
+    "bank_offset": "0x1469",
+    "format": "1-Byte-Script",
+    "raw_hex": "0a019d59988c656d9f0d0863a17c10745b69520d",
+    "text": "!\u0019(7アすぉぶのむウ\n\u0019ｾぬオぎﾜﾍりそへか"
+  },
+  {
+    "bank": "0x4A",
+    "offset": "0x129480",
+    "bank_offset": "0x1480",
+    "format": "1-Byte-Script",
+    "raw_hex": "a0658c6595549f0d",
+    "text": "エのぶのぃくウ"
+  },
+  {
+    "bank": "0x4A",
+    "offset": "0x129489",
+    "bank_offset": "0x1489",
+    "format": "1-Byte-Script",
+    "raw_hex": "0a01657290a17910616d56740d5d6e63fb529f0d",
+    "text": "!\u0019(7のよ２オをﾜﾍなむこり\nちめぬビかウ"
+  },
+  {
+    "bank": "0x4A",
+    "offset": "0x12949E",
+    "bank_offset": "0x149E",
+    "format": "1-Byte-Script",
+    "raw_hex": "0a010863a17d10745b790d7550716d97108c680d7754658c6759f90d",
+    "text": "!\u0019(7\u0019ｾぬオぐﾜﾍりそを\nるえゆむぇﾜﾍぶふ\nろくのぶひすド"
+  },
+  {
+    "bank": "0x4A",
+    "offset": "0x1294BB",
+    "bank_offset": "0x14BB",
+    "format": "1-Byte-Script",
+    "raw_hex": "0a160603745b7c",
+    "text": "!\u0019!\u0004}!ﾘoりそぎ"
+  },
+  {
+    "bank": "0x4A",
+    "offset": "0x1294C3",
+    "bank_offset": "0x14C3",
+    "format": "1-Byte-Script",
+    "raw_hex": "aceba01084a1695b6799",
+    "text": "タガエﾜﾍぞオへそひっ"
+  },
+  {
+    "bank": "0x4A",
+    "offset": "0x1294CF",
+    "bank_offset": "0x14CF",
+    "format": "1-Byte-Script",
+    "raw_hex": "6d6d5954",
+    "text": "むむすく"
+  },
+  {
+    "bank": "0x4A",
+    "offset": "0x1294D4",
+    "bank_offset": "0x14D4",
+    "format": "1-Byte-Script",
+    "raw_hex": "01796099",
+    "text": "(7をとっ"
+  },
+  {
+    "bank": "0x4A",
+    "offset": "0x1294F5",
+    "bank_offset": "0x14F5",
+    "format": "1-Byte-Script",
+    "raw_hex": "06a9430f",
+    "text": "}!ス○\u0003\u0018"
+  },
+  {
+    "bank": "0x4A",
+    "offset": "0x1294FA",
+    "bank_offset": "0x14FA",
+    "format": "1-Byte-Script",
+    "raw_hex": "01018c687d10745b7c",
+    "text": "(7(7ぶふぐﾜﾍりそぎ"
+  },
+  {
+    "bank": "0x4A",
+    "offset": "0x129504",
+    "bank_offset": "0x1504",
+    "format": "1-Byte-Script",
+    "raw_hex": "aceba00d84a1695b658c679f0d",
+    "text": "タガエ\nぞオへそのぶひウ"
+  },
+  {
+    "bank": "0x4A",
+    "offset": "0x129512",
+    "bank_offset": "0x1512",
+    "format": "1-Byte-Script",
+    "raw_hex": "0a1907010105408b038b010128",
+    "text": "!\u0019Au\u0017\u0000(7(7(\u0010ょびﾘoび(7(7瑁"
+  },
+  {
+    "bank": "0x4A",
+    "offset": "0x129520",
+    "bank_offset": "0x1520",
+    "format": "1-Byte-Script",
+    "raw_hex": "016b5475fb679f0d",
+    "text": "(7まくるビひウ"
+  },
+  {
+    "bank": "0x4A",
+    "offset": "0x129529",
+    "bank_offset": "0x1529",
+    "format": "1-Byte-Script",
+    "raw_hex": "0a01928d5d9079106d6d5971747d0d",
+    "text": "!\u0019(7ぺべち２をﾜﾍむむすゆりぐ"
+  },
+  {
+    "bank": "0x4A",
+    "offset": "0x12953C",
+    "bank_offset": "0x153C",
+    "format": "1-Byte-Script",
+    "raw_hex": "5a1058585b5d78990d6e5f75fb679f0d",
+    "text": "せﾜﾍししそちわっ\nめてるビひウ"
+  },
+  {
+    "bank": "0x4A",
+    "offset": "0x129553",
+    "bank_offset": "0x1553",
+    "format": "1-Byte-Script",
+    "raw_hex": "0101906f9ba1106d6d59528c679f0d",
+    "text": "(7(7２もーオﾜﾍむむすかぶひウ"
+  },
+  {
+    "bank": "0x4A",
+    "offset": "0x12956D",
+    "bank_offset": "0x156D",
+    "format": "1-Byte-Script",
+    "raw_hex": "6f5a528cfb679f0d6d6e106d6d59546e5f757d0d525f8c69fba19f0d",
+    "text": "もせかぶビひウ\nむめﾜﾍむむすくめてるぐ\nかてぶへビオウ"
+  },
+  {
+    "bank": "0x4A",
+    "offset": "0x12958A",
+    "bank_offset": "0x158A",
+    "format": "1-Byte-Script",
+    "raw_hex": "0a01745b7c",
+    "text": "!\u0019(7りそぎ"
+  },
+  {
+    "bank": "0x4A",
+    "offset": "0x129590",
+    "bank_offset": "0x1590",
+    "format": "1-Byte-Script",
+    "raw_hex": "aceba01084a1695b0d67997c75fb679f0d",
+    "text": "タガエﾜﾍぞオへそ\nひっぎるビひウ"
+  },
+  {
+    "bank": "0x4A",
+    "offset": "0x1295A2",
+    "bank_offset": "0x15A2",
+    "format": "1-Byte-Script",
+    "raw_hex": "0a016b54679a7e10eb",
+    "text": "!\u0019(7まくひ　げﾜﾍガ"
+  },
+  {
+    "bank": "0x4A",
+    "offset": "0x1295AC",
+    "bank_offset": "0x15AC",
+    "format": "1-Byte-Script",
+    "raw_hex": "795974990d895489545a108d72599959900d659a8c69fba19f0d",
+    "text": "をすりっ\nどくどくせﾜﾍべよすっす２\nの　ぶへビオウ"
+  },
+  {
+    "bank": "0x4A",
+    "offset": "0x1295CD",
+    "bank_offset": "0x15CD",
+    "format": "1-Byte-Script",
+    "raw_hex": "0101906f9ba11079608c679f0d",
+    "text": "(7(7２もーオﾜﾍをとぶひウ"
+  },
+  {
+    "bank": "0x4A",
+    "offset": "0x1295E3",
+    "bank_offset": "0x15E3",
+    "format": "1-Byte-Script",
+    "raw_hex": "fa100863a19f0d58a1787c61106e599771740d6b9a757d10",
+    "text": "バﾜﾍ\u0019ｾぬオウ\nしオわぎなﾜﾍめすぇゆり\nま　るぐﾜﾍ"
+  },
+  {
+    "bank": "0x4A",
+    "offset": "0x1295FC",
+    "bank_offset": "0x15FC",
+    "format": "1-Byte-Script",
+    "raw_hex": "e375fb679f0d",
+    "text": "ラるビひウ"
+  },
+  {
+    "bank": "0x4A",
+    "offset": "0x129608",
+    "bank_offset": "0x1608",
+    "format": "1-Byte-Script",
+    "raw_hex": "0179607452747d1052728c75900d59748c69fba19f0d",
+    "text": "(7をとりかりぐﾜﾍかよぶる２\nすりぶへビオウ"
+  },
+  {
+    "bank": "0x4A",
+    "offset": "0x12961F",
+    "bank_offset": "0x161F",
+    "format": "1-Byte-Script",
+    "raw_hex": "0a01745b7c",
+    "text": "!\u0019(7りそぎ"
+  },
+  {
+    "bank": "0x4A",
+    "offset": "0x129625",
+    "bank_offset": "0x1625",
+    "format": "1-Byte-Script",
+    "raw_hex": "aceba01084a1695b0d67997c75fb679f0d",
+    "text": "タガエﾜﾍぞオへそ\nひっぎるビひウ"
+  },
+  {
+    "bank": "0x4A",
+    "offset": "0x129637",
+    "bank_offset": "0x1637",
+    "format": "1-Byte-Script",
+    "raw_hex": "0a016b54679a7e10eb",
+    "text": "!\u0019(7まくひ　げﾜﾍガ"
+  },
+  {
+    "bank": "0x4A",
+    "offset": "0x129641",
+    "bank_offset": "0x1641",
+    "format": "1-Byte-Script",
+    "raw_hex": "795974990d895489545a108d72599959900d659a8c69fba19f0d",
+    "text": "をすりっ\nどくどくせﾜﾍべよすっす２\nの　ぶへビオウ"
+  },
+  {
+    "bank": "0x4A",
+    "offset": "0x129662",
+    "bank_offset": "0x1662",
+    "format": "1-Byte-Script",
+    "raw_hex": "0101ffffffffffffffffffffffff0d",
+    "text": "(7(7パパパパパパパパパパパパ"
+  },
+  {
+    "bank": "0x4A",
+    "offset": "0x129677",
+    "bank_offset": "0x1677",
+    "format": "1-Byte-Script",
+    "raw_hex": "019d599778527c75fb6759f90d",
+    "text": "(7アすぇわかぎるビひすド"
+  },
+  {
+    "bank": "0x4A",
+    "offset": "0x129685",
+    "bank_offset": "0x1685",
+    "format": "1-Byte-Script",
+    "raw_hex": "0a01695259527d10745b7c",
+    "text": "!\u0019(7へかすかぐﾜﾍりそぎ"
+  },
+  {
+    "bank": "0x4A",
+    "offset": "0x129691",
+    "bank_offset": "0x1691",
+    "format": "1-Byte-Script",
+    "raw_hex": "aceba00d84a1695b67991075fb679f0d",
+    "text": "タガエ\nぞオへそひっﾜﾍるビひウ"
+  },
+  {
+    "bank": "0x4A",
+    "offset": "0x1296A2",
+    "bank_offset": "0x16A2",
+    "format": "1-Byte-Script",
+    "raw_hex": "0a016b54679a7e10eb",
+    "text": "!\u0019(7まくひ　げﾜﾍガ"
+  },
+  {
+    "bank": "0x4A",
+    "offset": "0x1296AC",
+    "bank_offset": "0x16AC",
+    "format": "1-Byte-Script",
+    "raw_hex": "795974990d895489545a108d72599959900d659a8c69fba19f0d",
+    "text": "をすりっ\nどくどくせﾜﾍべよすっす２\nの　ぶへビオウ"
+  },
+  {
+    "bank": "0x4A",
+    "offset": "0x1296C7",
+    "bank_offset": "0x16C7",
+    "format": "1-Byte-Script",
+    "raw_hex": "0a061444016b9a669110725c7c657290a10d75fb679f0d",
+    "text": "!\u0019}!wﾍ～(7ま　はぷﾜﾍよたぎのよ２オ\nるビひウ"
+  },
+  {
+    "bank": "0x4A",
+    "offset": "0x1296DF",
+    "bank_offset": "0x16DF",
+    "format": "1-Byte-Script",
+    "raw_hex": "0a010863a17d0dd5f5",
+    "text": "!\u0019(7\u0019ｾぬオぐ\nノダ"
+  },
+  {
+    "bank": "0x4A",
+    "offset": "0x1296E9",
+    "bank_offset": "0x16E9",
+    "format": "1-Byte-Script",
+    "raw_hex": "7c765b0d7754658c6759f90d",
+    "text": "ぎれそ\nろくのぶひすド"
+  },
+  {
+    "bank": "0x4A",
+    "offset": "0x1296F6",
+    "bank_offset": "0x16F6",
+    "format": "1-Byte-Script",
+    "raw_hex": "0a160603796099",
+    "text": "!\u0019!\u0004}!ﾘoをとっ"
+  },
+  {
+    "bank": "0x4A",
+    "offset": "0x1296FF",
+    "bank_offset": "0x16FF",
+    "format": "1-Byte-Script",
+    "raw_hex": "7672605b6799",
+    "text": "れよとそひっ"
+  },
+  {
+    "bank": "0x4A",
+    "offset": "0x129706",
+    "bank_offset": "0x1706",
+    "format": "1-Byte-Script",
+    "raw_hex": "018a545c956799",
+    "text": "(7ばくたぃひっ"
+  },
+  {
+    "bank": "0x4A",
+    "offset": "0x12970E",
+    "bank_offset": "0x170E",
+    "format": "1-Byte-Script",
+    "raw_hex": "02077644020101",
+    "text": "\u0011\u0000\u0017\u0000れ～\u0011\u0000(7(7"
+  },
+  {
+    "bank": "0x4A",
+    "offset": "0x129718",
+    "bank_offset": "0x1718",
+    "format": "1-Byte-Script",
+    "raw_hex": "07e0440201010120",
+    "text": "\u0017\u0000ヤ～\u0011\u0000(7(7(7ﾉﾕ"
+  },
+  {
+    "bank": "0x4A",
+    "offset": "0x129721",
+    "bank_offset": "0x1721",
+    "format": "1-Byte-Script",
+    "raw_hex": "075b450201010220",
+    "text": "\u0017\u0000そ０\u0011\u0000(7(7\u0011\u0000ﾉﾕ"
+  },
+  {
+    "bank": "0x4A",
+    "offset": "0x12972F",
+    "bank_offset": "0x172F",
+    "format": "1-Byte-Script",
+    "raw_hex": "0101906f9ba11079608c679f0d",
+    "text": "(7(7２もーオﾜﾍをとぶひウ"
+  },
+  {
+    "bank": "0x4A",
+    "offset": "0x12973D",
+    "bank_offset": "0x173D",
+    "format": "1-Byte-Script",
+    "raw_hex": "0a1907010105408b038b010128",
+    "text": "!\u0019Au\u0017\u0000(7(7(\u0010ょびﾘoび(7(7瑁"
+  },
+  {
+    "bank": "0x4A",
+    "offset": "0x12974B",
+    "bank_offset": "0x174B",
+    "format": "1-Byte-Script",
+    "raw_hex": "016b5475fb679f0d",
+    "text": "(7まくるビひウ"
+  },
+  {
+    "bank": "0x4A",
+    "offset": "0x129754",
+    "bank_offset": "0x1754",
+    "format": "1-Byte-Script",
+    "raw_hex": "0a01d5f5",
+    "text": "!\u0019(7ノダ"
+  },
+  {
+    "bank": "0x4A",
+    "offset": "0x129759",
+    "bank_offset": "0x1759",
+    "format": "1-Byte-Script",
+    "raw_hex": "7510527c6f5a",
+    "text": "るﾜﾍかぎもせ"
+  },
+  {
+    "bank": "0x4A",
+    "offset": "0x129761",
+    "bank_offset": "0x1761",
+    "format": "1-Byte-Script",
+    "raw_hex": "f5790d78716d97107960999f0d619a10506d988c5675fb679f0d",
+    "text": "ダを\nわゆむぇﾜﾍをとっウ\nな　ﾜﾍえむぉぶこるビひウ"
+  },
+  {
+    "bank": "0x4A",
+    "offset": "0x12977C",
+    "bank_offset": "0x177C",
+    "format": "1-Byte-Script",
+    "raw_hex": "0a0165a17510d0",
+    "text": "!\u0019(7のオるﾜﾍト"
+  },
+  {
+    "bank": "0x4A",
+    "offset": "0x129784",
+    "bank_offset": "0x1784",
+    "format": "1-Byte-Script",
+    "raw_hex": "8d7d0d635d907c591075fb679f0d",
+    "text": "べぐ\nぬち２ぎすﾜﾍるビひウ"
+  },
+  {
+    "bank": "0x4A",
+    "offset": "0x129793",
+    "bank_offset": "0x1793",
+    "format": "1-Byte-Script",
+    "raw_hex": "0a0629460f",
+    "text": "!\u0019}!ャ\u0003\u0018"
+  },
+  {
+    "bank": "0x4A",
+    "offset": "0x129799",
+    "bank_offset": "0x1799",
+    "format": "1-Byte-Script",
+    "raw_hex": "01017672605b658c679f0d",
+    "text": "(7(7れよとそのぶひウ"
+  },
+  {
+    "bank": "0x4A",
+    "offset": "0x1297AD",
+    "bank_offset": "0x17AD",
+    "format": "1-Byte-Script",
+    "raw_hex": "fa10ace0ac",
+    "text": "バﾜﾍタヤタ"
+  },
+  {
+    "bank": "0x4A",
+    "offset": "0x1297B3",
+    "bank_offset": "0x17B3",
+    "format": "1-Byte-Script",
+    "raw_hex": "fa0d1e434201014810ace0acfb",
+    "text": "バ\n珸○』(7(7ョﾜﾍタヤタビ"
+  },
+  {
+    "bank": "0x4A",
+    "offset": "0x1297CC",
+    "bank_offset": "0x17CC",
+    "format": "1-Byte-Script",
+    "raw_hex": "e375fb679f0d65a16e971090769061900d50988c69fba19f0d",
+    "text": "ラるビひウ\nのオめぇﾜﾍ２れ２な２\nえぉぶへビオウ"
+  },
+  {
+    "bank": "0x4A",
+    "offset": "0x1297E6",
+    "bank_offset": "0x17E6",
+    "format": "1-Byte-Script",
+    "raw_hex": "0a01d5f5",
+    "text": "!\u0019(7ノダ"
+  },
+  {
+    "bank": "0x4A",
+    "offset": "0x1297EB",
+    "bank_offset": "0x17EB",
+    "format": "1-Byte-Script",
+    "raw_hex": "7510527c6f5a",
+    "text": "るﾜﾍかぎもせ"
+  },
+  {
+    "bank": "0x4A",
+    "offset": "0x1297F3",
+    "bank_offset": "0x17F3",
+    "format": "1-Byte-Script",
+    "raw_hex": "f5790d78716d97107960999f0d619a10506d988c5675fb679f0d",
+    "text": "ダを\nわゆむぇﾜﾍをとっウ\nな　ﾜﾍえむぉぶこるビひウ"
+  },
+  {
+    "bank": "0x4A",
+    "offset": "0x12980E",
+    "bank_offset": "0x180E",
+    "format": "1-Byte-Script",
+    "raw_hex": "0a0629460f",
+    "text": "!\u0019}!ャ\u0003\u0018"
+  },
+  {
+    "bank": "0x4A",
+    "offset": "0x129814",
+    "bank_offset": "0x1814",
+    "format": "1-Byte-Script",
+    "raw_hex": "0101806d6797108a545c9575679f0d",
+    "text": "(7(7ざむひぇﾜﾍばくたぃるひウ"
+  },
+  {
+    "bank": "0x4A",
+    "offset": "0x129824",
+    "bank_offset": "0x1824",
+    "format": "1-Byte-Script",
+    "raw_hex": "0a19070808018a545c959f",
+    "text": "!\u0019Au\u0017\u0000\u0019ｾ\u0019ｾ(7ばくたぃウ"
+  },
+  {
+    "bank": "0x4A",
+    "offset": "0x129830",
+    "bank_offset": "0x1830",
+    "format": "1-Byte-Script",
+    "raw_hex": "e375fb679f0d669d669d106d525b93546f0d867174525b8cfb679f0d",
+    "text": "ラるビひウ\nはアはアﾜﾍむかそぽくも\n１ゆりかそぶビひウ"
+  },
+  {
+    "bank": "0x4A",
+    "offset": "0x129856",
+    "bank_offset": "0x1856",
+    "format": "1-Byte-Script",
+    "raw_hex": "7510527c6f5a",
+    "text": "るﾜﾍかぎもせ"
+  },
+  {
+    "bank": "0x4A",
+    "offset": "0x12985E",
+    "bank_offset": "0x185E",
+    "format": "1-Byte-Script",
+    "raw_hex": "f5790d78716d97107960999f0d619a10506d988c5675fb679f0d",
+    "text": "ダを\nわゆむぇﾜﾍをとっウ\nな　ﾜﾍえむぉぶこるビひウ"
+  },
+  {
+    "bank": "0x4A",
+    "offset": "0x129879",
+    "bank_offset": "0x1879",
+    "format": "1-Byte-Script",
+    "raw_hex": "0a0629460f",
+    "text": "!\u0019}!ャ\u0003\u0018"
+  },
+  {
+    "bank": "0x4A",
+    "offset": "0x12987F",
+    "bank_offset": "0x187F",
+    "format": "1-Byte-Script",
+    "raw_hex": "0101ffffffffffffffffffffffff0d",
+    "text": "(7(7パパパパパパパパパパパパ"
+  },
+  {
+    "bank": "0x4A",
+    "offset": "0x129894",
+    "bank_offset": "0x1894",
+    "format": "1-Byte-Script",
+    "raw_hex": "019d599778527c75fb6759f90d",
+    "text": "(7アすぇわかぎるビひすド"
+  },
+  {
+    "bank": "0x4A",
+    "offset": "0x1298A2",
+    "bank_offset": "0x18A2",
+    "format": "1-Byte-Script",
+    "raw_hex": "0a01695259527d107960991075fb679f0d",
+    "text": "!\u0019(7へかすかぐﾜﾍをとっﾜﾍるビひウ"
+  },
+  {
+    "bank": "0x4A",
+    "offset": "0x1298B4",
+    "bank_offset": "0x18B4",
+    "format": "1-Byte-Script",
+    "raw_hex": "0a01d5f5",
+    "text": "!\u0019(7ノダ"
+  },
+  {
+    "bank": "0x4A",
+    "offset": "0x1298B9",
+    "bank_offset": "0x18B9",
+    "format": "1-Byte-Script",
+    "raw_hex": "7510527c6f5a",
+    "text": "るﾜﾍかぎもせ"
+  },
+  {
+    "bank": "0x4A",
+    "offset": "0x1298C1",
+    "bank_offset": "0x18C1",
+    "format": "1-Byte-Script",
+    "raw_hex": "f5790d78716d97107960999f0d619a10506d988c5675fb679f0d",
+    "text": "ダを\nわゆむぇﾜﾍをとっウ\nな　ﾜﾍえむぉぶこるビひウ"
+  },
+  {
+    "bank": "0x4A",
+    "offset": "0x1298DC",
+    "bank_offset": "0x18DC",
+    "format": "1-Byte-Script",
+    "raw_hex": "0a06294601757d106352627c10657290a10d75fb679f0d",
+    "text": "!\u0019}!ャ(7るぐﾜﾍぬかにぎﾜﾍのよ２オ\nるビひウ"
+  },
+  {
+    "bank": "0x4A",
+    "offset": "0x1298F4",
+    "bank_offset": "0x18F4",
+    "format": "1-Byte-Script",
+    "raw_hex": "0a010863a17d0d969d52745b107950716d970d7754658c6759f90d",
+    "text": "!\u0019(7\u0019ｾぬオぐ\nぅアかりそﾜﾍをえゆむぇ\nろくのぶひすド"
+  },
+  {
+    "bank": "0x4A",
+    "offset": "0x129910",
+    "bank_offset": "0x1910",
+    "format": "1-Byte-Script",
+    "raw_hex": "0a16060363716376109271725f99",
+    "text": "!\u0019!\u0004}!ﾘoぬゆぬれﾜﾍぺゆよてっ"
+  },
+  {
+    "bank": "0x4A",
+    "offset": "0x129922",
+    "bank_offset": "0x1922",
+    "format": "1-Byte-Script",
+    "raw_hex": "786d6d59527d10657852",
+    "text": "わむむすかぐﾜﾍのわか"
+  },
+  {
+    "bank": "0x4A",
+    "offset": "0x129933",
+    "bank_offset": "0x1933",
+    "format": "1-Byte-Script",
+    "raw_hex": "e579109271725f99",
+    "text": "ルをﾜﾍぺゆよてっ"
+  },
+  {
+    "bank": "0x4A",
+    "offset": "0x12993C",
+    "bank_offset": "0x193C",
+    "format": "1-Byte-Script",
+    "raw_hex": "0207a446020101",
+    "text": "\u0011\u0000\u0017\u0000クャ\u0011\u0000(7(7"
+  },
+  {
+    "bank": "0x4A",
+    "offset": "0x129946",
+    "bank_offset": "0x1946",
+    "format": "1-Byte-Script",
+    "raw_hex": "07f2460201010120",
+    "text": "\u0017\u0000ズャ\u0011\u0000(7(7(7ﾉﾕ"
+  },
+  {
+    "bank": "0x4A",
+    "offset": "0x12994F",
+    "bank_offset": "0x194F",
+    "format": "1-Byte-Script",
+    "raw_hex": "073f470201010220",
+    "text": "\u0017\u0000ゅュ\u0011\u0000(7(7\u0011\u0000ﾉﾕ"
+  },
+  {
+    "bank": "0x4A",
+    "offset": "0x129958",
+    "bank_offset": "0x1958",
+    "format": "1-Byte-Script",
+    "raw_hex": "06a0470f",
+    "text": "}!エュ\u0003\u0018"
+  },
+  {
+    "bank": "0x4A",
+    "offset": "0x12995D",
+    "bank_offset": "0x195D",
+    "format": "1-Byte-Script",
+    "raw_hex": "010163716376109271725f8c679f0d",
+    "text": "(7(7ぬゆぬれﾜﾍぺゆよてぶひウ"
+  },
+  {
+    "bank": "0x4A",
+    "offset": "0x12996D",
+    "bank_offset": "0x196D",
+    "format": "1-Byte-Script",
+    "raw_hex": "0a1907010105408b038b010128",
+    "text": "!\u0019Au\u0017\u0000(7(7(\u0010ょびﾘoび(7(7瑁"
+  },
+  {
+    "bank": "0x4A",
+    "offset": "0x12997B",
+    "bank_offset": "0x197B",
+    "format": "1-Byte-Script",
+    "raw_hex": "016b9a90106952595275fb679f0d759010e2",
+    "text": "(7ま　２ﾜﾍへかすかるビひウ\nる２ﾜﾍヨ"
+  },
+  {
+    "bank": "0x4A",
+    "offset": "0x12998E",
+    "bank_offset": "0x198E",
+    "format": "1-Byte-Script",
+    "raw_hex": "786d6d5952a00d6578527c9010ab",
+    "text": "わむむすかエ\nのわかぎ２ﾜﾍソ"
+  },
+  {
+    "bank": "0x4A",
+    "offset": "0x12999E",
+    "bank_offset": "0x199E",
+    "format": "1-Byte-Script",
+    "raw_hex": "fb75fb679f0d",
+    "text": "ビるビひウ"
+  },
+  {
+    "bank": "0x4A",
+    "offset": "0x1299AF",
+    "bank_offset": "0x19AF",
+    "format": "1-Byte-Script",
+    "raw_hex": "786d6d59527d10658c69a19f0d",
+    "text": "わむむすかぐﾜﾍのぶへオウ"
+  },
+  {
+    "bank": "0x4A",
+    "offset": "0x1299BD",
+    "bank_offset": "0x19BD",
+    "format": "1-Byte-Script",
+    "raw_hex": "0a1907010105408b038b010128",
+    "text": "!\u0019Au\u0017\u0000(7(7(\u0010ょびﾘoび(7(7瑁"
+  },
+  {
+    "bank": "0x4A",
+    "offset": "0x1299CB",
+    "bank_offset": "0x19CB",
+    "format": "1-Byte-Script",
+    "raw_hex": "016b9a90106952595275fb679f0d75901063716376109271725f74900dab",
+    "text": "(7ま　２ﾜﾍへかすかるビひウ\nる２ﾜﾍぬゆぬれﾜﾍぺゆよてり２\nソ"
+  },
+  {
+    "bank": "0x4A",
+    "offset": "0x1299EB",
+    "bank_offset": "0x19EB",
+    "format": "1-Byte-Script",
+    "raw_hex": "fb75fb679f0d",
+    "text": "ビるビひウ"
+  },
+  {
+    "bank": "0x4A",
+    "offset": "0x1299FF",
+    "bank_offset": "0x19FF",
+    "format": "1-Byte-Script",
+    "raw_hex": "e5790d9271725f8c679f0d",
+    "text": "ルを\nぺゆよてぶひウ"
+  },
+  {
+    "bank": "0x4A",
+    "offset": "0x129A0B",
+    "bank_offset": "0x1A0B",
+    "format": "1-Byte-Script",
+    "raw_hex": "0a19070808016b9a",
+    "text": "!\u0019Au\u0017\u0000\u0019ｾ\u0019ｾ(7ま"
+  },
+  {
+    "bank": "0x4A",
+    "offset": "0x129A14",
+    "bank_offset": "0x1A14",
+    "format": "1-Byte-Script",
+    "raw_hex": "e375fb679f0d6659a17c10e2",
+    "text": "ラるビひウ\nはすオぎﾜﾍヨ"
+  },
+  {
+    "bank": "0x4A",
+    "offset": "0x129A21",
+    "bank_offset": "0x1A21",
+    "format": "1-Byte-Script",
+    "raw_hex": "75fb679f0d",
+    "text": "るビひウ"
+  },
+  {
+    "bank": "0x4A",
+    "offset": "0x129A27",
+    "bank_offset": "0x1A27",
+    "format": "1-Byte-Script",
+    "raw_hex": "0a0161549872965d106d6d5954797d0d63716376109271725f99590de2",
+    "text": "!\u0019(7なくぉよぅちﾜﾍむむすくをぐ\nぬゆぬれﾜﾍぺゆよてっす\nヨ"
+  },
+  {
+    "bank": "0x4A",
+    "offset": "0x129A45",
+    "bank_offset": "0x1A45",
+    "format": "1-Byte-Script",
+    "raw_hex": "679989545a10525275fb679f0d",
+    "text": "ひっどくせﾜﾍかかるビひウ"
+  },
+  {
+    "bank": "0x4A",
+    "offset": "0x129A59",
+    "bank_offset": "0x1A59",
+    "format": "1-Byte-Script",
+    "raw_hex": "0101ffffffffffffffffffffffffffff0d",
+    "text": "(7(7パパパパパパパパパパパパパパ"
+  },
+  {
+    "bank": "0x4A",
+    "offset": "0x129A70",
+    "bank_offset": "0x1A70",
+    "format": "1-Byte-Script",
+    "raw_hex": "019d599778527c75fb6759f90d",
+    "text": "(7アすぇわかぎるビひすド"
+  },
+  {
+    "bank": "0x4A",
+    "offset": "0x129A7E",
+    "bank_offset": "0x1A7E",
+    "format": "1-Byte-Script",
+    "raw_hex": "0a01695259527d10637163760d9271725f991090655d7d10e2",
+    "text": "!\u0019(7へかすかぐﾜﾍぬゆぬれ\nぺゆよてっﾜﾍ２のちぐﾜﾍヨ"
+  },
+  {
+    "bank": "0x4A",
+    "offset": "0x129A98",
+    "bank_offset": "0x1A98",
+    "format": "1-Byte-Script",
+    "raw_hex": "780d6d6d59527d6578521075fb679f0d",
+    "text": "わ\nむむすかぐのわかﾜﾍるビひウ"
+  },
+  {
+    "bank": "0x4A",
+    "offset": "0x129AA9",
+    "bank_offset": "0x1AA9",
+    "format": "1-Byte-Script",
+    "raw_hex": "0a0161549872965d106d6d5954797d0d63716376109271725f99590de2",
+    "text": "!\u0019(7なくぉよぅちﾜﾍむむすくをぐ\nぬゆぬれﾜﾍぺゆよてっす\nヨ"
+  },
+  {
+    "bank": "0x4A",
+    "offset": "0x129AC7",
+    "bank_offset": "0x1AC7",
+    "format": "1-Byte-Script",
+    "raw_hex": "679989545a10525275fb679f0d",
+    "text": "ひっどくせﾜﾍかかるビひウ"
+  },
+  {
+    "bank": "0x4A",
+    "offset": "0x129ADB",
+    "bank_offset": "0x1ADB",
+    "format": "1-Byte-Script",
+    "raw_hex": "48038b010320",
+    "text": "ョﾘoび(7ﾘoﾉﾕ"
+  },
+  {
+    "bank": "0x4A",
+    "offset": "0x129AE2",
+    "bank_offset": "0x1AE2",
+    "format": "1-Byte-Script",
+    "raw_hex": "078748038b010220",
+    "text": "\u0017\u0000づョﾘoび(7\u0011\u0000ﾉﾕ"
+  },
+  {
+    "bank": "0x4A",
+    "offset": "0x129AEB",
+    "bank_offset": "0x1AEB",
+    "format": "1-Byte-Script",
+    "raw_hex": "06d048190701011a40970397010828",
+    "text": "}!トョAu\u0017\u0000(7(7!\u0006ょぇﾘoぇ(7\u0019ｾ瑁"
+  },
+  {
+    "bank": "0x4A",
+    "offset": "0x129AFB",
+    "bank_offset": "0x1AFB",
+    "format": "1-Byte-Script",
+    "raw_hex": "0163675a7d100863a19f0d7859785910",
+    "text": "(7ぬひせぐﾜﾍ\u0019ｾぬオウ\nわすわすﾜﾍ"
+  },
+  {
+    "bank": "0x4A",
+    "offset": "0x129B0D",
+    "bank_offset": "0x1B0D",
+    "format": "1-Byte-Script",
+    "raw_hex": "5a525275fb679f0d",
+    "text": "せかかるビひウ"
+  },
+  {
+    "bank": "0x4A",
+    "offset": "0x129B16",
+    "bank_offset": "0x1B16",
+    "format": "1-Byte-Script",
+    "raw_hex": "0a016d6d59527cdea5f5",
+    "text": "!\u0019(7むむすかぎメケダ"
+  },
+  {
+    "bank": "0x4A",
+    "offset": "0x129B21",
+    "bank_offset": "0x1B21",
+    "format": "1-Byte-Script",
+    "raw_hex": "7d0de2ec65785210617675fb679f0d9d59988c656d7b9f0d",
+    "text": "ぐ\nヨギのわかﾜﾍなれるビひウ\nアすぉぶのむがウ"
+  },
+  {
+    "bank": "0x4A",
+    "offset": "0x129B3A",
+    "bank_offset": "0x1B3A",
+    "format": "1-Byte-Script",
+    "raw_hex": "0a061449190701011a40970397010628",
+    "text": "!\u0019}!wﾍ「Au\u0017\u0000(7(7!\u0006ょぇﾘoぇ(7}!瑁"
+  },
+  {
+    "bank": "0x4A",
+    "offset": "0x129B4B",
+    "bank_offset": "0x1B4B",
+    "format": "1-Byte-Script",
+    "raw_hex": "018c508c5075fb679f0d0863a19f0d",
+    "text": "(7ぶえぶえるビひウ\n\u0019ｾぬオウ"
+  },
+  {
+    "bank": "0x4A",
+    "offset": "0x129B60",
+    "bank_offset": "0x1B60",
+    "format": "1-Byte-Script",
+    "raw_hex": "016d6d59527cdea5f5",
+    "text": "(7むむすかぎメケダ"
+  },
+  {
+    "bank": "0x4A",
+    "offset": "0x129B6A",
+    "bank_offset": "0x1B6A",
+    "format": "1-Byte-Script",
+    "raw_hex": "7d0d8e9865785210617675fb679f0d9d59988c656d7b9f0d",
+    "text": "ぐ\nぼぉのわかﾜﾍなれるビひウ\nアすぉぶのむがウ"
+  },
+  {
+    "bank": "0x4A",
+    "offset": "0x129B83",
+    "bank_offset": "0x1B83",
+    "format": "1-Byte-Script",
+    "raw_hex": "0a06144919070808010863a19f0d6d6d59527c10",
+    "text": "!\u0019}!wﾍ「Au\u0017\u0000\u0019ｾ\u0019ｾ(7\u0019ｾぬオウ\nむむすかぎﾜﾍ"
+  },
+  {
+    "bank": "0x4A",
+    "offset": "0x129B9A",
+    "bank_offset": "0x1B9A",
+    "format": "1-Byte-Script",
+    "raw_hex": "78520d75fb679f0d",
+    "text": "わか\nるビひウ"
+  },
+  {
+    "bank": "0x4A",
+    "offset": "0x129BA8",
+    "bank_offset": "0x1BA8",
+    "format": "1-Byte-Script",
+    "raw_hex": "0190546761651059a15a56740d6d6d59716d89545a0d525275fb677b9f0d",
+    "text": "(7２くひなのﾜﾍすオせこり\nむむすゆむどくせ\nかかるビひがウ"
+  },
+  {
+    "bank": "0x4A",
+    "offset": "0x129BC7",
+    "bank_offset": "0x1BC7",
+    "format": "1-Byte-Script",
+    "raw_hex": "0a06144901757d100863a10d5aa17e71745d6e63fb529f0d",
+    "text": "!\u0019}!wﾍ「(7るぐﾜﾍ\u0019ｾぬオ\nせオげゆりちめぬビかウ"
+  },
+  {
+    "bank": "0x4A",
+    "offset": "0x129BE6",
+    "bank_offset": "0x1BE6",
+    "format": "1-Byte-Script",
+    "raw_hex": "011e14077001038a010120",
+    "text": "(7珸wﾍ\u0017\u0000や(7ﾘoば(7(7ﾉﾕ"
+  },
+  {
+    "bank": "0x4A",
+    "offset": "0x129BF2",
+    "bank_offset": "0x1BF2",
+    "format": "1-Byte-Script",
+    "raw_hex": "079a01038a010220",
+    "text": "\u0017\u0000　(7ﾘoば(7\u0011\u0000ﾉﾕ"
+  },
+  {
+    "bank": "0x4A",
+    "offset": "0x129BFD",
+    "bank_offset": "0x1BFD",
+    "format": "1-Byte-Script",
+    "raw_hex": "01038a010320",
+    "text": "(7ﾘoば(7ﾘoﾉﾕ"
+  },
+  {
+    "bank": "0x4A",
+    "offset": "0x129C0A",
+    "bank_offset": "0x1C0A",
+    "format": "1-Byte-Script",
+    "raw_hex": "63a1107c76619b860d525b8c6595549f0d",
+    "text": "ぬオﾜﾍぎれなー１\nかそぶのぃくウ"
+  },
+  {
+    "bank": "0x4A",
+    "offset": "0x129C1C",
+    "bank_offset": "0x1C1C",
+    "format": "1-Byte-Script",
+    "raw_hex": "0a07784904878901ff20",
+    "text": "!\u0019\u0017\u0000わ「\u001a<づど(7パﾉﾕ"
+  },
+  {
+    "bank": "0x4A",
+    "offset": "0x129C2E",
+    "bank_offset": "0x1C2E",
+    "format": "1-Byte-Script",
+    "raw_hex": "4901ffffee",
+    "text": "「(7パパゲ"
+  },
+  {
+    "bank": "0x4A",
+    "offset": "0x129C34",
+    "bank_offset": "0x1C34",
+    "format": "1-Byte-Script",
+    "raw_hex": "63a17c0d76619b867d1063715b0d52716d9d7bffff0d",
+    "text": "ぬオぎ\nれなー１ぐﾜﾍぬゆそ\nかゆむアがパパ"
+  },
+  {
+    "bank": "0x4A",
+    "offset": "0x129C4B",
+    "bank_offset": "0x1C4B",
+    "format": "1-Byte-Script",
+    "raw_hex": "0a0189597c80767c1076619b860d525b8c6595549f0d",
+    "text": "!\u0019(7どすぎざれぎﾜﾍれなー１\nかそぶのぃくウ"
+  },
+  {
+    "bank": "0x4A",
+    "offset": "0x129C6F",
+    "bank_offset": "0x1C6F",
+    "format": "1-Byte-Script",
+    "raw_hex": "63a19f0d",
+    "text": "ぬオウ"
+  },
+  {
+    "bank": "0x4A",
+    "offset": "0x129C74",
+    "bank_offset": "0x1C74",
+    "format": "1-Byte-Script",
+    "raw_hex": "05408b01",
+    "text": "(\u0010ょび(7"
+  },
+  {
+    "bank": "0x4A",
+    "offset": "0x129C7A",
+    "bank_offset": "0x1C7A",
+    "format": "1-Byte-Script",
+    "raw_hex": "0165729a52658c679f0d",
+    "text": "(7のよ　かのぶひウ"
+  },
+  {
+    "bank": "0x4A",
+    "offset": "0x129C85",
+    "bank_offset": "0x1C85",
+    "format": "1-Byte-Script",
+    "raw_hex": "0a0587890101",
+    "text": "!\u0019(\u0010づど(7(7"
+  },
+  {
+    "bank": "0x4A",
+    "offset": "0x129C8C",
+    "bank_offset": "0x1C8C",
+    "format": "1-Byte-Script",
+    "raw_hex": "05408a038a010128",
+    "text": "(\u0010ょばﾘoば(7(7瑁"
+  },
+  {
+    "bank": "0x4A",
+    "offset": "0x129C98",
+    "bank_offset": "0x1C98",
+    "format": "1-Byte-Script",
+    "raw_hex": "01080d7879599654f90d",
+    "text": "(7\u0019ｾ\nわをすぅくド"
+  },
+  {
+    "bank": "0x4A",
+    "offset": "0x129CA6",
+    "bank_offset": "0x1CA6",
+    "format": "1-Byte-Script",
+    "raw_hex": "01017d5210ee",
+    "text": "(7(7ぐかﾜﾍゲ"
+  },
+  {
+    "bank": "0x4A",
+    "offset": "0x129CAD",
+    "bank_offset": "0x1CAD",
+    "format": "1-Byte-Script",
+    "raw_hex": "63a19f0d725c7c10635d69a18c75106761650d6659a15a1050526da175679f0d",
+    "text": "ぬオウ\nよたぎﾜﾍぬちへオぶるﾜﾍひなの\nはすオせﾜﾍえかむオるひウ"
+  },
+  {
+    "bank": "0x4A",
+    "offset": "0x129CCE",
+    "bank_offset": "0x1CCE",
+    "format": "1-Byte-Script",
+    "raw_hex": "0a016b617510ee",
+    "text": "!\u0019(7まなるﾜﾍゲ"
+  },
+  {
+    "bank": "0x4A",
+    "offset": "0x129CD6",
+    "bank_offset": "0x1CD6",
+    "format": "1-Byte-Script",
+    "raw_hex": "63a1790d6d6d59527c10a3",
+    "text": "ぬオを\nむむすかぎﾜﾍキ"
+  },
+  {
+    "bank": "0x4A",
+    "offset": "0x129CE5",
+    "bank_offset": "0x1CE5",
+    "format": "1-Byte-Script",
+    "raw_hex": "a00d526d6e615476105890528c65749f0d",
+    "text": "エ\nかむめなくれﾜﾍし２かぶのりウ"
+  },
+  {
+    "bank": "0x4A",
+    "offset": "0x129CFC",
+    "bank_offset": "0x1CFC",
+    "format": "1-Byte-Script",
+    "raw_hex": "016d6d59527c10a3",
+    "text": "(7むむすかぎﾜﾍキ"
+  },
+  {
+    "bank": "0x4A",
+    "offset": "0x129D0C",
+    "bank_offset": "0x1D0C",
+    "format": "1-Byte-Script",
+    "raw_hex": "0a016d6d5952767d105b585d98955d760d7da16ea198955d6e9f0d",
+    "text": "!\u0019(7むむすかれぐﾜﾍそしちぉぃちれ\nぐオめオぉぃちめウ"
+  },
+  {
+    "bank": "0x4A",
+    "offset": "0x129D28",
+    "bank_offset": "0x1D28",
+    "format": "1-Byte-Script",
+    "raw_hex": "0a01619a8c7579107550716d108c907c0d7972527410dd",
+    "text": "!\u0019(7な　ぶるをﾜﾍるえゆむﾜﾍぶ２ぎ\nをよかりﾜﾍム"
+  },
+  {
+    "bank": "0x4A",
+    "offset": "0x129D40",
+    "bank_offset": "0x1D40",
+    "format": "1-Byte-Script",
+    "raw_hex": "5a90a16e52a00d6e6b549f0d",
+    "text": "せ２オめかエ\nめまくウ"
+  },
+  {
+    "bank": "0x4A",
+    "offset": "0x129D50",
+    "bank_offset": "0x1D50",
+    "format": "1-Byte-Script",
+    "raw_hex": "e05a10779a6e5f10588a56740d529959ffff10779a6e5f0d677e925d10616d56979a9959ffff0d",
+    "text": "ヤせﾜﾍろ　めてﾜﾍしばこり\nかっすパパﾜﾍろ　めて\nひげぺちﾜﾍなむこぇ　っすパパ"
+  },
+  {
+    "bank": "0x4A",
+    "offset": "0x129D7B",
+    "bank_offset": "0x1D7B",
+    "format": "1-Byte-Script",
+    "raw_hex": "e07c107c5498955da00d",
+    "text": "ヤぎﾜﾍぎくぉぃちエ"
+  },
+  {
+    "bank": "0x4A",
+    "offset": "0x129D88",
+    "bank_offset": "0x1D88",
+    "format": "1-Byte-Script",
+    "raw_hex": "6574506099969f0d",
+    "text": "のりえとっぅウ"
+  },
+  {
+    "bank": "0x4A",
+    "offset": "0x129D91",
+    "bank_offset": "0x1D91",
+    "format": "1-Byte-Script",
+    "raw_hex": "0a01757d108c68106e52526f90a19f0d",
+    "text": "!\u0019(7るぐﾜﾍぶふﾜﾍめかかも２オウ"
+  },
+  {
+    "bank": "0x4A",
+    "offset": "0x129DA2",
+    "bank_offset": "0x1DA2",
+    "format": "1-Byte-Script",
+    "raw_hex": "0a01725c7c546f10897c585f527c0d6154605b5a765d527810745b7d0d779a6ef90d",
+    "text": "!\u0019(7よたぎくもﾜﾍどぎしてかぎ\nなくとそせれちかわﾜﾍりそぐ\nろ　めド"
+  },
+  {
+    "bank": "0x4A",
+    "offset": "0x129DD1",
+    "bank_offset": "0x1DD1",
+    "format": "1-Byte-Script",
+    "raw_hex": "6695545b",
+    "text": "はぃくそ"
+  },
+  {
+    "bank": "0x4A",
+    "offset": "0x129DDC",
+    "bank_offset": "0x1DDC",
+    "format": "1-Byte-Script",
+    "raw_hex": "ecaba1cea1",
+    "text": "ギソオツオ"
+  },
+  {
+    "bank": "0x4A",
+    "offset": "0x129E0B",
+    "bank_offset": "0x1E0B",
+    "format": "1-Byte-Script",
+    "raw_hex": "75679f0d",
+    "text": "るひウ"
+  },
+  {
+    "bank": "0x4A",
+    "offset": "0x129E15",
+    "bank_offset": "0x1E15",
+    "format": "1-Byte-Script",
+    "raw_hex": "05408b038b010128",
+    "text": "(\u0010ょびﾘoび(7(7瑁"
+  },
+  {
+    "bank": "0x4A",
+    "offset": "0x129E1E",
+    "bank_offset": "0x1E1E",
+    "format": "1-Byte-Script",
+    "raw_hex": "01695259526e9f0d",
+    "text": "(7へかすかめウ"
+  },
+  {
+    "bank": "0x4A",
+    "offset": "0x129E2D",
+    "bank_offset": "0x1E2D",
+    "format": "1-Byte-Script",
+    "raw_hex": "01016695545b",
+    "text": "(7(7はぃくそ"
+  },
+  {
+    "bank": "0x4A",
+    "offset": "0x129E37",
+    "bank_offset": "0x1E37",
+    "format": "1-Byte-Script",
+    "raw_hex": "75679f0d",
+    "text": "るひウ"
+  },
+  {
+    "bank": "0x4A",
+    "offset": "0x129E41",
+    "bank_offset": "0x1E41",
+    "format": "1-Byte-Script",
+    "raw_hex": "016f5a549f0d",
+    "text": "(7もせくウ"
+  },
+  {
+    "bank": "0x4A",
+    "offset": "0x129E48",
+    "bank_offset": "0x1E48",
+    "format": "1-Byte-Script",
+    "raw_hex": "0a01695259527d10",
+    "text": "!\u0019(7へかすかぐﾜﾍ"
+  },
+  {
+    "bank": "0x4A",
+    "offset": "0x129E63",
+    "bank_offset": "0x1E63",
+    "format": "1-Byte-Script",
+    "raw_hex": "ecaba1cea175679f0d",
+    "text": "ギソオツオるひウ"
+  },
+  {
+    "bank": "0x4A",
+    "offset": "0x129E72",
+    "bank_offset": "0x1E72",
+    "format": "1-Byte-Script",
+    "raw_hex": "016f5a549f0d",
+    "text": "(7もせくウ"
+  },
+  {
+    "bank": "0x4A",
+    "offset": "0x129E79",
+    "bank_offset": "0x1E79",
+    "format": "1-Byte-Script",
+    "raw_hex": "0a01695259527d10",
+    "text": "!\u0019(7へかすかぐﾜﾍ"
+  },
+  {
+    "bank": "0x4A",
+    "offset": "0x129E91",
+    "bank_offset": "0x1E91",
+    "format": "1-Byte-Script",
+    "raw_hex": "0101ffffffffffffffffffffffff0d",
+    "text": "(7(7パパパパパパパパパパパパ"
+  },
+  {
+    "bank": "0x4A",
+    "offset": "0x129EA6",
+    "bank_offset": "0x1EA6",
+    "format": "1-Byte-Script",
+    "raw_hex": "019d599778527c59ffff0d",
+    "text": "(7アすぇわかぎすパパ"
+  },
+  {
+    "bank": "0x4A",
+    "offset": "0x129EB2",
+    "bank_offset": "0x1EB2",
+    "format": "1-Byte-Script",
+    "raw_hex": "0a01695259527d10",
+    "text": "!\u0019(7へかすかぐﾜﾍ"
+  },
+  {
+    "bank": "0x4A",
+    "offset": "0x129EC8",
+    "bank_offset": "0x1EC8",
+    "format": "1-Byte-Script",
+    "raw_hex": "01725c106e527990a19f0d",
+    "text": "(7よたﾜﾍめかを２オウ"
+  },
+  {
+    "bank": "0x4A",
+    "offset": "0x129ED4",
+    "bank_offset": "0x1ED4",
+    "format": "1-Byte-Script",
+    "raw_hex": "0a01725c7c546f0d69715ba169a179107296520d745b7d779a6ef90d",
+    "text": "!\u0019(7よたぎくも\nへゆそオへオをﾜﾍよぅか\nりそぐろ　めド"
+  },
+  {
+    "bank": "0x4A",
+    "offset": "0x129EF1",
+    "bank_offset": "0x1EF1",
+    "format": "1-Byte-Script",
+    "raw_hex": "0a1606039d5b66dd",
+    "text": "!\u0019!\u0004}!ﾘoアそはム"
+  },
+  {
+    "bank": "0x4A",
+    "offset": "0x129EFE",
+    "bank_offset": "0x1EFE",
+    "format": "1-Byte-Script",
+    "raw_hex": "6695545b8954",
+    "text": "はぃくそどく"
+  },
+  {
+    "bank": "0x4A",
+    "offset": "0x129F07",
+    "bank_offset": "0x1F07",
+    "format": "1-Byte-Script",
+    "raw_hex": "ebe259a1",
+    "text": "ガヨすオ"
+  },
+  {
+    "bank": "0x4A",
+    "offset": "0x129F28",
+    "bank_offset": "0x1F28",
+    "format": "1-Byte-Script",
+    "raw_hex": "06024d0f",
+    "text": "}!\u0011\u0000あ\u0003\u0018"
+  },
+  {
+    "bank": "0x4A",
+    "offset": "0x129F2D",
+    "bank_offset": "0x1F2D",
+    "format": "1-Byte-Script",
+    "raw_hex": "01019d5b66dd",
+    "text": "(7(7アそはム"
+  },
+  {
+    "bank": "0x4A",
+    "offset": "0x129F35",
+    "bank_offset": "0x1F35",
+    "format": "1-Byte-Script",
+    "raw_hex": "fb75679f0d",
+    "text": "ビるひウ"
+  },
+  {
+    "bank": "0x4A",
+    "offset": "0x129F40",
+    "bank_offset": "0x1F40",
+    "format": "1-Byte-Script",
+    "raw_hex": "05408b038b010128",
+    "text": "(\u0010ょびﾘoび(7(7瑁"
+  },
+  {
+    "bank": "0x4A",
+    "offset": "0x129F49",
+    "bank_offset": "0x1F49",
+    "format": "1-Byte-Script",
+    "raw_hex": "01695259526e9f0d",
+    "text": "(7へかすかめウ"
+  },
+  {
+    "bank": "0x4A",
+    "offset": "0x129F58",
+    "bank_offset": "0x1F58",
+    "format": "1-Byte-Script",
+    "raw_hex": "01016695545b895475679f0d",
+    "text": "(7(7はぃくそどくるひウ"
+  },
+  {
+    "bank": "0x4A",
+    "offset": "0x129F6A",
+    "bank_offset": "0x1F6A",
+    "format": "1-Byte-Script",
+    "raw_hex": "016f5a549f0d",
+    "text": "(7もせくウ"
+  },
+  {
+    "bank": "0x4A",
+    "offset": "0x129F71",
+    "bank_offset": "0x1F71",
+    "format": "1-Byte-Script",
+    "raw_hex": "0a01695259527d0d9d5b66dd",
+    "text": "!\u0019(7へかすかぐ\nアそはム"
+  },
+  {
+    "bank": "0x4A",
+    "offset": "0x129F7F",
+    "bank_offset": "0x1F7F",
+    "format": "1-Byte-Script",
+    "raw_hex": "fb6e9f0d",
+    "text": "ビめウ"
+  },
+  {
+    "bank": "0x4A",
+    "offset": "0x129F8D",
+    "bank_offset": "0x1F8D",
+    "format": "1-Byte-Script",
+    "raw_hex": "ebe259a175679f0d",
+    "text": "ガヨすオるひウ"
+  },
+  {
+    "bank": "0x4A",
+    "offset": "0x129F9B",
+    "bank_offset": "0x1F9B",
+    "format": "1-Byte-Script",
+    "raw_hex": "016f5a549f0d",
+    "text": "(7もせくウ"
+  },
+  {
+    "bank": "0x4A",
+    "offset": "0x129FA2",
+    "bank_offset": "0x1FA2",
+    "format": "1-Byte-Script",
+    "raw_hex": "0a01695259527d0d9d5b66dd",
+    "text": "!\u0019(7へかすかぐ\nアそはム"
+  },
+  {
+    "bank": "0x4A",
+    "offset": "0x129FB0",
+    "bank_offset": "0x1FB0",
+    "format": "1-Byte-Script",
+    "raw_hex": "fb6e9f0d",
+    "text": "ビめウ"
+  },
+  {
+    "bank": "0x4A",
+    "offset": "0x129FBB",
+    "bank_offset": "0x1FBB",
+    "format": "1-Byte-Script",
+    "raw_hex": "0101ffffffffffffffffffffffff0d",
+    "text": "(7(7パパパパパパパパパパパパ"
+  },
+  {
+    "bank": "0x4A",
+    "offset": "0x129FD0",
+    "bank_offset": "0x1FD0",
+    "format": "1-Byte-Script",
+    "raw_hex": "019d599778527c59ffff0d",
+    "text": "(7アすぇわかぎすパパ"
+  },
+  {
+    "bank": "0x4A",
+    "offset": "0x129FDC",
+    "bank_offset": "0x1FDC",
+    "format": "1-Byte-Script",
+    "raw_hex": "0a01695259527d0d9d5b66dd",
+    "text": "!\u0019(7へかすかぐ\nアそはム"
+  },
+  {
+    "bank": "0x4A",
+    "offset": "0x129FEA",
+    "bank_offset": "0x1FEA",
+    "format": "1-Byte-Script",
+    "raw_hex": "fb6e9f0d",
+    "text": "ビめウ"
+  },
+  {
+    "bank": "0x4A",
+    "offset": "0x129FF2",
+    "bank_offset": "0x1FF2",
+    "format": "1-Byte-Script",
+    "raw_hex": "4d01725c106e5263a190a19f0d",
+    "text": "あ(7よたﾜﾍめかぬオ２オウ"
+  },
+  {
+    "bank": "0x4A",
+    "offset": "0x12A000",
+    "bank_offset": "0x2000",
+    "format": "1-Byte-Script",
+    "raw_hex": "0a01725c7c546f0d67526f93547565937260a16578520d745b7d779a6ef90d",
+    "text": "!\u0019(7よたぎくも\nひかもぽくるのぽよとオのわか\nりそぐろ　めド"
+  },
+  {
+    "bank": "0x4A",
+    "offset": "0x12A020",
+    "bank_offset": "0x2020",
+    "format": "1-Byte-Script",
+    "raw_hex": "0a16060350655a999d5b66",
+    "text": "!\u0019!\u0004}!ﾘoえのせっアそは"
+  },
+  {
+    "bank": "0x4A",
+    "offset": "0x12A036",
+    "bank_offset": "0x2036",
+    "format": "1-Byte-Script",
+    "raw_hex": "019d5b66dfec",
+    "text": "(7アそはモギ"
+  },
+  {
+    "bank": "0x4A",
+    "offset": "0x12A03F",
+    "bank_offset": "0x203F",
+    "format": "1-Byte-Script",
+    "raw_hex": "0207a74d020101",
+    "text": "\u0011\u0000\u0017\u0000サあ\u0011\u0000(7(7"
+  },
+  {
+    "bank": "0x4A",
+    "offset": "0x12A049",
+    "bank_offset": "0x2049",
+    "format": "1-Byte-Script",
+    "raw_hex": "07d24d0201010120",
+    "text": "\u0017\u0000ニあ\u0011\u0000(7(7(7ﾉﾕ"
+  },
+  {
+    "bank": "0x4A",
+    "offset": "0x12A052",
+    "bank_offset": "0x2052",
+    "format": "1-Byte-Script",
+    "raw_hex": "07064e0201010220",
+    "text": "\u0017\u0000}!い\u0011\u0000(7(7\u0011\u0000ﾉﾕ"
+  },
+  {
+    "bank": "0x4A",
+    "offset": "0x12A060",
+    "bank_offset": "0x2060",
+    "format": "1-Byte-Script",
+    "raw_hex": "010150655a999d5b6675679f0d",
+    "text": "(7(7えのせっアそはるひウ"
+  },
+  {
+    "bank": "0x4A",
+    "offset": "0x12A073",
+    "bank_offset": "0x2073",
+    "format": "1-Byte-Script",
+    "raw_hex": "05408b038b010128",
+    "text": "(\u0010ょびﾘoび(7(7瑁"
+  },
+  {
+    "bank": "0x4A",
+    "offset": "0x12A07C",
+    "bank_offset": "0x207C",
+    "format": "1-Byte-Script",
+    "raw_hex": "01695259526e9f0d",
+    "text": "(7へかすかめウ"
+  },
+  {
+    "bank": "0x4A",
+    "offset": "0x12A085",
+    "bank_offset": "0x2085",
+    "format": "1-Byte-Script",
+    "raw_hex": "0a06734e0f",
+    "text": "!\u0019}!らい\u0003\u0018"
+  },
+  {
+    "bank": "0x4A",
+    "offset": "0x12A08B",
+    "bank_offset": "0x208B",
+    "format": "1-Byte-Script",
+    "raw_hex": "010161548c",
+    "text": "(7(7なくぶ"
+  },
+  {
+    "bank": "0x4A",
+    "offset": "0x12A094",
+    "bank_offset": "0x2094",
+    "format": "1-Byte-Script",
+    "raw_hex": "fb75679f0d",
+    "text": "ビるひウ"
+  },
+  {
+    "bank": "0x4A",
+    "offset": "0x12A09F",
+    "bank_offset": "0x209F",
+    "format": "1-Byte-Script",
+    "raw_hex": "016f5a549f0d",
+    "text": "(7もせくウ"
+  },
+  {
+    "bank": "0x4A",
+    "offset": "0x12A0A6",
+    "bank_offset": "0x20A6",
+    "format": "1-Byte-Script",
+    "raw_hex": "0a01695259527d0d50655a999d5b666e9f0d",
+    "text": "!\u0019(7へかすかぐ\nえのせっアそはめウ"
+  },
+  {
+    "bank": "0x4A",
+    "offset": "0x12A0B9",
+    "bank_offset": "0x20B9",
+    "format": "1-Byte-Script",
+    "raw_hex": "0a06734e0f",
+    "text": "!\u0019}!らい\u0003\u0018"
+  },
+  {
+    "bank": "0x4A",
+    "offset": "0x12A0BF",
+    "bank_offset": "0x20BF",
+    "format": "1-Byte-Script",
+    "raw_hex": "01019d5b66dfec",
+    "text": "(7(7アそはモギ"
+  },
+  {
+    "bank": "0x4A",
+    "offset": "0x12A0C7",
+    "bank_offset": "0x20C7",
+    "format": "1-Byte-Script",
+    "raw_hex": "fb75679f0d",
+    "text": "ビるひウ"
+  },
+  {
+    "bank": "0x4A",
+    "offset": "0x12A0D2",
+    "bank_offset": "0x20D2",
+    "format": "1-Byte-Script",
+    "raw_hex": "016f5a549f0d",
+    "text": "(7もせくウ"
+  },
+  {
+    "bank": "0x4A",
+    "offset": "0x12A0D9",
+    "bank_offset": "0x20D9",
+    "format": "1-Byte-Script",
+    "raw_hex": "0a01695259527d0d50655a999d5b666e9f0d",
+    "text": "!\u0019(7へかすかぐ\nえのせっアそはめウ"
+  },
+  {
+    "bank": "0x4A",
+    "offset": "0x12A0EC",
+    "bank_offset": "0x20EC",
+    "format": "1-Byte-Script",
+    "raw_hex": "0a06734e0f",
+    "text": "!\u0019}!らい\u0003\u0018"
+  },
+  {
+    "bank": "0x4A",
+    "offset": "0x12A0F2",
+    "bank_offset": "0x20F2",
+    "format": "1-Byte-Script",
+    "raw_hex": "0101ffffffffffffffffffffffff0d",
+    "text": "(7(7パパパパパパパパパパパパ"
+  },
+  {
+    "bank": "0x4A",
+    "offset": "0x12A107",
+    "bank_offset": "0x2107",
+    "format": "1-Byte-Script",
+    "raw_hex": "019d599778527c59ffff0d",
+    "text": "(7アすぇわかぎすパパ"
+  },
+  {
+    "bank": "0x4A",
+    "offset": "0x12A113",
+    "bank_offset": "0x2113",
+    "format": "1-Byte-Script",
+    "raw_hex": "0a01695259527d0d50655a999d5b666e9f0d",
+    "text": "!\u0019(7へかすかぐ\nえのせっアそはめウ"
+  },
+  {
+    "bank": "0x4A",
+    "offset": "0x12A126",
+    "bank_offset": "0x2126",
+    "format": "1-Byte-Script",
+    "raw_hex": "0a06734e07884e038b010320",
+    "text": "!\u0019}!らい\u0017\u0000でいﾘoび(7ﾘoﾉﾕ"
+  },
+  {
+    "bank": "0x4A",
+    "offset": "0x12A135",
+    "bank_offset": "0x2135",
+    "format": "1-Byte-Script",
+    "raw_hex": "4e038b010220",
+    "text": "いﾘoび(7\u0011\u0000ﾉﾕ"
+  },
+  {
+    "bank": "0x4A",
+    "offset": "0x12A13C",
+    "bank_offset": "0x213C",
+    "format": "1-Byte-Script",
+    "raw_hex": "06054f190801011a40980398010828",
+    "text": "}!(\u0010うAu\u0019ｾ(7(7!\u0006ょぉﾘoぉ(7\u0019ｾ瑁"
+  },
+  {
+    "bank": "0x4A",
+    "offset": "0x12A14C",
+    "bank_offset": "0x214C",
+    "format": "1-Byte-Script",
+    "raw_hex": "019299669178529f089f0d",
+    "text": "(7ぺっはぷわかウ\u0019ｾウ"
+  },
+  {
+    "bank": "0x4A",
+    "offset": "0x12A158",
+    "bank_offset": "0x2158",
+    "format": "1-Byte-Script",
+    "raw_hex": "0a015b585d98955d760d7da16ea198955d9f0d6b9a5a10dea5f5",
+    "text": "!\u0019(7そしちぉぃちれ\nぐオめオぉぃちウ\nま　せﾜﾍメケダ"
+  },
+  {
+    "bank": "0x4A",
+    "offset": "0x12A17F",
+    "bank_offset": "0x217F",
+    "format": "1-Byte-Script",
+    "raw_hex": "1a40980398010628",
+    "text": "!\u0006ょぉﾘoぉ(7}!瑁"
+  },
+  {
+    "bank": "0x4A",
+    "offset": "0x12A188",
+    "bank_offset": "0x2188",
+    "format": "1-Byte-Script",
+    "raw_hex": "018c501061a178907c599f0d",
+    "text": "(7ぶえﾜﾍなオわ２ぎすウ"
+  },
+  {
+    "bank": "0x4A",
+    "offset": "0x12A19A",
+    "bank_offset": "0x219A",
+    "format": "1-Byte-Script",
+    "raw_hex": "015b585d98955d760d7da16ea198955d9f0d6b9a5a10dea5f5",
+    "text": "(7そしちぉぃちれ\nぐオめオぉぃちウ\nま　せﾜﾍメケダ"
+  },
+  {
+    "bank": "0x4A",
+    "offset": "0x12A1C2",
+    "bank_offset": "0x21C2",
+    "format": "1-Byte-Script",
+    "raw_hex": "e36e789f0d",
+    "text": "ラめわウ"
+  },
+  {
+    "bank": "0x4A",
+    "offset": "0x12A1CD",
+    "bank_offset": "0x21CD",
+    "format": "1-Byte-Script",
+    "raw_hex": "015b585d98955d760d7da16ea198955d9f0d6b9a5a10dea5f5",
+    "text": "(7そしちぉぃちれ\nぐオめオぉぃちウ\nま　せﾜﾍメケダ"
+  },
+  {
+    "bank": "0x4A",
+    "offset": "0x12A1EE",
+    "bank_offset": "0x21EE",
+    "format": "1-Byte-Script",
+    "raw_hex": "4f01669150105aa17e9a9f0d",
+    "text": "う(7はぷえﾜﾍせオげ　ウ"
+  },
+  {
+    "bank": "0x4A",
+    "offset": "0x12A201",
+    "bank_offset": "0x2201",
+    "format": "1-Byte-Script",
+    "raw_hex": "011e14077001038a010120",
+    "text": "(7珸wﾍ\u0017\u0000や(7ﾘoば(7(7ﾉﾕ"
+  },
+  {
+    "bank": "0x4A",
+    "offset": "0x12A20D",
+    "bank_offset": "0x220D",
+    "format": "1-Byte-Script",
+    "raw_hex": "079a01038a010220",
+    "text": "\u0017\u0000　(7ﾘoば(7\u0011\u0000ﾉﾕ"
+  },
+  {
+    "bank": "0x4A",
+    "offset": "0x12A218",
+    "bank_offset": "0x2218",
+    "format": "1-Byte-Script",
+    "raw_hex": "01038a010320",
+    "text": "(7ﾘoば(7ﾘoﾉﾕ"
+  },
+  {
+    "bank": "0x4A",
+    "offset": "0x12A220",
+    "bank_offset": "0x2220",
+    "format": "1-Byte-Script",
+    "raw_hex": "0e0b1218020756",
+    "text": "\u0003\u0003\u0000\u0019!\u0003wﾍ\u0011\u0000\u0017\u0000こ"
+  },
+  {
+    "bank": "0x4A",
+    "offset": "0x12A240",
+    "bank_offset": "0x2240",
+    "format": "1-Byte-Script",
+    "raw_hex": "075a010206010320",
+    "text": "\u0017\u0000せ(7\u0011\u0000}!(7ﾘoﾉﾕ"
+  },
+  {
+    "bank": "0x4A",
+    "offset": "0x12A252",
+    "bank_offset": "0x2252",
+    "format": "1-Byte-Script",
+    "raw_hex": "07fc010206010520",
+    "text": "\u0017\u0000ブ(7\u0011\u0000}!(7(\u0010ﾉﾕ"
+  },
+  {
+    "bank": "0x4A",
+    "offset": "0x12A25B",
+    "bank_offset": "0x225B",
+    "format": "1-Byte-Script",
+    "raw_hex": "074e020206010620",
+    "text": "\u0017\u0000い\u0011\u0000\u0011\u0000}!(7}!ﾉﾕ"
+  },
+  {
+    "bank": "0x4A",
+    "offset": "0x12A264",
+    "bank_offset": "0x2264",
+    "format": "1-Byte-Script",
+    "raw_hex": "079d020206010720",
+    "text": "\u0017\u0000ア\u0011\u0000\u0011\u0000}!(7\u0017\u0000ﾉﾕ"
+  },
+  {
+    "bank": "0x4A",
+    "offset": "0x12A26D",
+    "bank_offset": "0x226D",
+    "format": "1-Byte-Script",
+    "raw_hex": "07f2020206010820",
+    "text": "\u0017\u0000ズ\u0011\u0000\u0011\u0000}!(7\u0019ｾﾉﾕ"
+  },
+  {
+    "bank": "0x4A",
+    "offset": "0x12A276",
+    "bank_offset": "0x2276",
+    "format": "1-Byte-Script",
+    "raw_hex": "1909010101085da19f0d61a1927d10785978590d5b906f7c52521096996e9f0d",
+    "text": "Au(\r(7(7(7\u0019ｾちオウ\nなオぺぐﾜﾍわすわす\nそ２もぎかかﾜﾍぅっめウ"
+  },
+  {
+    "bank": "0x4A",
+    "offset": "0x12A297",
+    "bank_offset": "0x2297",
+    "format": "1-Byte-Script",
+    "raw_hex": "0a018da178107859799d750d6768a175529959970d085da190105261549f0d",
+    "text": "!\u0019(7べオわﾜﾍわすをアる\nひふオるかっすぇ\n\u0019ｾちオ２ﾜﾍかなくウ"
+  },
+  {
+    "bank": "0x4A",
+    "offset": "0x12A2BA",
+    "bank_offset": "0x22BA",
+    "format": "1-Byte-Script",
+    "raw_hex": "01017d529f0d",
+    "text": "(7(7ぐかウ"
+  },
+  {
+    "bank": "0x4A",
+    "offset": "0x12A2C9",
+    "bank_offset": "0x22C9",
+    "format": "1-Byte-Script",
+    "raw_hex": "19010101010863a19f0d5b95547d105b906f7c52520d96997567969f0d",
+    "text": "Au(7(7(7(7\u0019ｾぬオウ\nそぃくぐﾜﾍそ２もぎかか\nぅっるひぅウ"
+  },
+  {
+    "bank": "0x4A",
+    "offset": "0x12A2E7",
+    "bank_offset": "0x22E7",
+    "format": "1-Byte-Script",
+    "raw_hex": "0a018da178107859799d75106768a1750d528c675997100863a1900d525b8c659554969f0d",
+    "text": "!\u0019(7べオわﾜﾍわすをアるﾜﾍひふオる\nかぶひすぇﾜﾍ\u0019ｾぬオ２\nかそぶのぃくぅウ"
+  },
+  {
+    "bank": "0x4A",
+    "offset": "0x12A310",
+    "bank_offset": "0x2310",
+    "format": "1-Byte-Script",
+    "raw_hex": "01017d529f0d",
+    "text": "(7(7ぐかウ"
+  },
+  {
+    "bank": "0x4A",
+    "offset": "0x12A31F",
+    "bank_offset": "0x231F",
+    "format": "1-Byte-Script",
+    "raw_hex": "19020101010863a19f0d61a1927d10785978590d5b906f7c525210969975679d9f0d",
+    "text": "Au\u0011\u0000(7(7(7\u0019ｾぬオウ\nなオぺぐﾜﾍわすわす\nそ２もぎかかﾜﾍぅっるひアウ"
+  },
+  {
+    "bank": "0x4A",
+    "offset": "0x12A342",
+    "bank_offset": "0x2342",
+    "format": "1-Byte-Script",
+    "raw_hex": "0a018da178107859799d75106768a1750d528c677c969f0863a1900d525b8c679d967b9f0d",
+    "text": "!\u0019(7べオわﾜﾍわすをアるﾜﾍひふオる\nかぶひぎぅウ\u0019ｾぬオ２\nかそぶひアぅがウ"
+  },
+  {
+    "bank": "0x4A",
+    "offset": "0x12A36B",
+    "bank_offset": "0x236B",
+    "format": "1-Byte-Script",
+    "raw_hex": "01017d529f0d",
+    "text": "(7(7ぐかウ"
+  },
+  {
+    "bank": "0x4A",
+    "offset": "0x12A37A",
+    "bank_offset": "0x237A",
+    "format": "1-Byte-Script",
+    "raw_hex": "1903030301085da19f0d61a1927d10785978590d5b906f7c5252109699969f0d",
+    "text": "Auﾘoﾘoﾘo(7\u0019ｾちオウ\nなオぺぐﾜﾍわすわす\nそ２もぎかかﾜﾍぅっぅウ"
+  },
+  {
+    "bank": "0x4A",
+    "offset": "0x12A39B",
+    "bank_offset": "0x239B",
+    "format": "1-Byte-Script",
+    "raw_hex": "0a018da178107859799d75106768a1750d5299599710085da1900d525b8c6595549f0d",
+    "text": "!\u0019(7べオわﾜﾍわすをアるﾜﾍひふオる\nかっすぇﾜﾍ\u0019ｾちオ２\nかそぶのぃくウ"
+  },
+  {
+    "bank": "0x4A",
+    "offset": "0x12A3C2",
+    "bank_offset": "0x23C2",
+    "format": "1-Byte-Script",
+    "raw_hex": "01017d529f0d",
+    "text": "(7(7ぐかウ"
+  },
+  {
+    "bank": "0x4A",
+    "offset": "0x12A3D1",
+    "bank_offset": "0x23D1",
+    "format": "1-Byte-Script",
+    "raw_hex": "190401010108fa0d61a1927d10586b765a0d5b906f5252969f0d",
+    "text": "Au\u001a<(7(7(7\u0019ｾバ\nなオぺぐﾜﾍしまれせ\nそ２もかかぅウ"
+  },
+  {
+    "bank": "0x4A",
+    "offset": "0x12A3EC",
+    "bank_offset": "0x23EC",
+    "format": "1-Byte-Script",
+    "raw_hex": "0a018da178107859799d750d6768a175529959970d0890105261549f0d",
+    "text": "!\u0019(7べオわﾜﾍわすをアる\nひふオるかっすぇ\n\u0019ｾ２ﾜﾍかなくウ"
+  },
+  {
+    "bank": "0x4A",
+    "offset": "0x12A40D",
+    "bank_offset": "0x240D",
+    "format": "1-Byte-Script",
+    "raw_hex": "010154a1fa0d",
+    "text": "(7(7くオバ"
+  },
+  {
+    "bank": "0x4A",
+    "offset": "0x12A41C",
+    "bank_offset": "0x241C",
+    "format": "1-Byte-Script",
+    "raw_hex": "1905010101087da19f0d61a1927d10785978590d5b906f7ca9a9109699929f0d",
+    "text": "Au(\u0010(7(7(7\u0019ｾぐオウ\nなオぺぐﾜﾍわすわす\nそ２もぎススﾜﾍぅっぺウ"
+  },
+  {
+    "bank": "0x4A",
+    "offset": "0x12A43D",
+    "bank_offset": "0x243D",
+    "format": "1-Byte-Script",
+    "raw_hex": "0a018da178107859799d750d6768a1759959970d087da190105261549f0d",
+    "text": "!\u0019(7べオわﾜﾍわすをアる\nひふオるっすぇ\n\u0019ｾぐオ２ﾜﾍかなくウ"
+  },
+  {
+    "bank": "0x4A",
+    "offset": "0x12A45F",
+    "bank_offset": "0x245F",
+    "format": "1-Byte-Script",
+    "raw_hex": "01017d529f0d",
+    "text": "(7(7ぐかウ"
+  },
+  {
+    "bank": "0x4A",
+    "offset": "0x12A46E",
+    "bank_offset": "0x246E",
+    "format": "1-Byte-Script",
+    "raw_hex": "190601010196541008fa0d61a1927d106b767c596a5a0d5b906f52526a9f0d",
+    "text": "Au}!(7(7(7ぅくﾜﾍ\u0019ｾバ\nなオぺぐﾜﾍまれぎすほせ\nそ２もかかほウ"
+  },
+  {
+    "bank": "0x4A",
+    "offset": "0x12A48E",
+    "bank_offset": "0x248E",
+    "format": "1-Byte-Script",
+    "raw_hex": "0a018da178107859799d750d6768a175995997105261546a0d089f0d",
+    "text": "!\u0019(7べオわﾜﾍわすをアる\nひふオるっすぇﾜﾍかなくほ\n\u0019ｾウ"
+  },
+  {
+    "bank": "0x4A",
+    "offset": "0x12A4AE",
+    "bank_offset": "0x24AE",
+    "format": "1-Byte-Script",
+    "raw_hex": "01017d52fa0d",
+    "text": "(7(7ぐかバ"
+  },
+  {
+    "bank": "0x4A",
+    "offset": "0x12A4BD",
+    "bank_offset": "0x24BD",
+    "format": "1-Byte-Script",
+    "raw_hex": "19070101010863a19f0d5b95547d105b906f7c52520d969975fb679f0d",
+    "text": "Au\u0017\u0000(7(7(7\u0019ｾぬオウ\nそぃくぐﾜﾍそ２もぎかか\nぅっるビひウ"
+  },
+  {
+    "bank": "0x4A",
+    "offset": "0x12A4DB",
+    "bank_offset": "0x24DB",
+    "format": "1-Byte-Script",
+    "raw_hex": "0a018da178107859799d75106768a1750d528cfb679f100863a1900d525b8c6595fb9f0d",
+    "text": "!\u0019(7べオわﾜﾍわすをアるﾜﾍひふオる\nかぶビひウﾜﾍ\u0019ｾぬオ２\nかそぶのぃビウ"
+  },
+  {
+    "bank": "0x4A",
+    "offset": "0x12A503",
+    "bank_offset": "0x2503",
+    "format": "1-Byte-Script",
+    "raw_hex": "01017d52fa0d",
+    "text": "(7(7ぐかバ"
+  },
+  {
+    "bank": "0x4A",
+    "offset": "0x12A512",
+    "bank_offset": "0x2512",
+    "format": "1-Byte-Script",
+    "raw_hex": "1908010101089f0d61a1927d106768655d740d6b765a105b906f52529f0d",
+    "text": "Au\u0019ｾ(7(7(7\u0019ｾウ\nなオぺぐﾜﾍひふのちり\nまれせﾜﾍそ２もかかウ"
+  },
+  {
+    "bank": "0x4A",
+    "offset": "0x12A531",
+    "bank_offset": "0x2531",
+    "format": "1-Byte-Script",
+    "raw_hex": "0a018da178107859799d75100d6768a17552999f100d0890105261540d",
+    "text": "!\u0019(7べオわﾜﾍわすをアるﾜﾍ\nひふオるかっウﾜﾍ\n\u0019ｾ２ﾜﾍかなく"
+  },
+  {
+    "bank": "0x4A",
+    "offset": "0x12A552",
+    "bank_offset": "0x2552",
+    "format": "1-Byte-Script",
+    "raw_hex": "01017d529f0d",
+    "text": "(7(7ぐかウ"
+  },
+  {
+    "bank": "0x4A",
+    "offset": "0x12A561",
+    "bank_offset": "0x2561",
+    "format": "1-Byte-Script",
+    "raw_hex": "1e1c19010101015b9a52781089656c971075677b9f0d",
+    "text": "珸w\u0018Au(7(7(7(7そ　かわﾜﾍどのみぇﾜﾍるひがウ"
+  },
+  {
+    "bank": "0x4A",
+    "offset": "0x12A57D",
+    "bank_offset": "0x257D",
+    "format": "1-Byte-Script",
+    "raw_hex": "016b547bffff0d",
+    "text": "(7まくがパパ"
+  },
+  {
+    "bank": "0x4A",
+    "offset": "0x12A585",
+    "bank_offset": "0x2585",
+    "format": "1-Byte-Script",
+    "raw_hex": "0a19040606015071fa10785a9a8a65fafa0d",
+    "text": "!\u0019Au\u001a<}!}!(7えゆバﾜﾍわせ　ばのババ"
+  },
+  {
+    "bank": "0x4A",
+    "offset": "0x12A59D",
+    "bank_offset": "0x259D",
+    "format": "1-Byte-Script",
+    "raw_hex": "017b5a52627610679975fb67fafa0d",
+    "text": "(7がせかにれﾜﾍひっるビひババ"
+  },
+  {
+    "bank": "0x4A",
+    "offset": "0x12A5B4",
+    "bank_offset": "0x25B4",
+    "format": "1-Byte-Script",
+    "raw_hex": "01ffffffffffffffffffffffff0d",
+    "text": "(7パパパパパパパパパパパパ"
+  },
+  {
+    "bank": "0x4A",
+    "offset": "0x12A5C3",
+    "bank_offset": "0x25C3",
+    "format": "1-Byte-Script",
+    "raw_hex": "0a1906010101089f0d7879a010587b5a52656da16ef90d",
+    "text": "!\u0019Au}!(7(7(7\u0019ｾウ\nわをエﾜﾍしがせかのむオめド"
+  },
+  {
+    "bank": "0x4A",
+    "offset": "0x12A5DB",
+    "bank_offset": "0x25DB",
+    "format": "1-Byte-Script",
+    "raw_hex": "0a1605037452767c86529d",
+    "text": "!\u0019!\u0004(\u0010ﾘoりかれぎ１かア"
+  },
+  {
+    "bank": "0x4A",
+    "offset": "0x12A5E8",
+    "bank_offset": "0x25E8",
+    "format": "1-Byte-Script",
+    "raw_hex": "505999528d9752",
+    "text": "えすっかべぇか"
+  },
+  {
+    "bank": "0x4A",
+    "offset": "0x12A5F0",
+    "bank_offset": "0x25F0",
+    "format": "1-Byte-Script",
+    "raw_hex": "015fa16154",
+    "text": "(7てオなく"
+  },
+  {
+    "bank": "0x4A",
+    "offset": "0x12A5F6",
+    "bank_offset": "0x25F6",
+    "format": "1-Byte-Script",
+    "raw_hex": "0207f503020101",
+    "text": "\u0011\u0000\u0017\u0000ダﾘo\u0011\u0000(7(7"
+  },
+  {
+    "bank": "0x4A",
+    "offset": "0x12A609",
+    "bank_offset": "0x2609",
+    "format": "1-Byte-Script",
+    "raw_hex": "0767060201010220",
+    "text": "\u0017\u0000ひ}!\u0011\u0000(7(7\u0011\u0000ﾉﾕ"
+  },
+  {
+    "bank": "0x4A",
+    "offset": "0x12A612",
+    "bank_offset": "0x2612",
+    "format": "1-Byte-Script",
+    "raw_hex": "06fd070f",
+    "text": "}!ベ\u0017\u0000\u0003\u0018"
+  },
+  {
+    "bank": "0x4A",
+    "offset": "0x12A617",
+    "bank_offset": "0x2617",
+    "format": "1-Byte-Script",
+    "raw_hex": "01017452765a1086529d750d50988c67965479ffff1071740d587b5a52658c656d9f0d",
+    "text": "(7(7りかれせﾜﾍ１かアる\nえぉぶひぅくをパパﾜﾍゆり\nしがせかのぶのむウ"
+  },
+  {
+    "bank": "0x4A",
+    "offset": "0x12A63B",
+    "bank_offset": "0x263B",
+    "format": "1-Byte-Script",
+    "raw_hex": "0a190101011a40910391010828",
+    "text": "!\u0019Au(7(7(7!\u0006ょぷﾘoぷ(7\u0019ｾ瑁"
+  },
+  {
+    "bank": "0x4A",
+    "offset": "0x12A649",
+    "bank_offset": "0x2649",
+    "format": "1-Byte-Script",
+    "raw_hex": "010863a10d506d6576105271659575679f0d",
+    "text": "(7\u0019ｾぬオ\nえむのれﾜﾍかゆのぃるひウ"
+  },
+  {
+    "bank": "0x4A",
+    "offset": "0x12A65C",
+    "bank_offset": "0x265C",
+    "format": "1-Byte-Script",
+    "raw_hex": "0a0192717f981086529d5a0d526f7ea17567967b9f0d",
+    "text": "!\u0019(7ぺゆごぉﾜﾍ１かアせ\nかもげオるひぅがウ"
+  },
+  {
+    "bank": "0x4A",
+    "offset": "0x12A673",
+    "bank_offset": "0x2673",
+    "format": "1-Byte-Script",
+    "raw_hex": "0a018da1787c10565a585a0d8d9a8c6790a17b9f0d",
+    "text": "!\u0019(7べオわぎﾜﾍこせしせ\nべ　ぶひ２オがウ"
+  },
+  {
+    "bank": "0x4A",
+    "offset": "0x12A689",
+    "bank_offset": "0x2689",
+    "format": "1-Byte-Script",
+    "raw_hex": "0a190303031a40930393010828",
+    "text": "!\u0019Auﾘoﾘoﾘo!\u0006ょぽﾘoぽ(7\u0019ｾ瑁"
+  },
+  {
+    "bank": "0x4A",
+    "offset": "0x12A697",
+    "bank_offset": "0x2697",
+    "format": "1-Byte-Script",
+    "raw_hex": "019d6d659010587866969f0d085da19f0d",
+    "text": "(7アむの２ﾜﾍしわはぅウ\n\u0019ｾちオウ"
+  },
+  {
+    "bank": "0x4A",
+    "offset": "0x12A6A9",
+    "bank_offset": "0x26A9",
+    "format": "1-Byte-Script",
+    "raw_hex": "0a016d6d59527c7852106959520d6b9a7d5b71760d948f78a15966911078529d9f0d",
+    "text": "!\u0019(7むむすかぎわかﾜﾍへすか\nま　ぐそゆれ\nぁぱわオすはぷﾜﾍわかアウ"
+  },
+  {
+    "bank": "0x4A",
+    "offset": "0x12A6CC",
+    "bank_offset": "0x26CC",
+    "format": "1-Byte-Script",
+    "raw_hex": "0a016b9a791086529d6e760d846d5279106593546f93540d755b99657b9f0d",
+    "text": "!\u0019(7ま　をﾜﾍ１かアめれ\nぞむかをﾜﾍのぽくもぽく\nるそっのがウ"
+  },
+  {
+    "bank": "0x4A",
+    "offset": "0x12A6EC",
+    "bank_offset": "0x26EC",
+    "format": "1-Byte-Script",
+    "raw_hex": "0a19010101016bfb7567967b9fdfeca363a19f0d",
+    "text": "!\u0019Au(7(7(7(7まビるひぅがウモギキぬオウ"
+  },
+  {
+    "bank": "0x4A",
+    "offset": "0x12A706",
+    "bank_offset": "0x2706",
+    "format": "1-Byte-Script",
+    "raw_hex": "016b7c6d8f7990109d6d656d6f0d7452615d59605b6ea15a0d5aa17e97785276ffff0d",
+    "text": "(7まぎむぱを２ﾜﾍアむのむも\nりかなちすとそめオせ\nせオげぇわかれパパ"
+  },
+  {
+    "bank": "0x4A",
+    "offset": "0x12A730",
+    "bank_offset": "0x2730",
+    "format": "1-Byte-Script",
+    "raw_hex": "01018d97525a1050599952907c750d50988c67965479ffff71740d587b5a52658c656d9f0d",
+    "text": "(7(7べぇかせﾜﾍえすっか２ぎる\nえぉぶひぅくをパパゆり\nしがせかのぶのむウ"
+  },
+  {
+    "bank": "0x4A",
+    "offset": "0x12A756",
+    "bank_offset": "0x2756",
+    "format": "1-Byte-Script",
+    "raw_hex": "0a190701011a40970397010828",
+    "text": "!\u0019Au\u0017\u0000(7(7!\u0006ょぇﾘoぇ(7\u0019ｾ瑁"
+  },
+  {
+    "bank": "0x4A",
+    "offset": "0x12A767",
+    "bank_offset": "0x2767",
+    "format": "1-Byte-Script",
+    "raw_hex": "fa109d6d65760d58786675fb679f0d",
+    "text": "バﾜﾍアむのれ\nしわはるビひウ"
+  },
+  {
+    "bank": "0x4A",
+    "offset": "0x12A777",
+    "bank_offset": "0x2777",
+    "format": "1-Byte-Script",
+    "raw_hex": "0a018d97527d105059995d785d6f910d525f8c69fba19f0d",
+    "text": "!\u0019(7べぇかぐﾜﾍえすっちわちもぷ\nかてぶへビオウ"
+  },
+  {
+    "bank": "0x4A",
+    "offset": "0x12A790",
+    "bank_offset": "0x2790",
+    "format": "1-Byte-Script",
+    "raw_hex": "0a015059995d6d7c655d0d9d97545977797d0d835da05b991075fb67fa0d",
+    "text": "!\u0019(7えすっちむぎのち\nアぇくすろをぐ\nぜちエそっﾜﾍるビひバ"
+  },
+  {
+    "bank": "0x4A",
+    "offset": "0x12A7AF",
+    "bank_offset": "0x27AF",
+    "format": "1-Byte-Script",
+    "raw_hex": "0a19090101017d7d7d7d7d7d7d9f0d6b9aa0525478970d9d97545977797d10835d5b6d999f0d",
+    "text": "!\u0019Au(\r(7(7(7ぐぐぐぐぐぐぐウ\nま　エかくわぇ\nアぇくすろをぐﾜﾍぜちそむっウ"
+  },
+  {
+    "bank": "0x4A",
+    "offset": "0x12A7DB",
+    "bank_offset": "0x27DB",
+    "format": "1-Byte-Script",
+    "raw_hex": "1a40990399010828",
+    "text": "!\u0006ょっﾘoっ(7\u0019ｾ瑁"
+  },
+  {
+    "bank": "0x4A",
+    "offset": "0x12A7E4",
+    "bank_offset": "0x27E4",
+    "format": "1-Byte-Script",
+    "raw_hex": "017590108c63790d6b7c7658986e789f0d505999528d9752ffff0d",
+    "text": "(7る２ﾜﾍぶぬを\nまぎれしぉめわウ\nえすっかべぇかパパ"
+  },
+  {
+    "bank": "0x4A",
+    "offset": "0x12A800",
+    "bank_offset": "0x2800",
+    "format": "1-Byte-Script",
+    "raw_hex": "0a018d97525a105059995f9a7e0d5b9554a01050a165a165740d525b74525f999f0d",
+    "text": "!\u0019(7べぇかせﾜﾍえすって　げ\nそぃくエﾜﾍえオのオのり\nかそりかてっウ"
+  },
+  {
+    "bank": "0x4A",
+    "offset": "0x12A823",
+    "bank_offset": "0x2823",
+    "format": "1-Byte-Script",
+    "raw_hex": "0a016b6574109d9771745d9769990d6d7c65521080815a0d72735da16e9f0d",
+    "text": "!\u0019(7まのりﾜﾍアぇゆりちぇへっ\nむぎのかﾜﾍざじせ\nよらちオめウ"
+  },
+  {
+    "bank": "0x4A",
+    "offset": "0x12A848",
+    "bank_offset": "0x2848",
+    "format": "1-Byte-Script",
+    "raw_hex": "016b7c6d8f7990109d6d656d6f0d7452615d59605b6ea15a0d5aa17e717410525d7c75fb679f0d",
+    "text": "(7まぎむぱを２ﾜﾍアむのむも\nりかなちすとそめオせ\nせオげゆりﾜﾍかちぎるビひウ"
+  },
+  {
+    "bank": "0x4A",
+    "offset": "0x12A870",
+    "bank_offset": "0x2870",
+    "format": "1-Byte-Script",
+    "raw_hex": "0a19090101018c6379106b7c7658986e9f0d",
+    "text": "!\u0019Au(\r(7(7(7ぶぬをﾜﾍまぎれしぉめウ"
+  },
+  {
+    "bank": "0x4A",
+    "offset": "0x12A889",
+    "bank_offset": "0x2889",
+    "format": "1-Byte-Script",
+    "raw_hex": "01015fa16154751050988c670d965479717410587b5a520d658c656d9f0d",
+    "text": "(7(7てオなくるﾜﾍえぉぶひ\nぅくをゆりﾜﾍしがせか\nのぶのむウ"
+  },
+  {
+    "bank": "0x4A",
+    "offset": "0x12A8A8",
+    "bank_offset": "0x28A8",
+    "format": "1-Byte-Script",
+    "raw_hex": "0a190501011a40950395010828",
+    "text": "!\u0019Au(\u0010(7(7!\u0006ょぃﾘoぃ(7\u0019ｾ瑁"
+  },
+  {
+    "bank": "0x4A",
+    "offset": "0x12A8B9",
+    "bank_offset": "0x28B9",
+    "format": "1-Byte-Script",
+    "raw_hex": "7652716595929f0d",
+    "text": "れかゆのぃぺウ"
+  },
+  {
+    "bank": "0x4A",
+    "offset": "0x12A8C2",
+    "bank_offset": "0x28C2",
+    "format": "1-Byte-Script",
+    "raw_hex": "0a015fa16154927852760d7879927174900d548c5d525f86a190a178fc9f0d",
+    "text": "!\u0019(7てオなくぺわかれ\nわをぺゆり２\nくぶちかて１オ２オわブウ"
+  },
+  {
+    "bank": "0x4A",
+    "offset": "0x12A8E2",
+    "bank_offset": "0x28E2",
+    "format": "1-Byte-Script",
+    "raw_hex": "0a190601011a40960396010828",
+    "text": "!\u0019Au}!(7(7!\u0006ょぅﾘoぅ(7\u0019ｾ瑁"
+  },
+  {
+    "bank": "0x4A",
+    "offset": "0x12A8F0",
+    "bank_offset": "0x28F0",
+    "format": "1-Byte-Script",
+    "raw_hex": "016b7c765898fa0d",
+    "text": "(7まぎれしぉバ"
+  },
+  {
+    "bank": "0x4A",
+    "offset": "0x12A8F9",
+    "bank_offset": "0x28F9",
+    "format": "1-Byte-Script",
+    "raw_hex": "0a015fa16154781059976e790d5fa16aa17810695265a15a0d927799fa0d",
+    "text": "!\u0019(7てオなくわﾜﾍすぇめを\nてオほオわﾜﾍへかのオせ\nぺろっバ"
+  },
+  {
+    "bank": "0x4A",
+    "offset": "0x12A918",
+    "bank_offset": "0x2918",
+    "format": "1-Byte-Script",
+    "raw_hex": "0a015fa16154797d1054a177545a0d526f7ea16efa0d",
+    "text": "!\u0019(7てオなくをぐﾜﾍくオろくせ\nかもげオめバ"
+  },
+  {
+    "bank": "0x4A",
+    "offset": "0x12A934",
+    "bank_offset": "0x2934",
+    "format": "1-Byte-Script",
+    "raw_hex": "0150fc97105fa161547d0d52527c75675a10acf5",
+    "text": "(7えブぇﾜﾍてオなくぐ\nかかぎるひせﾜﾍタダ"
+  },
+  {
+    "bank": "0x4A",
+    "offset": "0x12A949",
+    "bank_offset": "0x2949",
+    "format": "1-Byte-Script",
+    "raw_hex": "63a10d8d6d52797871747dffff7b56ffff0d",
+    "text": "ぬオ\nべむかをわゆりぐパパがこパパ"
+  },
+  {
+    "bank": "0x4A",
+    "offset": "0x12A95C",
+    "bank_offset": "0x295C",
+    "format": "1-Byte-Script",
+    "raw_hex": "0a1906020201506d528d74fb7971740d78a16e96fa0d617c",
+    "text": "!\u0019Au}!\u0011\u0000\u0011\u0000(7えむかべりビをゆり\nわオめぅバ\nなぎ"
+  },
+  {
+    "bank": "0x4A",
+    "offset": "0x12A977",
+    "bank_offset": "0x2977",
+    "format": "1-Byte-Script",
+    "raw_hex": "f51058a178fafa0d",
+    "text": "ダﾜﾍしオわババ"
+  },
+  {
+    "bank": "0x4A",
+    "offset": "0x12A980",
+    "bank_offset": "0x2980",
+    "format": "1-Byte-Script",
+    "raw_hex": "0a190202020178a175677174fc9f0d617c105ba1795d",
+    "text": "!\u0019Au\u0011\u0000\u0011\u0000\u0011\u0000(7わオるひゆりブウ\nなぎﾜﾍそオをち"
+  },
+  {
+    "bank": "0x4A",
+    "offset": "0x12A997",
+    "bank_offset": "0x2997",
+    "format": "1-Byte-Script",
+    "raw_hex": "ecebfa0d",
+    "text": "ギガバ"
+  },
+  {
+    "bank": "0x4A",
+    "offset": "0x12A99C",
+    "bank_offset": "0x299C",
+    "format": "1-Byte-Script",
+    "raw_hex": "0a19050202018c508c501058836d9863a10d6971595d7c10a9a99699790d",
+    "text": "!\u0019Au(\u0010\u0011\u0000\u0011\u0000(7ぶえぶえﾜﾍしぜむぉぬオ\nへゆすちぎﾜﾍススぅっを"
+  },
+  {
+    "bank": "0x4A",
+    "offset": "0x12A9BB",
+    "bank_offset": "0x29BB",
+    "format": "1-Byte-Script",
+    "raw_hex": "f5ac7d10e6dd92759f0d",
+    "text": "ダタぐﾜﾍレムぺるウ"
+  },
+  {
+    "bank": "0x4A",
+    "offset": "0x12A9C6",
+    "bank_offset": "0x29C6",
+    "format": "1-Byte-Script",
+    "raw_hex": "0a19050101018da1785a105fa16154750d6d7c65521069525972a00d585d996d8f79900d",
+    "text": "!\u0019Au(\u0010(7(7(7べオわせﾜﾍてオなくる\nむぎのかﾜﾍへかすよエ\nしちっむぱを２"
+  },
+  {
+    "bank": "0x4A",
+    "offset": "0x12A9EF",
+    "bank_offset": "0x29EF",
+    "format": "1-Byte-Script",
+    "raw_hex": "97107452615d59605b6ea10d5a105aa17e7174109271745259780da3acf5106f93fb61716f91789f0d",
+    "text": "ぇﾜﾍりかなちすとそめオ\nせﾜﾍせオげゆりﾜﾍぺゆりかすわ\nキタダﾜﾍもぽビなゆもぷわウ"
+  },
+  {
+    "bank": "0x4A",
+    "offset": "0x12AA1F",
+    "bank_offset": "0x2A1F",
+    "format": "1-Byte-Script",
+    "raw_hex": "0101ffffffffffffffffffffffff0d",
+    "text": "(7(7パパパパパパパパパパパパ"
+  },
+  {
+    "bank": "0x4A",
+    "offset": "0x12AA34",
+    "bank_offset": "0x2A34",
+    "format": "1-Byte-Script",
+    "raw_hex": "0178a16e9610808d72787c59969f0d",
+    "text": "(7わオめぅﾜﾍざべよわぎすぅウ"
+  },
+  {
+    "bank": "0x4A",
+    "offset": "0x12AA49",
+    "bank_offset": "0x2A49",
+    "format": "1-Byte-Script",
+    "raw_hex": "016b9a7d106b5475679d969f0d",
+    "text": "(7ま　ぐﾜﾍまくるひアぅウ"
+  },
+  {
+    "bank": "0x4A",
+    "offset": "0x12AA57",
+    "bank_offset": "0x2A57",
+    "format": "1-Byte-Script",
+    "raw_hex": "0a01587b5a5262767174108076790d65918799761059789d785271740d5254669150988c69a17c9f0d",
+    "text": "!\u0019(7しがせかにれゆりﾜﾍざれを\nのぷづっれﾜﾍすわアわかゆり\nかくはぷえぉぶへオぎウ"
+  },
+  {
+    "bank": "0x4A",
+    "offset": "0x12AA81",
+    "bank_offset": "0x2A81",
+    "format": "1-Byte-Script",
+    "raw_hex": "0a19060505016b546e5f7796fbffff0d506b816691107bfb5996fc9f0d",
+    "text": "!\u0019Au}!(\u0010(\u0010(7まくめてろぅビパパ\nえまじはぷﾜﾍがビすぅブウ"
+  },
+  {
+    "bank": "0x4A",
+    "offset": "0x12AA9F",
+    "bank_offset": "0x2A9F",
+    "format": "1-Byte-Script",
+    "raw_hex": "0a19090101017d7d7d9f0d8c508c5010836d987690ffff0d",
+    "text": "!\u0019Au(\r(7(7(7ぐぐぐウ\nぶえぶえﾜﾍぜむぉれ２パパ"
+  },
+  {
+    "bank": "0x4A",
+    "offset": "0x12AAB8",
+    "bank_offset": "0x2AB8",
+    "format": "1-Byte-Script",
+    "raw_hex": "0a017b5a5262767d106b9a6c9a7c0d8e7b7910658c71765f7e0d525266917852599f0d",
+    "text": "!\u0019(7がせかにれぐﾜﾍま　み　ぎ\nぼがをﾜﾍのぶゆれてげ\nかかはぷわかすウ"
+  },
+  {
+    "bank": "0x4A",
+    "offset": "0x12AAE1",
+    "bank_offset": "0x2AE1",
+    "format": "1-Byte-Script",
+    "raw_hex": "016b5496107b5a5262767d0d8076106b9a6c9a79ffff0d",
+    "text": "(7まくぅﾜﾍがせかにれぐ\nざれﾜﾍま　み　をパパ"
+  },
+  {
+    "bank": "0x4A",
+    "offset": "0x12AAF9",
+    "bank_offset": "0x2AF9",
+    "format": "1-Byte-Script",
+    "raw_hex": "0a016e5f77109d6d656d6f0d7452615d59605b6ea17c0d7b5a527d107452767c86529d9f0d",
+    "text": "!\u0019(7めてろﾜﾍアむのむも\nりかなちすとそめオぎ\nがせかぐﾜﾍりかれぎ１かアウ"
+  },
+  {
+    "bank": "0x4A",
+    "offset": "0x12AB1F",
+    "bank_offset": "0x2B1F",
+    "format": "1-Byte-Script",
+    "raw_hex": "0a060309190101010161a159527d100863a17c0d5972925d751001078c66a15b01085a0d595265935410755b740d",
+    "text": "!\u0019}!ﾘo(\rAu(7(7(7(7なオすかぐﾜﾍ\u0019ｾぬオぎ\nすよぺちるﾜﾍ(7\u0017\u0000ぶはオそ(7\u0019ｾせ\nすかのぽくﾜﾍるそり"
+  },
+  {
+    "bank": "0x4A",
+    "offset": "0x12AB4E",
+    "bank_offset": "0x2B4E",
+    "format": "1-Byte-Script",
+    "raw_hex": "0a017452765a1086529d797871740d9659716d75677b9f0d",
+    "text": "!\u0019(7りかれせﾜﾍ１かアをわゆり\nぅすゆむるひがウ"
+  },
+  {
+    "bank": "0x4A",
+    "offset": "0x12AB6A",
+    "bank_offset": "0x2B6A",
+    "format": "1-Byte-Script",
+    "raw_hex": "0919090101016b9a796574901061a1927d0d596a5a105b906f525278fc9f0d",
+    "text": "(\rAu(\r(7(7(7ま　をのり２ﾜﾍなオぺぐ\nすほせﾜﾍそ２もかかわブウ"
+  },
+  {
+    "bank": "0x4A",
+    "offset": "0x12AB8A",
+    "bank_offset": "0x2B8A",
+    "format": "1-Byte-Script",
+    "raw_hex": "0a13270119040303015b9171fa0d659b52abd1",
+    "text": "!\u0019\u0000\u0019>\u0019(7Au\u001a<ﾘoﾘo(7そぷゆバ\nのーかソナ"
+  },
+  {
+    "bank": "0x4A",
+    "offset": "0x12AB9E",
+    "bank_offset": "0x2B9E",
+    "format": "1-Byte-Script",
+    "raw_hex": "55fcfafa0d",
+    "text": "けブババ"
+  },
+  {
+    "bank": "0x4A",
+    "offset": "0x12ABA4",
+    "bank_offset": "0x2BA4",
+    "format": "1-Byte-Script",
+    "raw_hex": "0a190f010101abd1",
+    "text": "!\u0019Au\u0003\u0018(7(7(7ソナ"
+  },
+  {
+    "bank": "0x4A",
+    "offset": "0x12ABAD",
+    "bank_offset": "0x2BAD",
+    "format": "1-Byte-Script",
+    "raw_hex": "7d105978655278fc0da3a5ec",
+    "text": "ぐﾜﾍすわのかわブ\nキケギ"
+  },
+  {
+    "bank": "0x4A",
+    "offset": "0x12ABBA",
+    "bank_offset": "0x2BBA",
+    "format": "1-Byte-Script",
+    "raw_hex": "63fca19f0d",
+    "text": "ぬブオウ"
+  },
+  {
+    "bank": "0x4A",
+    "offset": "0x12ABC0",
+    "bank_offset": "0x2BC0",
+    "format": "1-Byte-Script",
+    "raw_hex": "0a190906060159928cfa0d7754656da16ef90d",
+    "text": "!\u0019Au(\r}!}!(7すぺぶバ\nろくのむオめド"
+  },
+  {
+    "bank": "0x4A",
+    "offset": "0x12ABD4",
+    "bank_offset": "0x2BD4",
+    "format": "1-Byte-Script",
+    "raw_hex": "0a190f01010152921078a16e59106d7c656b540d6e716d7c757b9f0d",
+    "text": "!\u0019Au\u0003\u0018(7(7(7かぺﾜﾍわオめすﾜﾍむぎのまく\nめゆむぎるがウ"
+  },
+  {
+    "bank": "0x4A",
+    "offset": "0x12ABF1",
+    "bank_offset": "0x2BF1",
+    "format": "1-Byte-Script",
+    "raw_hex": "0a015272907deff5ecfb7810dd",
+    "text": "!\u0019(7かよ２ぐゴダギビわﾜﾍム"
+  },
+  {
+    "bank": "0x4A",
+    "offset": "0x12ABFF",
+    "bank_offset": "0x2BFF",
+    "format": "1-Byte-Script",
+    "raw_hex": "900d6d8c797d1061a1787e6595790d5958a0106e656d5d78716d7c639f0d",
+    "text": "２\nむぶをぐﾜﾍなオわげのぃを\nすしエﾜﾍめのむちわゆむぎぬウ"
+  },
+  {
+    "bank": "0x4A",
+    "offset": "0x12AC1E",
+    "bank_offset": "0x2C1E",
+    "format": "1-Byte-Script",
+    "raw_hex": "0a016b9a6691106b545254617675ffff0da3",
+    "text": "!\u0019(7ま　はぷﾜﾍまくかくなれるパパ\nキ"
+  },
+  {
+    "bank": "0x4A",
+    "offset": "0x12AC3B",
+    "bank_offset": "0x2C3B",
+    "format": "1-Byte-Script",
+    "raw_hex": "190603030178a16e716da16effff0d52716d52f90d",
+    "text": "Au}!ﾘoﾘo(7わオめゆむオめパパ\nかゆむかド"
+  },
+  {
+    "bank": "0x4A",
+    "offset": "0x12AC56",
+    "bank_offset": "0x2C56",
+    "format": "1-Byte-Script",
+    "raw_hex": "01a3a5ec",
+    "text": "(7キケギ"
+  },
+  {
+    "bank": "0x4A",
+    "offset": "0x12AC5B",
+    "bank_offset": "0x2C5B",
+    "format": "1-Byte-Script",
+    "raw_hex": "9f0d6e5266955484f90d",
+    "text": "ウ\nめかはぃくぞド"
+  },
+  {
+    "bank": "0x4A",
+    "offset": "0x12AC66",
+    "bank_offset": "0x2C66",
+    "format": "1-Byte-Script",
+    "raw_hex": "0a190401010154a19f0dd4",
+    "text": "!\u0019Au\u001a<(7(7(7くオウ\nネ"
+  },
+  {
+    "bank": "0x4A",
+    "offset": "0x12AC73",
+    "bank_offset": "0x2C73",
+    "format": "1-Byte-Script",
+    "raw_hex": "ec656d6e5f6e59970d6e52669554846e9610ee",
+    "text": "ギのむめてめすぇ\nめかはぃくぞめぅﾜﾍゲ"
+  },
+  {
+    "bank": "0x4A",
+    "offset": "0x12AC8F",
+    "bank_offset": "0x2C8F",
+    "format": "1-Byte-Script",
+    "raw_hex": "01a3a5ec",
+    "text": "(7キケギ"
+  },
+  {
+    "bank": "0x4A",
+    "offset": "0x12AC94",
+    "bank_offset": "0x2C94",
+    "format": "1-Byte-Script",
+    "raw_hex": "7d10abd1",
+    "text": "ぐﾜﾍソナ"
+  },
+  {
+    "bank": "0x4A",
+    "offset": "0x12AC99",
+    "bank_offset": "0x2C99",
+    "format": "1-Byte-Script",
+    "raw_hex": "a00d65a16674997cf90d",
+    "text": "エ\nのオはりっぎド"
+  },
+  {
+    "bank": "0x4A",
+    "offset": "0x12ACA4",
+    "bank_offset": "0x2CA4",
+    "format": "1-Byte-Script",
+    "raw_hex": "0a190403030154fca1ffff0d9d59a178529f0d",
+    "text": "!\u0019Au\u001a<ﾘoﾘo(7くブオパパ\nアすオわかウ"
+  },
+  {
+    "bank": "0x4A",
+    "offset": "0x12ACBD",
+    "bank_offset": "0x2CBD",
+    "format": "1-Byte-Script",
+    "raw_hex": "01087d107754f90dabd1",
+    "text": "(7\u0019ｾぐﾜﾍろくド\nソナ"
+  },
+  {
+    "bank": "0x4A",
+    "offset": "0x12ACC8",
+    "bank_offset": "0x2CC8",
+    "format": "1-Byte-Script",
+    "raw_hex": "717410529976589054f90d",
+    "text": "ゆりﾜﾍかっれし２くド"
+  },
+  {
+    "bank": "0x4A",
+    "offset": "0x12ACD4",
+    "bank_offset": "0x2CD4",
+    "format": "1-Byte-Script",
+    "raw_hex": "0a1605038d6d61765099",
+    "text": "!\u0019!\u0004(\u0010ﾘoべむなれえっ"
+  },
+  {
+    "bank": "0x4A",
+    "offset": "0x12ACE0",
+    "bank_offset": "0x2CE0",
+    "format": "1-Byte-Script",
+    "raw_hex": "65a166745299",
+    "text": "のオはりかっ"
+  },
+  {
+    "bank": "0x4A",
+    "offset": "0x12ACE7",
+    "bank_offset": "0x2CE7",
+    "format": "1-Byte-Script",
+    "raw_hex": "0165a16674527852",
+    "text": "(7のオはりかわか"
+  },
+  {
+    "bank": "0x4A",
+    "offset": "0x12ACF0",
+    "bank_offset": "0x2CF0",
+    "format": "1-Byte-Script",
+    "raw_hex": "0207ef0a020101",
+    "text": "\u0011\u0000\u0017\u0000ゴ!\u0019\u0011\u0000(7(7"
+  },
+  {
+    "bank": "0x4A",
+    "offset": "0x12AD11",
+    "bank_offset": "0x2D11",
+    "format": "1-Byte-Script",
+    "raw_hex": "010165a1667499969f0d7174525459106595716f93540d8d7499969f0d",
+    "text": "(7(7のオはりっぅウ\nゆりかくすﾜﾍのぃゆもぽく\nべりっぅウ"
+  },
+  {
+    "bank": "0x4A",
+    "offset": "0x12AD2F",
+    "bank_offset": "0x2D2F",
+    "format": "1-Byte-Script",
+    "raw_hex": "0a1904060601a9a9fcfcfc",
+    "text": "!\u0019Au\u001a<}!}!(7ススブブブ"
+  },
+  {
+    "bank": "0x4A",
+    "offset": "0x12AD3B",
+    "bank_offset": "0x2D3B",
+    "format": "1-Byte-Script",
+    "raw_hex": "fafafa0dabd1",
+    "text": "バババ\nソナ"
+  },
+  {
+    "bank": "0x4A",
+    "offset": "0x12AD42",
+    "bank_offset": "0x2D42",
+    "format": "1-Byte-Script",
+    "raw_hex": "108d74997cfcfcfc71fafa0d",
+    "text": "ﾜﾍべりっぎブブブゆババ"
+  },
+  {
+    "bank": "0x4A",
+    "offset": "0x12AD4F",
+    "bank_offset": "0x2D4F",
+    "format": "1-Byte-Script",
+    "raw_hex": "0a016b106b9a7510619d5d78527cf90d",
+    "text": "!\u0019(7まﾜﾍま　るﾜﾍなアちわかぎド"
+  },
+  {
+    "bank": "0x4A",
+    "offset": "0x12AD63",
+    "bank_offset": "0x2D63",
+    "format": "1-Byte-Script",
+    "raw_hex": "0101619d5290787990106b61790d5299a16e90a19f0d6595fb5a78526691a19f0d",
+    "text": "(7(7なアか２わを２ﾜﾍまなを\nかっオめ２オウ\nのぃビせわかはぷオウ"
+  },
+  {
+    "bank": "0x4A",
+    "offset": "0x12AD85",
+    "bank_offset": "0x2D85",
+    "format": "1-Byte-Script",
+    "raw_hex": "0a19030707016595545a78527174ffff0d8c50106d6559796b546e5f77ffff0d",
+    "text": "!\u0019Auﾘo\u0017\u0000\u0017\u0000(7のぃくせわかゆりパパ\nぶえﾜﾍむのすをまくめてろパパ"
+  },
+  {
+    "bank": "0x4A",
+    "offset": "0x12ADA6",
+    "bank_offset": "0x2DA6",
+    "format": "1-Byte-Script",
+    "raw_hex": "0a1903040401965d5099107d7865750dabd1",
+    "text": "!\u0019Auﾘo\u001a<\u001a<(7ぅちえっﾜﾍぐわのる\nソナ"
+  },
+  {
+    "bank": "0x4A",
+    "offset": "0x12ADB9",
+    "bank_offset": "0x2DB9",
+    "format": "1-Byte-Script",
+    "raw_hex": "79105d81a0658f979a6d0d76591050997565959f0d",
+    "text": "をﾜﾍちじエのぱぇ　む\nれすﾜﾍえっるのぃウ"
+  },
+  {
+    "bank": "0x4A",
+    "offset": "0x12ADCF",
+    "bank_offset": "0x2DCF",
+    "format": "1-Byte-Script",
+    "raw_hex": "0a016b5452547c901086525b787cf90d",
+    "text": "!\u0019(7まくかくぎ２ﾜﾍ１かそわぎド"
+  },
+  {
+    "bank": "0x4A",
+    "offset": "0x12ADE0",
+    "bank_offset": "0x2DE0",
+    "format": "1-Byte-Script",
+    "raw_hex": "0a19040303016b546b54105099967bfc9f0d",
+    "text": "!\u0019Au\u001a<ﾘoﾘo(7まくまくﾜﾍえっぅがブウ"
+  },
+  {
+    "bank": "0x4A",
+    "offset": "0x12ADF3",
+    "bank_offset": "0x2DF3",
+    "format": "1-Byte-Script",
+    "raw_hex": "f1a5967bfc9f0d7754787cf910089f0d",
+    "text": "ジケぅがブウ\nろくわぎドﾜﾍ\u0019ｾウ"
+  },
+  {
+    "bank": "0x4A",
+    "offset": "0x12AE07",
+    "bank_offset": "0x2E07",
+    "format": "1-Byte-Script",
+    "raw_hex": "01016b545254105f525fa17d0d7852a17567969f0d6d6e108d56996e5f78a1759f0d",
+    "text": "(7(7まくかくﾜﾍてかてオぐ\nわかオるひぅウ\nむめﾜﾍべこっめてわオるウ"
+  },
+  {
+    "bank": "0x4A",
+    "offset": "0x12AE2A",
+    "bank_offset": "0x2E2A",
+    "format": "1-Byte-Script",
+    "raw_hex": "0a19040404016b5478a16efc9f0d7590108d56996e5f7174527174900d8372547d",
+    "text": "!\u0019Au\u001a<\u001a<\u001a<(7まくわオめブウ\nる２ﾜﾍべこっめてゆりかゆり２\nぜよくぐ"
+  },
+  {
+    "bank": "0x4A",
+    "offset": "0x12AE4C",
+    "bank_offset": "0x2E4C",
+    "format": "1-Byte-Script",
+    "raw_hex": "f1a5967b9f0d",
+    "text": "ジケぅがウ"
+  },
+  {
+    "bank": "0x4A",
+    "offset": "0x12AE53",
+    "bank_offset": "0x2E53",
+    "format": "1-Byte-Script",
+    "raw_hex": "0a190406061a40940394010828",
+    "text": "!\u0019Au\u001a<}!}!!\u0006ょぁﾘoぁ(7\u0019ｾ瑁"
+  },
+  {
+    "bank": "0x4A",
+    "offset": "0x12AE64",
+    "bank_offset": "0x2E64",
+    "format": "1-Byte-Script",
+    "raw_hex": "a578fc10087dffff0d",
+    "text": "ケわブﾜﾍ\u0019ｾぐパパ"
+  },
+  {
+    "bank": "0x4A",
+    "offset": "0x12AE6E",
+    "bank_offset": "0x2E6E",
+    "format": "1-Byte-Script",
+    "raw_hex": "0a190303031a40930393010828",
+    "text": "!\u0019Auﾘoﾘoﾘo!\u0006ょぽﾘoぽ(7\u0019ｾ瑁"
+  },
+  {
+    "bank": "0x4A",
+    "offset": "0x12AE7C",
+    "bank_offset": "0x2E7C",
+    "format": "1-Byte-Script",
+    "raw_hex": "016b547b10",
+    "text": "(7まくがﾜﾍ"
+  },
+  {
+    "bank": "0x4A",
+    "offset": "0x12AE82",
+    "bank_offset": "0x2E82",
+    "format": "1-Byte-Script",
+    "raw_hex": "e45a0d679d71749971741052547c5965970d59a165a167999d9f0d",
+    "text": "リせ\nひアゆりっゆりﾜﾍかくぎすのぇ\nすオのオひっアウ"
+  },
+  {
+    "bank": "0x4A",
+    "offset": "0x12AE9E",
+    "bank_offset": "0x2E9E",
+    "format": "1-Byte-Script",
+    "raw_hex": "0a1904010101e0ac",
+    "text": "!\u0019Au\u001a<(7(7(7ヤタ"
+  },
+  {
+    "bank": "0x4A",
+    "offset": "0x12AEA7",
+    "bank_offset": "0x2EA7",
+    "format": "1-Byte-Script",
+    "raw_hex": "7c61767d10",
+    "text": "ぎなれぐﾜﾍ"
+  },
+  {
+    "bank": "0x4A",
+    "offset": "0x12AEAD",
+    "bank_offset": "0x2EAD",
+    "format": "1-Byte-Script",
+    "raw_hex": "e45a0d679d7174991008790d8c596974585f7e50a165a16e7b9f0d",
+    "text": "リせ\nひアゆりっﾜﾍ\u0019ｾを\nぶすへりしてげえオのオめがウ"
+  },
+  {
+    "bank": "0x4A",
+    "offset": "0x12AEC9",
+    "bank_offset": "0x2EC9",
+    "format": "1-Byte-Script",
+    "raw_hex": "0a069b100f",
+    "text": "!\u0019}!ーﾜﾍ\u0003\u0018"
+  },
+  {
+    "bank": "0x4A",
+    "offset": "0x12AECF",
+    "bank_offset": "0x2ECF",
+    "format": "1-Byte-Script",
+    "raw_hex": "010165a166745299969f0d8c50108d6d61767d0d78525f777b9f0d",
+    "text": "(7(7のオはりかっぅウ\nぶえﾜﾍべむなれぐ\nわかてろがウ"
+  },
+  {
+    "bank": "0x4A",
+    "offset": "0x12AEEB",
+    "bank_offset": "0x2EEB",
+    "format": "1-Byte-Script",
+    "raw_hex": "0a190101011a40910391010828",
+    "text": "!\u0019Au(7(7(7!\u0006ょぷﾘoぷ(7\u0019ｾ瑁"
+  },
+  {
+    "bank": "0x4A",
+    "offset": "0x12AEF9",
+    "bank_offset": "0x2EF9",
+    "format": "1-Byte-Script",
+    "raw_hex": "01506d65900d65a1667499a17567969f0d",
+    "text": "(7えむの２\nのオはりっオるひぅウ"
+  },
+  {
+    "bank": "0x4A",
+    "offset": "0x12AF10",
+    "bank_offset": "0x2F10",
+    "format": "1-Byte-Script",
+    "raw_hex": "016d65597910abd1",
+    "text": "(7むのすをﾜﾍソナ"
+  },
+  {
+    "bank": "0x4A",
+    "offset": "0x12AF1D",
+    "bank_offset": "0x2F1D",
+    "format": "1-Byte-Script",
+    "raw_hex": "f1a55f77ffff0d",
+    "text": "ジケてろパパ"
+  },
+  {
+    "bank": "0x4A",
+    "offset": "0x12AF25",
+    "bank_offset": "0x2F25",
+    "format": "1-Byte-Script",
+    "raw_hex": "0a01abd1",
+    "text": "!\u0019(7ソナ"
+  },
+  {
+    "bank": "0x4A",
+    "offset": "0x12AF2A",
+    "bank_offset": "0x2F2A",
+    "format": "1-Byte-Script",
+    "raw_hex": "7174107879597c0d69529a52669178525971740d58905461765a105099a175679f0d",
+    "text": "ゆりﾜﾍわをすぎ\nへか　かはぷわかすゆり\nし２くなれせﾜﾍえっオるひウ"
+  },
+  {
+    "bank": "0x4A",
+    "offset": "0x12AF4D",
+    "bank_offset": "0x2F4D",
+    "format": "1-Byte-Script",
+    "raw_hex": "0a016d76567e1059975963abd1",
+    "text": "!\u0019(7むれこげﾜﾍすぇすぬソナ"
+  },
+  {
+    "bank": "0x4A",
+    "offset": "0x12AF5B",
+    "bank_offset": "0x2F5B",
+    "format": "1-Byte-Script",
+    "raw_hex": "0d78a1597d10ac",
+    "text": "わオすぐﾜﾍタ"
+  },
+  {
+    "bank": "0x4A",
+    "offset": "0x12AF63",
+    "bank_offset": "0x2F63",
+    "format": "1-Byte-Script",
+    "raw_hex": "7c69529a52750d",
+    "text": "ぎへか　かる"
+  },
+  {
+    "bank": "0x4A",
+    "offset": "0x12AF6B",
+    "bank_offset": "0x2F6B",
+    "format": "1-Byte-Script",
+    "raw_hex": "0a01fd5963a0106e526679659b96fe0d717410586556996d8f790d5299a1669178525978fc7659ffff0d",
+    "text": "!\u0019(7ベすぬエﾜﾍめかはをのーぅボ\nゆりﾜﾍしのこっむぱを\nかっオはぷわかすわブれすパパ"
+  },
+  {
+    "bank": "0x4A",
+    "offset": "0x12AF96",
+    "bank_offset": "0x2F96",
+    "format": "1-Byte-Script",
+    "raw_hex": "0a190901011a40990399010828",
+    "text": "!\u0019Au(\r(7(7!\u0006ょっﾘoっ(7\u0019ｾ瑁"
+  },
+  {
+    "bank": "0x4A",
+    "offset": "0x12AFA4",
+    "bank_offset": "0x2FA4",
+    "format": "1-Byte-Script",
+    "raw_hex": "016b546e7810abee900dabd1",
+    "text": "(7まくめわﾜﾍソゲ２\nソナ"
+  },
+  {
+    "bank": "0x4A",
+    "offset": "0x12AFB1",
+    "bank_offset": "0x2FB1",
+    "format": "1-Byte-Script",
+    "raw_hex": "7d1065a1667499a16e9f0d",
+    "text": "ぐﾜﾍのオはりっオめウ"
+  },
+  {
+    "bank": "0x4A",
+    "offset": "0x12AFBD",
+    "bank_offset": "0x2FBD",
+    "format": "1-Byte-Script",
+    "raw_hex": "0a018c501061a1786176107d786574900d65a1667490975699597754590d9d59977852a16e5f77ffff0d",
+    "text": "!\u0019(7ぶえﾜﾍなオわなれﾜﾍぐわのり２\nのオはり２ぇこっすろくす\nアすぇわかオめてろパパ"
+  },
+  {
+    "bank": "0x4A",
+    "offset": "0x12AFE8",
+    "bank_offset": "0x2FE8",
+    "format": "1-Byte-Script",
+    "raw_hex": "0a016177907c619b10596c5d5a0d6e9a906597785210617790760d52567c78597510965d506ba16e650d",
+    "text": "!\u0019(7なろ２ぎなーﾜﾍすみちせ\nめ　２のぇわかﾜﾍなろ２れ\nかこぎわするﾜﾍぅちえまオめの"
+  },
+  {
+    "bank": "0x4A",
+    "offset": "0x12B013",
+    "bank_offset": "0x3013",
+    "format": "1-Byte-Script",
+    "raw_hex": "0a01599d757d10506d8c79",
+    "text": "!\u0019(7すアるぐﾜﾍえむぶを"
+  },
+  {
+    "bank": "0x4A",
+    "offset": "0x12B01F",
+    "bank_offset": "0x301F",
+    "format": "1-Byte-Script",
+    "raw_hex": "eba00d7c696d10",
+    "text": "ガエ\nぎへむﾜﾍ"
+  },
+  {
+    "bank": "0x4A",
+    "offset": "0x12B027",
+    "bank_offset": "0x3027",
+    "format": "1-Byte-Script",
+    "raw_hex": "e7a7ec685b780d6177907610506ba1756da16e9f0d",
+    "text": "ロサギふそわ\nなろ２れﾜﾍえまオるむオめウ"
+  },
+  {
+    "bank": "0x4A",
+    "offset": "0x12B03D",
+    "bank_offset": "0x303D",
+    "format": "1-Byte-Script",
+    "raw_hex": "0a016b9a717410528c59a15a5699760d64655b9d9765107610ac",
+    "text": "!\u0019(7ま　ゆりﾜﾍかぶすオせこっれ\nねのそアぇのﾜﾍれﾜﾍタ"
+  },
+  {
+    "bank": "0x4A",
+    "offset": "0x12B058",
+    "bank_offset": "0x3058",
+    "format": "1-Byte-Script",
+    "raw_hex": "d20d6e9678fc9f0d",
+    "text": "ニ\nめぅわブウ"
+  },
+  {
+    "bank": "0x4A",
+    "offset": "0x12B061",
+    "bank_offset": "0x3061",
+    "format": "1-Byte-Script",
+    "raw_hex": "0a19010303015671fa1058585a8d63a10d89a176756759faf90d",
+    "text": "!\u0019Au(7ﾘoﾘo(7こゆバﾜﾍししせべぬオ\nどオれるひすバド"
+  },
+  {
+    "bank": "0x4A",
+    "offset": "0x12B07C",
+    "bank_offset": "0x307C",
+    "format": "1-Byte-Script",
+    "raw_hex": "0a190901010154a1108c507b9f0d",
+    "text": "!\u0019Au(\r(7(7(7くオﾜﾍぶえがウ"
+  },
+  {
+    "bank": "0x4A",
+    "offset": "0x12B092",
+    "bank_offset": "0x3092",
+    "format": "1-Byte-Script",
+    "raw_hex": "a575677bfc0d58585a8d63a1fafa0d",
+    "text": "ケるひがブ\nししせべぬオババ"
+  },
+  {
+    "bank": "0x4A",
+    "offset": "0x12B0A2",
+    "bank_offset": "0x30A2",
+    "format": "1-Byte-Script",
+    "raw_hex": "0a0f0901015292529210",
+    "text": "!\u0019\u0003\u0018(\r(7(7かぺかぺﾜﾍ"
+  },
+  {
+    "bank": "0x4A",
+    "offset": "0x12B0AE",
+    "bank_offset": "0x30AE",
+    "format": "1-Byte-Script",
+    "raw_hex": "a57c7d0d8c907c505274791080998c680d6d6d5971740d",
+    "text": "ケぎぐ\nぶ２ぎえかりをﾜﾍざっぶふ\nむむすゆり"
+  },
+  {
+    "bank": "0x4A",
+    "offset": "0x12B0C6",
+    "bank_offset": "0x30C6",
+    "format": "1-Byte-Script",
+    "raw_hex": "0a018d6276791001078c66a15b0108a00d50728f6d10085da10d6e969f0d",
+    "text": "!\u0019(7べにれをﾜﾍ(7\u0017\u0000ぶはオそ(7\u0019ｾエ\nえよぱむﾜﾍ\u0019ｾちオ\nめぅウ"
+  },
+  {
+    "bank": "0x4A",
+    "offset": "0x12B0E5",
+    "bank_offset": "0x30E5",
+    "format": "1-Byte-Script",
+    "raw_hex": "0a069b100f",
+    "text": "!\u0019}!ーﾜﾍ\u0003\u0018"
+  },
+  {
+    "bank": "0x4A",
+    "offset": "0x12B0EB",
+    "bank_offset": "0x30EB",
+    "format": "1-Byte-Script",
+    "raw_hex": "0101abd1",
+    "text": "(7(7ソナ"
+  },
+  {
+    "bank": "0x4A",
+    "offset": "0x12B0F0",
+    "bank_offset": "0x30F0",
+    "format": "1-Byte-Script",
+    "raw_hex": "78a1590d65a16674527852969f0d",
+    "text": "わオす\nのオはりかわかぅウ"
+  },
+  {
+    "bank": "0x4A",
+    "offset": "0x12B104",
+    "bank_offset": "0x3104",
+    "format": "1-Byte-Script",
+    "raw_hex": "1a40920392010828",
+    "text": "!\u0006ょぺﾘoぺ(7\u0019ｾ瑁"
+  },
+  {
+    "bank": "0x4A",
+    "offset": "0x12B10D",
+    "bank_offset": "0x310D",
+    "format": "1-Byte-Script",
+    "raw_hex": "0176fb6aa175679d9f0d9d6d5d659010906f9ba10d65a16674528c69a19d9f0d",
+    "text": "(7れビほオるひアウ\nアむちの２ﾜﾍ２もーオ\nのオはりかぶへオアウ"
+  },
+  {
+    "bank": "0x4A",
+    "offset": "0x12B12E",
+    "bank_offset": "0x312E",
+    "format": "1-Byte-Script",
+    "raw_hex": "0a01617c1060a16e521065915952790d6b7c96547810907c7c5f5a0d52997d681050988c69a1907c9f0d",
+    "text": "!\u0019(7なぎﾜﾍとオめかﾜﾍのぷすかを\nまぎぅくわﾜﾍ２ぎぎてせ\nかっぐふﾜﾍえぉぶへオ２ぎウ"
+  },
+  {
+    "bank": "0x4A",
+    "offset": "0x12B15E",
+    "bank_offset": "0x315E",
+    "format": "1-Byte-Script",
+    "raw_hex": "01587e5f9f0d90655d7d1094549a529f0d6565917c109a5261a19f0d",
+    "text": "(7しげてウ\n２のちぐﾜﾍぁく　かウ\nののぷぎﾜﾍ　かなオウ"
+  },
+  {
+    "bank": "0x4A",
+    "offset": "0x12B17B",
+    "bank_offset": "0x317B",
+    "format": "1-Byte-Script",
+    "raw_hex": "0a016565915a106695548472755b68790d617c96791050979d9a99675a6d9f0d965459521078777690967e9a999f0d",
+    "text": "!\u0019(7ののぷせﾜﾍはぃくぞよるそふを\nなぎぅをﾜﾍえぇア　っひせむウ\nぅくすかﾜﾍわろれ２ぅげ　っウ"
+  },
+  {
+    "bank": "0x4A",
+    "offset": "0x12B1AB",
+    "bank_offset": "0x31AB",
+    "format": "1-Byte-Script",
+    "raw_hex": "0a1a40980398010828",
+    "text": "!\u0019!\u0006ょぉﾘoぉ(7\u0019ｾ瑁"
+  },
+  {
+    "bank": "0x4A",
+    "offset": "0x12B1B5",
+    "bank_offset": "0x31B5",
+    "format": "1-Byte-Script",
+    "raw_hex": "01595a5d745b781069728f52900d755b7852650ddd",
+    "text": "(7すせちりそわﾜﾍへよぱか２\nるそわかの\nム"
+  },
+  {
+    "bank": "0x4A",
+    "offset": "0x12B1CB",
+    "bank_offset": "0x31CB",
+    "format": "1-Byte-Script",
+    "raw_hex": "901065a166979a7852789f0d",
+    "text": "２ﾜﾍのオはぇ　わかわウ"
+  },
+  {
+    "bank": "0x4A",
+    "offset": "0x12B1D8",
+    "bank_offset": "0x31D8",
+    "format": "1-Byte-Script",
+    "raw_hex": "0a190206060166727c6176a05254760d0863a15a0d61a159527c1079a18ea00d",
+    "text": "!\u0019Au\u0011\u0000}!}!(7はよぎなれエかくれ\n\u0019ｾぬオせ\nなオすかぎﾜﾍをオぼエ"
+  },
+  {
+    "bank": "0x4A",
+    "offset": "0x12B1F9",
+    "bank_offset": "0x31F9",
+    "format": "1-Byte-Script",
+    "raw_hex": "0a016d716952755b99107652546176900d65a16674107859716d7c75675a0dffff0d",
+    "text": "!\u0019(7むゆへかるそっﾜﾍれかくなれ２\nのオはりﾜﾍわすゆむぎるひせ\nパパ"
+  },
+  {
+    "bank": "0x4A",
+    "offset": "0x12B21C",
+    "bank_offset": "0x321C",
+    "format": "1-Byte-Script",
+    "raw_hex": "0a1902040401929876606d526695540d0863a1a0108d7858630d785d747d1078988c69a17b9f0d",
+    "text": "!\u0019Au\u0011\u0000\u001a<\u001a<(7ぺぉれとむかはぃく\n\u0019ｾぬオエﾜﾍべわしぬ\nわちりぐﾜﾍわぉぶへオがウ"
+  },
+  {
+    "bank": "0x4A",
+    "offset": "0x12B244",
+    "bank_offset": "0x3244",
+    "format": "1-Byte-Script",
+    "raw_hex": "0a1908010101080d965d92716d9f",
+    "text": "!\u0019Au\u0019ｾ(7(7(7\u0019ｾ\nぅちぺゆむウ"
+  },
+  {
+    "bank": "0x4A",
+    "offset": "0x12B254",
+    "bank_offset": "0x3254",
+    "format": "1-Byte-Script",
+    "raw_hex": "a5969f0d",
+    "text": "ケぅウ"
+  },
+  {
+    "bank": "0x4A",
+    "offset": "0x12B259",
+    "bank_offset": "0x3259",
+    "format": "1-Byte-Script",
+    "raw_hex": "0a069b100f",
+    "text": "!\u0019}!ーﾜﾍ\u0003\u0018"
+  },
+  {
+    "bank": "0x4A",
+    "offset": "0x12B25F",
+    "bank_offset": "0x325F",
+    "format": "1-Byte-Script",
+    "raw_hex": "010165a16699ffff1065a1667852ffff0dffff54fca11077716f75905252920d71741059a16675677b9f0d",
+    "text": "(7(7のオはっパパﾜﾍのオはわかパパ\nパパくブオﾜﾍろゆもる２かかぺ\nゆりﾜﾍすオはるひがウ"
+  },
+  {
+    "bank": "0x4A",
+    "offset": "0x12B290",
+    "bank_offset": "0x3290",
+    "format": "1-Byte-Script",
+    "raw_hex": "018c106b546e96789f0d506d526d6f7c1069525972790d59a15f521050999d5f759078659f0d",
+    "text": "(7ぶﾜﾍまくめぅわウ\nえむかむもぎﾜﾍへかすよを\nすオてかﾜﾍえっアてる２わのウ"
+  },
+  {
+    "bank": "0x4A",
+    "offset": "0x12B2B7",
+    "bank_offset": "0x32B7",
+    "format": "1-Byte-Script",
+    "raw_hex": "0a069b1019070101010863a19f0d58725b638c5a105b9a5275fb679f0d",
+    "text": "!\u0019}!ーﾜﾍAu\u0017\u0000(7(7(7\u0019ｾぬオウ\nしよそぬぶせﾜﾍそ　かるビひウ"
+  },
+  {
+    "bank": "0x4A",
+    "offset": "0x12B2D8",
+    "bank_offset": "0x32D8",
+    "format": "1-Byte-Script",
+    "raw_hex": "010189a17675677b9f0d5898808f63a19f0d",
+    "text": "(7(7どオれるひがウ\nしぉざぱぬオウ"
+  },
+  {
+    "bank": "0x4A",
+    "offset": "0x12B2EB",
+    "bank_offset": "0x32EB",
+    "format": "1-Byte-Script",
+    "raw_hex": "0a1905010101a7",
+    "text": "!\u0019Au(\u0010(7(7(7サ"
+  },
+  {
+    "bank": "0x4A",
+    "offset": "0x12B2F4",
+    "bank_offset": "0x32F4",
+    "format": "1-Byte-Script",
+    "raw_hex": "63a15a10",
+    "text": "ぬオせﾜﾍ"
+  },
+  {
+    "bank": "0x4A",
+    "offset": "0x12B2FB",
+    "bank_offset": "0x32FB",
+    "format": "1-Byte-Script",
+    "raw_hex": "ec760d8d56741089a18c790d5b9a529278fc9f0d",
+    "text": "ギれ\nべこりﾜﾍどオぶを\nそ　かぺわブウ"
+  },
+  {
+    "bank": "0x4A",
+    "offset": "0x12B315",
+    "bank_offset": "0x3315",
+    "format": "1-Byte-Script",
+    "raw_hex": "010863a17d0d58725b638c7ca7",
+    "text": "(7\u0019ｾぬオぐ\nしよそぬぶぎサ"
+  },
+  {
+    "bank": "0x4A",
+    "offset": "0x12B324",
+    "bank_offset": "0x3324",
+    "format": "1-Byte-Script",
+    "raw_hex": "5a107879a00d657499965479108d568c6759f90d",
+    "text": "せﾜﾍわをエ\nのりっぅくをﾜﾍべこぶひすド"
+  },
+  {
+    "bank": "0x4A",
+    "offset": "0x12B339",
+    "bank_offset": "0x3339",
+    "format": "1-Byte-Script",
+    "raw_hex": "0a16050358e4",
+    "text": "!\u0019!\u0004(\u0010ﾘoしリ"
+  },
+  {
+    "bank": "0x4A",
+    "offset": "0x12B340",
+    "bank_offset": "0x3340",
+    "format": "1-Byte-Script",
+    "raw_hex": "a072527499",
+    "text": "エよかりっ"
+  },
+  {
+    "bank": "0x4A",
+    "offset": "0x12B347",
+    "bank_offset": "0x3347",
+    "format": "1-Byte-Script",
+    "raw_hex": "7d6d97527499",
+    "text": "ぐむぇかりっ"
+  },
+  {
+    "bank": "0x4A",
+    "offset": "0x12B34E",
+    "bank_offset": "0x334E",
+    "format": "1-Byte-Script",
+    "raw_hex": "015877717499",
+    "text": "(7しろゆりっ"
+  },
+  {
+    "bank": "0x4A",
+    "offset": "0x12B355",
+    "bank_offset": "0x3355",
+    "format": "1-Byte-Script",
+    "raw_hex": "02075411020101",
+    "text": "\u0011\u0000\u0017\u0000くAu\u0011\u0000(7(7"
+  },
+  {
+    "bank": "0x4A",
+    "offset": "0x12B376",
+    "bank_offset": "0x3376",
+    "format": "1-Byte-Script",
+    "raw_hex": "010158e4",
+    "text": "(7(7しリ"
+  },
+  {
+    "bank": "0x4A",
+    "offset": "0x12B37B",
+    "bank_offset": "0x337B",
+    "format": "1-Byte-Script",
+    "raw_hex": "a07252740d5299a17567969f0d725b7ca7",
+    "text": "エよかり\nかっオるひぅウ\nよそぎサ"
+  },
+  {
+    "bank": "0x4A",
+    "offset": "0x12B38E",
+    "bank_offset": "0x338E",
+    "format": "1-Byte-Script",
+    "raw_hex": "63a17d9f0d",
+    "text": "ぬオぐウ"
+  },
+  {
+    "bank": "0x4A",
+    "offset": "0x12B394",
+    "bank_offset": "0x3394",
+    "format": "1-Byte-Script",
+    "raw_hex": "0a190601011a40960396010828",
+    "text": "!\u0019Au}!(7(7!\u0006ょぅﾘoぅ(7\u0019ｾ瑁"
+  },
+  {
+    "bank": "0x4A",
+    "offset": "0x12B3A2",
+    "bank_offset": "0x33A2",
+    "format": "1-Byte-Script",
+    "raw_hex": "016b54fa0d6b546e9678fc9f0d",
+    "text": "(7まくバ\nまくめぅわブウ"
+  },
+  {
+    "bank": "0x4A",
+    "offset": "0x12B3B0",
+    "bank_offset": "0x33B0",
+    "format": "1-Byte-Script",
+    "raw_hex": "0a015052729710e4",
+    "text": "!\u0019(7えかよぇﾜﾍリ"
+  },
+  {
+    "bank": "0x4A",
+    "offset": "0x12B3B9",
+    "bank_offset": "0x33B9",
+    "format": "1-Byte-Script",
+    "raw_hex": "a00d725274a16e969f0d",
+    "text": "エ\nよかりオめぅウ"
+  },
+  {
+    "bank": "0x4A",
+    "offset": "0x12B3C4",
+    "bank_offset": "0x33C4",
+    "format": "1-Byte-Script",
+    "raw_hex": "0a0159fb7110548c6bfb6e78fb9f0de4",
+    "text": "!\u0019(7すビゆﾜﾍくぶまビめわビウ\nリ"
+  },
+  {
+    "bank": "0x4A",
+    "offset": "0x12B3D5",
+    "bank_offset": "0x33D5",
+    "format": "1-Byte-Script",
+    "raw_hex": "5d5274fb78fb9f0d6595545a728c75108c747bfb9f0d",
+    "text": "ちかりビわビウ\nのぃくせよぶるﾜﾍぶりがビウ"
+  },
+  {
+    "bank": "0x4A",
+    "offset": "0x12B3F1",
+    "bank_offset": "0x33F1",
+    "format": "1-Byte-Script",
+    "raw_hex": "016b545910a3ee7d0d58e4",
+    "text": "(7まくすﾜﾍキゲぐ\nしリ"
+  },
+  {
+    "bank": "0x4A",
+    "offset": "0x12B3FD",
+    "bank_offset": "0x33FD",
+    "format": "1-Byte-Script",
+    "raw_hex": "a072527452997c59ffff0d",
+    "text": "エよかりかっぎすパパ"
+  },
+  {
+    "bank": "0x4A",
+    "offset": "0x12B409",
+    "bank_offset": "0x3409",
+    "format": "1-Byte-Script",
+    "raw_hex": "0a190801011a40980398010828",
+    "text": "!\u0019Au\u0019ｾ(7(7!\u0006ょぉﾘoぉ(7\u0019ｾ瑁"
+  },
+  {
+    "bank": "0x4A",
+    "offset": "0x12B417",
+    "bank_offset": "0x3417",
+    "format": "1-Byte-Script",
+    "raw_hex": "017d668f741065716d969f0d50985a765410089f0d",
+    "text": "(7ぐはぱりﾜﾍのゆむぅウ\nえぉせれくﾜﾍ\u0019ｾウ"
+  },
+  {
+    "bank": "0x4A",
+    "offset": "0x12B432",
+    "bank_offset": "0x3432",
+    "format": "1-Byte-Script",
+    "raw_hex": "0176619b751058e4",
+    "text": "(7れなーるﾜﾍしリ"
+  },
+  {
+    "bank": "0x4A",
+    "offset": "0x12B43B",
+    "bank_offset": "0x343B",
+    "format": "1-Byte-Script",
+    "raw_hex": "7174ffff0d",
+    "text": "ゆりパパ"
+  },
+  {
+    "bank": "0x4A",
+    "offset": "0x12B441",
+    "bank_offset": "0x3441",
+    "format": "1-Byte-Script",
+    "raw_hex": "0a018372547d10906f628fa0108e65740d66935484a1107b7e985f5a0d75998c7510546775725b0d",
+    "text": "!\u0019(7ぜよくぐﾜﾍ２もにぱエﾜﾍぼのり\nはぽくぞオﾜﾍがげぉてせ\nるっぶるﾜﾍくひるよそ"
+  },
+  {
+    "bank": "0x4A",
+    "offset": "0x12B46A",
+    "bank_offset": "0x346A",
+    "format": "1-Byte-Script",
+    "raw_hex": "0a018c998f6d98106d5297797c656d980d656d907c75106b7c8c8c0d6d876d98679989590d",
+    "text": "!\u0019(7ぶっぱむぉﾜﾍむかぇをぎのむぉ\nのむ２ぎるﾜﾍまぎぶぶ\nむづむぉひっどす"
+  },
+  {
+    "bank": "0x4A",
+    "offset": "0x12B490",
+    "bank_offset": "0x3490",
+    "format": "1-Byte-Script",
+    "raw_hex": "0a0150a192105b7861a010725f740d6d876d981059a16b546369740d92526d9810796d9865740d",
+    "text": "!\u0019(7えオぺﾜﾍそわなエﾜﾍよてり\nむづむぉﾜﾍすオまくぬへり\nぺかむぉﾜﾍをむぉのり"
+  },
+  {
+    "bank": "0x4A",
+    "offset": "0x12B4B8",
+    "bank_offset": "0x34B8",
+    "format": "1-Byte-Script",
+    "raw_hex": "0a016d8799907c6e767d0d657174995f770d585265527c59f90d",
+    "text": "!\u0019(7むづっ２ぎめれぐ\nのゆりってろ\nしかのかぎすド"
+  },
+  {
+    "bank": "0x4A",
+    "offset": "0x12B4D6",
+    "bank_offset": "0x34D6",
+    "format": "1-Byte-Script",
+    "raw_hex": "0101565610585265527567969f0d",
+    "text": "(7(7ここﾜﾍしかのかるひぅウ"
+  },
+  {
+    "bank": "0x4A",
+    "offset": "0x12B4E5",
+    "bank_offset": "0x34E5",
+    "format": "1-Byte-Script",
+    "raw_hex": "0a19060101016b545910ee",
+    "text": "!\u0019Au}!(7(7(7まくすﾜﾍゲ"
+  },
+  {
+    "bank": "0x4A",
+    "offset": "0x12B4F5",
+    "bank_offset": "0x34F5",
+    "format": "1-Byte-Script",
+    "raw_hex": "a00d5d716d6176107859716da16e789f0d",
+    "text": "エ\nちゆむなれﾜﾍわすゆむオめわウ"
+  },
+  {
+    "bank": "0x4A",
+    "offset": "0x12B507",
+    "bank_offset": "0x3507",
+    "format": "1-Byte-Script",
+    "raw_hex": "0a016691501061a17710e4",
+    "text": "!\u0019(7はぷえﾜﾍなオろﾜﾍリ"
+  },
+  {
+    "bank": "0x4A",
+    "offset": "0x12B513",
+    "bank_offset": "0x3513",
+    "format": "1-Byte-Script",
+    "raw_hex": "725b0d6d525952759010929959fa0d",
+    "text": "よそ\nむかすかる２ﾜﾍぺっすバ"
+  },
+  {
+    "bank": "0x4A",
+    "offset": "0x12B523",
+    "bank_offset": "0x3523",
+    "format": "1-Byte-Script",
+    "raw_hex": "0a016595545a728c750d8c747bfb6578fafa0d",
+    "text": "!\u0019(7のぃくせよぶる\nぶりがビのわババ"
+  },
+  {
+    "bank": "0x4A",
+    "offset": "0x12B537",
+    "bank_offset": "0x3537",
+    "format": "1-Byte-Script",
+    "raw_hex": "0a190801010154a19f0d",
+    "text": "!\u0019Au\u0019ｾ(7(7(7くオウ"
+  },
+  {
+    "bank": "0x4A",
+    "offset": "0x12B542",
+    "bank_offset": "0x3542",
+    "format": "1-Byte-Script",
+    "raw_hex": "0a0652170f",
+    "text": "!\u0019}!か\u0000\u0019\u0003\u0018"
+  },
+  {
+    "bank": "0x4A",
+    "offset": "0x12B548",
+    "bank_offset": "0x3548",
+    "format": "1-Byte-Script",
+    "raw_hex": "01017d6d97527499a17567960da7",
+    "text": "(7(7ぐむぇかりっオるひぅ\nサ"
+  },
+  {
+    "bank": "0x4A",
+    "offset": "0x12B558",
+    "bank_offset": "0x3558",
+    "format": "1-Byte-Script",
+    "raw_hex": "63a17d9f0d",
+    "text": "ぬオぐウ"
+  },
+  {
+    "bank": "0x4A",
+    "offset": "0x12B55E",
+    "bank_offset": "0x355E",
+    "format": "1-Byte-Script",
+    "raw_hex": "0a190203030150978c100863a10d7859785910eca3ec",
+    "text": "!\u0019Au\u0011\u0000ﾘoﾘo(7えぇぶﾜﾍ\u0019ｾぬオ\nわすわすﾜﾍギキギ"
+  },
+  {
+    "bank": "0x4A",
+    "offset": "0x12B576",
+    "bank_offset": "0x3576",
+    "format": "1-Byte-Script",
+    "raw_hex": "0d78a175677c7b9f0d",
+    "text": "わオるひぎがウ"
+  },
+  {
+    "bank": "0x4A",
+    "offset": "0x12B580",
+    "bank_offset": "0x3580",
+    "format": "1-Byte-Script",
+    "raw_hex": "0a190201011a40920392010828",
+    "text": "!\u0019Au\u0011\u0000(7(7!\u0006ょぺﾘoぺ(7\u0019ｾ瑁"
+  },
+  {
+    "bank": "0x4A",
+    "offset": "0x12B591",
+    "bank_offset": "0x3591",
+    "format": "1-Byte-Script",
+    "raw_hex": "75679d96109d6d5d650d6b5452547c9f0d",
+    "text": "るひアぅﾜﾍアむちの\nまくかくぎウ"
+  },
+  {
+    "bank": "0x4A",
+    "offset": "0x12B5A3",
+    "bank_offset": "0x35A3",
+    "format": "1-Byte-Script",
+    "raw_hex": "0a190503030189fb9ffde4",
+    "text": "!\u0019Au(\u0010ﾘoﾘo(7どビウベリ"
+  },
+  {
+    "bank": "0x4A",
+    "offset": "0x12B5AF",
+    "bank_offset": "0x35AF",
+    "format": "1-Byte-Script",
+    "raw_hex": "a072527499fe0d765910525476105890716d970dfd7d6d97527499fe59ffff0d",
+    "text": "エよかりっボ\nれすﾜﾍかくれﾜﾍし２ゆむぇ\nベぐむぇかりっボすパパ"
+  },
+  {
+    "bank": "0x4A",
+    "offset": "0x12B5D0",
+    "bank_offset": "0x35D0",
+    "format": "1-Byte-Script",
+    "raw_hex": "0a190501011a40950395010828",
+    "text": "!\u0019Au(\u0010(7(7!\u0006ょぃﾘoぃ(7\u0019ｾ瑁"
+  },
+  {
+    "bank": "0x4A",
+    "offset": "0x12B5DE",
+    "bank_offset": "0x35DE",
+    "format": "1-Byte-Script",
+    "raw_hex": "017859785910",
+    "text": "(7わすわすﾜﾍ"
+  },
+  {
+    "bank": "0x4A",
+    "offset": "0x12B5E5",
+    "bank_offset": "0x35E5",
+    "format": "1-Byte-Script",
+    "raw_hex": "e7fbed780ddd",
+    "text": "ロビグわ\nム"
+  },
+  {
+    "bank": "0x4A",
+    "offset": "0x12B5EC",
+    "bank_offset": "0x35EC",
+    "format": "1-Byte-Script",
+    "raw_hex": "92789f0d58909b52759f0d",
+    "text": "ぺわウ\nし２ーかるウ"
+  },
+  {
+    "bank": "0x4A",
+    "offset": "0x12B5F8",
+    "bank_offset": "0x35F8",
+    "format": "1-Byte-Script",
+    "raw_hex": "0a0652171902010101759010725b7ca7",
+    "text": "!\u0019}!か\u0000\u0019Au\u0011\u0000(7(7(7る２ﾜﾍよそぎサ"
+  },
+  {
+    "bank": "0x4A",
+    "offset": "0x12B60A",
+    "bank_offset": "0x360A",
+    "format": "1-Byte-Script",
+    "raw_hex": "63a17d0d52716d521077a17858656276a00d657499a175659554f90d",
+    "text": "ぬオぐ\nかゆむかﾜﾍろオわしのにれエ\nのりっオるのぃくド"
+  },
+  {
+    "bank": "0x4A",
+    "offset": "0x12B62A",
+    "bank_offset": "0x362A",
+    "format": "1-Byte-Script",
+    "raw_hex": "01015b71761058e4",
+    "text": "(7(7そゆれﾜﾍしリ"
+  },
+  {
+    "bank": "0x4A",
+    "offset": "0x12B633",
+    "bank_offset": "0x3633",
+    "format": "1-Byte-Script",
+    "raw_hex": "a00d7252745299a17567969f0d",
+    "text": "エ\nよかりかっオるひぅウ"
+  },
+  {
+    "bank": "0x4A",
+    "offset": "0x12B641",
+    "bank_offset": "0x3641",
+    "format": "1-Byte-Script",
+    "raw_hex": "0a190501010178a192105f715b955d0d58e4",
+    "text": "!\u0019Au(\u0010(7(7(7わオぺﾜﾍてゆそぃち\nしリ"
+  },
+  {
+    "bank": "0x4A",
+    "offset": "0x12B654",
+    "bank_offset": "0x3654",
+    "format": "1-Byte-Script",
+    "raw_hex": "a01072527699a1920d785259fa0d",
+    "text": "エﾜﾍよかれっオぺ\nわかすバ"
+  },
+  {
+    "bank": "0x4A",
+    "offset": "0x12B666",
+    "bank_offset": "0x3666",
+    "format": "1-Byte-Script",
+    "raw_hex": "010158777174105299a17567960d725b7ca7",
+    "text": "(7(7しろゆりﾜﾍかっオるひぅ\nよそぎサ"
+  },
+  {
+    "bank": "0x4A",
+    "offset": "0x12B67A",
+    "bank_offset": "0x367A",
+    "format": "1-Byte-Script",
+    "raw_hex": "63a17d9f0d",
+    "text": "ぬオぐウ"
+  },
+  {
+    "bank": "0x4A",
+    "offset": "0x12B680",
+    "bank_offset": "0x3680",
+    "format": "1-Byte-Script",
+    "raw_hex": "0a1907010101a5a9a410ee",
+    "text": "!\u0019Au\u0017\u0000(7(7(7ケスクﾜﾍゲ"
+  },
+  {
+    "bank": "0x4A",
+    "offset": "0x12B691",
+    "bank_offset": "0x3691",
+    "format": "1-Byte-Script",
+    "raw_hex": "0d75fb67fa0d6d7c65fb75fb67fafa0d",
+    "text": "るビひバ\nむぎのビるビひババ"
+  },
+  {
+    "bank": "0x4A",
+    "offset": "0x12B6A2",
+    "bank_offset": "0x36A2",
+    "format": "1-Byte-Script",
+    "raw_hex": "0a1a40970397010828",
+    "text": "!\u0019!\u0006ょぇﾘoぇ(7\u0019ｾ瑁"
+  },
+  {
+    "bank": "0x4A",
+    "offset": "0x12B6AC",
+    "bank_offset": "0x36AC",
+    "format": "1-Byte-Script",
+    "raw_hex": "019d6d6590106b7c525fa1790d63a1695275fb679f0d",
+    "text": "(7アむの２ﾜﾍまぎかてオを\nぬオへかるビひウ"
+  },
+  {
+    "bank": "0x4A",
+    "offset": "0x12B6C3",
+    "bank_offset": "0x36C3",
+    "format": "1-Byte-Script",
+    "raw_hex": "0a015059995d105b9a52780d58725b638c7c656d750da7",
+    "text": "!\u0019(7えすっちﾜﾍそ　かわ\nしよそぬぶぎのむる\nサ"
+  },
+  {
+    "bank": "0x4A",
+    "offset": "0x12B6DC",
+    "bank_offset": "0x36DC",
+    "format": "1-Byte-Script",
+    "raw_hex": "63a17652716595790d",
+    "text": "ぬオれかゆのぃを"
+  },
+  {
+    "bank": "0x4A",
+    "offset": "0x12B6E6",
+    "bank_offset": "0x36E6",
+    "format": "1-Byte-Script",
+    "raw_hex": "0a016d7c655d10",
+    "text": "!\u0019(7むぎのちﾜﾍ"
+  },
+  {
+    "bank": "0x4A",
+    "offset": "0x12B6F0",
+    "bank_offset": "0x36F0",
+    "format": "1-Byte-Script",
+    "raw_hex": "fafa0d76749010d0",
+    "text": "ババ\nれり２ﾜﾍト"
+  },
+  {
+    "bank": "0x4A",
+    "offset": "0x12B6F9",
+    "bank_offset": "0x36F9",
+    "format": "1-Byte-Script",
+    "raw_hex": "d5fb75fb679f0d",
+    "text": "ノビるビひウ"
+  },
+  {
+    "bank": "0x4A",
+    "offset": "0x12B701",
+    "bank_offset": "0x3701",
+    "format": "1-Byte-Script",
+    "raw_hex": "0a190401011a40940394010828",
+    "text": "!\u0019Au\u001a<(7(7!\u0006ょぁﾘoぁ(7\u0019ｾ瑁"
+  },
+  {
+    "bank": "0x4A",
+    "offset": "0x12B70F",
+    "bank_offset": "0x370F",
+    "format": "1-Byte-Script",
+    "raw_hex": "01a3a5ec",
+    "text": "(7キケギ"
+  },
+  {
+    "bank": "0x4A",
+    "offset": "0x12B714",
+    "bank_offset": "0x3714",
+    "format": "1-Byte-Script",
+    "raw_hex": "90fafa0d",
+    "text": "２ババ"
+  },
+  {
+    "bank": "0x4A",
+    "offset": "0x12B719",
+    "bank_offset": "0x3719",
+    "format": "1-Byte-Script",
+    "raw_hex": "0a019dfb52106d7c65527b9f0d",
+    "text": "!\u0019(7アビかﾜﾍむぎのかがウ"
+  },
+  {
+    "bank": "0x4A",
+    "offset": "0x12B727",
+    "bank_offset": "0x3727",
+    "format": "1-Byte-Script",
+    "raw_hex": "e5f5defbedfafa0d",
+    "text": "ルダメビグババ"
+  },
+  {
+    "bank": "0x4A",
+    "offset": "0x12B730",
+    "bank_offset": "0x3730",
+    "format": "1-Byte-Script",
+    "raw_hex": "0a010871740d7859785910525261760d52546691a1fa0d",
+    "text": "!\u0019(7\u0019ｾゆり\nわすわすﾜﾍかかなれ\nかくはぷオバ"
+  },
+  {
+    "bank": "0x4A",
+    "offset": "0x12B748",
+    "bank_offset": "0x3748",
+    "format": "1-Byte-Script",
+    "raw_hex": "0a0652170f",
+    "text": "!\u0019}!か\u0000\u0019\u0003\u0018"
+  },
+  {
+    "bank": "0x4A",
+    "offset": "0x12B753",
+    "bank_offset": "0x3753",
+    "format": "1-Byte-Script",
+    "raw_hex": "63a1ffff0d54fba110725b797da7",
+    "text": "ぬオパパ\nくビオﾜﾍよそをぐサ"
+  },
+  {
+    "bank": "0x4A",
+    "offset": "0x12B763",
+    "bank_offset": "0x3763",
+    "format": "1-Byte-Script",
+    "raw_hex": "63a17d0d527852a166911078525978ffff0d",
+    "text": "ぬオぐ\nかわかオはぷﾜﾍわかすわパパ"
+  },
+  {
+    "bank": "0x4A",
+    "offset": "0x12B776",
+    "bank_offset": "0x3776",
+    "format": "1-Byte-Script",
+    "raw_hex": "0a01725b797d105d545b5a0d785276589054659f0d",
+    "text": "!\u0019(7よそをぐﾜﾍちくそせ\nわかれし２くのウ"
+  },
+  {
+    "bank": "0x4A",
+    "offset": "0x12B78C",
+    "bank_offset": "0x378C",
+    "format": "1-Byte-Script",
+    "raw_hex": "0a1904060601ffff0871740d948f5a7852a16e7b9f0d728ca178527cfa0d",
+    "text": "!\u0019Au\u001a<}!}!(7パパ\u0019ｾゆり\nぁぱせわかオめがウ\nよぶオわかぎバ"
+  },
+  {
+    "bank": "0x4A",
+    "offset": "0x12B7AB",
+    "bank_offset": "0x37AB",
+    "format": "1-Byte-Script",
+    "raw_hex": "0a1901070701a7",
+    "text": "!\u0019Au(7\u0017\u0000\u0017\u0000(7サ"
+  },
+  {
+    "bank": "0x4A",
+    "offset": "0x12B7B3",
+    "bank_offset": "0x37B3",
+    "format": "1-Byte-Script",
+    "raw_hex": "759010a7",
+    "text": "る２ﾜﾍサ"
+  },
+  {
+    "bank": "0x4A",
+    "offset": "0x12B7B9",
+    "bank_offset": "0x37B9",
+    "format": "1-Byte-Script",
+    "raw_hex": "63a15a0d529971741059a15a566d89545a0d6d7c655d1050988c69a159f90d",
+    "text": "ぬオせ\nかっゆりﾜﾍすオせこむどくせ\nむぎのちﾜﾍえぉぶへオすド"
+  },
+  {
+    "bank": "0x4A",
+    "offset": "0x12B7DC",
+    "bank_offset": "0x37DC",
+    "format": "1-Byte-Script",
+    "raw_hex": "010175901092717f980d61a15b959078527c790d6b547d10589056785275677b9f0d",
+    "text": "(7(7る２ﾜﾍぺゆごぉ\nなオそぃ２わかぎを\nまくぐﾜﾍし２こわかるひがウ"
+  },
+  {
+    "bank": "0x4A",
+    "offset": "0x12B7FF",
+    "bank_offset": "0x37FF",
+    "format": "1-Byte-Script",
+    "raw_hex": "0a01906510595a5d5a65a18b65740d79a160a15a10725b79525f9978970d6a80105271748d6d5275677b9f0d",
+    "text": "!\u0019(7２のﾜﾍすせちせのオびのり\nをオとオせﾜﾍよそをかてっわぇ\nほざﾜﾍかゆりべむかるひがウ"
+  },
+  {
+    "bank": "0x4A",
+    "offset": "0x12B82C",
+    "bank_offset": "0x382C",
+    "format": "1-Byte-Script",
+    "raw_hex": "0a016b54656d9710725b790da7",
+    "text": "!\u0019(7まくのむぇﾜﾍよそを\nサ"
+  },
+  {
+    "bank": "0x4A",
+    "offset": "0x12B83B",
+    "bank_offset": "0x383B",
+    "format": "1-Byte-Script",
+    "raw_hex": "63a15a5299597754590d6d65598f979a8c6759979f0d",
+    "text": "ぬオせかっすろくす\nむのすぱぇ　ぶひすぇウ"
+  },
+  {
+    "bank": "0x4A",
+    "offset": "0x12B852",
+    "bank_offset": "0x3852",
+    "format": "1-Byte-Script",
+    "raw_hex": "0a19030303016b9a7d6b9a750d948f5a1050717452529d7b9f0d",
+    "text": "!\u0019Auﾘoﾘoﾘo(7ま　ぐま　る\nぁぱせﾜﾍえゆりかかアがウ"
+  },
+  {
+    "bank": "0x4A",
+    "offset": "0x12B86D",
+    "bank_offset": "0x386D",
+    "format": "1-Byte-Script",
+    "raw_hex": "0a1905010101789710a7",
+    "text": "!\u0019Au(\u0010(7(7(7わぇﾜﾍサ"
+  },
+  {
+    "bank": "0x4A",
+    "offset": "0x12B87E",
+    "bank_offset": "0x387E",
+    "format": "1-Byte-Script",
+    "raw_hex": "5da1126254a0725d71740d725b8c7510729a74716d999dfa0d",
+    "text": "ちオ!\u0003にくエよちゆり\nよそぶるﾜﾍよ　りゆむっアバ"
+  },
+  {
+    "bank": "0x4A",
+    "offset": "0x12B898",
+    "bank_offset": "0x3898",
+    "format": "1-Byte-Script",
+    "raw_hex": "0a190406060156fbfa0d615497a17c10ef",
+    "text": "!\u0019Au\u001a<}!}!(7こビバ\nなくぇオぎﾜﾍゴ"
+  },
+  {
+    "bank": "0x4A",
+    "offset": "0x12B8AC",
+    "bank_offset": "0x38AC",
+    "format": "1-Byte-Script",
+    "raw_hex": "66910d5084785296579f0d",
+    "text": "はぷ\nえぞわかぅさウ"
+  },
+  {
+    "bank": "0x4A",
+    "offset": "0x12B8B8",
+    "bank_offset": "0x38B8",
+    "format": "1-Byte-Script",
+    "raw_hex": "0a19060101016b546e7810725b79725d8c56790dd1",
+    "text": "!\u0019Au}!(7(7(7まくめわﾜﾍよそをよちぶこを\nナ"
+  },
+  {
+    "bank": "0x4A",
+    "offset": "0x12B8D0",
+    "bank_offset": "0x38D0",
+    "format": "1-Byte-Script",
+    "raw_hex": "656d970d6d5286a16e5997789f0d",
+    "text": "のむぇ\nむか１オめすぇわウ"
+  },
+  {
+    "bank": "0x4A",
+    "offset": "0x12B8DF",
+    "bank_offset": "0x38DF",
+    "format": "1-Byte-Script",
+    "raw_hex": "0a190507070178a1921078a1920d80775210529d9a965492780d8c716d5dffff0d",
+    "text": "!\u0019Au(\u0010\u0017\u0000\u0017\u0000(7わオぺﾜﾍわオぺ\nざろかﾜﾍかア　ぅくぺわ\nぶゆむちパパ"
+  },
+  {
+    "bank": "0x4A",
+    "offset": "0x12B901",
+    "bank_offset": "0x3901",
+    "format": "1-Byte-Script",
+    "raw_hex": "0a19020101015889898989899f0d",
+    "text": "!\u0019Au\u0011\u0000(7(7(7しどどどどどウ"
+  },
+  {
+    "bank": "0x4A",
+    "offset": "0x12B910",
+    "bank_offset": "0x3910",
+    "format": "1-Byte-Script",
+    "raw_hex": "0a19090101017d7d7d7d7d7d9f0d",
+    "text": "!\u0019Au(\r(7(7(7ぐぐぐぐぐぐウ"
+  },
+  {
+    "bank": "0x4A",
+    "offset": "0x12B91F",
+    "bank_offset": "0x391F",
+    "format": "1-Byte-Script",
+    "raw_hex": "0a1907010101615497a17cef",
+    "text": "!\u0019Au\u0017\u0000(7(7(7なくぇオぎゴ"
+  },
+  {
+    "bank": "0x4A",
+    "offset": "0x12B92E",
+    "bank_offset": "0x392E",
+    "format": "1-Byte-Script",
+    "raw_hex": "66910d527c6f5a10525d72507174900d6d98785275fb67fa0d",
+    "text": "はぷ\nかぎもせﾜﾍかちよえゆり２\nむぉわかるビひバ"
+  },
+  {
+    "bank": "0x4A",
+    "offset": "0x12B948",
+    "bank_offset": "0x3948",
+    "format": "1-Byte-Script",
+    "raw_hex": "0a1908010101d6d6d6ffff0d759010725b7952615478a1740d676252107d716b546e969f0d",
+    "text": "!\u0019Au\u0019ｾ(7(7(7ハハハパパ\nる２ﾜﾍよそをかなくわオり\nひにかﾜﾍぐゆまくめぅウ"
+  },
+  {
+    "bank": "0x4A",
+    "offset": "0x12B96E",
+    "bank_offset": "0x396E",
+    "format": "1-Byte-Script",
+    "raw_hex": "0a06521719010101016b9a79657490100863a10d89a1765479105872599a638c0d75656d7b9f0d",
+    "text": "!\u0019}!か\u0000\u0019Au(7(7(7(7ま　をのり２ﾜﾍ\u0019ｾぬオ\nどオれくをﾜﾍしよす　ぬぶ\nるのむがウ"
+  },
+  {
+    "bank": "0x4A",
+    "offset": "0x12B996",
+    "bank_offset": "0x3996",
+    "format": "1-Byte-Script",
+    "raw_hex": "0a190303030189a1767910965d92716d9d0d085da19f0d",
+    "text": "!\u0019Auﾘoﾘoﾘo(7どオれをﾜﾍぅちぺゆむア\n\u0019ｾちオウ"
+  },
+  {
+    "bank": "0x4A",
+    "offset": "0x12B9B1",
+    "bank_offset": "0x39B1",
+    "format": "1-Byte-Script",
+    "raw_hex": "1704878a01",
+    "text": "\u0000\u0019\u001a<づば(7"
+  },
+  {
+    "bank": "0x4A",
+    "offset": "0x12B9B7",
+    "bank_offset": "0x39B7",
+    "format": "1-Byte-Script",
+    "raw_hex": "2004878b01",
+    "text": "ﾉﾕ\u001a<づび(7"
+  },
+  {
+    "bank": "0x4A",
+    "offset": "0x12B9BD",
+    "bank_offset": "0x39BD",
+    "format": "1-Byte-Script",
+    "raw_hex": "201c04878c01",
+    "text": "ﾉﾕw\u0018\u001a<づぶ(7"
+  },
+  {
+    "bank": "0x4A",
+    "offset": "0x12B9C9",
+    "bank_offset": "0x39C9",
+    "format": "1-Byte-Script",
+    "raw_hex": "1804878a01ff2004878b01ff201b04878c01ff201b",
+    "text": "wﾍ\u001a<づば(7パﾉﾕ\u001a<づび(7パﾉﾕ\u0000\u0019\u001a<づぶ(7パﾉﾕ\u0000\u0019"
+  },
+  {
+    "bank": "0x4A",
+    "offset": "0x12B9E3",
+    "bank_offset": "0x39E3",
+    "format": "1-Byte-Script",
+    "raw_hex": "01757d106b9b6b9bffff0d5880975b79ffff0d",
+    "text": "(7るぐﾜﾍまーまーパパ\nしざぇそをパパ"
+  },
+  {
+    "bank": "0x4A",
+    "offset": "0x12BA00",
+    "bank_offset": "0x3A00",
+    "format": "1-Byte-Script",
+    "raw_hex": "01d4fbfa10d4fbfa10d4fbfa0d",
+    "text": "(7ネビバﾜﾍネビバﾜﾍネビバ"
+  },
+  {
+    "bank": "0x4A",
+    "offset": "0x12BA0E",
+    "bank_offset": "0x3A0E",
+    "format": "1-Byte-Script",
+    "raw_hex": "0a0d0203190202020178a175677cfaf90d",
+    "text": "!\u0019\n\u0011\u0000ﾘoAu\u0011\u0000\u0011\u0000\u0011\u0000(7わオるひぎバド"
+  },
+  {
+    "bank": "0x4A",
+    "offset": "0x12BA24",
+    "bank_offset": "0x3A24",
+    "format": "1-Byte-Script",
+    "raw_hex": "0f0b02120f017d785e8d7c8da1780d526b527510635d69a16572860d50728c71746f95546e52fa0d",
+    "text": "\u0003\u0018\u0000\u0019\u0011\u0000!\u0003\u0003\u0018(7ぐわつべぎべオわ\nかまかるﾜﾍぬちへオのよ１\nえよぶゆりもぃくめかバ"
+  },
+  {
+    "bank": "0x4A",
+    "offset": "0x12BA4D",
+    "bank_offset": "0x3A4D",
+    "format": "1-Byte-Script",
+    "raw_hex": "0a19090202019665108da17810635d69a16572860d526b5e6cfa0d",
+    "text": "!\u0019Au(\r\u0011\u0000\u0011\u0000(7ぅのﾜﾍべオわﾜﾍぬちへオのよ１\nかまつみバ"
+  },
+  {
+    "bank": "0x4A",
+    "offset": "0x12BA6E",
+    "bank_offset": "0x3A6E",
+    "format": "1-Byte-Script",
+    "raw_hex": "04878a01",
+    "text": "\u001a<づば(7"
+  },
+  {
+    "bank": "0x4A",
+    "offset": "0x12BA79",
+    "bank_offset": "0x3A79",
+    "format": "1-Byte-Script",
+    "raw_hex": "0150716b546efa10089f0d588c56107d7881109071740d",
+    "text": "(7えゆまくめバﾜﾍ\u0019ｾウ\nしぶこﾜﾍぐわじﾜﾍ２ゆり"
+  },
+  {
+    "bank": "0x4A",
+    "offset": "0x12BA91",
+    "bank_offset": "0x3A91",
+    "format": "1-Byte-Script",
+    "raw_hex": "05878a01",
+    "text": "(\u0010づば(7"
+  },
+  {
+    "bank": "0x4A",
+    "offset": "0x12BA97",
+    "bank_offset": "0x3A97",
+    "format": "1-Byte-Script",
+    "raw_hex": "017859716d715ff90d",
+    "text": "(7わすゆむゆてド"
+  },
+  {
+    "bank": "0x4A",
+    "offset": "0x12BAA4",
+    "bank_offset": "0x3AA4",
+    "format": "1-Byte-Script",
+    "raw_hex": "01015656109071748c67969f0d",
+    "text": "(7(7ここﾜﾍ２ゆりぶひぅウ"
+  },
+  {
+    "bank": "0x4A",
+    "offset": "0x12BAB7",
+    "bank_offset": "0x3AB7",
+    "format": "1-Byte-Script",
+    "raw_hex": "0177a178107d7881a00d90717499a1756759f90d0863a19f0d",
+    "text": "(7ろオわﾜﾍぐわじエ\n２ゆりっオるひすド\n\u0019ｾぬオウ"
+  },
+  {
+    "bank": "0x4A",
+    "offset": "0x12BAD1",
+    "bank_offset": "0x3AD1",
+    "format": "1-Byte-Script",
+    "raw_hex": "0a16050369a161547d7881",
+    "text": "!\u0019!\u0004(\u0010ﾘoへオなくぐわじ"
+  },
+  {
+    "bank": "0x4A",
+    "offset": "0x12BADE",
+    "bank_offset": "0x3ADE",
+    "format": "1-Byte-Script",
+    "raw_hex": "546f50607d7881",
+    "text": "くもえとぐわじ"
+  },
+  {
+    "bank": "0x4A",
+    "offset": "0x12BAE9",
+    "bank_offset": "0x3AE9",
+    "format": "1-Byte-Script",
+    "raw_hex": "e07d7881",
+    "text": "ヤぐわじ"
+  },
+  {
+    "bank": "0x4A",
+    "offset": "0x12BAEE",
+    "bank_offset": "0x3AEE",
+    "format": "1-Byte-Script",
+    "raw_hex": "0207ed18020101",
+    "text": "\u0011\u0000\u0017\u0000グwﾍ\u0011\u0000(7(7"
+  },
+  {
+    "bank": "0x4A",
+    "offset": "0x12BB0F",
+    "bank_offset": "0x3B0F",
+    "format": "1-Byte-Script",
+    "raw_hex": "010169a161547d78811075679f0d",
+    "text": "(7(7へオなくぐわじﾜﾍるひウ"
+  },
+  {
+    "bank": "0x4A",
+    "offset": "0x12BB1E",
+    "bank_offset": "0x3B1E",
+    "format": "1-Byte-Script",
+    "raw_hex": "0a190701011a40970397010828",
+    "text": "!\u0019Au\u0017\u0000(7(7!\u0006ょぇﾘoぇ(7\u0019ｾ瑁"
+  },
+  {
+    "bank": "0x4A",
+    "offset": "0x12BB37",
+    "bank_offset": "0x3B37",
+    "format": "1-Byte-Script",
+    "raw_hex": "fa0d9d6d651069a161547d78810d6e52675b75fb679f0d",
+    "text": "バ\nアむのﾜﾍへオなくぐわじ\nめかひそるビひウ"
+  },
+  {
+    "bank": "0x4A",
+    "offset": "0x12BB4F",
+    "bank_offset": "0x3B4F",
+    "format": "1-Byte-Script",
+    "raw_hex": "0a19030303016b54967b106f5263525f770dd2",
+    "text": "!\u0019Auﾘoﾘoﾘo(7まくぅがﾜﾍもかぬかてろ\nニ"
+  },
+  {
+    "bank": "0x4A",
+    "offset": "0x12BB65",
+    "bank_offset": "0x3B65",
+    "format": "1-Byte-Script",
+    "raw_hex": "7d665f740d",
+    "text": "ぐはてり"
+  },
+  {
+    "bank": "0x4A",
+    "offset": "0x12BB6B",
+    "bank_offset": "0x3B6B",
+    "format": "1-Byte-Script",
+    "raw_hex": "eea578107d7881967b9f0d",
+    "text": "ゲケわﾜﾍぐわじぅがウ"
+  },
+  {
+    "bank": "0x4A",
+    "offset": "0x12BB77",
+    "bank_offset": "0x3B77",
+    "format": "1-Byte-Script",
+    "raw_hex": "0a1a40930393010828",
+    "text": "!\u0019!\u0006ょぽﾘoぽ(7\u0019ｾ瑁"
+  },
+  {
+    "bank": "0x4A",
+    "offset": "0x12BB81",
+    "bank_offset": "0x3B81",
+    "format": "1-Byte-Script",
+    "raw_hex": "019d6d6590106e52675b969f0d",
+    "text": "(7アむの２ﾜﾍめかひそぅウ"
+  },
+  {
+    "bank": "0x4A",
+    "offset": "0x12BB8F",
+    "bank_offset": "0x3B8F",
+    "format": "1-Byte-Script",
+    "raw_hex": "0a1907010101507c1063526279586f99106d8ca00d58585b5d67997c900d6d7c655275fb679f0d",
+    "text": "!\u0019Au\u0017\u0000(7(7(7えぎﾜﾍぬかにをしもっﾜﾍむぶエ\nししそちひっぎ２\nむぎのかるビひウ"
+  },
+  {
+    "bank": "0x4A",
+    "offset": "0x12BBB7",
+    "bank_offset": "0x3BB7",
+    "format": "1-Byte-Script",
+    "raw_hex": "0a19030303016b546b540d509a717410586f74658c54760d638d65527c967b9f0d",
+    "text": "!\u0019Auﾘoﾘoﾘo(7まくまく\nえ　ゆりﾜﾍしもりのぶくれ\nぬべのかぎぅがウ"
+  },
+  {
+    "bank": "0x4A",
+    "offset": "0x12BBD9",
+    "bank_offset": "0x3BD9",
+    "format": "1-Byte-Script",
+    "raw_hex": "0a1907010101128ba175101359526d7c658f990d69a161547d78817d0d",
+    "text": "!\u0019Au\u0017\u0000(7(7(7!\u0003びオるﾜﾍ\u0000\u0019すかむぎのぱっ\nへオなくぐわじぐ"
+  },
+  {
+    "bank": "0x4A",
+    "offset": "0x12BBF7",
+    "bank_offset": "0x3BF7",
+    "format": "1-Byte-Script",
+    "raw_hex": "0a0154725d655d741059716152520d9d6d658d6d52780d",
+    "text": "!\u0019(7くよちのちりﾜﾍすゆなかか\nアむのべむかわ"
+  },
+  {
+    "bank": "0x4A",
+    "offset": "0x12BC13",
+    "bank_offset": "0x3C13",
+    "format": "1-Byte-Script",
+    "raw_hex": "78107d788175fb679f0d",
+    "text": "わﾜﾍぐわじるビひウ"
+  },
+  {
+    "bank": "0x4A",
+    "offset": "0x12BC1E",
+    "bank_offset": "0x3C1E",
+    "format": "1-Byte-Script",
+    "raw_hex": "0a1903030301d6d6d6ffff0d5898808f716d97ffff0d",
+    "text": "!\u0019Auﾘoﾘoﾘo(7ハハハパパ\nしぉざぱゆむぇパパ"
+  },
+  {
+    "bank": "0x4A",
+    "offset": "0x12BC3B",
+    "bank_offset": "0x3C3B",
+    "format": "1-Byte-Script",
+    "raw_hex": "0101546f50607d78811075679f0d",
+    "text": "(7(7くもえとぐわじﾜﾍるひウ"
+  },
+  {
+    "bank": "0x4A",
+    "offset": "0x12BC4A",
+    "bank_offset": "0x3C4A",
+    "format": "1-Byte-Script",
+    "raw_hex": "0a190901011a40990399010828",
+    "text": "!\u0019Au(\r(7(7!\u0006ょっﾘoっ(7\u0019ｾ瑁"
+  },
+  {
+    "bank": "0x4A",
+    "offset": "0x12BC58",
+    "bank_offset": "0x3C58",
+    "format": "1-Byte-Script",
+    "raw_hex": "01585871fa10546f50607d788159fa0d5252907c109071749966917852590d085da19f0d",
+    "text": "(7ししゆバﾜﾍくもえとぐわじすバ\nかか２ぎﾜﾍ２ゆりっはぷわかす\n\u0019ｾちオウ"
+  },
+  {
+    "bank": "0x4A",
+    "offset": "0x12BC7D",
+    "bank_offset": "0x3C7D",
+    "format": "1-Byte-Script",
+    "raw_hex": "0a19060505016d526f9554106b9a10506d527c0d",
+    "text": "!\u0019Au}!(\u0010(\u0010(7むかもぃくﾜﾍま　ﾜﾍえむかぎ"
+  },
+  {
+    "bank": "0x4A",
+    "offset": "0x12BC92",
+    "bank_offset": "0x3C92",
+    "format": "1-Byte-Script",
+    "raw_hex": "ecd66e6a9f0d",
+    "text": "ギハめほウ"
+  },
+  {
+    "bank": "0x4A",
+    "offset": "0x12BC99",
+    "bank_offset": "0x3C99",
+    "format": "1-Byte-Script",
+    "raw_hex": "0a190601011a40960396010828",
+    "text": "!\u0019Au}!(7(7!\u0006ょぅﾘoぅ(7\u0019ｾ瑁"
+  },
+  {
+    "bank": "0x4A",
+    "offset": "0x12BCA7",
+    "bank_offset": "0x3CA7",
+    "format": "1-Byte-Script",
+    "raw_hex": "015f7710546f50607d788110767d0d63675a6e6a1008fafa0d",
+    "text": "(7てろﾜﾍくもえとぐわじﾜﾍれぐ\nぬひせめほﾜﾍ\u0019ｾババ"
+  },
+  {
+    "bank": "0x4A",
+    "offset": "0x12BCC1",
+    "bank_offset": "0x3CC1",
+    "format": "1-Byte-Script",
+    "raw_hex": "0a0192717f107d78817d0d54f36ff350f360106e9678fc9f0d",
+    "text": "!\u0019(7ぺゆごﾜﾍぐわじぐ\nくゼもゼえゼとﾜﾍめぅわブウ"
+  },
+  {
+    "bank": "0x4A",
+    "offset": "0x12BCE2",
+    "bank_offset": "0x3CE2",
+    "format": "1-Byte-Script",
+    "raw_hex": "f510d3e7ededed10d2fbf50d717452541058765a0d6d8c97785d105252a16e969f0d",
+    "text": "ダﾜﾍヌログググﾜﾍニビダ\nゆりかくﾜﾍしれせ\nむぶぇわちﾜﾍかかオめぅウ"
+  },
+  {
+    "bank": "0x4A",
+    "offset": "0x12BD05",
+    "bank_offset": "0x3D05",
+    "format": "1-Byte-Script",
+    "raw_hex": "0a19060101016b546b549f0d6b9a79108da178750d8d9a9965789f0d",
+    "text": "!\u0019Au}!(7(7(7まくまくウ\nま　をﾜﾍべオわる\nべ　っのわウ"
+  },
+  {
+    "bank": "0x4A",
+    "offset": "0x12BD22",
+    "bank_offset": "0x3D22",
+    "format": "1-Byte-Script",
+    "raw_hex": "0a0192717f105876617dffff0d506d527d1058a1786e5f77ffff0d",
+    "text": "!\u0019(7ぺゆごﾜﾍしれなぐパパ\nえむかぐﾜﾍしオわめてろパパ"
+  },
+  {
+    "bank": "0x4A",
+    "offset": "0x12BD3E",
+    "bank_offset": "0x3D3E",
+    "format": "1-Byte-Script",
+    "raw_hex": "0a01546f50607d7881106e9678fc9f0d",
+    "text": "!\u0019(7くもえとぐわじﾜﾍめぅわブウ"
+  },
+  {
+    "bank": "0x4A",
+    "offset": "0x12BD59",
+    "bank_offset": "0x3D59",
+    "format": "1-Byte-Script",
+    "raw_hex": "e07d78811075679f0d",
+    "text": "ヤぐわじﾜﾍるひウ"
+  },
+  {
+    "bank": "0x4A",
+    "offset": "0x12BD63",
+    "bank_offset": "0x3D63",
+    "format": "1-Byte-Script",
+    "raw_hex": "0a1905010101087da19f0d58909b52107d78810d9071749992a1599f0d",
+    "text": "!\u0019Au(\u0010(7(7(7\u0019ｾぐオウ\nし２ーかﾜﾍぐわじ\n２ゆりっぺオすウ"
+  },
+  {
+    "bank": "0x4A",
+    "offset": "0x12BD89",
+    "bank_offset": "0x3D89",
+    "format": "1-Byte-Script",
+    "raw_hex": "e07d788171740d59925da0728f6d10598d619698a00df1",
+    "text": "ヤぐわじゆり\nすぺちエよぱむﾜﾍすべなぅぉエ\nジ"
+  },
+  {
+    "bank": "0x4A",
+    "offset": "0x12BDA1",
+    "bank_offset": "0x3DA1",
+    "format": "1-Byte-Script",
+    "raw_hex": "ac79656d907c750d",
+    "text": "タをのむ２ぎる"
+  },
+  {
+    "bank": "0x4A",
+    "offset": "0x12BDAA",
+    "bank_offset": "0x3DAA",
+    "format": "1-Byte-Script",
+    "raw_hex": "0a0180a0725f997610ce",
+    "text": "!\u0019(7ざエよてっれﾜﾍツ"
+  },
+  {
+    "bank": "0x4A",
+    "offset": "0x12BDB5",
+    "bank_offset": "0x3DB5",
+    "format": "1-Byte-Script",
+    "raw_hex": "e07c9654790d6f669554a07d65990d7d78817c61766e7b9f0d",
+    "text": "ヤぎぅくを\nもはぃくエぐのっ\nぐわじぎなれめがウ"
+  },
+  {
+    "bank": "0x4A",
+    "offset": "0x12BDCF",
+    "bank_offset": "0x3DCF",
+    "format": "1-Byte-Script",
+    "raw_hex": "0a19050303016b54929f0d63675a7d10ee",
+    "text": "!\u0019Au(\u0010ﾘoﾘo(7まくぺウ\nぬひせぐﾜﾍゲ"
+  },
+  {
+    "bank": "0x4A",
+    "offset": "0x12BDE1",
+    "bank_offset": "0x3DE1",
+    "format": "1-Byte-Script",
+    "raw_hex": "7da10d96fb65717499789f0d",
+    "text": "ぐオ\nぅビのゆりっわウ"
+  },
+  {
+    "bank": "0x4A",
+    "offset": "0x12BDF3",
+    "bank_offset": "0x3DF3",
+    "format": "1-Byte-Script",
+    "raw_hex": "01759010667284727d0d8d6d61767852a16e9f0d",
+    "text": "(7る２ﾜﾍはよぞよぐ\nべむなれわかオめウ"
+  },
+  {
+    "bank": "0x4A",
+    "offset": "0x12BE08",
+    "bank_offset": "0x3E08",
+    "format": "1-Byte-Script",
+    "raw_hex": "0a190505050196fb651089781063716b5d0d5261599f0d6b9a71fa0d",
+    "text": "!\u0019Au(\u0010(\u0010(\u0010(7ぅビのﾜﾍどわﾜﾍぬゆまち\nかなすウ\nま　ゆバ"
+  },
+  {
+    "bank": "0x4A",
+    "offset": "0x12BE25",
+    "bank_offset": "0x3E25",
+    "format": "1-Byte-Script",
+    "raw_hex": "0a13550119080404135501019d711061716f795d996cfa0d",
+    "text": "!\u0019\u0000\u0019け(7Au\u0019ｾ\u001a<\u001a<\u0000\u0019け(7(7アゆﾜﾍなゆもをちっみバ"
+  },
+  {
+    "bank": "0x4A",
+    "offset": "0x12BE3E",
+    "bank_offset": "0x3E3E",
+    "format": "1-Byte-Script",
+    "raw_hex": "0a135501017960749010796074900d5871745d99fafa0d",
+    "text": "!\u0019\u0000\u0019け(7(7をとり２ﾜﾍをとり２\nしゆりちっババ"
+  },
+  {
+    "bank": "0x4A",
+    "offset": "0x12BE56",
+    "bank_offset": "0x3E56",
+    "format": "1-Byte-Script",
+    "raw_hex": "0a1908030313550101",
+    "text": "!\u0019Au\u0019ｾﾘoﾘo\u0000\u0019け(7(7"
+  },
+  {
+    "bank": "0x4A",
+    "offset": "0x12BE61",
+    "bank_offset": "0x3E61",
+    "format": "1-Byte-Script",
+    "raw_hex": "a5fafa0d725281",
+    "text": "ケババ\nよかじ"
+  },
+  {
+    "bank": "0x4A",
+    "offset": "0x12BE6B",
+    "bank_offset": "0x3E6B",
+    "format": "1-Byte-Script",
+    "raw_hex": "fba0100d72a17552997c59f9fa0d",
+    "text": "ビエﾜﾍ\nよオるかっぎすドバ"
+  },
+  {
+    "bank": "0x4A",
+    "offset": "0x12BE7A",
+    "bank_offset": "0x3E7A",
+    "format": "1-Byte-Script",
+    "raw_hex": "0a19050606135501016ba17890a11072a17586a10d72a17586a19f0d",
+    "text": "!\u0019Au(\u0010}!}!\u0000\u0019け(7(7まオわ２オﾜﾍよオる１オ\nよオる１オウ"
+  },
+  {
+    "bank": "0x4A",
+    "offset": "0x12BE9E",
+    "bank_offset": "0x3E9E",
+    "format": "1-Byte-Script",
+    "raw_hex": "01019d71fafafa0dffffffffffffffffffffffffffff0dffffffffffffffffffffffffffff0d",
+    "text": "(7(7アゆバババ\nパパパパパパパパパパパパパパ\nパパパパパパパパパパパパパパ"
+  },
+  {
+    "bank": "0x4A",
+    "offset": "0x12BEC5",
+    "bank_offset": "0x3EC5",
+    "format": "1-Byte-Script",
+    "raw_hex": "0a1a40980398010828",
+    "text": "!\u0019!\u0006ょぉﾘoぉ(7\u0019ｾ瑁"
+  },
+  {
+    "bank": "0x4A",
+    "offset": "0x12BECF",
+    "bank_offset": "0x3ECF",
+    "format": "1-Byte-Script",
+    "raw_hex": "0178a174105890659b520d7d788178a16effffffffffff0d",
+    "text": "(7わオりﾜﾍし２のーか\nぐわじわオめパパパパパパ"
+  },
+  {
+    "bank": "0x4A",
+    "offset": "0x12BEE8",
+    "bank_offset": "0x3EE8",
+    "format": "1-Byte-Script",
+    "raw_hex": "0a1905010101ee",
+    "text": "!\u0019Au(\u0010(7(7(7ゲ"
+  },
+  {
+    "bank": "0x4A",
+    "offset": "0x12BEF0",
+    "bank_offset": "0x3EF0",
+    "format": "1-Byte-Script",
+    "raw_hex": "7da190105b7952716d0d8d6d5292789f0d",
+    "text": "ぐオ２ﾜﾍそをかゆむ\nべむかぺわウ"
+  },
+  {
+    "bank": "0x4A",
+    "offset": "0x12BF02",
+    "bank_offset": "0x3F02",
+    "format": "1-Byte-Script",
+    "raw_hex": "0a1a40950395010828",
+    "text": "!\u0019!\u0006ょぃﾘoぃ(7\u0019ｾ瑁"
+  },
+  {
+    "bank": "0x4A",
+    "offset": "0x12BF0F",
+    "bank_offset": "0x3F0F",
+    "format": "1-Byte-Script",
+    "raw_hex": "907810617c10",
+    "text": "２わﾜﾍなぎﾜﾍ"
+  },
+  {
+    "bank": "0x4A",
+    "offset": "0x12BF19",
+    "bank_offset": "0x3F19",
+    "format": "1-Byte-Script",
+    "raw_hex": "fb780d54625b5a106e52675b927ba19f0d",
+    "text": "ビわ\nくにそせﾜﾍめかひそぺがオウ"
+  },
+  {
+    "bank": "0x4A",
+    "offset": "0x12BF2B",
+    "bank_offset": "0x3F2B",
+    "format": "1-Byte-Script",
+    "raw_hex": "0a0158585b7910087da19f0d",
+    "text": "!\u0019(7ししそをﾜﾍ\u0019ｾぐオウ"
+  },
+  {
+    "bank": "0x4A",
+    "offset": "0x12BF3E",
+    "bank_offset": "0x3F3E",
+    "format": "1-Byte-Script",
+    "raw_hex": "0101d2eb",
+    "text": "(7(7ニガ"
+  },
+  {
+    "bank": "0x4A",
+    "offset": "0x12BF46",
+    "bank_offset": "0x3F46",
+    "format": "1-Byte-Script",
+    "raw_hex": "7d78811075679f0d",
+    "text": "ぐわじﾜﾍるひウ"
+  },
+  {
+    "bank": "0x4A",
+    "offset": "0x12BF5B",
+    "bank_offset": "0x3F5B",
+    "format": "1-Byte-Script",
+    "raw_hex": "7d7881f90d",
+    "text": "ぐわじド"
+  },
+  {
+    "bank": "0x4A",
+    "offset": "0x12BF66",
+    "bank_offset": "0x3F66",
+    "format": "1-Byte-Script",
+    "raw_hex": "01546f5060997610d2eb",
+    "text": "(7くもえとっれﾜﾍニガ"
+  },
+  {
+    "bank": "0x4A",
+    "offset": "0x12BF74",
+    "bank_offset": "0x3F74",
+    "format": "1-Byte-Script",
+    "raw_hex": "5a0d586f745d991092727567967b9f0d",
+    "text": "せ\nしもりちっﾜﾍぺよるひぅがウ"
+  },
+  {
+    "bank": "0x4A",
+    "offset": "0x12BF88",
+    "bank_offset": "0x3F88",
+    "format": "1-Byte-Script",
+    "raw_hex": "01016b5475679f0d",
+    "text": "(7(7まくるひウ"
+  },
+  {
+    "bank": "0x4A",
+    "offset": "0x12BF91",
+    "bank_offset": "0x3F91",
+    "format": "1-Byte-Script",
+    "raw_hex": "0a1904010101d2eb",
+    "text": "!\u0019Au\u001a<(7(7(7ニガ"
+  },
+  {
+    "bank": "0x4A",
+    "offset": "0x12BF9D",
+    "bank_offset": "0x3F9D",
+    "format": "1-Byte-Script",
+    "raw_hex": "5a0d586f745d997cfaf90d9dfb105890659b6bfb6e7bfafa0d",
+    "text": "せ\nしもりちっぎバド\nアビﾜﾍし２のーまビめがババ"
+  },
+  {
+    "bank": "0x4A",
+    "offset": "0x12BFBD",
+    "bank_offset": "0x3FBD",
+    "format": "1-Byte-Script",
+    "raw_hex": "010c0b097819040101016d7c6559716d7b10ee",
+    "text": "(7T]\u0000\u0019(\rわAu\u001a<(7(7(7むぎのすゆむがﾜﾍゲ"
+  },
+  {
+    "bank": "0x4A",
+    "offset": "0x12BFD4",
+    "bank_offset": "0x3FD4",
+    "format": "1-Byte-Script",
+    "raw_hex": "0a19080101016b546e7b9fa3a5ec",
+    "text": "!\u0019Au\u0019ｾ(7(7(7まくめがウキケギ"
+  },
+  {
+    "bank": "0x4A",
+    "offset": "0x12BFE9",
+    "bank_offset": "0x3FE9",
+    "format": "1-Byte-Script",
+    "raw_hex": "1704878b01",
+    "text": "\u0000\u0019\u001a<づび(7"
+  },
+  {
+    "bank": "0x4A",
+    "offset": "0x12BFEF",
+    "bank_offset": "0x3FEF",
+    "format": "1-Byte-Script",
+    "raw_hex": "2004878c01",
+    "text": "ﾉﾕ\u001a<づぶ(7"
+  }
+]

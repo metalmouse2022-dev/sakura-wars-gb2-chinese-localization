@@ -1,0 +1,890 @@
+[
+  {
+    "bank": "0x1E",
+    "offset": "0x0790EC",
+    "bank_offset": "0x10EC",
+    "format": "Shift-JIS",
+    "raw_hex": "82b982f182c682a482d382cc82a48140814081408140",
+    "text": "せんとうふのう　　　　"
+  },
+  {
+    "bank": "0x1E",
+    "offset": "0x07910D",
+    "bank_offset": "0x110D",
+    "format": "Shift-JIS",
+    "raw_hex": "82b182a482bf82e582ad814081408140814081408140",
+    "text": "こうちょく　　　　　　"
+  },
+  {
+    "bank": "0x1E",
+    "offset": "0x07912E",
+    "bank_offset": "0x112E",
+    "format": "Shift-JIS",
+    "raw_hex": "82c482c182bd82a28140814081408140814081408140",
+    "text": "てったい　　　　　　　"
+  },
+  {
+    "bank": "0x1E",
+    "offset": "0x0797DB",
+    "bank_offset": "0x17DB",
+    "format": "Shift-JIS",
+    "raw_hex": "e0e7e07021",
+    "text": "珸瀾!"
+  },
+  {
+    "bank": "0x1E",
+    "offset": "0x079A51",
+    "bank_offset": "0x1A51",
+    "format": "Shift-JIS",
+    "raw_hex": "8356838b83588345835882cc82bd82bf",
+    "text": "シルスウスのたち"
+  },
+  {
+    "bank": "0x1E",
+    "offset": "0x079A95",
+    "bank_offset": "0x1A95",
+    "format": "Shift-JIS",
+    "raw_hex": "835f837d8358834a835882cc82bd82bf",
+    "text": "ダマスカスのたち"
+  },
+  {
+    "bank": "0x1E",
+    "offset": "0x079AD9",
+    "bank_offset": "0x1AD9",
+    "format": "Shift-JIS",
+    "raw_hex": "82a882a882bd82bf8140814081408140",
+    "text": "おおたち　　　　"
+  },
+  {
+    "bank": "0x1E",
+    "offset": "0x079B1D",
+    "bank_offset": "0x1B1D",
+    "format": "Shift-JIS",
+    "raw_hex": "82ab82e582be82a282af82f181408140",
+    "text": "きょだいけん　　"
+  },
+  {
+    "bank": "0x1E",
+    "offset": "0x079B61",
+    "bank_offset": "0x1B61",
+    "format": "Shift-JIS",
+    "raw_hex": "82c882ac82c882bd8140814081408140",
+    "text": "なぎなた　　　　"
+  },
+  {
+    "bank": "0x1E",
+    "offset": "0x079BA5",
+    "bank_offset": "0x1BA5",
+    "format": "Shift-JIS",
+    "raw_hex": "8370838b836083558393814081408140",
+    "text": "パルチザン　　　"
+  },
+  {
+    "bank": "0x1E",
+    "offset": "0x079BE9",
+    "bank_offset": "0x1BE9",
+    "format": "Shift-JIS",
+    "raw_hex": "8356838b83588345835882cc8384838a",
+    "text": "シルスウスのヤリ"
+  },
+  {
+    "bank": "0x1E",
+    "offset": "0x079C2D",
+    "bank_offset": "0x1C2D",
+    "format": "Shift-JIS",
+    "raw_hex": "835f8375838b83898393835881408140",
+    "text": "ダブルランス　　"
+  },
+  {
+    "bank": "0x1E",
+    "offset": "0x079C71",
+    "bank_offset": "0x1C71",
+    "format": "Shift-JIS",
+    "raw_hex": "8367815b838b836e8393837d815b8140",
+    "text": "トールハンマー　"
+  },
+  {
+    "bank": "0x1E",
+    "offset": "0x079CB5",
+    "bank_offset": "0x1CB5",
+    "format": "Shift-JIS",
+    "raw_hex": "836f8343834c8393834f8341834e8358",
+    "text": "バイキングアクス"
+  },
+  {
+    "bank": "0x1E",
+    "offset": "0x079CF9",
+    "bank_offset": "0x1CF9",
+    "format": "Shift-JIS",
+    "raw_hex": "836e83938368834b8393814081408140",
+    "text": "ハンドガン　　　"
+  },
+  {
+    "bank": "0x1E",
+    "offset": "0x079D3D",
+    "bank_offset": "0x1D3D",
+    "format": "Shift-JIS",
+    "raw_hex": "82c482ab82be82f182b682e382a48140",
+    "text": "てきだんじゅう　"
+  },
+  {
+    "bank": "0x1E",
+    "offset": "0x079D81",
+    "bank_offset": "0x1D81",
+    "format": "Shift-JIS",
+    "raw_hex": "834b83938367838c8362836781408140",
+    "text": "ガントレット　　"
+  },
+  {
+    "bank": "0x1E",
+    "offset": "0x079DC5",
+    "bank_offset": "0x1DC5",
+    "format": "Shift-JIS",
+    "raw_hex": "82ad82a482aa82cc82b182c481408140",
+    "text": "くうがのこて　　"
+  },
+  {
+    "bank": "0x1E",
+    "offset": "0x079E09",
+    "bank_offset": "0x1E09",
+    "format": "Shift-JIS",
+    "raw_hex": "836f8362834e8389815b814081408140",
+    "text": "バックラー　　　"
+  },
+  {
+    "bank": "0x1E",
+    "offset": "0x079E4D",
+    "bank_offset": "0x1E4D",
+    "format": "Shift-JIS",
+    "raw_hex": "82ea82a282b182a482cc82bd82c48140",
+    "text": "れいこうのたて　"
+  },
+  {
+    "bank": "0x1E",
+    "offset": "0x079E91",
+    "bank_offset": "0x1E91",
+    "format": "Shift-JIS",
+    "raw_hex": "82b182a482d4814582a982a281408140",
+    "text": "こうぶ・かい　　"
+  },
+  {
+    "bank": "0x1E",
+    "offset": "0x079ED5",
+    "bank_offset": "0x1ED5",
+    "format": "Shift-JIS",
+    "raw_hex": "82b182a482d48145835e8393834e8140",
+    "text": "こうぶ・タンク　"
+  },
+  {
+    "bank": "0x1E",
+    "offset": "0x079F19",
+    "bank_offset": "0x1F19",
+    "format": "Shift-JIS",
+    "raw_hex": "83418343835b8393834e838983438367",
+    "text": "アイゼンクライト"
+  },
+  {
+    "bank": "0x1E",
+    "offset": "0x079F5B",
+    "bank_offset": "0x1F5B",
+    "format": "Shift-JIS",
+    "raw_hex": "504083498376835683878393814081408140",
+    "text": "P@オプション　　　"
+  },
+  {
+    "bank": "0x1E",
+    "offset": "0x079FA1",
+    "bank_offset": "0x1FA1",
+    "format": "Shift-JIS",
+    "raw_hex": "836d815b837d838b82a482c581408140",
+    "text": "ノーマルうで　　"
+  },
+  {
+    "bank": "0x1E",
+    "offset": "0x079FE5",
+    "bank_offset": "0x1FE5",
+    "format": "Shift-JIS",
+    "raw_hex": "836d815b837d838b82a482c581408140",
+    "text": "ノーマルうで　　"
+  },
+  {
+    "bank": "0x1E",
+    "offset": "0x07A029",
+    "bank_offset": "0x2029",
+    "format": "Shift-JIS",
+    "raw_hex": "834b8367838a8393834f82a482c58140",
+    "text": "ガトリングうで　"
+  },
+  {
+    "bank": "0x1E",
+    "offset": "0x07A05C",
+    "bank_offset": "0x205C",
+    "format": "Shift-JIS",
+    "raw_hex": "898989898989",
+    "text": "演演演"
+  },
+  {
+    "bank": "0x1E",
+    "offset": "0x07A06D",
+    "bank_offset": "0x206D",
+    "format": "Shift-JIS",
+    "raw_hex": "834b8367838a8393834f82a482c58140",
+    "text": "ガトリングうで　"
+  },
+  {
+    "bank": "0x1E",
+    "offset": "0x07A0A0",
+    "bank_offset": "0x20A0",
+    "format": "Shift-JIS",
+    "raw_hex": "898989898989",
+    "text": "演演演"
+  },
+  {
+    "bank": "0x1E",
+    "offset": "0x07A0B1",
+    "bank_offset": "0x20B1",
+    "format": "Shift-JIS",
+    "raw_hex": "8366834a82a482c58140814081408140",
+    "text": "デカうで　　　　"
+  },
+  {
+    "bank": "0x1E",
+    "offset": "0x07A0F5",
+    "bank_offset": "0x20F5",
+    "format": "Shift-JIS",
+    "raw_hex": "8366834a82a482c58140814081408140",
+    "text": "デカうで　　　　"
+  },
+  {
+    "bank": "0x1E",
+    "offset": "0x07A139",
+    "bank_offset": "0x2139",
+    "format": "Shift-JIS",
+    "raw_hex": "82b182a482d4814582a982a281408140",
+    "text": "こうぶ・かい　　"
+  },
+  {
+    "bank": "0x1E",
+    "offset": "0x07A17D",
+    "bank_offset": "0x217D",
+    "format": "Shift-JIS",
+    "raw_hex": "82b182a482d4814582a982a281408140",
+    "text": "こうぶ・かい　　"
+  },
+  {
+    "bank": "0x1E",
+    "offset": "0x07A1C1",
+    "bank_offset": "0x21C1",
+    "format": "Shift-JIS",
+    "raw_hex": "83418343835b8393834e838983438367",
+    "text": "アイゼンクライト"
+  },
+  {
+    "bank": "0x1E",
+    "offset": "0x07A203",
+    "bank_offset": "0x2203",
+    "format": "Shift-JIS",
+    "raw_hex": "504082b182a482d48145835e8393834e8140",
+    "text": "P@こうぶ・タンク　"
+  },
+  {
+    "bank": "0x1E",
+    "offset": "0x07A249",
+    "bank_offset": "0x2249",
+    "format": "Shift-JIS",
+    "raw_hex": "82b182a482b082ab8140814081408140",
+    "text": "こうげき　　　　"
+  },
+  {
+    "bank": "0x1E",
+    "offset": "0x07A272",
+    "bank_offset": "0x2272",
+    "format": "Shift-JIS",
+    "raw_hex": "82c682ad82ac81408140814081408140",
+    "text": "とくぎ　　　　　"
+  },
+  {
+    "bank": "0x1E",
+    "offset": "0x07A296",
+    "bank_offset": "0x2296",
+    "format": "Shift-JIS",
+    "raw_hex": "67e94853ed83498376835683878393814081408140",
+    "text": "g飃S夋Iプション　　　"
+  },
+  {
+    "bank": "0x1E",
+    "offset": "0x07A2C4",
+    "bank_offset": "0x22C4",
+    "format": "Shift-JIS",
+    "raw_hex": "82b182a482b082ab8140814081408140",
+    "text": "こうげき　　　　"
+  },
+  {
+    "bank": "0x1E",
+    "offset": "0x07A2ED",
+    "bank_offset": "0x22ED",
+    "format": "Shift-JIS",
+    "raw_hex": "82c682ad82ac81408140814081408140",
+    "text": "とくぎ　　　　　"
+  },
+  {
+    "bank": "0x1E",
+    "offset": "0x07A311",
+    "bank_offset": "0x2311",
+    "format": "Shift-JIS",
+    "raw_hex": "67e94853ed83498376835683878393814081408140",
+    "text": "g飃S夋Iプション　　　"
+  },
+  {
+    "bank": "0x1E",
+    "offset": "0x07A33F",
+    "bank_offset": "0x233F",
+    "format": "Shift-JIS",
+    "raw_hex": "82b182a482b082ab8140814081408140",
+    "text": "こうげき　　　　"
+  },
+  {
+    "bank": "0x1E",
+    "offset": "0x07A368",
+    "bank_offset": "0x2368",
+    "format": "Shift-JIS",
+    "raw_hex": "82c682ad82ac81408140814081408140",
+    "text": "とくぎ　　　　　"
+  },
+  {
+    "bank": "0x1E",
+    "offset": "0x07A38F",
+    "bank_offset": "0x238F",
+    "format": "Shift-JIS",
+    "raw_hex": "54ed83498376835683878393814081408140",
+    "text": "T夋Iプション　　　"
+  },
+  {
+    "bank": "0x1E",
+    "offset": "0x07A3BA",
+    "bank_offset": "0x23BA",
+    "format": "Shift-JIS",
+    "raw_hex": "82b182a482b082ab8140814081408140",
+    "text": "こうげき　　　　"
+  },
+  {
+    "bank": "0x1E",
+    "offset": "0x07A3E3",
+    "bank_offset": "0x23E3",
+    "format": "Shift-JIS",
+    "raw_hex": "82c682ad82ac81408140814081408140",
+    "text": "とくぎ　　　　　"
+  },
+  {
+    "bank": "0x1E",
+    "offset": "0x07A407",
+    "bank_offset": "0x2407",
+    "format": "Shift-JIS",
+    "raw_hex": "67e94853ed83498376835683878393814081408140",
+    "text": "g飃S夋Iプション　　　"
+  },
+  {
+    "bank": "0x1E",
+    "offset": "0x07A435",
+    "bank_offset": "0x2435",
+    "format": "Shift-JIS",
+    "raw_hex": "82b182a482b082ab8140814081408140",
+    "text": "こうげき　　　　"
+  },
+  {
+    "bank": "0x1E",
+    "offset": "0x07A45E",
+    "bank_offset": "0x245E",
+    "format": "Shift-JIS",
+    "raw_hex": "82c682ad82ac81408140814081408140",
+    "text": "とくぎ　　　　　"
+  },
+  {
+    "bank": "0x1E",
+    "offset": "0x07A482",
+    "bank_offset": "0x2482",
+    "format": "Shift-JIS",
+    "raw_hex": "67e94853ed83498376835683878393814081408140",
+    "text": "g飃S夋Iプション　　　"
+  },
+  {
+    "bank": "0x1E",
+    "offset": "0x07A4B0",
+    "bank_offset": "0x24B0",
+    "format": "Shift-JIS",
+    "raw_hex": "82b182a482b082ab8140814081408140",
+    "text": "こうげき　　　　"
+  },
+  {
+    "bank": "0x1E",
+    "offset": "0x07A4D9",
+    "bank_offset": "0x24D9",
+    "format": "Shift-JIS",
+    "raw_hex": "82c682ad82ac81408140814081408140",
+    "text": "とくぎ　　　　　"
+  },
+  {
+    "bank": "0x1E",
+    "offset": "0x07A4FD",
+    "bank_offset": "0x24FD",
+    "format": "Shift-JIS",
+    "raw_hex": "67e94853ed83498376835683878393814081408140",
+    "text": "g飃S夋Iプション　　　"
+  },
+  {
+    "bank": "0x1E",
+    "offset": "0x07A52B",
+    "bank_offset": "0x252B",
+    "format": "Shift-JIS",
+    "raw_hex": "82b182a482b082ab8140814081408140",
+    "text": "こうげき　　　　"
+  },
+  {
+    "bank": "0x1E",
+    "offset": "0x07A554",
+    "bank_offset": "0x2554",
+    "format": "Shift-JIS",
+    "raw_hex": "82c682ad82ac81408140814081408140",
+    "text": "とくぎ　　　　　"
+  },
+  {
+    "bank": "0x1E",
+    "offset": "0x07A578",
+    "bank_offset": "0x2578",
+    "format": "Shift-JIS",
+    "raw_hex": "67e94853ed83498376835683878393814081408140",
+    "text": "g飃S夋Iプション　　　"
+  },
+  {
+    "bank": "0x1E",
+    "offset": "0x07A5A6",
+    "bank_offset": "0x25A6",
+    "format": "Shift-JIS",
+    "raw_hex": "82b182a482b082ab8140814081408140",
+    "text": "こうげき　　　　"
+  },
+  {
+    "bank": "0x1E",
+    "offset": "0x07A5CF",
+    "bank_offset": "0x25CF",
+    "format": "Shift-JIS",
+    "raw_hex": "82c682ad82ac81408140814081408140",
+    "text": "とくぎ　　　　　"
+  },
+  {
+    "bank": "0x1E",
+    "offset": "0x07A5F3",
+    "bank_offset": "0x25F3",
+    "format": "Shift-JIS",
+    "raw_hex": "67e94853ed83498376835683878393814081408140",
+    "text": "g飃S夋Iプション　　　"
+  },
+  {
+    "bank": "0x1E",
+    "offset": "0x07A621",
+    "bank_offset": "0x2621",
+    "format": "Shift-JIS",
+    "raw_hex": "82b182a482b082ab8140814081408140",
+    "text": "こうげき　　　　"
+  },
+  {
+    "bank": "0x1E",
+    "offset": "0x07A64A",
+    "bank_offset": "0x264A",
+    "format": "Shift-JIS",
+    "raw_hex": "82c682ad82ac81408140814081408140",
+    "text": "とくぎ　　　　　"
+  },
+  {
+    "bank": "0x1E",
+    "offset": "0x07A66E",
+    "bank_offset": "0x266E",
+    "format": "Shift-JIS",
+    "raw_hex": "67e94853ed83498376835683878393814081408140",
+    "text": "g飃S夋Iプション　　　"
+  },
+  {
+    "bank": "0x1E",
+    "offset": "0x07A697",
+    "bank_offset": "0x2697",
+    "format": "Shift-JIS",
+    "raw_hex": "67e94853ed838a83798341834c8362836781408140",
+    "text": "g飃S夋潟yアキット　　"
+  },
+  {
+    "bank": "0x1E",
+    "offset": "0x07A6C5",
+    "bank_offset": "0x26C5",
+    "format": "Shift-JIS",
+    "raw_hex": "82ea82a282e282ad8140814081408140",
+    "text": "れいやく　　　　"
+  },
+  {
+    "bank": "0x1E",
+    "offset": "0x07A6E9",
+    "bank_offset": "0x26E9",
+    "format": "Shift-JIS",
+    "raw_hex": "67e94853ed838a8358835e815b835e815b81408140",
+    "text": "g飃S夋潟Xターター　　"
+  },
+  {
+    "bank": "0x1E",
+    "offset": "0x07A717",
+    "bank_offset": "0x2717",
+    "format": "Shift-JIS",
+    "raw_hex": "82c482c882b082be82f1814081408140",
+    "text": "てなげだん　　　"
+  },
+  {
+    "bank": "0x1E",
+    "offset": "0x07A740",
+    "bank_offset": "0x2740",
+    "format": "Shift-JIS",
+    "raw_hex": "82a682f182dc82ad8140814081408140",
+    "text": "えんまく　　　　"
+  },
+  {
+    "bank": "0x1E",
+    "offset": "0x07A764",
+    "bank_offset": "0x2764",
+    "format": "Shift-JIS",
+    "raw_hex": "67e94853ed8367838a838283608140814081408140",
+    "text": "g飃S夋gリモチ　　　　"
+  },
+  {
+    "bank": "0x1E",
+    "offset": "0x07A78D",
+    "bank_offset": "0x278D",
+    "format": "Shift-JIS",
+    "raw_hex": "67e94853ed83668352834381408140814081408140",
+    "text": "g飃S夋fコイ　　　　　"
+  },
+  {
+    "bank": "0x1E",
+    "offset": "0x07A7B6",
+    "bank_offset": "0x27B6",
+    "format": "Shift-JIS",
+    "raw_hex": "67e94853ed834e838a815b8369815b814081408140",
+    "text": "g飃S夋Nリーナー　　　"
+  },
+  {
+    "bank": "0x1E",
+    "offset": "0x07A7DF",
+    "bank_offset": "0x27DF",
+    "format": "Shift-JIS",
+    "raw_hex": "67e94853ed834e838a815b8393837b8380",
+    "text": "g飃S夋Nリーンボム"
+  },
+  {
+    "bank": "0x1E",
+    "offset": "0x07A804",
+    "bank_offset": "0x2804",
+    "format": "Shift-JIS",
+    "raw_hex": "67e94853ed838a83798341837b8380814081408140",
+    "text": "g飃S夋潟yアボム　　　"
+  },
+  {
+    "bank": "0x1E",
+    "offset": "0x07A82D",
+    "bank_offset": "0x282D",
+    "format": "Shift-JIS",
+    "raw_hex": "67e94853ed835f837e815b",
+    "text": "g飃S夋_ミー"
+  },
+  {
+    "bank": "0x1E",
+    "offset": "0x07A839",
+    "bank_offset": "0x2839",
+    "format": "Shift-JIS",
+    "raw_hex": "82c682a482b582f182cc82a482b782a20d82af82a282e882e582a482a982f00d82b682e382a482b582b582bd82bd82bf",
+    "text": "とうしんのうすい\rけいりょうかを\rじゅうししたたち"
+  },
+  {
+    "bank": "0x1E",
+    "offset": "0x07A86A",
+    "bank_offset": "0x286A",
+    "format": "Shift-JIS",
+    "raw_hex": "82c882aa82ea82e982dd82b882cc0d82e682a482c882e082f182e682a482aa0d82c682ad82bf82e582a482c482ab82c80d82c582f182b982c282cc82bd82bf",
+    "text": "ながれるみずの\rようなもんようが\rとくちょうてきな\rでんせつのたち"
+  },
+  {
+    "bank": "0x1E",
+    "offset": "0x07A8AA",
+    "bank_offset": "0x28AA",
+    "format": "Shift-JIS",
+    "raw_hex": "8356838b83588345835882b182a482c50d82c582ab82bd82bd82bf0d82c982ad82a082c282aa82a082e80d82a282e882e582ad82aa82bd82a982a2",
+    "text": "シルスウスこうで\rできたたち\rにくあつがあり\rいりょくがたかい"
+  },
+  {
+    "bank": "0x1E",
+    "offset": "0x07A8E6",
+    "bank_offset": "0x28E6",
+    "format": "Shift-JIS",
+    "raw_hex": "82dd82cc82bd82af82d982c782e00d82a082e982e282a282ce82c50d82c482ab82f082bd82bd82ab82ab82e9",
+    "text": "みのたけほども\rあるやいばで\rてきをたたききる"
+  },
+  {
+    "bank": "0x1E",
+    "offset": "0x07A913",
+    "bank_offset": "0x2913",
+    "format": "Shift-JIS",
+    "raw_hex": "82af82a282e882e582a482c50d82b582f182b582e382ad0d82b682b482a282cc82c882ac82c882bd",
+    "text": "けいりょうで\rしんしゅく\rじざいのなぎなた"
+  },
+  {
+    "bank": "0x1E",
+    "offset": "0x07A93C",
+    "bank_offset": "0x293C",
+    "format": "Shift-JIS",
+    "raw_hex": "82b982a282e682a482cc8384838a0d838a815b836082c682a882e082b382f00d82a282a982b582c40d82c482ab82f082c882ac82cd82e782a4",
+    "text": "せいようのヤリ\rリーチとおもさを\rいかして\rてきをなぎはらう"
+  },
+  {
+    "bank": "0x1E",
+    "offset": "0x07A976",
+    "bank_offset": "0x2976",
+    "format": "Shift-JIS",
+    "raw_hex": "82c282ab82aa82c682ad82a282c80d82a982bd82c482e082bf82cc8384838a",
+    "text": "つきがとくいな\rかたてもちのヤリ"
+  },
+  {
+    "bank": "0x1E",
+    "offset": "0x07A996",
+    "bank_offset": "0x2996",
+    "format": "Shift-JIS",
+    "raw_hex": "82ab82c182b382ab82aa0d82a682cc82e882e582a482d982a482c90d82c282a282c482a282e90d82c682ad82b582e382c88384838a",
+    "text": "きっさきが\rえのりょうほうに\rついている\rとくしゅなヤリ"
+  },
+  {
+    "bank": "0x1E",
+    "offset": "0x07A9CC",
+    "bank_offset": "0x29CC",
+    "format": "Shift-JIS",
+    "raw_hex": "82a282a982b882bf82f00d82e682d482c682a282ed82ea82e90d82c582f182b982c282cc0d836e8393837d815b",
+    "text": "いかずちを\rよぶといわれる\rでんせつの\rハンマー"
+  },
+  {
+    "bank": "0x1E",
+    "offset": "0x07A9FA",
+    "bank_offset": "0x29FA",
+    "format": "Shift-JIS",
+    "raw_hex": "82d982ad82a882a482cc0d82b982f182b582aa82c282a982c182bd0d82c682b382ea82e98349836d",
+    "text": "ほくおうの\rせんしがつかった\rとされるオノ"
+  },
+  {
+    "bank": "0x1E",
+    "offset": "0x07AA23",
+    "bank_offset": "0x2A23",
+    "format": "Shift-JIS",
+    "raw_hex": "82c882aa82a282b582e182c482a282c60d82d982a482d382c882bd82dc82c50d82cd82f182e682a482b982a282aa0d82bd82a982a2",
+    "text": "ながいしゃていと\rほうふなたまで\rはんようせいが\rたかい"
+  },
+  {
+    "bank": "0x1E",
+    "offset": "0x07AA59",
+    "bank_offset": "0x2A59",
+    "format": "Shift-JIS",
+    "raw_hex": "82c682ad82b582e382c882bd82dc82f00d82a482c282b182c682aa82c582ab82e90d82be82a282b182a482af82a282cc0d82b682e382a4",
+    "text": "とくしゅなたまを\rうつことができる\rだいこうけいの\rじゅう"
+  },
+  {
+    "bank": "0x1E",
+    "offset": "0x07AA91",
+    "bank_offset": "0x2A91",
+    "format": "Shift-JIS",
+    "raw_hex": "82b182d482b582e682a482cc82d482ae0d82ab82f182ab82e582e882b982f182c50d82a282e882e582ad82f00d82cd82c182ab82b782e9",
+    "text": "こぶしようのぶぐ\rきんきょりせんで\rいりょくを\rはっきする"
+  },
+  {
+    "bank": "0x1E",
+    "offset": "0x07AAC9",
+    "bank_offset": "0x2AC9",
+    "format": "Shift-JIS",
+    "raw_hex": "82b182a482bb82ad82c50d82b182d482b582f082a482bf82be82b50d82c482ab82f082a482bf82ad82be82ad",
+    "text": "こうそくで\rこぶしをうちだし\rてきをうちくだく"
+  },
+  {
+    "bank": "0x1E",
+    "offset": "0x07AAF6",
+    "bank_offset": "0x2AF6",
+    "format": "Shift-JIS",
+    "raw_hex": "82a982e982ad82a082c282a982a282aa0d82e682a482a282c882bd82c40d82bf82e582a482ab82b982f182c90d82b182b182eb82c382e682a2",
+    "text": "かるくあつかいが\rよういなたて\rちょうきせんに\rこころづよい"
+  },
+  {
+    "bank": "0x1E",
+    "offset": "0x07AB30",
+    "bank_offset": "0x2B30",
+    "format": "Shift-JIS",
+    "raw_hex": "82ea82a282af82f10d82a082e782bd82a982c882bd82c40d82ea82a282e882e582ad82c982e682e90d82b182a482b082ab82c982c282e682a2",
+    "text": "れいけん\rあらたかなたて\rれいりょくによる\rこうげきにつよい"
+  },
+  {
+    "bank": "0x1E",
+    "offset": "0x07AB6A",
+    "bank_offset": "0x2B6A",
+    "format": "Shift-JIS",
+    "raw_hex": "83498376835683878393",
+    "text": "オプション"
+  },
+  {
+    "bank": "0x1E",
+    "offset": "0x07AB75",
+    "bank_offset": "0x2B75",
+    "format": "Shift-JIS",
+    "raw_hex": "82cd82f182e682a482cc82a482c50d82bb82a482d182f082cd82b882b782c60d83708393836082aa82a482c482e9",
+    "text": "はんようのうで\rそうびをはずすと\rパンチがうてる"
+  },
+  {
+    "bank": "0x1E",
+    "offset": "0x07ABA4",
+    "bank_offset": "0x2BA4",
+    "format": "Shift-JIS",
+    "raw_hex": "834b8367838a8393834f82a482c50d82b182a482a282e882e582ad82cc0d82be82f182aa82f182f00d82cd82c182b582e182b782e9",
+    "text": "ガトリングうで\rこういりょくの\rだんがんを\rはっしゃする"
+  },
+  {
+    "bank": "0x1E",
+    "offset": "0x07ABDA",
+    "bank_offset": "0x2BDA",
+    "format": "Shift-JIS",
+    "raw_hex": "83758352836382c882a482c50d82a282e882e582ad82cc82bd82a982a20d83708393836082aa82dd82e882e582ad",
+    "text": "ブコツなうで\rいりょくのたかい\rパンチがみりょく"
+  },
+  {
+    "bank": "0x1E",
+    "offset": "0x07AC09",
+    "bank_offset": "0x2C09",
+    "format": "Shift-JIS",
+    "raw_hex": "82d082e582a482b682e382f182c482ab0d82c882ab82bd82a2",
+    "text": "ひょうじゅんてき\rなきたい"
+  },
+  {
+    "bank": "0x1E",
+    "offset": "0x07AC23",
+    "bank_offset": "0x2C23",
+    "format": "Shift-JIS",
+    "raw_hex": "82b682e382a482d482bb82a482cc0d8349837683568387839382f00d82bb82a482d1",
+    "text": "じゅうぶそうの\rオプションを\rそうび"
+  },
+  {
+    "bank": "0x1E",
+    "offset": "0x07AC46",
+    "bank_offset": "0x2C46",
+    "format": "Shift-JIS",
+    "raw_hex": "82b582e382c282e882e582ad82cd0d82bd82a982a282aa0d82a082c282a982a282c982ad82a2",
+    "text": "しゅつりょくは\rたかいが\rあつかいにくい"
+  },
+  {
+    "bank": "0x1E",
+    "offset": "0x07AC6D",
+    "bank_offset": "0x2C6D",
+    "format": "Shift-JIS",
+    "raw_hex": "82a482b282ab82cd82a882bb82a282aa0d82bb82a482b182a482cd82a082c282ad0d82b182ed82ea82c982ad82a2",
+    "text": "うごきはおそいが\rそうこうはあつく\rこわれにくい"
+  },
+  {
+    "bank": "0x1E",
+    "offset": "0x07AC9C",
+    "bank_offset": "0x2C9C",
+    "format": "Shift-JIS",
+    "raw_hex": "82c482ab82c9835f8381815b835782f00d82a082bd82a682e9838f8355",
+    "text": "てきにダメージを\rあたえるワザ"
+  },
+  {
+    "bank": "0x1E",
+    "offset": "0x07ACBA",
+    "bank_offset": "0x2CBA",
+    "format": "Shift-JIS",
+    "raw_hex": "82b982f182c682a482d982b682e582f00d82e082ad82c482ab82c682b582bd0d838f8355",
+    "text": "せんとうほじょを\rもくてきとした\rワザ"
+  },
+  {
+    "bank": "0x1E",
+    "offset": "0x07ACDF",
+    "bank_offset": "0x2CDF",
+    "format": "Shift-JIS",
+    "raw_hex": "82bb82c882a682c282af82cc0d8341834383658380",
+    "text": "そなえつけの\rアイテム"
+  },
+  {
+    "bank": "0x1E",
+    "offset": "0x07ACF5",
+    "bank_offset": "0x2CF5",
+    "format": "Shift-JIS",
+    "raw_hex": "82dd82a982bd825082bd82a282cc0d82bd82a282ab82e382a482bf82f00d82a982a282d382ad82b782e9",
+    "text": "みかた１たいの\rたいきゅうちを\rかいふくする"
+  },
+  {
+    "bank": "0x1E",
+    "offset": "0x07AD20",
+    "bank_offset": "0x2D20",
+    "format": "Shift-JIS",
+    "raw_hex": "82dd82a982bd825082bd82a282cc0d82ab82e882e582ad82f00d82a982a282d382ad82b782e9",
+    "text": "みかた１たいの\rきりょくを\rかいふくする"
+  },
+  {
+    "bank": "0x1E",
+    "offset": "0x07AD47",
+    "bank_offset": "0x2D47",
+    "format": "Shift-JIS",
+    "raw_hex": "82b982f182c682a482d382cc82a482c90d82c882c182bd82ab82bd82a282f00d82b382a282ab82c782a482b782e9",
+    "text": "せんとうふのうに\rなったきたいを\rさいきどうする"
+  },
+  {
+    "bank": "0x1E",
+    "offset": "0x07AD76",
+    "bank_offset": "0x2D76",
+    "format": "Shift-JIS",
+    "raw_hex": "82c482ab82ba82f182bd82a282c90d835f8381815b835782f00d82a082bd82a682e9",
+    "text": "てきぜんたいに\rダメージを\rあたえる"
+  },
+  {
+    "bank": "0x1E",
+    "offset": "0x07AD99",
+    "bank_offset": "0x2D99",
+    "format": "Shift-JIS",
+    "raw_hex": "82a682f182dc82ad82f082cd82e80d82bb82ad82b482c90d82b982f182c682a482f00d82d982a482ab82b782e9",
+    "text": "えんまくをはり\rそくざに\rせんとうを\rほうきする"
+  },
+  {
+    "bank": "0x1E",
+    "offset": "0x07ADC7",
+    "bank_offset": "0x2DC7",
+    "format": "Shift-JIS",
+    "raw_hex": "8367838a8382836082c50d82c482ab825082bd82a282cc0d82a482b282ab82f082d382a482b682e9",
+    "text": "トリモチで\rてき１たいの\rうごきをふうじる"
+  },
+  {
+    "bank": "0x1E",
+    "offset": "0x07ADF0",
+    "bank_offset": "0x2DF0",
+    "format": "Shift-JIS",
+    "raw_hex": "82a882c682e882cc0d82c982f182ac82e582a482f00d82c482f182a982a282b782e9",
+    "text": "おとりの\rにんぎょうを\rてんかいする"
+  },
+  {
+    "bank": "0x1E",
+    "offset": "0x07AE13",
+    "bank_offset": "0x2E13",
+    "format": "Shift-JIS",
+    "raw_hex": "82dd82a982bd825082bd82a282cc0d83588365815b835e835882f00d82b982a282b682e582a482c90d82e082c782b7",
+    "text": "みかた１たいの\rステータスを\rせいじょうに\rもどす"
+  },
+  {
+    "bank": "0x1E",
+    "offset": "0x07AE43",
+    "bank_offset": "0x2E43",
+    "format": "Shift-JIS",
+    "raw_hex": "82dd82a982bd82ba82f182bd82a282cc0d83588365815b835e835882f00d82b982a282b682e582a482c90d82e082c782b7",
+    "text": "みかたぜんたいの\rステータスを\rせいじょうに\rもどす"
+  },
+  {
+    "bank": "0x1E",
+    "offset": "0x07AE75",
+    "bank_offset": "0x2E75",
+    "format": "Shift-JIS",
+    "raw_hex": "82dd82a982bd82ba82f182bd82a282cc0d82bd82a282ab82e382a482bf82f00d82a982a282d382ad",
+    "text": "みかたぜんたいの\rたいきゅうちを\rかいふく"
+  }
+]

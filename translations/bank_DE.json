@@ -1,0 +1,26 @@
+[
+  {
+    "bank": "0xDE",
+    "offset": "0x378696",
+    "bank_offset": "0x0696",
+    "format": "Shift-JIS",
+    "raw_hex": "e880e080908e",
+    "text": "閠烙錘"
+  },
+  {
+    "bank": "0xDE",
+    "offset": "0x379D80",
+    "bank_offset": "0x1D80",
+    "format": "Shift-JIS",
+    "raw_hex": "94809c91",
+    "text": "楳恆"
+  },
+  {
+    "bank": "0xDE",
+    "offset": "0x37BFA1",
+    "bank_offset": "0x3FA1",
+    "format": "Shift-JIS",
+    "raw_hex": "8c8d8e8f",
+    "text": "訣誌"
+  }
+]

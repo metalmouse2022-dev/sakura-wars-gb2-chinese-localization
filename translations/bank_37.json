@@ -1,0 +1,50 @@
+[
+  {
+    "bank": "0x37",
+    "offset": "0x0DCB06",
+    "bank_offset": "0x0B06",
+    "format": "Shift-JIS",
+    "raw_hex": "e3e69690",
+    "text": "肆鱒"
+  },
+  {
+    "bank": "0x37",
+    "offset": "0x0DCF25",
+    "bank_offset": "0x0F25",
+    "format": "Shift-JIS",
+    "raw_hex": "82c382c1",
+    "text": "づっ"
+  },
+  {
+    "bank": "0x37",
+    "offset": "0x0DD425",
+    "bank_offset": "0x1425",
+    "format": "Shift-JIS",
+    "raw_hex": "62e0ace04e",
+    "text": "b牀潘"
+  },
+  {
+    "bank": "0x37",
+    "offset": "0x0DEBF9",
+    "bank_offset": "0x2BF9",
+    "format": "Shift-JIS",
+    "raw_hex": "21e0a0e0d8",
+    "text": "!燿獵"
+  },
+  {
+    "bank": "0x37",
+    "offset": "0x0DF307",
+    "bank_offset": "0x3307",
+    "format": "Shift-JIS",
+    "raw_hex": "e0a0e0d8",
+    "text": "燿獵"
+  },
+  {
+    "bank": "0x37",
+    "offset": "0x0DF87D",
+    "bank_offset": "0x387D",
+    "format": "Shift-JIS",
+    "raw_hex": "e4e09a806c",
+    "text": "萵噫l"
+  }
+]

@@ -1,0 +1,50 @@
+[
+  {
+    "bank": "0x8D",
+    "offset": "0x2349A1",
+    "bank_offset": "0x09A1",
+    "format": "Shift-JIS",
+    "raw_hex": "5252259e7344",
+    "text": "RR%枹D"
+  },
+  {
+    "bank": "0x8D",
+    "offset": "0x234D9A",
+    "bank_offset": "0x0D9A",
+    "format": "Shift-JIS",
+    "raw_hex": "9b7d3350",
+    "text": "孺3P"
+  },
+  {
+    "bank": "0x8D",
+    "offset": "0x234DF2",
+    "bank_offset": "0x0DF2",
+    "format": "Shift-JIS",
+    "raw_hex": "7c229452",
+    "text": "|\"燃"
+  },
+  {
+    "bank": "0x8D",
+    "offset": "0x234E2A",
+    "bank_offset": "0x0E2A",
+    "format": "Shift-JIS",
+    "raw_hex": "7c229452",
+    "text": "|\"燃"
+  },
+  {
+    "bank": "0x8D",
+    "offset": "0x235234",
+    "bank_offset": "0x1234",
+    "format": "Shift-JIS",
+    "raw_hex": "7a469f6b",
+    "text": "zF殘"
+  },
+  {
+    "bank": "0x8D",
+    "offset": "0x235263",
+    "bank_offset": "0x1263",
+    "format": "Shift-JIS",
+    "raw_hex": "5257423c5f7e67994a312144",
+    "text": "RWB<_~g價1!D"
+  }
+]

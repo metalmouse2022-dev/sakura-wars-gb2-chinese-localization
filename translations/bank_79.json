@@ -1,0 +1,26 @@
+[
+  {
+    "bank": "0x79",
+    "offset": "0x1E7179",
+    "bank_offset": "0x3179",
+    "format": "Shift-JIS",
+    "raw_hex": "e0e38be0",
+    "text": "璢金"
+  },
+  {
+    "bank": "0x79",
+    "offset": "0x1E759F",
+    "bank_offset": "0x359F",
+    "format": "Shift-JIS",
+    "raw_hex": "e0d89186",
+    "text": "獵漕"
+  },
+  {
+    "bank": "0x79",
+    "offset": "0x1E7675",
+    "bank_offset": "0x3675",
+    "format": "Shift-JIS",
+    "raw_hex": "5f9e5f829f",
+    "text": "_枩ぁ"
+  }
+]

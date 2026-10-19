@@ -1,0 +1,98 @@
+[
+  {
+    "bank": "0x19",
+    "offset": "0x06415A",
+    "bank_offset": "0x015A",
+    "format": "Shift-JIS",
+    "raw_hex": "e0e7e07021",
+    "text": "珸瀾!"
+  },
+  {
+    "bank": "0x19",
+    "offset": "0x0641AB",
+    "bank_offset": "0x01AB",
+    "format": "Shift-JIS",
+    "raw_hex": "81aa8140966b98650d81a881408b7b94f60d81ab81409144897a",
+    "text": "↑　北脇\r→　宮尾\r↓　船越"
+  },
+  {
+    "bank": "0x19",
+    "offset": "0x06432E",
+    "bank_offset": "0x032E",
+    "format": "Shift-JIS",
+    "raw_hex": "e6dfe4c9",
+    "text": "赱菲"
+  },
+  {
+    "bank": "0x19",
+    "offset": "0x06437E",
+    "bank_offset": "0x037E",
+    "format": "Shift-JIS",
+    "raw_hex": "e5e7e9f0",
+    "text": "裼鴪"
+  },
+  {
+    "bank": "0x19",
+    "offset": "0x064442",
+    "bank_offset": "0x0442",
+    "format": "Shift-JIS",
+    "raw_hex": "e5e7e9f0",
+    "text": "裼鴪"
+  },
+  {
+    "bank": "0x19",
+    "offset": "0x0647D0",
+    "bank_offset": "0x07D0",
+    "format": "Shift-JIS",
+    "raw_hex": "e0e7e07021",
+    "text": "珸瀾!"
+  },
+  {
+    "bank": "0x19",
+    "offset": "0x064827",
+    "bank_offset": "0x0827",
+    "format": "Shift-JIS",
+    "raw_hex": "e0e7e07021",
+    "text": "珸瀾!"
+  },
+  {
+    "bank": "0x19",
+    "offset": "0x064A81",
+    "bank_offset": "0x0A81",
+    "format": "Shift-JIS",
+    "raw_hex": "e0e7e07021",
+    "text": "珸瀾!"
+  },
+  {
+    "bank": "0x19",
+    "offset": "0x065153",
+    "bank_offset": "0x1153",
+    "format": "Shift-JIS",
+    "raw_hex": "e0e7e07021",
+    "text": "珸瀾!"
+  },
+  {
+    "bank": "0x19",
+    "offset": "0x065354",
+    "bank_offset": "0x1354",
+    "format": "Shift-JIS",
+    "raw_hex": "e0e7e07021",
+    "text": "珸瀾!"
+  },
+  {
+    "bank": "0x19",
+    "offset": "0x065D2D",
+    "bank_offset": "0x1D2D",
+    "format": "Shift-JIS",
+    "raw_hex": "e0e7e07021",
+    "text": "珸瀾!"
+  },
+  {
+    "bank": "0x19",
+    "offset": "0x066138",
+    "bank_offset": "0x2138",
+    "format": "Shift-JIS",
+    "raw_hex": "e0e7e07021",
+    "text": "珸瀾!"
+  }
+]

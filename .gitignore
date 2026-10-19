@@ -1,0 +1,32 @@
+# Local-only artifacts and user data
+/__pycache__/
+*.py[cod]
+/.work64/
+/2026-10-18/
+/_archive/
+/scratch/
+/work/
+/bgb/
+/_chk_*.py
+/_step*.py
+/_trace*.py
+
+# ROMs and emulator state are not source files for public distribution
+/*.gbc
+/*.gb
+/*.sav
+/*.ram
+/outputs/
+
+# Original font has no identified author or redistribution license
+/fonts/xiaodianzhen/*.ttf
+/fonts/ark-10px/
+/fonts/ark-12px/*.ttf
+!/fonts/ark-12px/ark-pixel-12px-monospaced-zh_hans.ttf
+
+# Local backups
+*.bak
+/translations/.workbuddy/
+/*.png
+/outputs/*.png
+/outputs/*.jpg

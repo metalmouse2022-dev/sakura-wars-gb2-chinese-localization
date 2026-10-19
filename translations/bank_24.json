@@ -1,0 +1,90 @@
+[
+  {
+    "bank": "0x24",
+    "offset": "0x090000",
+    "bank_offset": "0x0000",
+    "format": "Shift-JIS",
+    "raw_hex": "837e834a835482cc82a982ac0d82f082c482c982a282ea82bd",
+    "text": "ミカサのかぎ\rをてにいれた"
+  },
+  {
+    "bank": "0x24",
+    "offset": "0x09001A",
+    "bank_offset": "0x001A",
+    "format": "Shift-JIS",
+    "raw_hex": "834a834d82aa82a982a982c182c482a282dc82b78142",
+    "text": "カギがかかっています。"
+  },
+  {
+    "bank": "0x24",
+    "offset": "0x090031",
+    "bank_offset": "0x0031",
+    "format": "Shift-JIS",
+    "raw_hex": "838f834c82bf82e182f182aa82c982b082dc82b7",
+    "text": "ワキちゃんがにげます"
+  },
+  {
+    "bank": "0x24",
+    "offset": "0x090046",
+    "bank_offset": "0x0046",
+    "format": "Shift-JIS",
+    "raw_hex": "82a882bd82a982e7",
+    "text": "おたから"
+  },
+  {
+    "bank": "0x24",
+    "offset": "0x09004F",
+    "bank_offset": "0x004F",
+    "format": "Shift-JIS",
+    "raw_hex": "82b682a982f182ac82ea",
+    "text": "じかんぎれ"
+  },
+  {
+    "bank": "0x24",
+    "offset": "0x09005A",
+    "bank_offset": "0x005A",
+    "format": "Shift-JIS",
+    "raw_hex": "836583588367",
+    "text": "テスト"
+  },
+  {
+    "bank": "0x24",
+    "offset": "0x090061",
+    "bank_offset": "0x0061",
+    "format": "Shift-JIS",
+    "raw_hex": "81a783658358836781a70d81a783658358836781a7",
+    "text": "〒テスト〒\r〒テスト〒"
+  },
+  {
+    "bank": "0x24",
+    "offset": "0x0908B1",
+    "bank_offset": "0x08B1",
+    "format": "Shift-JIS",
+    "raw_hex": "e965519c81",
+    "text": "馥Q怐"
+  },
+  {
+    "bank": "0x24",
+    "offset": "0x090AB0",
+    "bank_offset": "0x0AB0",
+    "format": "Shift-JIS",
+    "raw_hex": "8354509e80",
+    "text": "サP梳"
+  },
+  {
+    "bank": "0x24",
+    "offset": "0x090FDB",
+    "bank_offset": "0x0FDB",
+    "format": "Shift-JIS",
+    "raw_hex": "e14fee4f",
+    "text": "甍瑢"
+  },
+  {
+    "bank": "0x24",
+    "offset": "0x0913C9",
+    "bank_offset": "0x13C9",
+    "format": "Shift-JIS",
+    "raw_hex": "53e453ee53",
+    "text": "S膣畯"
+  }
+]

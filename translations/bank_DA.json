@@ -1,0 +1,42 @@
+[
+  {
+    "bank": "0xDA",
+    "offset": "0x368A96",
+    "bank_offset": "0x0A96",
+    "format": "Shift-JIS",
+    "raw_hex": "9699928372",
+    "text": "侭茶r"
+  },
+  {
+    "bank": "0xDA",
+    "offset": "0x368AD2",
+    "bank_offset": "0x0AD2",
+    "format": "Shift-JIS",
+    "raw_hex": "9e8c9e9a9cd498be819a8372",
+    "text": "梃椢慟仞★ビ"
+  },
+  {
+    "bank": "0xDA",
+    "offset": "0x36AFBC",
+    "bank_offset": "0x2FBC",
+    "format": "Shift-JIS",
+    "raw_hex": "2098f0e080",
+    "text": " 會烙"
+  },
+  {
+    "bank": "0xDA",
+    "offset": "0x36B664",
+    "bank_offset": "0x3664",
+    "format": "Shift-JIS",
+    "raw_hex": "e040e0ef",
+    "text": "漾瑜"
+  },
+  {
+    "bank": "0xDA",
+    "offset": "0x36BFA3",
+    "bank_offset": "0x3FA3",
+    "format": "Shift-JIS",
+    "raw_hex": "e8e0609c87",
+    "text": "鞨`怫"
+  }
+]

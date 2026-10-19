@@ -1,0 +1,58 @@
+[
+  {
+    "bank": "0xD9",
+    "offset": "0x364B22",
+    "bank_offset": "0x0B22",
+    "format": "Shift-JIS",
+    "raw_hex": "98d0e0f0",
+    "text": "侑瑩"
+  },
+  {
+    "bank": "0xD9",
+    "offset": "0x365292",
+    "bank_offset": "0x1292",
+    "format": "Shift-JIS",
+    "raw_hex": "98d0e0f0",
+    "text": "侑瑩"
+  },
+  {
+    "bank": "0xD9",
+    "offset": "0x365BAE",
+    "bank_offset": "0x1BAE",
+    "format": "Shift-JIS",
+    "raw_hex": "e6c0e8805f",
+    "text": "貘閠_"
+  },
+  {
+    "bank": "0xD9",
+    "offset": "0x365EE7",
+    "bank_offset": "0x1EE7",
+    "format": "Shift-JIS",
+    "raw_hex": "939189a6966f",
+    "text": "淘襖撲"
+  },
+  {
+    "bank": "0xD9",
+    "offset": "0x3665E9",
+    "bank_offset": "0x25E9",
+    "format": "Shift-JIS",
+    "raw_hex": "9cf894fce0c0",
+    "text": "戉美狢"
+  },
+  {
+    "bank": "0xD9",
+    "offset": "0x366719",
+    "bank_offset": "0x2719",
+    "format": "Shift-JIS",
+    "raw_hex": "9cf894fc",
+    "text": "戉美"
+  },
+  {
+    "bank": "0xD9",
+    "offset": "0x366959",
+    "bank_offset": "0x2959",
+    "format": "Shift-JIS",
+    "raw_hex": "9cf894fc",
+    "text": "戉美"
+  }
+]

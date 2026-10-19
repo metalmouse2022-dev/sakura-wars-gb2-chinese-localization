@@ -1,0 +1,34 @@
+[
+  {
+    "bank": "0xE9",
+    "offset": "0x3A4D76",
+    "bank_offset": "0x0D76",
+    "format": "Shift-JIS",
+    "raw_hex": "97c09080",
+    "text": "梁逗"
+  },
+  {
+    "bank": "0xE9",
+    "offset": "0x3A612E",
+    "bank_offset": "0x212E",
+    "format": "Shift-JIS",
+    "raw_hex": "88f8e0f0",
+    "text": "引瑩"
+  },
+  {
+    "bank": "0xE9",
+    "offset": "0x3A653F",
+    "bank_offset": "0x253F",
+    "format": "Shift-JIS",
+    "raw_hex": "e3708c8070",
+    "text": "縣劇p"
+  },
+  {
+    "bank": "0xE9",
+    "offset": "0x3A68D0",
+    "bank_offset": "0x28D0",
+    "format": "Shift-JIS",
+    "raw_hex": "e860908060",
+    "text": "鐐逗`"
+  }
+]

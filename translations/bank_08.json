@@ -1,0 +1,10 @@
+[
+  {
+    "bank": "0x08",
+    "offset": "0x020310",
+    "bank_offset": "0x0310",
+    "format": "Shift-JIS",
+    "raw_hex": "3e55758f91413e",
+    "text": ">Uu書A>"
+  }
+]

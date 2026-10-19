@@ -1,0 +1,138 @@
+[
+  {
+    "bank": "0xEC",
+    "offset": "0x3B1E98",
+    "bank_offset": "0x1E98",
+    "format": "Shift-JIS",
+    "raw_hex": "8a8a8a8a8a8a8a8f92a3",
+    "text": "滑滑滑鰹張"
+  },
+  {
+    "bank": "0xEC",
+    "offset": "0x3B2149",
+    "bank_offset": "0x2149",
+    "format": "Shift-JIS",
+    "raw_hex": "9040e08040",
+    "text": "拭烙@"
+  },
+  {
+    "bank": "0xEC",
+    "offset": "0x3B270C",
+    "bank_offset": "0x270C",
+    "format": "Shift-JIS",
+    "raw_hex": "9a9b9c9d",
+    "text": "圀悃"
+  },
+  {
+    "bank": "0xEC",
+    "offset": "0x3B2767",
+    "bank_offset": "0x2767",
+    "format": "Shift-JIS",
+    "raw_hex": "9d9e9fa0",
+    "text": "撼泛"
+  },
+  {
+    "bank": "0xEC",
+    "offset": "0x3B27B6",
+    "bank_offset": "0x27B6",
+    "format": "Shift-JIS",
+    "raw_hex": "9798999a",
+    "text": "利劒"
+  },
+  {
+    "bank": "0xEC",
+    "offset": "0x3B27F7",
+    "bank_offset": "0x27F7",
+    "format": "Shift-JIS",
+    "raw_hex": "8c8d8e8f",
+    "text": "訣誌"
+  },
+  {
+    "bank": "0xEC",
+    "offset": "0x3B28E9",
+    "bank_offset": "0x28E9",
+    "format": "Shift-JIS",
+    "raw_hex": "898a8b8c",
+    "text": "炎旧"
+  },
+  {
+    "bank": "0xEC",
+    "offset": "0x3B28F0",
+    "bank_offset": "0x28F0",
+    "format": "Shift-JIS",
+    "raw_hex": "8d8e8f90",
+    "text": "克署"
+  },
+  {
+    "bank": "0xEC",
+    "offset": "0x3B2940",
+    "bank_offset": "0x2940",
+    "format": "Shift-JIS",
+    "raw_hex": "8b8c8d8e",
+    "text": "旧克"
+  },
+  {
+    "bank": "0xEC",
+    "offset": "0x3B2948",
+    "bank_offset": "0x2948",
+    "format": "Shift-JIS",
+    "raw_hex": "90919293",
+    "text": "髄駐"
+  },
+  {
+    "bank": "0xEC",
+    "offset": "0x3B29E2",
+    "bank_offset": "0x29E2",
+    "format": "Shift-JIS",
+    "raw_hex": "8c8d8e8f",
+    "text": "訣誌"
+  },
+  {
+    "bank": "0xEC",
+    "offset": "0x3B29EA",
+    "bank_offset": "0x29EA",
+    "format": "Shift-JIS",
+    "raw_hex": "91929394",
+    "text": "葬灯"
+  },
+  {
+    "bank": "0xEC",
+    "offset": "0x3B2B5F",
+    "bank_offset": "0x2B5F",
+    "format": "Shift-JIS",
+    "raw_hex": "8c8d8e8f",
+    "text": "訣誌"
+  },
+  {
+    "bank": "0xEC",
+    "offset": "0x3B2BA8",
+    "bank_offset": "0x2BA8",
+    "format": "Shift-JIS",
+    "raw_hex": "8b8c8d8e",
+    "text": "旧克"
+  },
+  {
+    "bank": "0xEC",
+    "offset": "0x3B2D60",
+    "bank_offset": "0x2D60",
+    "format": "Shift-JIS",
+    "raw_hex": "8c8d8e8f",
+    "text": "訣誌"
+  },
+  {
+    "bank": "0xEC",
+    "offset": "0x3B2DE9",
+    "bank_offset": "0x2DE9",
+    "format": "Shift-JIS",
+    "raw_hex": "9d9d9d9d",
+    "text": "撈撈"
+  },
+  {
+    "bank": "0xEC",
+    "offset": "0x3B2E47",
+    "bank_offset": "0x2E47",
+    "format": "Shift-JIS",
+    "raw_hex": "91929394",
+    "text": "葬灯"
+  }
+]

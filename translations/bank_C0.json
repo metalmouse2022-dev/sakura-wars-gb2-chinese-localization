@@ -1,0 +1,226 @@
+[
+  {
+    "bank": "0xC0",
+    "offset": "0x300F97",
+    "bank_offset": "0x0F97",
+    "format": "Shift-JIS",
+    "raw_hex": "e0e7e07021",
+    "text": "珸瀾!"
+  },
+  {
+    "bank": "0xC0",
+    "offset": "0x301038",
+    "bank_offset": "0x1038",
+    "format": "Shift-JIS",
+    "raw_hex": "814082bb82a482b182a982e782be82b70d814082bb82a482b182c982a282ea82e90d8140834183438365838082b982a282e80d814082bb82a482b182b982a282ea82c2",
+    "text": "　そうこからだす\r　そうこにいれる\r　アイテムせいり\r　そうこせいれつ"
+  },
+  {
+    "bank": "0xC0",
+    "offset": "0x301122",
+    "bank_offset": "0x1122",
+    "format": "Shift-JIS",
+    "raw_hex": "e0e7e07021",
+    "text": "珸瀾!"
+  },
+  {
+    "bank": "0xC0",
+    "offset": "0x3011C7",
+    "bank_offset": "0x11C7",
+    "format": "Shift-JIS",
+    "raw_hex": "e0e7e0703e",
+    "text": "珸瀾>"
+  },
+  {
+    "bank": "0xC0",
+    "offset": "0x301297",
+    "bank_offset": "0x1297",
+    "format": "Shift-JIS",
+    "raw_hex": "e0e7e0703e",
+    "text": "珸瀾>"
+  },
+  {
+    "bank": "0xC0",
+    "offset": "0x301344",
+    "bank_offset": "0x1344",
+    "format": "Shift-JIS",
+    "raw_hex": "e0e7e0703e",
+    "text": "珸瀾>"
+  },
+  {
+    "bank": "0xC0",
+    "offset": "0x3013F3",
+    "bank_offset": "0x13F3",
+    "format": "Shift-JIS",
+    "raw_hex": "e0e7e0703e",
+    "text": "珸瀾>"
+  },
+  {
+    "bank": "0xC0",
+    "offset": "0x30148B",
+    "bank_offset": "0x148B",
+    "format": "Shift-JIS",
+    "raw_hex": "e0e7e0703e",
+    "text": "珸瀾>"
+  },
+  {
+    "bank": "0xC0",
+    "offset": "0x3015F7",
+    "bank_offset": "0x15F7",
+    "format": "Shift-JIS",
+    "raw_hex": "e0e7e07021",
+    "text": "珸瀾!"
+  },
+  {
+    "bank": "0xC0",
+    "offset": "0x301683",
+    "bank_offset": "0x1683",
+    "format": "Shift-JIS",
+    "raw_hex": "573d5782bb82a482b182c982d982a982f182b382ea82c482a282e90d834183438365838082f0836f8362834e83708362834e82c90d82c682e882be82b782b182c682aa82c582ab82dc82b78142",
+    "text": "W=Wそうこにほかんされている\rアイテムをバックパックに\rとりだすことができます。"
+  },
+  {
+    "bank": "0xC0",
+    "offset": "0x3016D1",
+    "bank_offset": "0x16D1",
+    "format": "Shift-JIS",
+    "raw_hex": "836f8362834e83708362834e82cc834183438365838082f00d82bb82a482b182c982d982a982f182b782e982b182c682aa0d82c582ab82dc82b78142",
+    "text": "バックパックのアイテムを\rそうこにほかんすることが\rできます。"
+  },
+  {
+    "bank": "0xC0",
+    "offset": "0x30170E",
+    "bank_offset": "0x170E",
+    "format": "Shift-JIS",
+    "raw_hex": "836f8362834e83708362834e82cc834183438365838082f00d82c882e782d182a982a682e782ea82dc82b781420d",
+    "text": "バックパックのアイテムを\rならびかえられます。\r"
+  },
+  {
+    "bank": "0xC0",
+    "offset": "0x30173D",
+    "bank_offset": "0x173D",
+    "format": "Shift-JIS",
+    "raw_hex": "82bb82a482b182c982d982a982f182b382ea82c482a282e983418343836583800d82f0814182b682c782a482c482ab82c982c882e782d182a982a682dc82b781420d",
+    "text": "そうこにほかんされているアイテム\rを、じどうてきにならびかえます。\r"
+  },
+  {
+    "bank": "0xC0",
+    "offset": "0x301813",
+    "bank_offset": "0x1813",
+    "format": "Shift-JIS",
+    "raw_hex": "e0e7e0703e",
+    "text": "珸瀾>"
+  },
+  {
+    "bank": "0xC0",
+    "offset": "0x3018F0",
+    "bank_offset": "0x18F0",
+    "format": "Shift-JIS",
+    "raw_hex": "e0e7e07021",
+    "text": "珸瀾!"
+  },
+  {
+    "bank": "0xC0",
+    "offset": "0x301AC8",
+    "bank_offset": "0x1AC8",
+    "format": "Shift-JIS",
+    "raw_hex": "814095970d814097d10d814089ce0d81408e52",
+    "text": "　風\r　林\r　火\r　山"
+  },
+  {
+    "bank": "0xC0",
+    "offset": "0x301DAD",
+    "bank_offset": "0x1DAD",
+    "format": "Shift-JIS",
+    "raw_hex": "e0e7e07021",
+    "text": "珸瀾!"
+  },
+  {
+    "bank": "0xC0",
+    "offset": "0x301DF2",
+    "bank_offset": "0x1DF2",
+    "format": "Shift-JIS",
+    "raw_hex": "8370815b83678369815b82e2814082bb82a482d182b582c482a282e90d82d482ab82c982a082ed82b982c4814082b382ad82b982f182f00d82ab82e882a982a682e682a48142",
+    "text": "パートナーや　そうびしている\rぶきにあわせて　さくせんを\rきりかえよう。"
+  },
+  {
+    "bank": "0xC0",
+    "offset": "0x301F8F",
+    "bank_offset": "0x1F8F",
+    "format": "Shift-JIS",
+    "raw_hex": "e0e7e07021",
+    "text": "珸瀾!"
+  },
+  {
+    "bank": "0xC0",
+    "offset": "0x302631",
+    "bank_offset": "0x2631",
+    "format": "Shift-JIS",
+    "raw_hex": "e0e7e07021",
+    "text": "珸瀾!"
+  },
+  {
+    "bank": "0xC0",
+    "offset": "0x302706",
+    "bank_offset": "0x2706",
+    "format": "Shift-JIS",
+    "raw_hex": "837e834a835482ab82a982f182d481400d",
+    "text": "ミカサきかんぶ　\r"
+  },
+  {
+    "bank": "0xC0",
+    "offset": "0x302718",
+    "bank_offset": "0x2718",
+    "format": "Shift-JIS",
+    "raw_hex": "837e834a835482c282a482ab82b182a40d",
+    "text": "ミカサつうきこう\r"
+  },
+  {
+    "bank": "0xC0",
+    "offset": "0x30272A",
+    "bank_offset": "0x272A",
+    "format": "Shift-JIS",
+    "raw_hex": "837e834a835482b982f182c482a281400d",
+    "text": "ミカサせんてい　\r"
+  },
+  {
+    "bank": "0xC0",
+    "offset": "0x30273C",
+    "bank_offset": "0x273C",
+    "format": "Shift-JIS",
+    "raw_hex": "82e282dc82c6814081408140814081400d",
+    "text": "やまと　　　　　\r"
+  },
+  {
+    "bank": "0xC0",
+    "offset": "0x30274E",
+    "bank_offset": "0x274E",
+    "format": "Shift-JIS",
+    "raw_hex": "82d982cc82a882cc82c682a4814081400d",
+    "text": "ほのおのとう　　\r"
+  },
+  {
+    "bank": "0xC0",
+    "offset": "0x302760",
+    "bank_offset": "0x2760",
+    "format": "Shift-JIS",
+    "raw_hex": "82eb82a482b282ad81408140814081400d",
+    "text": "ろうごく　　　　\r"
+  },
+  {
+    "bank": "0xC0",
+    "offset": "0x302772",
+    "bank_offset": "0x2772",
+    "format": "Shift-JIS",
+    "raw_hex": "82b982a282dc82b682e582a4814081400d",
+    "text": "せいまじょう　　\r"
+  },
+  {
+    "bank": "0xC0",
+    "offset": "0x302785",
+    "bank_offset": "0x2785",
+    "format": "Shift-JIS",
+    "raw_hex": "82dc82a982a2814081408140814081400d",
+    "text": "まかい　　　　　\r"
+  }
+]

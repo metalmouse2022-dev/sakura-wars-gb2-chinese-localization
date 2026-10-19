@@ -1,0 +1,58 @@
+[
+  {
+    "bank": "0xD6",
+    "offset": "0x358846",
+    "bank_offset": "0x0846",
+    "format": "Shift-JIS",
+    "raw_hex": "64ee4242",
+    "text": "d猪B"
+  },
+  {
+    "bank": "0xD6",
+    "offset": "0x359A08",
+    "bank_offset": "0x1A08",
+    "format": "Shift-JIS",
+    "raw_hex": "20383838e0f0",
+    "text": " 888瑩"
+  },
+  {
+    "bank": "0xD6",
+    "offset": "0x359D02",
+    "bank_offset": "0x1D02",
+    "format": "Shift-JIS",
+    "raw_hex": "e0f82068",
+    "text": "璧 h"
+  },
+  {
+    "bank": "0xD6",
+    "offset": "0x35A3B8",
+    "bank_offset": "0x23B8",
+    "format": "Shift-JIS",
+    "raw_hex": "20383838e0f0",
+    "text": " 888瑩"
+  },
+  {
+    "bank": "0xD6",
+    "offset": "0x35A6B2",
+    "bank_offset": "0x26B2",
+    "format": "Shift-JIS",
+    "raw_hex": "e0f82068",
+    "text": "璧 h"
+  },
+  {
+    "bank": "0xD6",
+    "offset": "0x35B776",
+    "bank_offset": "0x3776",
+    "format": "Shift-JIS",
+    "raw_hex": "207090f0",
+    "text": " p栓"
+  },
+  {
+    "bank": "0xD6",
+    "offset": "0x35BC37",
+    "bank_offset": "0x3C37",
+    "format": "Shift-JIS",
+    "raw_hex": "62e2a2e28064",
+    "text": "b笋窶d"
+  }
+]

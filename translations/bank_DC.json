@@ -1,0 +1,58 @@
+[
+  {
+    "bank": "0xDC",
+    "offset": "0x3710C0",
+    "bank_offset": "0x10C0",
+    "format": "Shift-JIS",
+    "raw_hex": "9040209042",
+    "text": "拭 殖"
+  },
+  {
+    "bank": "0xDC",
+    "offset": "0x371644",
+    "bank_offset": "0x1644",
+    "format": "Shift-JIS",
+    "raw_hex": "e0e8e0ec81e8",
+    "text": "琲瑟∬"
+  },
+  {
+    "bank": "0xDC",
+    "offset": "0x372DDC",
+    "bank_offset": "0x2DDC",
+    "format": "Shift-JIS",
+    "raw_hex": "0de9e98bcb",
+    "text": "\r鳬桐"
+  },
+  {
+    "bank": "0xDC",
+    "offset": "0x3732BC",
+    "bank_offset": "0x32BC",
+    "format": "Shift-JIS",
+    "raw_hex": "0de9e98bcb",
+    "text": "\r鳬桐"
+  },
+  {
+    "bank": "0xDC",
+    "offset": "0x373724",
+    "bank_offset": "0x3724",
+    "format": "Shift-JIS",
+    "raw_hex": "e0f090f0589078",
+    "text": "瑩栓X靭"
+  },
+  {
+    "bank": "0xDC",
+    "offset": "0x3739DF",
+    "bank_offset": "0x39DF",
+    "format": "Shift-JIS",
+    "raw_hex": "e3a1e161e184",
+    "text": "罍畭痲"
+  },
+  {
+    "bank": "0xDC",
+    "offset": "0x373A95",
+    "bank_offset": "0x3A95",
+    "format": "Shift-JIS",
+    "raw_hex": "90809c81",
+    "text": "逗怐"
+  }
+]

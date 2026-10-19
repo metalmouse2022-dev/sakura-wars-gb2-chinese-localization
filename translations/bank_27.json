@@ -1,0 +1,82 @@
+[
+  {
+    "bank": "0x27",
+    "offset": "0x09C007",
+    "bank_offset": "0x0007",
+    "format": "Shift-JIS",
+    "raw_hex": "788cf88cf89cf098f0",
+    "text": "x効効懺會"
+  },
+  {
+    "bank": "0x27",
+    "offset": "0x09C107",
+    "bank_offset": "0x0107",
+    "format": "Shift-JIS",
+    "raw_hex": "788cf88cf89cf098f0",
+    "text": "x効効懺會"
+  },
+  {
+    "bank": "0x27",
+    "offset": "0x09C207",
+    "bank_offset": "0x0207",
+    "format": "Shift-JIS",
+    "raw_hex": "788cf88cf89cf098f0",
+    "text": "x効効懺會"
+  },
+  {
+    "bank": "0x27",
+    "offset": "0x09C307",
+    "bank_offset": "0x0307",
+    "format": "Shift-JIS",
+    "raw_hex": "788cf88cf89cf098f0",
+    "text": "x効効懺會"
+  },
+  {
+    "bank": "0x27",
+    "offset": "0x09C407",
+    "bank_offset": "0x0407",
+    "format": "Shift-JIS",
+    "raw_hex": "788cf88cf89cf098f0",
+    "text": "x効効懺會"
+  },
+  {
+    "bank": "0x27",
+    "offset": "0x09C507",
+    "bank_offset": "0x0507",
+    "format": "Shift-JIS",
+    "raw_hex": "788cf88cf89cf098f0",
+    "text": "x効効懺會"
+  },
+  {
+    "bank": "0x27",
+    "offset": "0x09C607",
+    "bank_offset": "0x0607",
+    "format": "Shift-JIS",
+    "raw_hex": "788cf88cf89cf098f0",
+    "text": "x効効懺會"
+  },
+  {
+    "bank": "0x27",
+    "offset": "0x09C707",
+    "bank_offset": "0x0707",
+    "format": "Shift-JIS",
+    "raw_hex": "788cf88cf89cf098f0",
+    "text": "x効効懺會"
+  },
+  {
+    "bank": "0x27",
+    "offset": "0x09C807",
+    "bank_offset": "0x0807",
+    "format": "Shift-JIS",
+    "raw_hex": "788cf88cf89cf098f0",
+    "text": "x効効懺會"
+  },
+  {
+    "bank": "0x27",
+    "offset": "0x09C907",
+    "bank_offset": "0x0907",
+    "format": "Shift-JIS",
+    "raw_hex": "788cf88cf89cf098f0",
+    "text": "x効効懺會"
+  }
+]

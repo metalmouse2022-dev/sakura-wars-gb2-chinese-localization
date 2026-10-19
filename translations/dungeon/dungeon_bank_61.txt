@@ -1,0 +1,3850 @@
+# 樱花大战GB2 汉化底稿: 地下城与出击剧情 (Bank 0x61)
+# 本文件条目数: 727
+# 规则: 在 CN: 下方直接输入中文译文。换行为实际换行，保留 <NAME> 等控制标签。
+============================================================
+
+# [0001] [ROM: 0x184000] [Bank: 0x61:0x0000] [CPU: 0x4000] [OrigLen: 30]
+JP: じゃあ　エンジンの
+JP: スイッチをいれて
+JP: さきへ　すすもう！！
+CN: 那就打开引擎开关
+CN: 往前冲吧！！
+# [0002] [ROM: 0x18401E] [Bank: 0x61:0x001E] [CPU: 0x401E] [OrigLen: 18]
+JP: あっ！　なにかいるわ！
+JP: アイリス！
+CN: 有魔物！
+CN: 爱丽丝！
+# [0003] [ROM: 0x184030] [Bank: 0x61:0x0030] [CPU: 0x4030] [OrigLen: 6]
+JP: まものだ！
+CN: 魔物
+# [0004] [ROM: 0x184036] [Bank: 0x61:0x0036] [CPU: 0x4036] [OrigLen: 27]
+JP: あそこは　ミカサの
+JP: エンジンをうごかす
+JP: ところだよ。
+CN: 那是驱动
+CN: 三笠引擎的
+CN: 地方。
+# [0005] [ROM: 0x184051] [Bank: 0x61:0x0051] [CPU: 0x4051] [OrigLen: 12]
+JP: なに　してるのかな〜。
+CN: 在干嘛呢～
+# [0006] [ROM: 0x18405D] [Bank: 0x61:0x005D] [CPU: 0x405D] [OrigLen: 15]
+JP: アイリス！
+JP: まものがいるわ！
+CN: 爱丽丝！
+CN: 魔物
+# [0007] [ROM: 0x18406C] [Bank: 0x61:0x006C] [CPU: 0x406C] [OrigLen: 41]
+JP: あーっ！！
+JP: あそこは……
+JP: ミカサの　エンジンせいぎょ
+JP: パネルが　あるところだよ！
+CN: 啊——！！
+CN: 那边是……
+CN: 三笠引擎
+CN: 控制面板
+# [0008] [ROM: 0x184095] [Bank: 0x61:0x0095] [CPU: 0x4095] [OrigLen: 51]
+JP: あれを　こわされたら
+JP: たいへんな　ことに……………
+JP: ……………………………………
+JP: ハ　ハ　ヒ…………
+CN: 那东西毁掉
+CN: 就大事不妙……
+CN: ……………
+CN: 哈…哈…嘻…
+# [0009] [ROM: 0x1840C8] [Bank: 0x61:0x00C8] [CPU: 0x40C8] [OrigLen: 24]
+JP: ヒーックシュン！
+JP: てやんでぇい　べらんめー！！
+CN: 咻——！
+CN: 混蛋王八蛋！！
+# [0010] [ROM: 0x1840E0] [Bank: 0x61:0x00E0] [CPU: 0x40E0] [OrigLen: 36]
+JP: あっ！
+JP: アイリスのくしゃみに
+JP: ビックリして　とびおりて
+JP: にげちゃった。
+CN: 啊！
+CN: 爱丽丝打喷嚏
+CN: 吓我一跳
+CN: 就逃了。
+# [0011] [ROM: 0x184104] [Bank: 0x61:0x0104] [CPU: 0x4104] [OrigLen: 13]
+JP: ご……　ごめんなさい……
+CN: 对不起……
+# [0012] [ROM: 0x184111] [Bank: 0x61:0x0111] [CPU: 0x4111] [OrigLen: 39]
+JP: まあ　でちゃったものは
+JP: しょうがないんだけど……
+JP: アイリス？　きいてもいい？
+CN: 逃出去也
+CN: 没办法了……
+CN: 爱丽丝？
+# [0013] [ROM: 0x184138] [Bank: 0x61:0x0138] [CPU: 0x4138] [OrigLen: 31]
+JP: くしゃみのあとの
+JP: 「てやんでぇい　べらんめー」
+JP: って　なに？
+CN: 喷嚏后
+CN: 「混蛋王八蛋」
+CN: 什么？
+# [0014] [ROM: 0x184157] [Bank: 0x61:0x0157] [CPU: 0x4157] [OrigLen: 25]
+JP: ながやの　おじちゃんに
+JP: おしえてもらったんだよ。
+CN: 长屋的老爷爷
+CN: 告诉我的。
+# [0015] [ROM: 0x184170] [Bank: 0x61:0x0170] [CPU: 0x4170] [OrigLen: 44]
+JP: 「てやんでぇい　べらんめー」
+JP: って　いっとくと
+JP: カゼのかみさまが
+JP: にげていくんだって。
+CN: 「混蛋王八蛋」
+CN: 听说是风神
+CN: 大人要逃走。
+# [0016] [ROM: 0x18419C] [Bank: 0x61:0x019C] [CPU: 0x419C] [OrigLen: 11]
+JP: へえ〜　そうなんだ。
+CN: 原来如此…
+# [0017] [ROM: 0x1841A7] [Bank: 0x61:0x01A7] [CPU: 0x41A7] [OrigLen: 41]
+JP: あーっ！！
+JP: あそこは……
+JP: ミカサの　エンジンせいぎょ
+JP: パネルが　あるところだよ！
+CN: 啊！！
+CN: 那边是……
+CN: 三笠引擎
+CN: 控制面板
+# [0018] [ROM: 0x1841D0] [Bank: 0x61:0x01D0] [CPU: 0x41D0] [OrigLen: 33]
+JP: あれを　こわされたら
+JP: エレベーターを
+JP: うごかせなくなっちゃうよ。
+CN: 那东西坏掉的话
+CN: 电梯就
+CN: 开不动了。
+# [0019] [ROM: 0x1841F1] [Bank: 0x61:0x01F1] [CPU: 0x41F1] [OrigLen: 18]
+JP: あのまものを　やっつけよう
+JP: <NAME>！！
+CN: 打倒那魔物
+CN: <NAME>！
+# [0020] [ROM: 0x184203] [Bank: 0x61:0x0203] [CPU: 0x4203] [OrigLen: 23]
+JP: あっ！
+JP: わたしたちに　きづいて
+JP: にげたわ！！
+CN: 啊！
+CN: 发现我们
+CN: 逃了！
+# [0021] [ROM: 0x18421A] [Bank: 0x61:0x021A] [CPU: 0x421A] [OrigLen: 36]
+JP: あ〜あ……
+JP: まあ　にげちゃったものは
+JP: しょうがないよね。
+JP: いこう　<NAME>。
+CN: 唉～算了…
+CN: 逃了就
+CN: 没办法吧。
+CN: 走<NAME>。
+# [0022] [ROM: 0x18423E] [Bank: 0x61:0x023E] [CPU: 0x423E] [OrigLen: 11]
+JP: アイリス！　<NAME>さん！
+CN: 爱丽丝！<NAME>
+# [0023] [ROM: 0x184249] [Bank: 0x61:0x0249] [CPU: 0x4249] [OrigLen: 7]
+JP: どうしたの？
+CN: 怎么啦
+# [0024] [ROM: 0x184250] [Bank: 0x61:0x0250] [CPU: 0x4250] [OrigLen: 29]
+JP: ばらぐみの　きくちゃんと
+JP: れんらくが
+JP: とれなくなったの。
+CN: 和杂货店的菊
+CN: 联系不上了。
+# [0025] [ROM: 0x18426D] [Bank: 0x61:0x026D] [CPU: 0x426D] [OrigLen: 5]
+JP: エエッ！
+CN: 诶！
+# [0026] [ROM: 0x184272] [Bank: 0x61:0x0272] [CPU: 0x4272] [OrigLen: 35]
+JP: さいごに　つうしんが
+JP: あったのは　そこから
+JP: すこしさきの　エリアよ。
+CN: 最后通讯处
+CN: 就在那边
+CN: 稍微前面。
+# [0027] [ROM: 0x184295] [Bank: 0x61:0x0295] [CPU: 0x4295] [OrigLen: 16]
+JP: りょうかい！
+JP: <NAME>　いそごう！！
+CN: 明白！
+CN: <NAME>快！
+# [0028] [ROM: 0x1842A5] [Bank: 0x61:0x02A5] [CPU: 0x42A5] [OrigLen: 35]
+JP: ひっひえ〜っ！　たかい！！
+JP: ミカサって　こんなに
+JP: たかかったんだね。
+CN: 呀～好高！！
+CN: 三笠竟然
+CN: 这么高。
+# [0029] [ROM: 0x1842C8] [Bank: 0x61:0x02C8] [CPU: 0x42C8] [OrigLen: 26]
+JP: そうだよ　ミカサは　
+JP: と〜っても　おっきいんだよ！
+CN: 对啊，三笠
+CN: 大得不得了哦！
+# [0030] [ROM: 0x1842E2] [Bank: 0x61:0x02E2] [CPU: 0x42E2] [OrigLen: 24]
+JP: ねえ　<NAME>
+JP: あそこに　たからばこが
+JP: あるでしょ。
+CN: 喂<NAME>
+CN: 那边有宝箱
+CN: 吧？
+# [0031] [ROM: 0x1842FA] [Bank: 0x61:0x02FA] [CPU: 0x42FA] [OrigLen: 9]
+JP: とりにいこーよ！
+CN: 去拿吧！
+# [0032] [ROM: 0x184303] [Bank: 0x61:0x0303] [CPU: 0x4303] [OrigLen: 10]
+JP: よし　とりにいこう
+CN: 去拿吧！
+# [0033] [ROM: 0x18430D] [Bank: 0x61:0x030D] [CPU: 0x430D] [OrigLen: 7]
+JP: ヤメとこうよ
+CN: 算了吧
+# [0034] [ROM: 0x184314] [Bank: 0x61:0x0314] [CPU: 0x4314] [OrigLen: 25]
+JP: え〜。
+JP: おちたら　どうするのさ。
+JP: ヤメとこうよ。
+CN: 唉～
+CN: 摔下去？
+CN: 算了吧。
+# [0035] [ROM: 0x18432D] [Bank: 0x61:0x032D] [CPU: 0x432D] [OrigLen: 19]
+JP: え〜〜〜〜っ！
+JP: アイリスつまんない！
+CN: 唉～
+CN: 爱丽丝真没用
+# [0036] [ROM: 0x184340] [Bank: 0x61:0x0340] [CPU: 0x4340] [OrigLen: 41]
+JP: よし　とりにいこう！
+JP: ……でも　あんなところに
+JP: どうやって　とりに
+JP: いくんだい？
+CN: 好，去拿吧！
+CN: ……可那边
+CN: 怎么去拿
+CN: 啊？
+# [0037] [ROM: 0x184369] [Bank: 0x61:0x0369] [CPU: 0x4369] [OrigLen: 26]
+JP: えへへへへへ。
+JP: それは　アイリスに
+JP: おまかせー！！
+CN: 嘿嘿嘿。
+CN: 交给爱丽丝
+CN: 吧！
+# [0038] [ROM: 0x184383] [Bank: 0x61:0x0383] [CPU: 0x4383] [OrigLen: 26]
+JP: いっくよー！
+JP: アイリスにしっかり
+JP: つかまっててね！
+CN: 走了！
+CN: 抓紧爱丽丝
+CN: 别松手
+# [0039] [ROM: 0x18439D] [Bank: 0x61:0x039D] [CPU: 0x439D] [OrigLen: 27]
+JP: びっくりした？
+JP: いまのがテレポートって
+JP: いうんだよ！
+CN: 吓到了吧？
+CN: 刚才是
+CN: 瞬间移动
+# [0040] [ROM: 0x1843C7] [Bank: 0x61:0x03C7] [CPU: 0x43C7] [OrigLen: 30]
+JP: あ〜　<NAME>は
+JP: どうやって　とりにいくのか
+JP: わからないんだね。
+CN: 唉～<NAME>
+CN: 不知道要怎么
+CN: 去拿呀。
+# [0041] [ROM: 0x1843E5] [Bank: 0x61:0x03E5] [CPU: 0x43E5] [OrigLen: 18]
+JP: エヘヘ。
+JP: アイリスに　おまかせ！！
+CN: 嘿嘿。
+CN: 交给爱丽丝
+# [0042] [ROM: 0x1843F7] [Bank: 0x61:0x03F7] [CPU: 0x43F7] [OrigLen: 7]
+JP: いっくよー！
+CN: 走了
+# [0043] [ROM: 0x1843FE] [Bank: 0x61:0x03FE] [CPU: 0x43FE] [OrigLen: 27]
+JP: びっくりした？
+JP: いまのがテレポートって
+JP: いうんだよ！
+CN: 吓到了吧？
+CN: 刚才是
+CN: 瞬间移动
+# [0044] [ROM: 0x184419] [Bank: 0x61:0x0419] [CPU: 0x4419] [OrigLen: 27]
+JP: あれ？　アイリス。
+JP: このエレベーター
+JP: うごかないよ。
+CN: 咦？爱丽丝。
+CN: 这电梯
+CN: 不动啦
+# [0045] [ROM: 0x184434] [Bank: 0x61:0x0434] [CPU: 0x4434] [OrigLen: 11]
+JP: え〜　どうしてぇ〜。
+CN: 怎么会～
+# [0046] [ROM: 0x18443F] [Bank: 0x61:0x043F] [CPU: 0x443F] [OrigLen: 25]
+JP: どうしてって　いわれても……
+JP: それは　たぶん……
+CN: 你问我为什么
+CN: 我也不知
+# [0047] [ROM: 0x184458] [Bank: 0x61:0x0458] [CPU: 0x4458] [OrigLen: 14]
+JP: どうりょくが　とまっている
+CN: 动力停了
+# [0048] [ROM: 0x184466] [Bank: 0x61:0x0466] [CPU: 0x4466] [OrigLen: 6]
+JP: こわれてる
+CN: 坏了
+# [0049] [ROM: 0x18446C] [Bank: 0x61:0x046C] [CPU: 0x446C] [OrigLen: 25]
+JP: どうりょくが　とまっている
+JP: からじゃ　ないかな？
+CN: 动力停了
+CN: 坏了吧？
+# [0050] [ROM: 0x184485] [Bank: 0x61:0x0485] [CPU: 0x4485] [OrigLen: 13]
+JP: どうりょく？………………
+CN: 动力？……
+# [0051] [ROM: 0x184492] [Bank: 0x61:0x0492] [CPU: 0x4492] [OrigLen: 32]
+JP: あっそうか！！
+JP: じゃあ　エンジンを
+JP: うごかせば　いいんだね！！
+CN: 啊对了！！
+CN: 开动引擎
+CN: 就行了！！
+# [0052] [ROM: 0x1844B2] [Bank: 0x61:0x04B2] [CPU: 0x44B2] [OrigLen: 15]
+JP: <NAME>って
+JP: あったまいいーーー。
+CN: <NAME>真暖和～
+# [0053] [ROM: 0x1844C1] [Bank: 0x61:0x04C1] [CPU: 0x44C1] [OrigLen: 33]
+JP: それじゃ　エンジンをうごかす
+JP: スイッチをさがしに
+JP: レッツゴー！！
+CN: 那去找启动
+CN: 引擎的开关
+CN: 走起！！
+# [0054] [ROM: 0x1844E2] [Bank: 0x61:0x04E2] [CPU: 0x44E2] [OrigLen: 13]
+JP: こわれてるんじゃないか？
+CN: 坏了吗？
+# [0055] [ROM: 0x1844EF] [Bank: 0x61:0x04EF] [CPU: 0x44EF] [OrigLen: 42]
+JP: え〜っ！
+JP: じゃあ　ここから　さきには
+JP: すすめないじゃん！！
+JP: どうするの！　ねえ！！
+CN: 唉～！
+CN: 前面走不了
+CN: 怎么办啊！！
+CN: 你说呢！
+# [0056] [ROM: 0x184519] [Bank: 0x61:0x0519] [CPU: 0x4519] [OrigLen: 29]
+JP: あわわ……
+JP: そんなに　おこらなくても
+JP: いいじゃないか……
+CN: 哎呀……
+CN: 别生气嘛……
+CN: 好不好
+# [0057] [ROM: 0x184572] [Bank: 0x61:0x0572] [CPU: 0x4572] [OrigLen: 8]
+JP: あ　わかった！
+CN: 懂了！
+# [0058] [ROM: 0x18457A] [Bank: 0x61:0x057A] [CPU: 0x457A] [OrigLen: 40]
+JP: エレベーターが
+JP: うごかないのは
+JP: どうりょくが　とまっている
+JP: からだよ　きっと。
+CN: 电梯不动
+CN: 肯定是
+CN: 动力停了
+CN: 的关系
+# [0059] [ROM: 0x1845A2] [Bank: 0x61:0x05A2] [CPU: 0x45A2] [OrigLen: 23]
+JP: だったら　エンジンを
+JP: うごかせば　いいんだ！
+CN: 那就开动
+CN: 引擎好了！
+# [0060] [ROM: 0x1845B9] [Bank: 0x61:0x05B9] [CPU: 0x45B9] [OrigLen: 22]
+JP: やったね　アイリスってば
+JP: あったまいい〜。
+CN: 爱丽丝真聪明～
+# [0061] [ROM: 0x1845CF] [Bank: 0x61:0x05CF] [CPU: 0x45CF] [OrigLen: 33]
+JP: それじゃ　エンジンをうごかす
+JP: スイッチをさがしに
+JP: レッツゴー！！
+CN: 那去找启动
+CN: 引擎的开关
+CN: 走起！！
+# [0062] [ROM: 0x1845F0] [Bank: 0x61:0x05F0] [CPU: 0x45F0] [OrigLen: 45]
+JP: う〜ん……………………………
+JP: ……………………………………
+JP: ……………わからない…………
+CN: 唔～
+CN: ……………………
+CN: ……不知道……
+# [0063] [ROM: 0x184659] [Bank: 0x61:0x0659] [CPU: 0x4659] [OrigLen: 8]
+JP: あ　わかった！
+CN: 懂了！
+# [0064] [ROM: 0x184661] [Bank: 0x61:0x0661] [CPU: 0x4661] [OrigLen: 40]
+JP: エレベーターが
+JP: うごかないのは
+JP: どうりょくが　とまっている
+JP: からだよ　きっと。
+CN: 电梯不动
+CN: 肯定是
+CN: 动力停了
+CN: 的关系
+# [0065] [ROM: 0x184689] [Bank: 0x61:0x0689] [CPU: 0x4689] [OrigLen: 23]
+JP: だったら　エンジンを
+JP: うごかせば　いいんだ！
+CN: 那就开动
+CN: 引擎好了！
+# [0066] [ROM: 0x1846A0] [Bank: 0x61:0x06A0] [CPU: 0x46A0] [OrigLen: 22]
+JP: やったね　アイリスってば
+JP: あったまいい〜。
+CN: 爱丽丝真聪明～
+# [0067] [ROM: 0x1846B6] [Bank: 0x61:0x06B6] [CPU: 0x46B6] [OrigLen: 33]
+JP: それじゃ　エンジンをうごかす
+JP: スイッチをさがしに
+JP: レッツゴー！！
+CN: 那去找启动
+CN: 引擎的开关
+CN: 走起！！
+# [0068] [ROM: 0x1846D7] [Bank: 0x61:0x06D7] [CPU: 0x46D7] [OrigLen: 18]
+JP: エンジンをうごかせば
+JP: つかえるね。
+CN: 开动引擎
+CN: 就能用了
+# [0069] [ROM: 0x1846E9] [Bank: 0x61:0x06E9] [CPU: 0x46E9] [OrigLen: 11]
+JP: あっ！　まものだ！！
+CN: 有魔物！
+# [0070] [ROM: 0x1846F4] [Bank: 0x61:0x06F4] [CPU: 0x46F4] [OrigLen: 18]
+JP: ふう……
+JP: なんとか　たすかったね。
+CN: 呼……
+CN: 总算得救了
+# [0071] [ROM: 0x184706] [Bank: 0x61:0x0706] [CPU: 0x4706] [OrigLen: 24]
+JP: うん。きゅうに　でてきたから
+JP: ビックリしたね。
+CN: 它忽然蹦出来
+CN: 吓一跳吧
+# [0072] [ROM: 0x18471E] [Bank: 0x61:0x071E] [CPU: 0x471E] [OrigLen: 32]
+JP: あ！たからばこのなかに
+JP: うさぎちゃんの　
+JP: ぬいぐるみがいるよ！
+CN: 啊！宝箱里有
+CN: 兔兔的
+CN: 布娃娃哦！
+# [0073] [ROM: 0x18473E] [Bank: 0x61:0x073E] [CPU: 0x473E] [OrigLen: 26]
+JP: かわいいー！
+JP: このこは　アイリスが
+JP: つれていくね。
+CN: 好可爱～
+CN: 这个我要
+CN: 带走啦
+# [0074] [ROM: 0x184758] [Bank: 0x61:0x0758] [CPU: 0x4758] [OrigLen: 20]
+JP: アイリスは
+JP: きりょくが　ぜんかいした。
+CN: 爱丽丝的
+CN: 气力全满了
+# [0075] [ROM: 0x18476C] [Bank: 0x61:0x076C] [CPU: 0x476C] [OrigLen: 12]
+JP: それじゃあ　もどろう！
+CN: 回去吧！
+# [0076] [ROM: 0x184778] [Bank: 0x61:0x0778] [CPU: 0x4778] [OrigLen: 15]
+JP: あっ　エレベーターホールだ。
+CN: 啊，电梯厅。
+# [0077] [ROM: 0x184787] [Bank: 0x61:0x0787] [CPU: 0x4787] [OrigLen: 31]
+JP: このさきは　エレベータを
+JP: つかわないと
+JP: いけないんだよ　<NAME>。
+CN: 前面不用
+CN: 电梯的话
+CN: 过不去<NAME>
+# [0078] [ROM: 0x1847A6] [Bank: 0x61:0x07A6] [CPU: 0x47A6] [OrigLen: 29]
+JP: アイリス。
+JP: これが　エンジンをうごかす
+JP: そうちなんだね。
+CN: 爱丽丝。
+CN: 这就是引擎
+CN: 开关哦
+# [0079] [ROM: 0x1847C3] [Bank: 0x61:0x07C3] [CPU: 0x47C3] [OrigLen: 35]
+JP: そうだよ。
+JP: レバーを　うえにあげると
+JP: エンジンが
+JP: うごきだすんだよ。
+CN: 对啊
+CN: 把杆子往上提
+CN: 引擎就
+CN: 转起来了
+# [0080] [ROM: 0x1847E6] [Bank: 0x61:0x07E6] [CPU: 0x47E6] [OrigLen: 28]
+JP: レバーは　ふるくなってるから
+JP: ちゅういして　やってね。
+CN: 杆子已经变松
+CN: 要小心点哦
+# [0081] [ROM: 0x184802] [Bank: 0x61:0x0802] [CPU: 0x4802] [OrigLen: 7]
+JP: りょうかい。
+CN: 明白！
+# [0082] [ROM: 0x184809] [Bank: 0x61:0x0809] [CPU: 0x4809] [OrigLen: 10]
+JP: ちからづよくいれる
+CN: 使劲推入
+# [0083] [ROM: 0x184813] [Bank: 0x61:0x0813] [CPU: 0x4813] [OrigLen: 9]
+JP: ゆっくりといれる
+CN: 慢慢推
+# [0084] [ROM: 0x18481C] [Bank: 0x61:0x081C] [CPU: 0x481C] [OrigLen: 17]
+JP: なにしてるの？
+JP: はやくやってよ。
+CN: 在干嘛？
+CN: 快推啊
+# [0085] [ROM: 0x18482D] [Bank: 0x61:0x082D] [CPU: 0x482D] [OrigLen: 7]
+JP: エイヤッ！！
+CN: 嘿呀！
+# [0086] [ROM: 0x184834] [Bank: 0x61:0x0834] [CPU: 0x4834] [OrigLen: 5]
+JP: ボキッ！
+CN: 咔！
+# [0087] [ROM: 0x184839] [Bank: 0x61:0x0839] [CPU: 0x4839] [OrigLen: 17]
+JP: あ〜
+JP: レバーが　おれちゃった……
+CN: 啊～
+CN: 杆子断了～
+# [0088] [ROM: 0x18484A] [Bank: 0x61:0x084A] [CPU: 0x484A] [OrigLen: 16]
+JP: あ〜あ。
+JP: <NAME>　こわしちゃった。
+CN: 啊～啊。
+CN: <NAME>坏了
+# [0089] [ROM: 0x18485A] [Bank: 0x61:0x085A] [CPU: 0x485A] [OrigLen: 19]
+JP: ふるくなってるって
+JP: いったじゃない！
+CN: 不是说了
+CN: 会变松的
+# [0090] [ROM: 0x18486D] [Bank: 0x61:0x086D] [CPU: 0x486D] [OrigLen: 15]
+JP: エンジンが　きどうしました。
+CN: 引擎启动了。
+# [0091] [ROM: 0x18487C] [Bank: 0x61:0x087C] [CPU: 0x487C] [OrigLen: 44]
+JP: でも　エンジンが
+JP: うごいたから　いいや。
+JP: じゃあ　エレベーターの
+JP: ところへいこう　<NAME>。
+CN: 不过引擎
+CN: 都动了呀
+CN: 那就去电梯
+CN: 那边吧<NAME>
+# [0092] [ROM: 0x1848A8] [Bank: 0x61:0x08A8] [CPU: 0x48A8] [OrigLen: 29]
+JP: ふるくなってるから
+JP: こわれないように
+JP: ゆっくりと…………
+CN: 已经变松了
+CN: 要慢慢来……
+# [0093] [ROM: 0x1848C5] [Bank: 0x61:0x08C5] [CPU: 0x48C5] [OrigLen: 14]
+JP: よし　レバーがあがったぞ。
+CN: 杆子升上去了
+# [0094] [ROM: 0x1848D3] [Bank: 0x61:0x08D3] [CPU: 0x48D3] [OrigLen: 5]
+JP: ボキッ！
+CN: 咔！
+# [0095] [ROM: 0x1848D8] [Bank: 0x61:0x08D8] [CPU: 0x48D8] [OrigLen: 30]
+JP: あっ………………………………
+JP: レバーが……おれちゃった……
+CN: 啊…………
+CN: 杆子……断了……
+# [0096] [ROM: 0x1848F6] [Bank: 0x61:0x08F6] [CPU: 0x48F6] [OrigLen: 15]
+JP: エンジンが　きどうしました。
+CN: 引擎启动了。
+# [0097] [ROM: 0x184905] [Bank: 0x61:0x0905] [CPU: 0x4905] [OrigLen: 14]
+JP: あ〜あ　おれちゃったね……
+CN: 啊～断了……
+# [0098] [ROM: 0x184913] [Bank: 0x61:0x0913] [CPU: 0x4913] [OrigLen: 29]
+JP: でも　<NAME>は
+JP: ちゅういして　やったから
+JP: しょうがないよね。
+CN: 不过<NAME>
+CN: 已经很小心了
+CN: 也没法嘛
+# [0099] [ROM: 0x184930] [Bank: 0x61:0x0930] [CPU: 0x4930] [OrigLen: 17]
+JP: じゃあ　エレベーターへ
+JP: いこう！
+CN: 那就往
+CN: 电梯走！
+# [0100] [ROM: 0x184941] [Bank: 0x61:0x0941] [CPU: 0x4941] [OrigLen: 13]
+JP: エンジン　せいぎょパネル
+CN: 引擎控制面板
+# [0101] [ROM: 0x18494E] [Bank: 0x61:0x094E] [CPU: 0x494E] [OrigLen: 26]
+JP: スイッチを　いれると　
+JP: エンジンが　うごくんだよ。
+CN: 按下开关
+CN: 引擎就会动起来
+# [0102] [ROM: 0x184968] [Bank: 0x61:0x0968] [CPU: 0x4968] [OrigLen: 34]
+JP: エンジンを　うごかすと
+JP: エレベーターとかが
+JP: つかえるようになるよ。
+CN: 开动引擎的话
+CN: 电梯之类
+CN: 就能用了
+# [0103] [ROM: 0x18498A] [Bank: 0x61:0x098A] [CPU: 0x498A] [OrigLen: 10]
+JP: スイッチを　いれる
+CN: 打开开关
+# [0104] [ROM: 0x184994] [Bank: 0x61:0x0994] [CPU: 0x4994] [OrigLen: 11]
+JP: スイッチを　いれない
+CN: 不打开开关
+# [0105] [ROM: 0x18499F] [Bank: 0x61:0x099F] [CPU: 0x499F] [OrigLen: 32]
+JP: よし　エンジンをうごかそう。
+JP: レバーを　うえに
+JP: あげるんだな。
+CN: 好，来启动引擎。
+CN: 把杆子
+CN: 往上拉
+# [0106] [ROM: 0x1849BF] [Bank: 0x61:0x09BF] [CPU: 0x49BF] [OrigLen: 5]
+JP: ボキッ！
+CN: 咔！
+# [0107] [ROM: 0x1849C4] [Bank: 0x61:0x09C4] [CPU: 0x49C4] [OrigLen: 18]
+JP: あっ！
+JP: レバーが　おれちゃった……
+CN: 啊！
+CN: 杆子断了……
+# [0108] [ROM: 0x1849D6] [Bank: 0x61:0x09D6] [CPU: 0x49D6] [OrigLen: 35]
+JP: あ〜あ　こわしちゃった。
+JP: でも　ふるくなってたから
+JP: しょうがないよ。
+CN: 啊～啊，坏了
+CN: 本来就很松
+CN: 没办法嘛
+# [0109] [ROM: 0x1849F9] [Bank: 0x61:0x09F9] [CPU: 0x49F9] [OrigLen: 15]
+JP: エンジンが　きどうしました。
+CN: 引擎启动了。
+# [0110] [ROM: 0x184A08] [Bank: 0x61:0x0A08] [CPU: 0x4A08] [OrigLen: 9]
+JP: じゃあ　いこう。
+CN: 那走吧。
+# [0111] [ROM: 0x184A15] [Bank: 0x61:0x0A15] [CPU: 0x4A15] [OrigLen: 21]
+JP: あっ！
+JP: さっきにげていった
+JP: まものだ！！
+CN: 啊！
+CN: 刚才那只
+CN: 魔物！
+# [0112] [ROM: 0x184A2A] [Bank: 0x61:0x0A2A] [CPU: 0x4A2A] [OrigLen: 8]
+JP: ワキ〜〜〜！！
+CN: 哇～！
+# [0113] [ROM: 0x184A32] [Bank: 0x61:0x0A32] [CPU: 0x4A32] [OrigLen: 5]
+JP: エッ！？
+CN: 诶！
+# [0114] [ROM: 0x184A37] [Bank: 0x61:0x0A37] [CPU: 0x4A37] [OrigLen: 6]
+JP: な　なに？
+CN: 啥？
+# [0115] [ROM: 0x184A3D] [Bank: 0x61:0x0A3D] [CPU: 0x4A3D] [OrigLen: 28]
+JP: うわぁぁぁぁぁぁーーー。
+JP: どうしたんだぁぁぁぁーーー。
+CN: 哇啊啊啊——
+CN: 怎么啦啊啊——
+# [0116] [ROM: 0x184A59] [Bank: 0x61:0x0A59] [CPU: 0x4A59] [OrigLen: 50]
+JP: まものが　メインダクトに
+JP: すいこまれちゃったから
+JP: エンジンが　ぼうそうを
+JP: はじめたんだよ　きっと！
+CN: 魔物被吸进
+CN: 了主通风管
+CN: 所以引擎
+CN: 才会开始暴走
+# [0117] [ROM: 0x184A8B] [Bank: 0x61:0x0A8B] [CPU: 0x4A8B] [OrigLen: 26]
+JP: このままじゃあ
+JP: ミカサが　ばくはつ
+JP: しちゃうよ〜。
+CN: 这样下去
+CN: 三笠会爆炸的～
+# [0118] [ROM: 0x184AA5] [Bank: 0x61:0x0AA5] [CPU: 0x4AA5] [OrigLen: 10]
+JP: どうしよう？
+JP: <NAME>！
+CN: 怎么办<NAME>！
+# [0119] [ROM: 0x184AAF] [Bank: 0x61:0x0AAF] [CPU: 0x4AAF] [OrigLen: 6]
+JP: やっつける
+CN: 打倒
+# [0120] [ROM: 0x184AB5] [Bank: 0x61:0x0AB5] [CPU: 0x4AB5] [OrigLen: 10]
+JP: まものを　ひきぬく
+CN: 拉出魔物
+# [0121] [ROM: 0x184ABF] [Bank: 0x61:0x0ABF] [CPU: 0x4ABF] [OrigLen: 9]
+JP: エンジンをとめる
+CN: 关闭引擎
+# [0122] [ROM: 0x184AC8] [Bank: 0x61:0x0AC8] [CPU: 0x4AC8] [OrigLen: 8]
+JP: やっつけよう！
+CN: 干掉它
+# [0123] [ROM: 0x184AD0] [Bank: 0x61:0x0AD0] [CPU: 0x4AD0] [OrigLen: 17]
+JP: そうだね。
+JP: やっつけちゃおう！！
+CN: 对呀
+CN: 打倒它！！
+# [0124] [ROM: 0x184AE1] [Bank: 0x61:0x0AE1] [CPU: 0x4AE1] [OrigLen: 37]
+JP: アイリス。
+JP: ミカサのエンジンに
+JP: いじょうが　みられるけど
+JP: どうかしたの？
+CN: 爱丽丝。
+CN: 三笠引擎
+CN: 有异常了
+CN: 怎么啦？
+# [0125] [ROM: 0x184B06] [Bank: 0x61:0x0B06] [CPU: 0x4B06] [OrigLen: 30]
+JP: エレベーターを　つかうのに
+JP: エンジンを
+JP: うごかしたんだよ。
+CN: 用电梯的话
+CN: 得先开动
+CN: 引擎才行
+# [0126] [ROM: 0x184B24] [Bank: 0x61:0x0B24] [CPU: 0x4B24] [OrigLen: 46]
+JP: そしたら　メインダクトに
+JP: まものが　はさまっちゃって
+JP: エンジンが　ぼうそう
+JP: しちゃったの。
+CN: 结果魔物卡在
+CN: 主通风管里
+CN: 引擎才
+CN: 暴走起来的
+# [0127] [ROM: 0x184B52] [Bank: 0x61:0x0B52] [CPU: 0x4B52] [OrigLen: 31]
+JP: それで　いまから
+JP: そのまものを
+JP: やっつける　ところなんです。
+CN: 所以现在
+CN: 我们要去
+CN: 把魔物打倒
+# [0128] [ROM: 0x184B71] [Bank: 0x61:0x0B71] [CPU: 0x4B71] [OrigLen: 25]
+JP: ちょ　ちょっとまちなさい！
+JP: <NAME>くん　アイリス！！
+CN: 等一下！
+CN: <NAME>君
+CN: 爱丽丝！！
+# [0129] [ROM: 0x184B8A] [Bank: 0x61:0x0B8A] [CPU: 0x4B8A] [OrigLen: 45]
+JP: まものを　こうげきしては
+JP: ダメよ。
+JP: エンジンに　ダメージを
+JP: あたえるかも　しれないから。
+CN: 不可以攻击魔物
+CN: 不然可能会
+CN: 伤到引擎的
+# [0130] [ROM: 0x184BB7] [Bank: 0x61:0x0BB7] [CPU: 0x4BB7] [OrigLen: 32]
+JP: …………そのまもの……
+JP: メインダクトから
+JP: ひきぬけないかしら？
+CN: …………
+CN: 那魔物能
+CN: 拉出来吗？
+# [0131] [ROM: 0x184BD7] [Bank: 0x61:0x0BD7] [CPU: 0x4BD7] [OrigLen: 16]
+JP: わかりました。
+JP: やってみます。
+CN: 知道了
+CN: 我试试
+# [0132] [ROM: 0x184BE7] [Bank: 0x61:0x0BE7] [CPU: 0x4BE7] [OrigLen: 18]
+JP: ダ　ダメです！！
+JP: かえでさん！！！
+CN: 不行！
+CN: 快回来！
+# [0133] [ROM: 0x184BF9] [Bank: 0x61:0x0BF9] [CPU: 0x4BF9] [OrigLen: 29]
+JP: だったら　エンジンを
+JP: とめるしか　ほうほうは
+JP: ないわね。
+CN: 那就只能
+CN: 把引擎
+CN: 停掉了呢
+# [0134] [ROM: 0x184C16] [Bank: 0x61:0x0C16] [CPU: 0x4C16] [OrigLen: 32]
+JP: でも　さっき
+JP: エンジンをうごかすスイッチを
+JP: こわしちゃったよ。
+CN: 可是启动引擎的
+CN: 开关
+CN: 刚才弄坏了
+# [0135] [ROM: 0x184C36] [Bank: 0x61:0x0C36] [CPU: 0x4C36] [OrigLen: 23]
+JP: だったら
+JP: だい２せいぎょしつへ
+JP: いきなさい。
+CN: 那就快去
+CN: 第二控制室
+# [0136] [ROM: 0x184C4D] [Bank: 0x61:0x0C4D] [CPU: 0x4C4D] [OrigLen: 20]
+JP: そこでエンジンを
+JP: とめられる　はずよ。
+CN: 那里应该能
+CN: 停下引擎
+# [0137] [ROM: 0x184C61] [Bank: 0x61:0x0C61] [CPU: 0x4C61] [OrigLen: 33]
+JP: だい２せいぎょしつは
+JP: このフロアの　おくだよ。
+JP: レッツゴー　<NAME>。
+CN: 第二控制室
+CN: 在这层最下面
+CN: 走啦<NAME>
+# [0138] [ROM: 0x184C82] [Bank: 0x61:0x0C82] [CPU: 0x4C82] [OrigLen: 28]
+JP: とりあえず　メインダクトから
+JP: まものを　ひきぬこうか。
+CN: 先从通风管
+CN: 把魔物拉出来
+# [0139] [ROM: 0x184C9E] [Bank: 0x61:0x0C9E] [CPU: 0x4C9E] [OrigLen: 20]
+JP: うん！　そうだね。
+JP: それがいいよ　<NAME>。
+CN: 嗯！对呀
+CN: 这样就好<NAME>
+# [0140] [ROM: 0x184CB2] [Bank: 0x61:0x0CB2] [CPU: 0x4CB2] [OrigLen: 11]
+JP: エンジンをとめよう。
+CN: 把引擎停掉
+# [0141] [ROM: 0x184CBD] [Bank: 0x61:0x0CBD] [CPU: 0x4CBD] [OrigLen: 31]
+JP: それは　ムリだよ。
+JP: さっき　レバーを
+JP: おっちゃったじゃない。
+CN: 那不行
+CN: 杆子刚被你
+CN: 弄断了呀
+# [0142] [ROM: 0x184CDC] [Bank: 0x61:0x0CDC] [CPU: 0x4CDC] [OrigLen: 33]
+JP: それよりも　まものを
+JP: あそこから　ひきぬいたら
+JP: いいんじゃない？
+CN: 不如把魔物
+CN: 从那里
+CN: 拉出来好不好
+# [0143] [ROM: 0x184CFD] [Bank: 0x61:0x0CFD] [CPU: 0x4CFD] [OrigLen: 12]
+JP: えーーーと………………
+CN: 唔…………
+# [0144] [ROM: 0x184D09] [Bank: 0x61:0x0D09] [CPU: 0x4D09] [OrigLen: 33]
+JP: <NAME>。
+JP: まものを　あそこから
+JP: ひきぬいたら
+JP: いいんじゃないかな〜。
+CN: <NAME>。
+CN: 魔物从那里
+CN: 拉出来
+CN: 不就好了
+# [0145] [ROM: 0x184D2A] [Bank: 0x61:0x0D2A] [CPU: 0x4D2A] [OrigLen: 18]
+JP: オッケー。
+JP: わかったよ　アイリス。
+CN: 好。
+CN: 知道了爱丽丝
+# [0146] [ROM: 0x184D3C] [Bank: 0x61:0x0D3C] [CPU: 0x4D3C] [OrigLen: 20]
+JP: ダ　ダメだ〜。
+JP: ぬけないよ　アイリス。
+CN: 不行～
+CN: 爱丽丝拉不动
+# [0147] [ROM: 0x184D50] [Bank: 0x61:0x0D50] [CPU: 0x4D50] [OrigLen: 36]
+JP: はやくしないと
+JP: オーバーヒートで　エンジンが
+JP: ばくはつ　しちゃうよ〜。
+CN: 再不快点
+CN: 引擎过热
+CN: 就要爆炸了～
+# [0148] [ROM: 0x184D74] [Bank: 0x61:0x0D74] [CPU: 0x4D74] [OrigLen: 37]
+JP: アイリス！
+JP: ミカサのエンジンに
+JP: いじょうが　みられるけど
+JP: どうかしたの？
+CN: 爱丽丝！
+CN: 三笠引擎
+CN: 有异常了
+CN: 怎么啦？
+# [0149] [ROM: 0x184D99] [Bank: 0x61:0x0D99] [CPU: 0x4D99] [OrigLen: 30]
+JP: エレベーターを　つかうのに
+JP: エンジンを
+JP: うごかしたんだよ。
+CN: 要用电梯的话
+CN: 得先
+CN: 开动引擎
+# [0150] [ROM: 0x184DB7] [Bank: 0x61:0x0DB7] [CPU: 0x4DB7] [OrigLen: 46]
+JP: そしたら　メインダクトに
+JP: まものが　はさまっちゃって
+JP: エンジンが　ぼうそう
+JP: しちゃったの。
+CN: 结果魔物卡在
+CN: 主通风管里
+CN: 引擎才
+CN: 暴走起来的
+# [0151] [ROM: 0x184DE5] [Bank: 0x61:0x0DE5] [CPU: 0x4DE5] [OrigLen: 34]
+JP: まものを
+JP: ひっぱってみたんだけど
+JP: ぬけなくて……
+JP: どうしたらいい？
+CN: 拉了魔物
+CN: 就是拉不出来
+CN: 怎么办？
+# [0152] [ROM: 0x184E07] [Bank: 0x61:0x0E07] [CPU: 0x4E07] [OrigLen: 29]
+JP: だったら　エンジンを
+JP: とめるしか　ほうほうは
+JP: ないわね。
+CN: 那就只能
+CN: 把引擎
+CN: 停掉了呢
+# [0153] [ROM: 0x184E24] [Bank: 0x61:0x0E24] [CPU: 0x4E24] [OrigLen: 32]
+JP: でも　さっき
+JP: エンジンをうごかすスイッチを
+JP: こわしちゃったよ。
+CN: 可是启动引擎的
+CN: 开关
+CN: 刚才弄坏了
+# [0154] [ROM: 0x184E44] [Bank: 0x61:0x0E44] [CPU: 0x4E44] [OrigLen: 18]
+JP: エエッ！
+JP: それは　たいへんだわ！！
+CN: 诶！
+CN: 麻烦了！！
+# [0155] [ROM: 0x184E56] [Bank: 0x61:0x0E56] [CPU: 0x4E56] [OrigLen: 28]
+JP: アイリス　<NAME>くん！
+JP: だい２せいぎょしつへ
+JP: いきなさい。
+CN: 爱丽丝！<NAME>
+CN: 快去第二控制室
+# [0156] [ROM: 0x184E72] [Bank: 0x61:0x0E72] [CPU: 0x4E72] [OrigLen: 20]
+JP: そこへいって　エンジンを
+JP: とめるのよ。
+CN: 去那里
+CN: 把引擎停掉
+# [0157] [ROM: 0x184E86] [Bank: 0x61:0x0E86] [CPU: 0x4E86] [OrigLen: 33]
+JP: だい２せいぎょしつは
+JP: このフロアの　おくだよ。
+JP: レッツゴー　<NAME>。
+CN: 第二控制室
+CN: 在这层最下面
+CN: 走啦<NAME>
+# [0158] [ROM: 0x184EA7] [Bank: 0x61:0x0EA7] [CPU: 0x4EA7] [OrigLen: 13]
+JP: <NAME>！
+JP: あのスイッチだよ。
+CN: <NAME>那个开关
+# [0159] [ROM: 0x184EB4] [Bank: 0x61:0x0EB4] [CPU: 0x4EB4] [OrigLen: 8]
+JP: りょうかい！！
+CN: 明白
+# [0160] [ROM: 0x184EBC] [Bank: 0x61:0x0EBC] [CPU: 0x4EBC] [OrigLen: 14]
+JP: なにしてるの！
+JP: はやく！！
+CN: 快点！
+CN: 在干嘛
+# [0161] [ROM: 0x184ECA] [Bank: 0x61:0x0ECA] [CPU: 0x4ECA] [OrigLen: 6]
+JP: う　うん！
+CN: 嗯！
+# [0162] [ROM: 0x184ED0] [Bank: 0x61:0x0ED0] [CPU: 0x4ED0] [OrigLen: 14]
+JP: エンジンていし　しました。
+CN: 引擎停机了。
+# [0163] [ROM: 0x184EDE] [Bank: 0x61:0x0EDE] [CPU: 0x4EDE] [OrigLen: 13]
+JP: ふう……
+JP: まにあった……
+CN: 呼……太好了
+# [0164] [ROM: 0x184EEB] [Bank: 0x61:0x0EEB] [CPU: 0x4EEB] [OrigLen: 29]
+JP: それじゃあ　もどって
+JP: まものを　ダクトから
+JP: ひきぬこう！
+CN: 那就回去
+CN: 从管道里
+CN: 拉出魔物！
+# [0165] [ROM: 0x184F08] [Bank: 0x61:0x0F08] [CPU: 0x4F08] [OrigLen: 35]
+JP: エンジンの　よこにある
+JP: はしごを　つかえば
+JP: はやく　もどれそうだよ！
+CN: 用引擎旁边的梯子
+CN: 可以更快
+CN: 回去哦
+# [0166] [ROM: 0x184F2B] [Bank: 0x61:0x0F2B] [CPU: 0x4F2B] [OrigLen: 7]
+JP: りょうかい！
+CN: 明白！
+# [0167] [ROM: 0x184F32] [Bank: 0x61:0x0F32] [CPU: 0x4F32] [OrigLen: 14]
+JP: エンジンていし　しました。
+CN: 引擎停机了。
+# [0168] [ROM: 0x184F40] [Bank: 0x61:0x0F40] [CPU: 0x4F40] [OrigLen: 13]
+JP: ふう……
+JP: まにあった……
+CN: 太好了……
+# [0169] [ROM: 0x184F4D] [Bank: 0x61:0x0F4D] [CPU: 0x4F4D] [OrigLen: 9]
+JP: さすが　<NAME>だね。
+CN: <NAME>真厉害
+# [0170] [ROM: 0x184F56] [Bank: 0x61:0x0F56] [CPU: 0x4F56] [OrigLen: 29]
+JP: それじゃあ　もどって
+JP: まものを　ダクトから
+JP: ひきぬこう！
+CN: 那就回去
+CN: 从管道里
+CN: 拉出魔物！
+# [0171] [ROM: 0x184F73] [Bank: 0x61:0x0F73] [CPU: 0x4F73] [OrigLen: 35]
+JP: エンジンの　よこにある
+JP: はしごを　つかえば
+JP: はやく　もどれそうだよ！
+CN: 用引擎旁边的梯子
+CN: 可以更快
+CN: 回去哦！
+# [0172] [ROM: 0x184F96] [Bank: 0x61:0x0F96] [CPU: 0x4F96] [OrigLen: 24]
+JP: <NAME>。
+JP: まものを　メインダクトから
+JP: ひきぬいて。
+CN: <NAME>。
+CN: 从主通风管
+CN: 拉出魔物
+# [0173] [ROM: 0x184FAE] [Bank: 0x61:0x0FAE] [CPU: 0x4FAE] [OrigLen: 43]
+JP: メインダクトをあけて
+JP: エンジンを　うごかさないと
+JP: エレベーターが
+JP: つかえないからね。
+CN: 不打开主通风管
+CN: 引擎无法启动
+CN: 电梯也用不了
+# [0174] [ROM: 0x184FD9] [Bank: 0x61:0x0FD9] [CPU: 0x4FD9] [OrigLen: 7]
+JP: りょうかい！
+CN: 明白！
+# [0175] [ROM: 0x184FE0] [Bank: 0x61:0x0FE0] [CPU: 0x4FE0] [OrigLen: 10]
+JP: いきおいよく　ぬく
+CN: 用力拔出
+# [0176] [ROM: 0x184FEA] [Bank: 0x61:0x0FEA] [CPU: 0x4FEA] [OrigLen: 9]
+JP: ゆっくりと　ぬく
+CN: 慢慢拔出
+# [0177] [ROM: 0x184FF3] [Bank: 0x61:0x0FF3] [CPU: 0x4FF3] [OrigLen: 16]
+JP: よーし。
+JP: いっきに　ぬくぞ！！
+CN: 一次拔出来！！
+# [0178] [ROM: 0x185003] [Bank: 0x61:0x1003] [CPU: 0x5003] [OrigLen: 12]
+JP: よしっ！
+JP: ぬけたぞ！！
+CN: 拔出来！！
+# [0179] [ROM: 0x18500F] [Bank: 0x61:0x100F] [CPU: 0x500F] [OrigLen: 6]
+JP: うわっ！！
+CN: 哇！
+# [0180] [ROM: 0x185019] [Bank: 0x61:0x1019] [CPU: 0x5019] [OrigLen: 10]
+JP: <NAME>
+JP: だいじょうぶ？
+CN: <NAME>
+CN: 没事？
+# [0181] [ROM: 0x185023] [Bank: 0x61:0x1023] [CPU: 0x5023] [OrigLen: 16]
+JP: ひとりで　よく
+JP: がんばったね。
+CN: 一个人也很努力
+# [0182] [ROM: 0x185033] [Bank: 0x61:0x1033] [CPU: 0x5033] [OrigLen: 30]
+JP: じゃあ　エンジンの
+JP: スイッチをいれて
+JP: さきへ　すすもう！！
+CN: 打开引擎的开关
+CN: 往前冲吧！！
+# [0183] [ROM: 0x185051] [Bank: 0x61:0x1051] [CPU: 0x5051] [OrigLen: 18]
+JP: ちゅういして　ゆっくりと
+JP: ぬこう。
+CN: 小心点
+CN: 慢慢拔出来
+# [0184] [ROM: 0x185063] [Bank: 0x61:0x1063] [CPU: 0x5063] [OrigLen: 12]
+JP: よしっ！
+JP: ぬけたぞ！！
+CN: 拔出来！！
+# [0185] [ROM: 0x18506F] [Bank: 0x61:0x106F] [CPU: 0x506F] [OrigLen: 10]
+JP: <NAME>！
+JP: あぶない！！
+CN: <NAME>
+CN: 危险！
+# [0186] [ROM: 0x185079] [Bank: 0x61:0x1079] [CPU: 0x5079] [OrigLen: 8]
+JP: やったね　<NAME>。
+CN: 太好了<NAME>
+# [0187] [ROM: 0x185081] [Bank: 0x61:0x1081] [CPU: 0x5081] [OrigLen: 30]
+JP: じゃあ　エンジンの
+JP: スイッチをいれて
+JP: さきへ　すすもう！！
+CN: 打开引擎的开关
+CN: 往前冲吧！！
+# [0188] [ROM: 0x18509F] [Bank: 0x61:0x109F] [CPU: 0x509F] [OrigLen: 16]
+JP: よーし。
+JP: いっきに　ぬくぞ！！
+CN: 一次拔出来！！
+# [0189] [ROM: 0x1850AF] [Bank: 0x61:0x10AF] [CPU: 0x50AF] [OrigLen: 12]
+JP: よしっ！
+JP: ぬけたぞ！！
+CN: 拔出来！！
+# [0190] [ROM: 0x1850BB] [Bank: 0x61:0x10BB] [CPU: 0x50BB] [OrigLen: 6]
+JP: うわっ！！
+CN: 哇！
+# [0191] [ROM: 0x1850C5] [Bank: 0x61:0x10C5] [CPU: 0x50C5] [OrigLen: 13]
+JP: <NAME>
+JP: だいじょうぶだった？
+CN: <NAME>
+CN: 没事吧？
+# [0192] [ROM: 0x1850D2] [Bank: 0x61:0x10D2] [CPU: 0x50D2] [OrigLen: 30]
+JP: じゃあ　エンジンの
+JP: スイッチをいれて
+JP: さきへ　すすもう！！
+CN: 打开引擎的开关
+CN: 往前冲吧！！
+# [0193] [ROM: 0x1850F0] [Bank: 0x61:0x10F0] [CPU: 0x50F0] [OrigLen: 41]
+JP: エンジンを　うごかすまえに
+JP: まものを　ひきぬかないと
+JP: また　ぼうそうしちゃうよ。
+CN: 启动引擎之前
+CN: 得先拉出魔物
+CN: 不然又会暴走
+# [0194] [ROM: 0x185119] [Bank: 0x61:0x1119] [CPU: 0x5119] [OrigLen: 15]
+JP: エンジンを　きどうしました。
+CN: 引擎启动了。
+# [0195] [ROM: 0x185128] [Bank: 0x61:0x1128] [CPU: 0x5128] [OrigLen: 25]
+JP: うわっ！
+JP: なに！　これ！！
+JP: こおりついてるよ！！
+CN: 哇！
+CN: 什么！
+CN: 冻住了！！
+# [0196] [ROM: 0x185141] [Bank: 0x61:0x1141] [CPU: 0x5141] [OrigLen: 10]
+JP: スケートができるね
+CN: 能滑冰了
+# [0197] [ROM: 0x18514B] [Bank: 0x61:0x114B] [CPU: 0x514B] [OrigLen: 13]
+JP: れいぞうこのなか　みたい
+CN: 像冰箱里一样
+# [0198] [ROM: 0x185158] [Bank: 0x61:0x1158] [CPU: 0x5158] [OrigLen: 6]
+JP: さむーーー
+CN: 好冷
+# [0199] [ROM: 0x18515E] [Bank: 0x61:0x115E] [CPU: 0x515E] [OrigLen: 36]
+JP: もっと　さむくなったら
+JP: ミカサのなかで　スケートが
+JP: できちゃうかもね。
+CN: 再冷下去的话
+CN: 三笠里面
+CN: 就能滑冰了呢
+# [0200] [ROM: 0x185182] [Bank: 0x61:0x1182] [CPU: 0x5182] [OrigLen: 21]
+JP: ヘェー。
+JP: <NAME>って　スケート
+JP: できるんだ。
+CN: 欸～。
+CN: <NAME>
+CN: 会滑冰呀
+# [0201] [ROM: 0x185197] [Bank: 0x61:0x1197] [CPU: 0x5197] [OrigLen: 20]
+JP: かっこいい〜。
+JP: こんど　つれてってね。
+CN: 好帅～。
+CN: 带我一起嘛
+# [0202] [ROM: 0x1851AB] [Bank: 0x61:0x11AB] [CPU: 0x51AB] [OrigLen: 32]
+JP: でも……
+JP: なんで　ミカサが
+JP: こんなことに
+JP: なってるのかな〜……
+CN: 可是……
+CN: 为什么三笠
+CN: 会变成这样
+# [0203] [ROM: 0x1851CB] [Bank: 0x61:0x11CB] [CPU: 0x51CB] [OrigLen: 16]
+JP: れいぞうこのなか
+JP: みたいだね。
+CN: 像在冰箱里呢
+# [0204] [ROM: 0x1851DB] [Bank: 0x61:0x11DB] [CPU: 0x51DB] [OrigLen: 31]
+JP: へえ〜。
+JP: れいぞうこの　なかって
+JP: こういう　かんじなんだ〜。
+CN: 哦～。
+CN: 冰箱里面
+CN: 是这种感觉啊～
+# [0205] [ROM: 0x1851FA] [Bank: 0x61:0x11FA] [CPU: 0x51FA] [OrigLen: 40]
+JP: れいとうこだと
+JP: もっとさむくて
+JP: きっと　ゆかなんか
+JP: ツルツルにすべっちゃうよ。
+CN: 进到冷冻库
+CN: 会更冷哦
+CN: 肯定在某处
+CN: 打滑哦
+# [0206] [ROM: 0x185222] [Bank: 0x61:0x1222] [CPU: 0x5222] [OrigLen: 30]
+JP: そうなったら　こうぶに
+JP: すべらないクツを
+JP: はかせないとね。
+CN: 得给三笠
+CN: 准备防滑鞋呢
+# [0207] [ROM: 0x185240] [Bank: 0x61:0x1240] [CPU: 0x5240] [OrigLen: 35]
+JP: すべらないクツっていいね。
+JP: こんど　こうらんに
+JP: いってみるといいよ。
+CN: 防滑鞋真不错
+CN: 下次去舰桥
+CN: 看看吧
+# [0208] [ROM: 0x185263] [Bank: 0x61:0x1263] [CPU: 0x5263] [OrigLen: 32]
+JP: でも……
+JP: なんで　ミカサが
+JP: こんなことに
+JP: なってるのかな〜……
+CN: 可是……
+CN: 为什么三笠
+CN: 会变成这样
+# [0209] [ROM: 0x185283] [Bank: 0x61:0x1283] [CPU: 0x5283] [OrigLen: 9]
+JP: さむーーー！！！
+CN: 好冷！！
+# [0210] [ROM: 0x18528C] [Bank: 0x61:0x128C] [CPU: 0x528C] [OrigLen: 15]
+JP: アイリスも
+JP: さむーーー！！！
+CN: 爱丽丝
+CN: 好冷！
+# [0211] [ROM: 0x18529B] [Bank: 0x61:0x129B] [CPU: 0x529B] [OrigLen: 32]
+JP: でも……
+JP: なんで　ミカサが
+JP: こんなことに
+JP: なってるのかな〜……
+CN: 可是……
+CN: 为什么三笠
+CN: 会变成这样
+# [0212] [ROM: 0x1852C6] [Bank: 0x61:0x12C6] [CPU: 0x52C6] [OrigLen: 27]
+JP: なんで　ミカサが
+JP: こんなことに
+JP: なってるのかな〜……
+CN: 为什么三笠
+CN: 会变成这样
+# [0213] [ROM: 0x1852E1] [Bank: 0x61:0x12E1] [CPU: 0x52E1] [OrigLen: 21]
+JP: …………リスさーん
+JP: ……アイリスさーん！
+CN: ……菊姐
+CN: ……爱丽丝
+# [0214] [ROM: 0x1852F6] [Bank: 0x61:0x12F6] [CPU: 0x52F6] [OrigLen: 22]
+JP: ……あれ？
+JP: いま　こえが
+JP: きこえなかった？
+CN: ……咦？
+CN: 有声音吗？
+# [0215] [ROM: 0x18530C] [Bank: 0x61:0x130C] [CPU: 0x530C] [OrigLen: 29]
+JP: え…？
+JP: あっ！　アイリス！！
+JP: あそこに　ひとがいるよ！！
+CN: 咦…？
+CN: 啊！爱丽丝！
+CN: 那边有人
+# [0216] [ROM: 0x185329] [Bank: 0x61:0x1329] [CPU: 0x5329] [OrigLen: 22]
+JP: あっ！　あれはバラぐみの
+JP: きくちゃんだ！！
+CN: 啊！那是
+CN: 菊君！！
+# [0217] [ROM: 0x18533F] [Bank: 0x61:0x133F] [CPU: 0x533F] [OrigLen: 22]
+JP: きくちゃん！
+JP: そんなとこで
+JP: なにしてるの？
+CN: 菊君！
+CN: 怎么会在那里？
+# [0218] [ROM: 0x185355] [Bank: 0x61:0x1355] [CPU: 0x5355] [OrigLen: 30]
+JP: そ…　それが……
+JP: 『まじんき』を
+JP: みつけたとおもったら……
+CN: 那个……
+CN: 我发现了
+CN: 『魔神机』
+# [0219] [ROM: 0x185373] [Bank: 0x61:0x1373] [CPU: 0x5373] [OrigLen: 36]
+JP: おそろしいまものに
+JP: おそわれて……
+JP: きがついたら
+JP: ここに　いたんです。
+CN: 被魔物袭击了
+CN: 回过神时
+CN: 我就在这里
+# [0220] [ROM: 0x185397] [Bank: 0x61:0x1397] [CPU: 0x5397] [OrigLen: 16]
+JP: どうして　そこに
+JP: たってるの？
+CN: 为什么在那？
+# [0221] [ROM: 0x1853A7] [Bank: 0x61:0x13A7] [CPU: 0x53A7] [OrigLen: 32]
+JP: ゆかが　つるつるすべって
+JP: おもうように
+JP: あるけないんですよ〜。
+CN: 地板滑溜溜的
+CN: 怎么都站不住
+# [0222] [ROM: 0x1853C7] [Bank: 0x61:0x13C7] [CPU: 0x53C7] [OrigLen: 7]
+JP: アイリス……
+CN: 爱丽丝
+# [0223] [ROM: 0x1853CE] [Bank: 0x61:0x13CE] [CPU: 0x53CE] [OrigLen: 8]
+JP: たすけにいこう
+CN: 去救人
+# [0224] [ROM: 0x1853D6] [Bank: 0x61:0x13D6] [CPU: 0x53D6] [OrigLen: 8]
+JP: たすけをよぼう
+CN: 去求援
+# [0225] [ROM: 0x1853DE] [Bank: 0x61:0x13DE] [CPU: 0x53DE] [OrigLen: 9]
+JP: たすけにいこう。
+CN: 去救人。
+# [0226] [ROM: 0x1853E7] [Bank: 0x61:0x13E7] [CPU: 0x53E7] [OrigLen: 8]
+JP: そうだね　<NAME>。
+CN: 对呀<NAME>
+# [0227] [ROM: 0x1853EF] [Bank: 0x61:0x13EF] [CPU: 0x53EF] [OrigLen: 9]
+JP: たすけをよぼう。
+CN: 去求援。
+# [0228] [ROM: 0x1853F8] [Bank: 0x61:0x13F8] [CPU: 0x53F8] [OrigLen: 10]
+JP: エッ？　そうなの？
+CN: 诶？是吗
+# [0229] [ROM: 0x185402] [Bank: 0x61:0x1402] [CPU: 0x5402] [OrigLen: 23]
+JP: きくちゃん。
+JP: たすけをよぶから
+JP: まっててね。
+CN: 小菊。
+CN: 我去喊人
+CN: 等着我
+# [0230] [ROM: 0x185419] [Bank: 0x61:0x1419] [CPU: 0x5419] [OrigLen: 29]
+JP: え〜〜〜っ……
+JP: もうダメ。
+JP: あたし　たおれちゃいそう……
+CN: 唉……
+CN: 不行了
+CN: 我快倒了……
+# [0231] [ROM: 0x185436] [Bank: 0x61:0x1436] [CPU: 0x5436] [OrigLen: 12]
+JP: え〜！
+JP: タイヘンだよ！
+CN: 要出大事！
+# [0232] [ROM: 0x185451] [Bank: 0x61:0x1451] [CPU: 0x5451] [OrigLen: 16]
+JP: たすけにいくから
+JP: まっててね。
+CN: 我去救她
+CN: 等着我
+# [0233] [ROM: 0x185461] [Bank: 0x61:0x1461] [CPU: 0x5461] [OrigLen: 19]
+JP: は〜い。
+JP: よろしくおねがいしま〜す。
+CN: 好～
+CN: 拜托你啦～
+# [0234] [ROM: 0x185474] [Bank: 0x61:0x1474] [CPU: 0x5474] [OrigLen: 11]
+JP: <NAME>！
+JP: レッツゴー！！
+CN: <NAME>
+CN: 走起！！
+# [0235] [ROM: 0x18547F] [Bank: 0x61:0x147F] [CPU: 0x547F] [OrigLen: 16]
+JP: きくちゃん！
+JP: だいじょうぶ！？
+CN: 小菊！
+CN: 没事吗？
+# [0236] [ROM: 0x18548F] [Bank: 0x61:0x148F] [CPU: 0x548F] [OrigLen: 35]
+JP: ありがとうございます。
+JP: アイリスさん。
+JP: あたしは　だいじょうぶです。
+CN: 谢谢你。
+CN: 爱丽丝小姐。
+CN: 我没事。
+# [0237] [ROM: 0x1854B2] [Bank: 0x61:0x14B2] [CPU: 0x54B2] [OrigLen: 9]
+JP: あ〜　よかった。
+CN: 太好了～
+# [0238] [ROM: 0x1854BB] [Bank: 0x61:0x14BB] [CPU: 0x54BB] [OrigLen: 20]
+JP: あの……　こちらの
+JP: ステキなかたは……
+CN: 那个……
+CN: 这位大帅哥
+# [0239] [ROM: 0x1854CF] [Bank: 0x61:0x14CF] [CPU: 0x54CF] [OrigLen: 7]
+JP: あいさつする
+CN: 打招呼
+# [0240] [ROM: 0x1854D6] [Bank: 0x61:0x14D6] [CPU: 0x54D6] [OrigLen: 5]
+JP: おびえる
+CN: 害怕
+# [0241] [ROM: 0x1854DB] [Bank: 0x61:0x14DB] [CPU: 0x54DB] [OrigLen: 7]
+JP: しつもんする
+CN: 搭话
+# [0242] [ROM: 0x1854E2] [Bank: 0x61:0x14E2] [CPU: 0x54E2] [OrigLen: 21]
+JP: はじめまして。
+JP: ボクは　<NAME>
+JP: といいます。
+CN: 初次见面。
+CN: 我叫<NAME>
+# [0243] [ROM: 0x1854F7] [Bank: 0x61:0x14F7] [CPU: 0x54F7] [OrigLen: 17]
+JP: ミカサのちょうさを
+JP: しています。
+CN: 我在观测三笠状态
+# [0244] [ROM: 0x185508] [Bank: 0x61:0x1508] [CPU: 0x5508] [OrigLen: 29]
+JP: はじめまして。あたしは
+JP: おか　きくのじょう
+JP: といいます。
+CN: 初次见面。我是
+CN: 冈菊
+CN: 请多指教
+# [0245] [ROM: 0x185525] [Bank: 0x61:0x1525] [CPU: 0x5525] [OrigLen: 31]
+JP: きくちゃん　って
+JP: よんでください。
+JP: よろしくおねがいします〒
+CN: 请叫我小菊。
+CN: 请多关照
+CN: 〒
+# [0246] [ROM: 0x185544] [Bank: 0x61:0x1544] [CPU: 0x5544] [OrigLen: 17]
+JP: ボ　ボクは……
+JP: <NAME>といいます……
+CN: 我……
+CN: 我叫<NAME>
+# [0247] [ROM: 0x185555] [Bank: 0x61:0x1555] [CPU: 0x5555] [OrigLen: 29]
+JP: はじめまして。あたしは
+JP: おか　きくのじょう
+JP: といいます。
+CN: 初次见面。我是
+CN: 冈菊
+# [0248] [ROM: 0x185572] [Bank: 0x61:0x1572] [CPU: 0x5572] [OrigLen: 31]
+JP: きくちゃん　って
+JP: よんでください。
+JP: よろしくおねがいします〒
+CN: 请叫我小菊
+CN: 请多关照〒
+# [0249] [ROM: 0x185591] [Bank: 0x61:0x1591] [CPU: 0x5591] [OrigLen: 10]
+JP: ア　アイリス〜……
+CN: 爱丽丝～
+# [0250] [ROM: 0x18559B] [Bank: 0x61:0x159B] [CPU: 0x559B] [OrigLen: 35]
+JP: どうしたの？　<NAME>。
+JP: なにを　おびえてるの？
+JP: きくちゃんが　こわいの？
+CN: 怎么了<NAME>？
+CN: 你在怕什么？
+CN: 是怕小菊吗
+# [0251] [ROM: 0x1855BE] [Bank: 0x61:0x15BE] [CPU: 0x55BE] [OrigLen: 36]
+JP: ひ　ひどいです……
+JP: あたしのどこが
+JP: こわいんですか！
+JP: アイリスさん！！
+CN: 好过分……
+CN: 我哪里可怕
+CN: 爱丽丝小姐！
+# [0252] [ROM: 0x1855E2] [Bank: 0x61:0x15E2] [CPU: 0x55E2] [OrigLen: 13]
+JP: ボクは　<NAME>と
+JP: いいます。
+CN: 我叫<NAME>
+# [0253] [ROM: 0x1855EF] [Bank: 0x61:0x15EF] [CPU: 0x55EF] [OrigLen: 29]
+JP: はじめまして。あたしは
+JP: おか　きくのじょう
+JP: といいます。
+CN: 初次见面。我是
+CN: 冈菊
+# [0254] [ROM: 0x18560C] [Bank: 0x61:0x160C] [CPU: 0x560C] [OrigLen: 31]
+JP: きくちゃん　って
+JP: よんでください。
+JP: よろしくおねがいします〒
+CN: 请叫我小菊
+CN: 请多关照〒
+# [0255] [ROM: 0x18562B] [Bank: 0x61:0x162B] [CPU: 0x562B] [OrigLen: 39]
+JP: あ　あの……　きくちゃんは
+JP: おとこ？　それとも
+JP: おんな？　どちらなんですか？
+CN: 那个……小菊是
+CN: 男的？还是
+CN: 女的？
+# [0256] [ROM: 0x185652] [Bank: 0x61:0x1652] [CPU: 0x5652] [OrigLen: 41]
+JP: ひ　ひどい……
+JP: あたしは　みてのとおり
+JP: りっぱな　おとこのコなのに
+JP: グッスン……
+CN: 好过分……
+CN: 我明明是
+CN: 英俊的男生
+CN: 呜呜……
+# [0257] [ROM: 0x18567B] [Bank: 0x61:0x167B] [CPU: 0x567B] [OrigLen: 32]
+JP: あ　す　すみません。
+JP: ごめんなさい。
+JP: ボクが　わるかったです。
+CN: 啊 那个 对不起。
+CN: 都是我的错
+# [0258] [ROM: 0x1856A8] [Bank: 0x61:0x16A8] [CPU: 0x56A8] [OrigLen: 12]
+JP: あら　どうかしました？
+CN: 咦 怎么了
+# [0259] [ROM: 0x1856B4] [Bank: 0x61:0x16B4] [CPU: 0x56B4] [OrigLen: 22]
+JP: あ　すみません。
+JP: ボクは　<NAME>
+JP: といいます。
+CN: 啊 对不起。
+CN: 我是<NAME>
+# [0260] [ROM: 0x1856CA] [Bank: 0x61:0x16CA] [CPU: 0x56CA] [OrigLen: 17]
+JP: ミカサのちょうさを
+JP: しています。
+CN: 在观测
+CN: 三笠状态
+# [0261] [ROM: 0x1856DB] [Bank: 0x61:0x16DB] [CPU: 0x56DB] [OrigLen: 29]
+JP: はじめまして。あたしは
+JP: おか　きくのじょう
+JP: といいます。
+CN: 初次见面。我是
+CN: 冈菊
+# [0262] [ROM: 0x1856F8] [Bank: 0x61:0x16F8] [CPU: 0x56F8] [OrigLen: 31]
+JP: きくちゃん　って
+JP: よんでください。
+JP: よろしくおねがいします〒
+CN: 请叫我小菊
+CN: 请多关照〒
+# [0263] [ROM: 0x185717] [Bank: 0x61:0x1717] [CPU: 0x5717] [OrigLen: 21]
+JP: きくちゃん　『まじんき』を
+JP: みつけたの？
+CN: 小菊，这是
+CN: 魔神机？
+# [0264] [ROM: 0x18572C] [Bank: 0x61:0x172C] [CPU: 0x572C] [OrigLen: 59]
+JP: ええ…『まじんき』のひとつ
+JP: 『けん』をみつけたんですけど
+JP: ……………………………………
+JP: まものに　おそわれて…………
+CN: 是的…找到了
+CN: 『魔神机』的
+CN: 『剑』，可后来
+CN: 被魔物袭击了……
+# [0265] [ROM: 0x185767] [Bank: 0x61:0x1767] [CPU: 0x5767] [OrigLen: 32]
+JP: めのまえが　パーッと
+JP: しろくなっちゃった〜って
+JP: おもったら……
+CN: 眼前忽然
+CN: 变得雪白……
+# [0266] [ROM: 0x185787] [Bank: 0x61:0x1787] [CPU: 0x5787] [OrigLen: 41]
+JP: あたしの　まわりが
+JP: こおっていたんです。
+JP: いったい　なにが
+JP: おこったのか…………
+CN: 我的周围
+CN: 都冻住了
+CN: 到底怎么了
+CN: …………
+# [0267] [ROM: 0x1857B0] [Bank: 0x61:0x17B0] [CPU: 0x57B0] [OrigLen: 8]
+JP: そうなんだ……
+CN: 是吗…
+# [0268] [ROM: 0x1857B8] [Bank: 0x61:0x17B8] [CPU: 0x57B8] [OrigLen: 21]
+JP: それで
+JP: 『まじんき』は　どこに
+JP: あるの？
+CN: 『魔神机』在哪？
+# [0269] [ROM: 0x1857CD] [Bank: 0x61:0x17CD] [CPU: 0x57CD] [OrigLen: 29]
+JP: そ　それが……
+JP: だれかが　もってっちゃった
+JP: みたいで……
+CN: 那个……
+CN: 被人拿走
+CN: 了吧……
+# [0270] [ROM: 0x1857EA] [Bank: 0x61:0x17EA] [CPU: 0x57EA] [OrigLen: 24]
+JP: すみません　あたしが
+JP: いたらない　ばかりに……
+CN: 对不起
+CN: 都怪我无能……
+# [0271] [ROM: 0x185802] [Bank: 0x61:0x1802] [CPU: 0x5802] [OrigLen: 26]
+JP: しかたないよ
+JP: 『だれか』が　もっていった
+JP: のなら。
+CN: 没办法啊
+CN: 『某人』拿走的话
+# [0272] [ROM: 0x18581C] [Bank: 0x61:0x181C] [CPU: 0x581C] [OrigLen: 23]
+JP: は……はっくしょん！
+JP: さむさで　からだが……
+CN: 阿嚏！
+CN: 身子好冷……
+# [0273] [ROM: 0x185833] [Bank: 0x61:0x1833] [CPU: 0x5833] [OrigLen: 14]
+JP: きくちゃん　だいじょうぶ？
+CN: 小菊没事吗？
+# [0274] [ROM: 0x185841] [Bank: 0x61:0x1841] [CPU: 0x5841] [OrigLen: 17]
+JP: きくちゃん
+JP: だいじょうぶですか？
+CN: 小菊
+CN: 没事吧？
+# [0275] [ROM: 0x185852] [Bank: 0x61:0x1852] [CPU: 0x5852] [OrigLen: 37]
+JP: アイリス。
+JP: ていげきに　もどろう。
+JP: きくちゃんの　からだが
+JP: しんぱいだ。
+CN: 爱丽丝。
+CN: 快回去
+CN: 小菊的身体
+CN: 不对劲
+# [0276] [ROM: 0x185877] [Bank: 0x61:0x1877] [CPU: 0x5877] [OrigLen: 7]
+JP: <NAME>さん……〒
+CN: <NAME>……
+# [0277] [ROM: 0x18588B] [Bank: 0x61:0x188B] [CPU: 0x588B] [OrigLen: 22]
+JP: タイヘンだ。
+JP: きくちゃんが　カゼひいてる！
+CN: 糟了。
+CN: 小菊感冒了！
+# [0278] [ROM: 0x1858A1] [Bank: 0x61:0x18A1] [CPU: 0x58A1] [OrigLen: 17]
+JP: はやく　ていげきに
+JP: もどろう！！
+CN: 快点
+CN: 回去！！
+# [0279] [ROM: 0x1858B2] [Bank: 0x61:0x18B2] [CPU: 0x58B2] [OrigLen: 15]
+JP: ありがとう　アイリスさん……
+CN: 谢谢爱丽丝…
+# [0280] [ROM: 0x1858C1] [Bank: 0x61:0x18C1] [CPU: 0x58C1] [OrigLen: 16]
+JP: どこへいくの？
+JP: ダメだよ　<NAME>！
+CN: 去哪？
+CN: 不行<NAME>！
+# [0281] [ROM: 0x1858D1] [Bank: 0x61:0x18D1] [CPU: 0x58D1] [OrigLen: 38]
+JP: はやく　エンジンのぼうそうを
+JP: とめないと　タイヘンなことに
+JP: なっちゃうよ。
+CN: 不快点停掉
+CN: 引擎暴走的话
+CN: 会出大事的
+# [0282] [ROM: 0x1858F7] [Bank: 0x61:0x18F7] [CPU: 0x58F7] [OrigLen: 25]
+JP: エンジンが　とまっているから
+JP: うごかないんだよ。
+CN: 引擎停机了
+CN: 所以动不了
+# [0283] [ROM: 0x185910] [Bank: 0x61:0x1910] [CPU: 0x5910] [OrigLen: 24]
+JP: <NAME>。
+JP: まものを　メインダクトから
+JP: ひきぬいて。
+CN: <NAME>。
+CN: 从主通风管
+CN: 拉出魔物
+# [0284] [ROM: 0x185928] [Bank: 0x61:0x1928] [CPU: 0x5928] [OrigLen: 43]
+JP: メインダクトをあけて
+JP: エンジンを　うごかさないと
+JP: エレベーターが
+JP: つかえないからね。
+CN: 不打开主通风管
+CN: 引擎无法启动
+CN: 电梯就用不了
+# [0285] [ROM: 0x185953] [Bank: 0x61:0x1953] [CPU: 0x5953] [OrigLen: 7]
+JP: りょうかい！
+CN: 明白！
+# [0286] [ROM: 0x18595A] [Bank: 0x61:0x195A] [CPU: 0x595A] [OrigLen: 10]
+JP: いきおいよく　ぬく
+CN: 用力拔出
+# [0287] [ROM: 0x185964] [Bank: 0x61:0x1964] [CPU: 0x5964] [OrigLen: 9]
+JP: ゆっくりと　ぬく
+CN: 慢慢拔出
+# [0288] [ROM: 0x18596D] [Bank: 0x61:0x196D] [CPU: 0x596D] [OrigLen: 16]
+JP: よーし。
+JP: いっきに　ぬくぞ！！
+CN: 一次拔出来！！
+# [0289] [ROM: 0x18597D] [Bank: 0x61:0x197D] [CPU: 0x597D] [OrigLen: 12]
+JP: よしっ！
+JP: ぬけたぞ！！
+CN: 拔出来！！
+# [0290] [ROM: 0x185989] [Bank: 0x61:0x1989] [CPU: 0x5989] [OrigLen: 6]
+JP: うわっ！！
+CN: 哇！
+# [0291] [ROM: 0x185993] [Bank: 0x61:0x1993] [CPU: 0x5993] [OrigLen: 10]
+JP: <NAME>
+JP: だいじょうぶ？
+CN: <NAME>
+CN: 没事？
+# [0292] [ROM: 0x18599D] [Bank: 0x61:0x199D] [CPU: 0x599D] [OrigLen: 16]
+JP: ひとりで　よく
+JP: がんばったね。
+CN: 一个人也很努力
+# [0293] [ROM: 0x1859AD] [Bank: 0x61:0x19AD] [CPU: 0x59AD] [OrigLen: 30]
+JP: じゃあ　エンジンの
+JP: スイッチをいれて
+JP: さきへ　すすもう！！
+CN: 打开引擎的开关
+CN: 往前冲吧！！
+# [0294] [ROM: 0x1859CB] [Bank: 0x61:0x19CB] [CPU: 0x59CB] [OrigLen: 18]
+JP: ちゅういして　ゆっくりと
+JP: ぬこう。
+CN: 小心点
+CN: 慢慢拔出来
+# [0295] [ROM: 0x1859DD] [Bank: 0x61:0x19DD] [CPU: 0x59DD] [OrigLen: 12]
+JP: よしっ！
+JP: ぬけたぞ！！
+CN: 拔出来！！
+# [0296] [ROM: 0x1859E9] [Bank: 0x61:0x19E9] [CPU: 0x59E9] [OrigLen: 10]
+JP: <NAME>！
+JP: あぶない！！
+CN: <NAME>
+CN: 危险！
+# [0297] [ROM: 0x1859F3] [Bank: 0x61:0x19F3] [CPU: 0x59F3] [OrigLen: 8]
+JP: やったね　<NAME>。
+CN: 太好了<NAME>
+# [0298] [ROM: 0x1859FB] [Bank: 0x61:0x19FB] [CPU: 0x59FB] [OrigLen: 30]
+JP: じゃあ　エンジンの
+JP: スイッチをいれて
+JP: さきへ　すすもう！！
+CN: 打开引擎的开关
+CN: 往前冲吧！！
+# [0299] [ROM: 0x185A19] [Bank: 0x61:0x1A19] [CPU: 0x5A19] [OrigLen: 16]
+JP: よーし。
+JP: いっきに　ぬくぞ！！
+CN: 一次拔出来！！
+# [0300] [ROM: 0x185A29] [Bank: 0x61:0x1A29] [CPU: 0x5A29] [OrigLen: 12]
+JP: よしっ！
+JP: ぬけたぞ！！
+CN: 拔出来！！
+# [0301] [ROM: 0x185A35] [Bank: 0x61:0x1A35] [CPU: 0x5A35] [OrigLen: 6]
+JP: うわっ！！
+CN: 哇！
+# [0302] [ROM: 0x185A3F] [Bank: 0x61:0x1A3F] [CPU: 0x5A3F] [OrigLen: 13]
+JP: <NAME>
+JP: だいじょうぶだった？
+CN: <NAME>
+CN: 没事吧？
+# [0303] [ROM: 0x185A4C] [Bank: 0x61:0x1A4C] [CPU: 0x5A4C] [OrigLen: 30]
+JP: じゃあ　エンジンの
+JP: スイッチをいれて
+JP: さきへ　すすもう！！
+CN: 打开引擎的开关
+CN: 往前冲吧！！
+# [0304] [ROM: 0x185A6A] [Bank: 0x61:0x1A6A] [CPU: 0x5A6A] [OrigLen: 18]
+JP: あっ！　なにかいるよ！
+JP: アイリス！
+CN: 有魔物！
+CN: 爱丽丝！
+# [0305] [ROM: 0x185A7C] [Bank: 0x61:0x1A7C] [CPU: 0x5A7C] [OrigLen: 6]
+JP: まものだ！
+CN: 魔物
+# [0306] [ROM: 0x185A82] [Bank: 0x61:0x1A82] [CPU: 0x5A82] [OrigLen: 27]
+JP: あそこは　ミカサの
+JP: エンジンをうごかす
+JP: ところだよ。
+CN: 那是驱动
+CN: 三笠引擎的
+CN: 地方。
+# [0307] [ROM: 0x185A9D] [Bank: 0x61:0x1A9D] [CPU: 0x5A9D] [OrigLen: 12]
+JP: なに　してるのかな〜。
+CN: 在干嘛呢～
+# [0308] [ROM: 0x185AA9] [Bank: 0x61:0x1AA9] [CPU: 0x5AA9] [OrigLen: 15]
+JP: アイリス！
+JP: まものがいるぞ！
+CN: 爱丽丝！
+CN: 魔物
+# [0309] [ROM: 0x185AB8] [Bank: 0x61:0x1AB8] [CPU: 0x5AB8] [OrigLen: 41]
+JP: あーっ！！
+JP: あそこは……
+JP: ミカサの　エンジンせいぎょ
+JP: パネルが　あるところだよ！
+CN: 啊！！
+CN: 那边是……
+CN: 三笠引擎
+CN: 控制面板
+# [0310] [ROM: 0x185AE1] [Bank: 0x61:0x1AE1] [CPU: 0x5AE1] [OrigLen: 51]
+JP: あれを　こわされたら
+JP: たいへんな　ことに……………
+JP: ……………………………………
+JP: ハ　ハ　ヒ…………
+CN: 那东西毁掉
+CN: 就大事不妙……
+CN: ……………
+CN: 哈…哈…嘻…
+# [0311] [ROM: 0x185B14] [Bank: 0x61:0x1B14] [CPU: 0x5B14] [OrigLen: 24]
+JP: ヒーックシュン！
+JP: てやんでぇい　べらんめー！！
+CN: 咻——！
+CN: 混蛋王八蛋！！
+# [0312] [ROM: 0x185B2C] [Bank: 0x61:0x1B2C] [CPU: 0x5B2C] [OrigLen: 36]
+JP: あっ！
+JP: アイリスのくしゃみに
+JP: ビックリして　とびおりて
+JP: にげちゃった。
+CN: 啊！
+CN: 爱丽丝打喷嚏
+CN: 吓我一跳
+CN: 就逃了。
+# [0313] [ROM: 0x185B50] [Bank: 0x61:0x1B50] [CPU: 0x5B50] [OrigLen: 13]
+JP: ご……　ごめんなさい……
+CN: 对不起……
+# [0314] [ROM: 0x185B5D] [Bank: 0x61:0x1B5D] [CPU: 0x5B5D] [OrigLen: 40]
+JP: まあ　でちゃったものは
+JP: しょうがないんだけど……
+JP: きいてもいいかな　アイリス？
+CN: 逃出去的
+CN: 没办法了……
+CN: 能问吗
+CN: 爱丽丝？
+# [0315] [ROM: 0x185B85] [Bank: 0x61:0x1B85] [CPU: 0x5B85] [OrigLen: 31]
+JP: くしゃみのあとの
+JP: 「てやんでぇい　べらんめー」
+JP: って　なに？
+CN: 喷嚏后
+CN: 「混蛋王八蛋」
+CN: 什么？
+# [0316] [ROM: 0x185BA4] [Bank: 0x61:0x1BA4] [CPU: 0x5BA4] [OrigLen: 25]
+JP: ながやの　おじちゃんに
+JP: おしえてもらったんだよ。
+CN: 长屋的老爷爷
+CN: 告诉我的。
+# [0317] [ROM: 0x185BBD] [Bank: 0x61:0x1BBD] [CPU: 0x5BBD] [OrigLen: 44]
+JP: 「てやんでぇい　べらんめー」
+JP: って　いっとくと
+JP: カゼのかみさまが
+JP: にげていくんだって。
+CN: 「混蛋王八蛋」
+CN: 听说是风神
+CN: 大人要逃走。
+# [0318] [ROM: 0x185BE9] [Bank: 0x61:0x1BE9] [CPU: 0x5BE9] [OrigLen: 11]
+JP: へえ〜　そうなんだ。
+CN: 原来如此…
+# [0319] [ROM: 0x185BF4] [Bank: 0x61:0x1BF4] [CPU: 0x5BF4] [OrigLen: 41]
+JP: あーっ！！
+JP: あそこは……
+JP: ミカサの　エンジンせいぎょ
+JP: パネルが　あるところだよ！
+CN: 啊！！
+CN: 那边是……
+CN: 三笠引擎
+CN: 控制面板
+# [0320] [ROM: 0x185C1D] [Bank: 0x61:0x1C1D] [CPU: 0x5C1D] [OrigLen: 33]
+JP: あれを　こわされたら
+JP: エレベーターを
+JP: うごかせなくなっちゃうよ。
+CN: 那东西坏掉的话
+CN: 电梯就
+CN: 开不动了。
+# [0321] [ROM: 0x185C3E] [Bank: 0x61:0x1C3E] [CPU: 0x5C3E] [OrigLen: 18]
+JP: あのまものを　やっつけよう
+JP: <NAME>！！
+CN: 打倒那魔物
+CN: <NAME>！
+# [0322] [ROM: 0x185C50] [Bank: 0x61:0x1C50] [CPU: 0x5C50] [OrigLen: 22]
+JP: あっ！
+JP: ボクたちに　きづいて
+JP: にげたぞ！！
+CN: 啊！
+CN: 发现我们
+CN: 逃了！
+# [0323] [ROM: 0x185C66] [Bank: 0x61:0x1C66] [CPU: 0x5C66] [OrigLen: 36]
+JP: あ〜あ……
+JP: まあ　にげちゃったものは
+JP: しょうがないよね。
+JP: いこう　<NAME>。
+CN: 唉～算了…
+CN: 逃了就
+CN: 没办法吧。
+CN: 走<NAME>。
+# [0324] [ROM: 0x185C8A] [Bank: 0x61:0x1C8A] [CPU: 0x5C8A] [OrigLen: 11]
+JP: アイリス！　<NAME>くん！
+CN: 爱丽丝！<NAME>
+# [0325] [ROM: 0x185C95] [Bank: 0x61:0x1C95] [CPU: 0x5C95] [OrigLen: 7]
+JP: どうしたの？
+CN: 怎么啦
+# [0326] [ROM: 0x185C9C] [Bank: 0x61:0x1C9C] [CPU: 0x5C9C] [OrigLen: 29]
+JP: ばらぐみの　きくちゃんと
+JP: れんらくが
+JP: とれなくなったの。
+CN: 杂货店的小菊
+CN: 联系不上了。
+# [0327] [ROM: 0x185CB9] [Bank: 0x61:0x1CB9] [CPU: 0x5CB9] [OrigLen: 5]
+JP: エエッ！
+CN: 诶！
+# [0328] [ROM: 0x185CBE] [Bank: 0x61:0x1CBE] [CPU: 0x5CBE] [OrigLen: 35]
+JP: さいごに　つうしんが
+JP: あったのは　そこから
+JP: すこしさきの　エリアよ。
+CN: 最后通讯处
+CN: 就在那边
+CN: 稍微前面
+# [0329] [ROM: 0x185CE1] [Bank: 0x61:0x1CE1] [CPU: 0x5CE1] [OrigLen: 16]
+JP: りょうかい！
+JP: <NAME>　いそごう！！
+CN: 明白！
+CN: <NAME>快！
+# [0330] [ROM: 0x185CF1] [Bank: 0x61:0x1CF1] [CPU: 0x5CF1] [OrigLen: 29]
+JP: あら？　さくらさん。
+JP: このエレベーター
+JP: うごきませんよ。
+CN: 咦？樱小姐。
+CN: 这电梯
+CN: 不动了
+# [0331] [ROM: 0x185D0E] [Bank: 0x61:0x1D0E] [CPU: 0x5D0E] [OrigLen: 9]
+JP: どうしてかしら？
+CN: 为什么？
+# [0332] [ROM: 0x185D17] [Bank: 0x61:0x1D17] [CPU: 0x5D17] [OrigLen: 10]
+JP: そうですね…………
+CN: 是啊……
+# [0333] [ROM: 0x185D21] [Bank: 0x61:0x1D21] [CPU: 0x5D21] [OrigLen: 14]
+JP: どうりょくが　とまっている
+CN: 动力停住了
+# [0334] [ROM: 0x185D2F] [Bank: 0x61:0x1D2F] [CPU: 0x5D2F] [OrigLen: 6]
+JP: こわれてる
+CN: 坏了
+# [0335] [ROM: 0x185D35] [Bank: 0x61:0x1D35] [CPU: 0x5D35] [OrigLen: 45]
+JP: う〜ん……………………………
+JP: ……………………………………
+JP: ……………わからないわ………
+CN: 唔～…………
+CN: …………
+CN: ……不知道……
+# [0336] [ROM: 0x185D71] [Bank: 0x61:0x1D71] [CPU: 0x5D71] [OrigLen: 6]
+JP: わかった！
+CN: 懂了
+# [0337] [ROM: 0x185D77] [Bank: 0x61:0x1D77] [CPU: 0x5D77] [OrigLen: 25]
+JP: どうりょくが　とまっている
+JP: からじゃないかしら。
+CN: 我想是动力
+CN: 停了吧。
+# [0338] [ROM: 0x185D90] [Bank: 0x61:0x1D90] [CPU: 0x5D90] [OrigLen: 25]
+JP: だったら　エンジンを
+JP: うごかせば　いいんですね！
+CN: 那就开动引擎
+CN: 就好了！
+# [0339] [ROM: 0x185DA9] [Bank: 0x61:0x1DA9] [CPU: 0x5DA9] [OrigLen: 15]
+JP: そのとおりですよ。
+JP: <NAME>さん。
+CN: 对哦。
+CN: <NAME>小姐
+# [0340] [ROM: 0x185DB8] [Bank: 0x61:0x1DB8] [CPU: 0x5DB8] [OrigLen: 25]
+JP: では　まず
+JP: エンジンをうごかしに
+JP: いきましょう。
+CN: 那么先
+CN: 启动引擎吧。
+# [0341] [ROM: 0x185DD1] [Bank: 0x61:0x1DD1] [CPU: 0x5DD1] [OrigLen: 26]
+JP: どうりょくが　とまっている
+JP: からじゃ　ないですか？
+CN: 不是动力
+CN: 停了吗？
+# [0342] [ROM: 0x185DEB] [Bank: 0x61:0x1DEB] [CPU: 0x5DEB] [OrigLen: 25]
+JP: きっと　そうですね。
+JP: あたしも　そうおもいます。
+CN: 是啊。
+CN: 我也这么想。
+# [0343] [ROM: 0x185E04] [Bank: 0x61:0x1E04] [CPU: 0x5E04] [OrigLen: 27]
+JP: それでは　まず
+JP: エンジンをうごかしに
+JP: いきましょう。
+CN: 那么先
+CN: 去启动引擎
+CN: 吧。
+# [0344] [ROM: 0x185E1F] [Bank: 0x61:0x1E1F] [CPU: 0x5E1F] [OrigLen: 23]
+JP: こわれてるんじゃ
+JP: ないですか？
+JP: さくらさん。
+CN: 不是坏了吗？
+CN: 樱小姐。
+# [0345] [ROM: 0x185E36] [Bank: 0x61:0x1E36] [CPU: 0x5E36] [OrigLen: 28]
+JP: こわれてる……
+JP: ……こまったわ…………
+JP: どうしよう……
+CN: 坏了……
+CN: ……糟了
+CN: 怎么办
+# [0346] [ROM: 0x185E52] [Bank: 0x61:0x1E52] [CPU: 0x5E52] [OrigLen: 12]
+JP: じゃあ　つうしんで……
+CN: 那就通讯
+# [0347] [ROM: 0x185E5E] [Bank: 0x61:0x1E5E] [CPU: 0x5E5E] [OrigLen: 8]
+JP: おおがみにきく
+CN: 问大神
+# [0348] [ROM: 0x185E66] [Bank: 0x61:0x1E66] [CPU: 0x5E66] [OrigLen: 8]
+JP: こうらんにきく
+CN: 问红兰
+# [0349] [ROM: 0x185E6E] [Bank: 0x61:0x1E6E] [CPU: 0x5E6E] [OrigLen: 22]
+JP: つうしんで　おおがみさんに
+JP: きいてみます。
+CN: 我用通讯
+CN: 问大神先生
+# [0350] [ROM: 0x185E84] [Bank: 0x61:0x1E84] [CPU: 0x5E84] [OrigLen: 26]
+JP: おおがみさん　おおがみさん
+JP: おうとう　ねがいます。
+CN: 大神先生大神先生
+CN: 拜托拜托
+# [0351] [ROM: 0x185E9E] [Bank: 0x61:0x1E9E] [CPU: 0x5E9E] [OrigLen: 14]
+JP: どうしたんだい？
+JP: <NAME>くん。
+CN: 咋了？
+CN: <NAME>老弟
+# [0352] [ROM: 0x185EAC] [Bank: 0x61:0x1EAC] [CPU: 0x5EAC] [OrigLen: 44]
+JP: じつは……………………………
+JP: ……………………………………
+JP: ……ということなんですが。
+CN: 其实是…………………
+CN: ……
+CN: ……就这样
+# [0353] [ROM: 0x185ED8] [Bank: 0x61:0x1ED8] [CPU: 0x5ED8] [OrigLen: 27]
+JP: それは　きっと　どうりょくが
+JP: とまっているからだよ。
+CN: 那肯定是
+CN: 动力停了啦。
+# [0354] [ROM: 0x185EF3] [Bank: 0x61:0x1EF3] [CPU: 0x5EF3] [OrigLen: 25]
+JP: だったら　エンジンを
+JP: うごかせば　いいんですね。
+CN: 那就开动引擎
+CN: 就好了。
+# [0355] [ROM: 0x185F0C] [Bank: 0x61:0x1F0C] [CPU: 0x5F0C] [OrigLen: 26]
+JP: そのとおりだ
+JP: <NAME>くん。
+JP: それじゃ　がんばってくれ。
+CN: 说得对啊
+CN: <NAME>老弟。
+CN: 加油吧。
+# [0356] [ROM: 0x185F26] [Bank: 0x61:0x1F26] [CPU: 0x5F26] [OrigLen: 20]
+JP: ありがとうございました
+JP: おおがみさん。
+CN: 谢谢你
+CN: 大神先生。
+# [0357] [ROM: 0x185F3A] [Bank: 0x61:0x1F3A] [CPU: 0x5F3A] [OrigLen: 17]
+JP: と　いうことです。
+JP: さくらさん。
+CN: 是的。
+CN: 樱小姐。
+# [0358] [ROM: 0x185F4B] [Bank: 0x61:0x1F4B] [CPU: 0x5F4B] [OrigLen: 25]
+JP: では　まず
+JP: エンジンをうごかしに
+JP: いきましょう。
+CN: 那么先
+CN: 去启动引擎
+CN: 吧。
+# [0359] [ROM: 0x185F64] [Bank: 0x61:0x1F64] [CPU: 0x5F64] [OrigLen: 22]
+JP: つうしんで　こうらんさんに
+JP: きいてみます。
+CN: 我用通讯
+CN: 问红兰小姐
+# [0360] [ROM: 0x185F7A] [Bank: 0x61:0x1F7A] [CPU: 0x5F7A] [OrigLen: 26]
+JP: こうらんさん　こうらんさん
+JP: おうとう　ねがいます。
+CN: 红兰小姐红兰小姐
+CN: 拜托拜托
+# [0361] [ROM: 0x185F94] [Bank: 0x61:0x1F94] [CPU: 0x5F94] [OrigLen: 14]
+JP: どないしたんや？
+JP: <NAME>はん。
+CN: 咋了？
+CN: <NAME>兄弟
+# [0362] [ROM: 0x185FA2] [Bank: 0x61:0x1FA2] [CPU: 0x5FA2] [OrigLen: 44]
+JP: じつは……………………………
+JP: ……………………………………
+JP: ……ということなんですが。
+CN: 其实是…………………
+CN: ……
+CN: ……就这样
+# [0363] [ROM: 0x185FCE] [Bank: 0x61:0x1FCE] [CPU: 0x5FCE] [OrigLen: 27]
+JP: それは　きっと　どうりょくが
+JP: とまっているからやな。
+CN: 那肯定是动力停了啦。
+# [0364] [ROM: 0x185FE9] [Bank: 0x61:0x1FE9] [CPU: 0x5FE9] [OrigLen: 25]
+JP: だったら　エンジンを
+JP: うごかせば　いいんですね。
+CN: 那就开动引擎
+CN: 就好了。
+# [0365] [ROM: 0x186002] [Bank: 0x61:0x2002] [CPU: 0x6002] [OrigLen: 23]
+JP: そのとおりや
+JP: <NAME>はん。
+JP: ほな　がんばってな。
+CN: 正是啊
+CN: <NAME>。
+CN: 加油吧。
+# [0366] [ROM: 0x186019] [Bank: 0x61:0x2019] [CPU: 0x6019] [OrigLen: 20]
+JP: ありがとうございました
+JP: こうらんさん。
+CN: 谢谢你
+CN: 红兰小姐。
+# [0367] [ROM: 0x18602D] [Bank: 0x61:0x202D] [CPU: 0x602D] [OrigLen: 17]
+JP: と　いうことです。
+JP: さくらさん。
+CN: 是的。
+CN: 樱小姐。
+# [0368] [ROM: 0x18603E] [Bank: 0x61:0x203E] [CPU: 0x603E] [OrigLen: 32]
+JP: きかいにつよい　こうらんに
+JP: きくなんて　さすがですね
+JP: <NAME>さん。
+CN: 真不愧是红兰
+CN: <NAME>小姐。
+# [0369] [ROM: 0x18605E] [Bank: 0x61:0x205E] [CPU: 0x605E] [OrigLen: 25]
+JP: では　まず
+JP: エンジンをうごかしに
+JP: いきましょう。
+CN: 那么先
+CN: 去启动引擎吧。
+# [0370] [ROM: 0x186086] [Bank: 0x61:0x2086] [CPU: 0x6086] [OrigLen: 30]
+JP: そうだわ！
+JP: つうしんで　おおがみさんに
+JP: きいてみましょう。
+CN: 对呀！
+CN: 用通讯问问
+CN: 大神先生。
+# [0371] [ROM: 0x1860A4] [Bank: 0x61:0x20A4] [CPU: 0x60A4] [OrigLen: 26]
+JP: おおがみさん　おおがみさん
+JP: おうとう　ねがいます。
+CN: 大神先生大神先生
+CN: 拜托拜托
+# [0372] [ROM: 0x1860BE] [Bank: 0x61:0x20BE] [CPU: 0x60BE] [OrigLen: 19]
+JP: やあ　どうしたんだい？
+JP: さくらくん。
+CN: 嗨～怎么了
+CN: 樱老弟
+# [0373] [ROM: 0x1860D1] [Bank: 0x61:0x20D1] [CPU: 0x60D1] [OrigLen: 44]
+JP: じつは……………………………
+JP: ……………………………………
+JP: ……ということなんですが。
+CN: 其实是…………………
+CN: ……
+CN: ……就是这事。
+# [0374] [ROM: 0x1860FD] [Bank: 0x61:0x20FD] [CPU: 0x60FD] [OrigLen: 27]
+JP: それは　きっと　どうりょくが
+JP: とまっているからだよ。
+CN: 那肯定是
+CN: 动力停住了啦。
+# [0375] [ROM: 0x186118] [Bank: 0x61:0x2118] [CPU: 0x6118] [OrigLen: 25]
+JP: だったら　エンジンを
+JP: うごかせば　いいんですね。
+CN: 那就开动引擎
+CN: 就好了呀。
+# [0376] [ROM: 0x186131] [Bank: 0x61:0x2131] [CPU: 0x6131] [OrigLen: 28]
+JP: そのとおりだ
+JP: さくらくん。
+JP: それじゃ　がんばってくれ。
+CN: 说得对啊
+CN: 樱老弟。
+CN: 加油吧。
+# [0377] [ROM: 0x18614D] [Bank: 0x61:0x214D] [CPU: 0x614D] [OrigLen: 20]
+JP: ありがとうございました
+JP: おおがみさん。
+CN: 谢谢你
+CN: 大神先生。
+# [0378] [ROM: 0x186161] [Bank: 0x61:0x2161] [CPU: 0x6161] [OrigLen: 15]
+JP: と　いうことです。
+JP: <NAME>さん。
+CN: 是的。
+CN: <NAME>小姐。
+# [0379] [ROM: 0x186170] [Bank: 0x61:0x2170] [CPU: 0x6170] [OrigLen: 25]
+JP: では　まず
+JP: エンジンをうごかしに
+JP: いきましょう。
+CN: 那么先
+CN: 去启动引擎吧。
+# [0380] [ROM: 0x186189] [Bank: 0x61:0x2189] [CPU: 0x6189] [OrigLen: 21]
+JP: エンジンをうごかせば
+JP: つかえそうですね。
+CN: 开引擎的话
+CN: 就能用了
+# [0381] [ROM: 0x18619E] [Bank: 0x61:0x219E] [CPU: 0x619E] [OrigLen: 12]
+JP: エレベーターホール……
+CN: 电梯厅……
+# [0382] [ROM: 0x1861AA] [Bank: 0x61:0x21AA] [CPU: 0x61AA] [OrigLen: 38]
+JP: と　いうことは
+JP: ここは　エレベーターで
+JP: おりるしかない
+JP: ということですね。
+CN: 也就是说
+CN: 这里只能
+CN: 坐电梯下去
+CN: 对吧。
+# [0383] [ROM: 0x1861D0] [Bank: 0x61:0x21D0] [CPU: 0x61D0] [OrigLen: 33]
+JP: さくらさん。
+JP: これが　エンジンをうごかす
+JP: パネルなんでしょうか？
+CN: 樱小姐。
+CN: 这就是启动
+CN: 引擎的？
+# [0384] [ROM: 0x1861F1] [Bank: 0x61:0x21F1] [CPU: 0x61F1] [OrigLen: 34]
+JP: ええ　そうですよ。
+JP: それじゃあ　パネルについてる
+JP: レバーを…………
+CN: 对呀。
+CN: 那么把面板上的
+CN: 杆子……
+# [0385] [ROM: 0x186213] [Bank: 0x61:0x2213] [CPU: 0x6213] [OrigLen: 12]
+JP: レバーを　うえにあげる
+CN: 杆子往上拉
+# [0386] [ROM: 0x18621F] [Bank: 0x61:0x221F] [CPU: 0x621F] [OrigLen: 18]
+JP: レバーを　うえにあげるん
+JP: ですね。
+CN: 是往上拉
+CN: 对吧。
+# [0387] [ROM: 0x186231] [Bank: 0x61:0x2231] [CPU: 0x6231] [OrigLen: 26]
+JP: あら？　このレバー
+JP: ふるくなって
+JP: おれそうだわ……
+CN: 咦？杆子
+CN: 好像要断了……
+# [0388] [ROM: 0x18624B] [Bank: 0x61:0x224B] [CPU: 0x624B] [OrigLen: 42]
+JP: じゃあ　おれないように……
+JP: ゆっくりと……………………
+JP: よし　レバーがあがったわ。
+CN: 那为了不断……
+CN: 慢慢地
+CN: 好，杆子升上了。
+# [0389] [ROM: 0x186275] [Bank: 0x61:0x2275] [CPU: 0x6275] [OrigLen: 5]
+JP: ボキッ！
+CN: 咔！
+# [0390] [ROM: 0x18627A] [Bank: 0x61:0x227A] [CPU: 0x627A] [OrigLen: 29]
+JP: あっ………………………………
+JP: レバーが　おれちゃった……
+CN: 啊…………
+CN: 杆子断了……
+# [0391] [ROM: 0x186297] [Bank: 0x61:0x2297] [CPU: 0x6297] [OrigLen: 15]
+JP: エンジンが　きどうしました。
+CN: 引擎启动了。
+# [0392] [ROM: 0x1862A6] [Bank: 0x61:0x22A6] [CPU: 0x62A6] [OrigLen: 33]
+JP: しかたないですね。
+JP: <NAME>さんは
+JP: ちゅういして　やったん
+JP: ですから。
+CN: 没办法啊。
+CN: <NAME>小姐
+CN: 已经很小心了。
+# [0393] [ROM: 0x1862C7] [Bank: 0x61:0x22C7] [CPU: 0x62C7] [OrigLen: 27]
+JP: それじゃ　エレベーターの
+JP: ところへ　もどりましょう。
+CN: 那就回
+CN: 电梯那边吧。
+# [0394] [ROM: 0x1862E2] [Bank: 0x61:0x22E2] [CPU: 0x62E2] [OrigLen: 18]
+JP: レバーを　うえにあげる
+JP: のですか？
+CN: 要把杆子
+CN: 往上拉？
+# [0395] [ROM: 0x1862F4] [Bank: 0x61:0x22F4] [CPU: 0x62F4] [OrigLen: 49]
+JP: ええ　そうなんですけど
+JP: そのレバーは　ふるくなって
+JP: いますから　ちゅういして
+JP: やってくださいね。
+CN: 对是这样
+CN: 不过那杆子已经松了
+CN: 小心点
+CN: 好好拉哦。
+# [0396] [ROM: 0x186325] [Bank: 0x61:0x2325] [CPU: 0x6325] [OrigLen: 7]
+JP: りょうかい。
+CN: 明白
+# [0397] [ROM: 0x18632C] [Bank: 0x61:0x232C] [CPU: 0x632C] [OrigLen: 10]
+JP: ちからづよくいれる
+CN: 用力推入
+# [0398] [ROM: 0x186336] [Bank: 0x61:0x2336] [CPU: 0x6336] [OrigLen: 9]
+JP: ゆっくりといれる
+CN: 慢慢推入
+# [0399] [ROM: 0x18633F] [Bank: 0x61:0x233F] [CPU: 0x633F] [OrigLen: 11]
+JP: はやくしてください。
+CN: 请快点
+# [0400] [ROM: 0x18634A] [Bank: 0x61:0x234A] [CPU: 0x634A] [OrigLen: 9]
+JP: よいしょっと！！
+CN: 嘿咻！！
+# [0401] [ROM: 0x186353] [Bank: 0x61:0x2353] [CPU: 0x6353] [OrigLen: 5]
+JP: ボキッ！
+CN: 咔！
+# [0402] [ROM: 0x186358] [Bank: 0x61:0x2358] [CPU: 0x6358] [OrigLen: 18]
+JP: あ〜
+JP: レバーが　おれちゃったわ……
+CN: 啊～
+CN: 杆子断了……
+# [0403] [ROM: 0x18636A] [Bank: 0x61:0x236A] [CPU: 0x636A] [OrigLen: 19]
+JP: あらら　ダメじゃないですか
+JP: <NAME>さん。
+CN: 哎呀不行啊
+CN: <NAME>小姐。
+# [0404] [ROM: 0x18637D] [Bank: 0x61:0x237D] [CPU: 0x637D] [OrigLen: 22]
+JP: ふるくなってるって
+JP: いったじゃないですか。
+CN: 不是说了
+CN: 会变松的吗。
+# [0405] [ROM: 0x186393] [Bank: 0x61:0x2393] [CPU: 0x6393] [OrigLen: 15]
+JP: エンジンが　きどうしました。
+CN: 引擎启动了。
+# [0406] [ROM: 0x1863A2] [Bank: 0x61:0x23A2] [CPU: 0x63A2] [OrigLen: 46]
+JP: まあ　エンジンはうごいたから
+JP: いいでしょう。
+JP: では　エレベーターのところへ
+JP: もどりますよ。
+CN: 引擎都动了
+CN: 好吧。
+CN: 那么回
+CN: 电梯那边去吧。
+# [0407] [ROM: 0x1863D0] [Bank: 0x61:0x23D0] [CPU: 0x63D0] [OrigLen: 29]
+JP: ふるくなってるから
+JP: こわれないように
+JP: ゆっくりと…………
+CN: 因为松了
+CN: 别断了
+CN: 慢慢来……
+# [0408] [ROM: 0x1863ED] [Bank: 0x61:0x23ED] [CPU: 0x63ED] [OrigLen: 14]
+JP: よし　レバーがあがったわ。
+CN: 杆子升上了
+# [0409] [ROM: 0x1863FB] [Bank: 0x61:0x23FB] [CPU: 0x63FB] [OrigLen: 5]
+JP: ボキッ！
+CN: 咔！
+# [0410] [ROM: 0x186400] [Bank: 0x61:0x2400] [CPU: 0x6400] [OrigLen: 29]
+JP: あっ………………………………
+JP: レバーが　おれちゃった……
+CN: 啊…………
+CN: 杆子断了……
+# [0411] [ROM: 0x18641D] [Bank: 0x61:0x241D] [CPU: 0x641D] [OrigLen: 15]
+JP: エンジンが　きどうしました。
+CN: 引擎启动了。
+# [0412] [ROM: 0x18642C] [Bank: 0x61:0x242C] [CPU: 0x642C] [OrigLen: 18]
+JP: レバー……
+JP: おれちゃいましたね……
+CN: 杆子……
+CN: 断了呢…
+# [0413] [ROM: 0x18643E] [Bank: 0x61:0x243E] [CPU: 0x643E] [OrigLen: 36]
+JP: でも　しかたないですね。
+JP: <NAME>さんは
+JP: ちゅういして　やったん
+JP: ですから。
+CN: 可是没办法啊。
+CN: <NAME>小姐
+CN: 已经很小心了。
+# [0414] [ROM: 0x186462] [Bank: 0x61:0x2462] [CPU: 0x6462] [OrigLen: 27]
+JP: それじゃ　エレベーターの
+JP: ところへ　もどりましょう。
+CN: 那就回
+CN: 电梯那边吧。
+# [0415] [ROM: 0x18647D] [Bank: 0x61:0x247D] [CPU: 0x647D] [OrigLen: 13]
+JP: エンジン　せいぎょパネル
+CN: 引擎控制面板
+# [0416] [ROM: 0x18648A] [Bank: 0x61:0x248A] [CPU: 0x648A] [OrigLen: 25]
+JP: スイッチを　いれると　
+JP: エンジンが　うごきます。
+CN: 一打开开关
+CN: 引擎就会动。
+# [0417] [ROM: 0x1864A3] [Bank: 0x61:0x24A3] [CPU: 0x64A3] [OrigLen: 36]
+JP: エンジンを　うごかすと
+JP: エレベーターなどが
+JP: つかえるように　なります。
+CN: 开动引擎的话
+CN: 电梯之类
+CN: 就能用了。
+# [0418] [ROM: 0x1864C7] [Bank: 0x61:0x24C7] [CPU: 0x64C7] [OrigLen: 10]
+JP: スイッチを　いれる
+CN: 打开开关
+# [0419] [ROM: 0x1864D1] [Bank: 0x61:0x24D1] [CPU: 0x64D1] [OrigLen: 11]
+JP: スイッチを　いれない
+CN: 不打开开关
+# [0420] [ROM: 0x1864DC] [Bank: 0x61:0x24DC] [CPU: 0x64DC] [OrigLen: 31]
+JP: エンジンをうごかしましょう。
+JP: レバーを　うえに
+JP: あげるのね。
+CN: 开动引擎。
+CN: 杆子往上拉
+CN: 对吧。
+# [0421] [ROM: 0x1864FB] [Bank: 0x61:0x24FB] [CPU: 0x64FB] [OrigLen: 5]
+JP: ボキッ！
+CN: 咔！
+# [0422] [ROM: 0x186500] [Bank: 0x61:0x2500] [CPU: 0x6500] [OrigLen: 29]
+JP: あっ………………………………
+JP: レバーが　おれちゃった……
+CN: 啊…………
+CN: 杆子断了……
+# [0423] [ROM: 0x18651D] [Bank: 0x61:0x251D] [CPU: 0x651D] [OrigLen: 33]
+JP: あ〜あ…………
+JP: でも　ふるくなってましたから
+JP: しかたないですね。
+CN: 唉～………
+CN: 本来就很松
+CN: 没办法
+# [0424] [ROM: 0x18653E] [Bank: 0x61:0x253E] [CPU: 0x653E] [OrigLen: 15]
+JP: エンジンが　きどうしました。
+CN: 引擎启动了。
+# [0425] [ROM: 0x18654D] [Bank: 0x61:0x254D] [CPU: 0x654D] [OrigLen: 11]
+JP: では　いきましょう。
+CN: 那么走吧。
+# [0426] [ROM: 0x18655C] [Bank: 0x61:0x255C] [CPU: 0x655C] [OrigLen: 20]
+JP: あっ！
+JP: さっきにげていった
+JP: まもの！！
+CN: 啊！
+CN: 魔物！！
+# [0427] [ROM: 0x186570] [Bank: 0x61:0x2570] [CPU: 0x6570] [OrigLen: 8]
+JP: ワキ〜〜〜！！
+CN: 哇～！
+# [0428] [ROM: 0x186578] [Bank: 0x61:0x2578] [CPU: 0x6578] [OrigLen: 5]
+JP: エッ！？
+CN: 诶
+# [0429] [ROM: 0x18657D] [Bank: 0x61:0x257D] [CPU: 0x657D] [OrigLen: 13]
+JP: あっ！　た　たいへん！！
+CN: 糟了！！
+# [0430] [ROM: 0x18658A] [Bank: 0x61:0x258A] [CPU: 0x658A] [OrigLen: 30]
+JP: キャアァァァァァァァァ！！！
+JP: どうしたんですかぁぁぁぁぁ！
+CN: 啊啊啊啊！！
+CN: 怎么回事啊！
+# [0431] [ROM: 0x1865A8] [Bank: 0x61:0x25A8] [CPU: 0x65A8] [OrigLen: 47]
+JP: まものが　メインダクトに
+JP: すいこまれた　から
+JP: エンジンが　オーバーヒート
+JP: しているんです！！
+CN: 魔物被吸进通风管
+CN: 所以引擎
+CN: 过热了
+CN: 烧着呢！！
+# [0432] [ROM: 0x1865D7] [Bank: 0x61:0x25D7] [CPU: 0x65D7] [OrigLen: 27]
+JP: このままでは
+JP: エンジンが　ばくはつして
+JP: しまいます！
+CN: 这样下去
+CN: 引擎会
+CN: 爆掉的！
+# [0433] [ROM: 0x1865F2] [Bank: 0x61:0x25F2] [CPU: 0x65F2] [OrigLen: 22]
+JP: はやく　あのまものを
+JP: なんとかしないと！！
+CN: 快点
+CN: 把魔物拉出！！
+# [0434] [ROM: 0x186608] [Bank: 0x61:0x2608] [CPU: 0x6608] [OrigLen: 6]
+JP: やっつける
+CN: 打倒
+# [0435] [ROM: 0x18660E] [Bank: 0x61:0x260E] [CPU: 0x660E] [OrigLen: 10]
+JP: まものを　ひきぬく
+CN: 拉出魔物
+# [0436] [ROM: 0x186618] [Bank: 0x61:0x2618] [CPU: 0x6618] [OrigLen: 9]
+JP: エンジンをとめる
+CN: 关掉引擎
+# [0437] [ROM: 0x186621] [Bank: 0x61:0x2621] [CPU: 0x6621] [OrigLen: 10]
+JP: やっつけましょう！
+CN: 打倒它！
+# [0438] [ROM: 0x18662B] [Bank: 0x61:0x262B] [CPU: 0x662B] [OrigLen: 45]
+JP: それは　ダメです！
+JP: たおしたショックで
+JP: エンジンが　ばくはつする
+JP: かもしれませんから！！
+CN: 那不行！
+CN: 打倒它的冲击
+CN: 可能会让引擎
+CN: 爆掉！！
+# [0439] [ROM: 0x186658] [Bank: 0x61:0x2658] [CPU: 0x6658] [OrigLen: 33]
+JP: そうだわ！　<NAME>さん！
+JP: まものを　ダクトから
+JP: ひきぬきましょう！！
+CN: 对呀！<NAME>！
+CN: 从管道里
+CN: 拉出魔物！
+# [0440] [ROM: 0x186679] [Bank: 0x61:0x2679] [CPU: 0x6679] [OrigLen: 24]
+JP: まものを　メインダクトから
+JP: ひきぬきましょう。
+CN: 从主通风管
+CN: 拉出魔物
+# [0441] [ROM: 0x186691] [Bank: 0x61:0x2691] [CPU: 0x6691] [OrigLen: 21]
+JP: そうね！
+JP: <NAME>さん！
+JP: いいかんがえだわ！！
+CN: 对呀！<NAME>
+CN: 好主意！
+# [0442] [ROM: 0x1866A6] [Bank: 0x61:0x26A6] [CPU: 0x66A6] [OrigLen: 13]
+JP: エンジンをとめましょう。
+CN: 关掉引擎吧。
+# [0443] [ROM: 0x1866B3] [Bank: 0x61:0x26B3] [CPU: 0x66B3] [OrigLen: 21]
+JP: そうね！
+JP: <NAME>さん！
+JP: いいかんがえだわ！！
+CN: 对呀！<NAME>
+CN: 好主意！
+# [0444] [ROM: 0x1866C8] [Bank: 0x61:0x26C8] [CPU: 0x66C8] [OrigLen: 30]
+JP: じゃあ　さっそく
+JP: エンジンせいぎょパネルへ
+JP: いきましょう！
+CN: 那么马上
+CN: 去引擎控制面板
+CN: 吧！
+# [0445] [ROM: 0x1866E6] [Bank: 0x61:0x26E6] [CPU: 0x66E6] [OrigLen: 57]
+JP: ……………………………………
+JP: さくらさん……　エンジンの
+JP: きどうレバー……　さっき
+JP: おっちゃいましたよね…………
+CN: ………………
+CN: 樱小姐……引擎的
+CN: 启动杆子
+CN: 刚才断了……
+# [0446] [ROM: 0x18671F] [Bank: 0x61:0x271F] [CPU: 0x671F] [OrigLen: 14]
+JP: あっ！
+JP: そうだったわね……
+CN: 啊！
+CN: 是这样啊
+# [0447] [ROM: 0x18672D] [Bank: 0x61:0x272D] [CPU: 0x672D] [OrigLen: 30]
+JP: ……どうしましょうか…………
+JP: ……………………………………
+CN: ……怎么办……
+CN: ………………
+# [0448] [ROM: 0x18674B] [Bank: 0x61:0x274B] [CPU: 0x674B] [OrigLen: 33]
+JP: そうだわ！　<NAME>さん！
+JP: まものを　ダクトから
+JP: ひきぬきましょう！！
+CN: 对呀！<NAME>！
+CN: 从管道里
+CN: 拉出魔物！
+# [0449] [ROM: 0x18676C] [Bank: 0x61:0x276C] [CPU: 0x676C] [OrigLen: 12]
+JP: えーーーと………………
+CN: 唔ー……
+# [0450] [ROM: 0x186778] [Bank: 0x61:0x2778] [CPU: 0x6778] [OrigLen: 27]
+JP: <NAME>さん！
+JP: まものを　ダクトから
+JP: ひきぬきましょう！！
+CN: <NAME>！
+CN: 从管道里
+CN: 拉出魔物！
+# [0451] [ROM: 0x186793] [Bank: 0x61:0x2793] [CPU: 0x6793] [OrigLen: 18]
+JP: ダ　ダメです！！
+JP: さくらさん！！！
+CN: 不行！
+CN: 樱小姐！
+# [0452] [ROM: 0x1867A5] [Bank: 0x61:0x27A5] [CPU: 0x67A5] [OrigLen: 36]
+JP: はやくしないと
+JP: オーバーヒートで　エンジンが
+JP: ばくはつしてしまうわ……
+CN: 再不快点
+CN: 过热的话引擎
+CN: 就爆了……
+# [0453] [ROM: 0x1867C9] [Bank: 0x61:0x27C9] [CPU: 0x67C9] [OrigLen: 42]
+JP: さくらさん！
+JP: ミカサのエンジンに
+JP: いじょうが　みられます！
+JP: どうかしたんですか！！
+CN: 樱小姐！
+CN: 三笠引擎
+CN: 有异常了！
+CN: 怎么回事！
+# [0454] [ROM: 0x1867F3] [Bank: 0x61:0x27F3] [CPU: 0x67F3] [OrigLen: 41]
+JP: ゆりさん！
+JP: たいへんなんです！！
+JP: エンジンが　ぼうそうして
+JP: しまったんです！！！
+CN: 百合小姐！
+CN: 出大事了！
+CN: 引擎已经
+CN: 暴走了！
+# [0455] [ROM: 0x18681C] [Bank: 0x61:0x281C] [CPU: 0x681C] [OrigLen: 39]
+JP: エンジンせいぎょレバーを
+JP: こわして　しまって
+JP: とめることが
+JP: できないんです！
+CN: 引擎控制杆
+CN: 被我弄坏
+CN: 所以没法
+CN: 关引擎！
+# [0456] [ROM: 0x186843] [Bank: 0x61:0x2843] [CPU: 0x6843] [OrigLen: 24]
+JP: エンジンをとめる
+JP: ほうほうは
+JP: ありませんか！！
+CN: 关引擎的
+CN: 办法
+CN: 没有吗！
+# [0457] [ROM: 0x18685B] [Bank: 0x61:0x285B] [CPU: 0x685B] [OrigLen: 25]
+JP: だったら
+JP: だい２せいぎょしつへ
+JP: いってください。
+CN: 那就请
+CN: 去第二控制室
+CN: 吧。
+# [0458] [ROM: 0x186874] [Bank: 0x61:0x2874] [CPU: 0x6874] [OrigLen: 21]
+JP: そこでエンジンを
+JP: とめられる　はずです！
+CN: 在那应该
+CN: 能关引擎！
+# [0459] [ROM: 0x186889] [Bank: 0x61:0x2889] [CPU: 0x6889] [OrigLen: 39]
+JP: だい２せいぎょしつは
+JP: このフロアの　おくです！
+JP: いそぎましょう！
+JP: <NAME>さん！！
+CN: 第二控制室
+CN: 在这层最里面！
+CN: 快去吧！
+CN: <NAME>！
+# [0460] [ROM: 0x1868B0] [Bank: 0x61:0x28B0] [CPU: 0x68B0] [OrigLen: 19]
+JP: <NAME>さん
+JP: あのスイッチを　おすんです！
+CN: <NAME>小姐
+CN: 按那个开关！
+# [0461] [ROM: 0x1868C3] [Bank: 0x61:0x28C3] [CPU: 0x68C3] [OrigLen: 8]
+JP: りょうかい！！
+CN: 明白！
+# [0462] [ROM: 0x1868CB] [Bank: 0x61:0x28CB] [CPU: 0x68CB] [OrigLen: 6]
+JP: はやく！！
+CN: 快！
+# [0463] [ROM: 0x1868D1] [Bank: 0x61:0x28D1] [CPU: 0x68D1] [OrigLen: 6]
+JP: は　はい！
+CN: 好！
+# [0464] [ROM: 0x1868D7] [Bank: 0x61:0x28D7] [CPU: 0x68D7] [OrigLen: 14]
+JP: エンジンていし　しました。
+CN: 引擎停机了。
+# [0465] [ROM: 0x1868E5] [Bank: 0x61:0x28E5] [CPU: 0x68E5] [OrigLen: 14]
+JP: ふう……
+JP: まにあったわ……
+CN: 呼……
+CN: 太好了
+# [0466] [ROM: 0x1868F3] [Bank: 0x61:0x28F3] [CPU: 0x68F3] [OrigLen: 32]
+JP: それじゃあ　もどって
+JP: まものを　ダクトから
+JP: ひきぬきましょう。
+CN: 那就回去
+CN: 从管道里
+CN: 拉出魔物。
+# [0467] [ROM: 0x186913] [Bank: 0x61:0x2913] [CPU: 0x6913] [OrigLen: 36]
+JP: エンジンの　よこにある
+JP: はしごを　つかえば
+JP: はやく　もどれそうですよ。
+CN: 用引擎旁边的梯子
+CN: 可以更快
+CN: 回去哦。
+# [0468] [ROM: 0x186937] [Bank: 0x61:0x2937] [CPU: 0x6937] [OrigLen: 7]
+JP: りょうかい！
+CN: 明白！
+# [0469] [ROM: 0x18693E] [Bank: 0x61:0x293E] [CPU: 0x693E] [OrigLen: 14]
+JP: エンジンていし　しました。
+CN: 引擎停机了。
+# [0470] [ROM: 0x18694C] [Bank: 0x61:0x294C] [CPU: 0x694C] [OrigLen: 14]
+JP: ふう……
+JP: まにあったわ……
+CN: 呼……
+CN: 太好了
+# [0471] [ROM: 0x18695A] [Bank: 0x61:0x295A] [CPU: 0x695A] [OrigLen: 14]
+JP: よくやりましたね
+JP: <NAME>さん。
+CN: 真厉害
+CN: <NAME>小姐
+# [0472] [ROM: 0x186968] [Bank: 0x61:0x2968] [CPU: 0x6968] [OrigLen: 32]
+JP: それじゃあ　もどって
+JP: まものを　ダクトから
+JP: ひきぬきましょう。
+CN: 那就回去
+CN: 从管道里
+CN: 拉出魔物。
+# [0473] [ROM: 0x186988] [Bank: 0x61:0x2988] [CPU: 0x6988] [OrigLen: 36]
+JP: エンジンの　よこにある
+JP: はしごを　つかえば
+JP: はやく　もどれそうですよ。
+CN: 用引擎旁边的梯子
+CN: 可以更快
+CN: 回去哦。
+# [0474] [ROM: 0x1869AC] [Bank: 0x61:0x29AC] [CPU: 0x69AC] [OrigLen: 29]
+JP: <NAME>さん
+JP: まものを　メインダクトから
+JP: ひきぬいてください。
+CN: <NAME>小姐
+CN: 请从主通风管
+CN: 拉出魔物
+# [0475] [ROM: 0x1869C9] [Bank: 0x61:0x29C9] [CPU: 0x69C9] [OrigLen: 50]
+JP: メインダクトをあけて
+JP: エンジンを　うごかせるように
+JP: しないと　エレベーターが
+JP: つかえませんからね。
+CN: 不打开主通风管
+CN: 就没法启动引擎
+CN: 电梯也
+CN: 用不了呢。
+# [0476] [ROM: 0x1869FB] [Bank: 0x61:0x29FB] [CPU: 0x69FB] [OrigLen: 7]
+JP: りょうかい！
+CN: 明白！
+# [0477] [ROM: 0x186A02] [Bank: 0x61:0x2A02] [CPU: 0x6A02] [OrigLen: 10]
+JP: いきおいよく　ぬく
+CN: 用力拔出
+# [0478] [ROM: 0x186A0C] [Bank: 0x61:0x2A0C] [CPU: 0x6A0C] [OrigLen: 9]
+JP: ゆっくりと　ぬく
+CN: 慢慢拔出
+# [0479] [ROM: 0x186A15] [Bank: 0x61:0x2A15] [CPU: 0x6A15] [OrigLen: 17]
+JP: よーし。
+JP: いっきに　ぬくわよ！！
+CN: 一次拔出来！！
+# [0480] [ROM: 0x186A26] [Bank: 0x61:0x2A26] [CPU: 0x6A26] [OrigLen: 12]
+JP: よしっ！
+JP: ぬけたわ！！
+CN: 拔出来了！
+# [0481] [ROM: 0x186A32] [Bank: 0x61:0x2A32] [CPU: 0x6A32] [OrigLen: 6]
+JP: きゃあ！！
+CN: 呀啊
+# [0482] [ROM: 0x186A38] [Bank: 0x61:0x2A38] [CPU: 0x6A38] [OrigLen: 6]
+JP: <NAME>さん！！
+CN: <NAME>！
+# [0483] [ROM: 0x186A3E] [Bank: 0x61:0x2A3E] [CPU: 0x6A3E] [OrigLen: 16]
+JP: <NAME>さん
+JP: だいじょうぶでしたか？
+CN: <NAME>小姐
+CN: 没事吧？
+# [0484] [ROM: 0x186A4E] [Bank: 0x61:0x2A4E] [CPU: 0x6A4E] [OrigLen: 18]
+JP: ひとりで　よく
+JP: がんばりましたね。
+CN: 一个人也很
+CN: 努力呢
+# [0485] [ROM: 0x186A60] [Bank: 0x61:0x2A60] [CPU: 0x6A60] [OrigLen: 32]
+JP: じゃあ　エンジンの
+JP: スイッチをいれて
+JP: さきへ　すすみましょう。
+CN: 那就打开引擎
+CN: 开关
+CN: 往前走吧。
+# [0486] [ROM: 0x186A80] [Bank: 0x61:0x2A80] [CPU: 0x6A80] [OrigLen: 21]
+JP: ちゅういして　ゆっくりと
+JP: ぬきましょう。
+CN: 小心点
+CN: 慢慢拔吧。
+# [0487] [ROM: 0x186A95] [Bank: 0x61:0x2A95] [CPU: 0x6A95] [OrigLen: 12]
+JP: よしっ！
+JP: ぬけたわ！！
+CN: 拔出来了！
+# [0488] [ROM: 0x186AA1] [Bank: 0x61:0x2AA1] [CPU: 0x6AA1] [OrigLen: 12]
+JP: <NAME>さん！
+JP: あぶない！！
+CN: <NAME>！
+CN: 危险！
+# [0489] [ROM: 0x186AAD] [Bank: 0x61:0x2AAD] [CPU: 0x6AAD] [OrigLen: 12]
+JP: やりましたね
+JP: <NAME>さん。
+CN: <NAME>真棒
+# [0490] [ROM: 0x186AB9] [Bank: 0x61:0x2AB9] [CPU: 0x6AB9] [OrigLen: 32]
+JP: じゃあ　エンジンの
+JP: スイッチをいれて
+JP: さきへ　すすみましょう。
+CN: 那就打开引擎
+CN: 开关
+CN: 往前走吧。
+# [0491] [ROM: 0x186AD9] [Bank: 0x61:0x2AD9] [CPU: 0x6AD9] [OrigLen: 17]
+JP: よーし。
+JP: いっきに　ぬくわよ！！
+CN: 一次拔出来！！
+# [0492] [ROM: 0x186AEA] [Bank: 0x61:0x2AEA] [CPU: 0x6AEA] [OrigLen: 12]
+JP: よしっ！
+JP: ぬけたわ！！
+CN: 拔出来了！
+# [0493] [ROM: 0x186AF6] [Bank: 0x61:0x2AF6] [CPU: 0x6AF6] [OrigLen: 6]
+JP: きゃあ！！
+CN: 呀啊
+# [0494] [ROM: 0x186AFC] [Bank: 0x61:0x2AFC] [CPU: 0x6AFC] [OrigLen: 6]
+JP: <NAME>さん！！
+CN: <NAME>！
+# [0495] [ROM: 0x186B02] [Bank: 0x61:0x2B02] [CPU: 0x6B02] [OrigLen: 16]
+JP: <NAME>さん
+JP: だいじょうぶでしたか？
+CN: <NAME>小姐
+CN: 没事吧？
+# [0496] [ROM: 0x186B12] [Bank: 0x61:0x2B12] [CPU: 0x6B12] [OrigLen: 32]
+JP: じゃあ　エンジンの
+JP: スイッチをいれて
+JP: さきへ　すすみましょう。
+CN: 那就打开引擎
+CN: 开关
+CN: 往前走吧。
+# [0497] [ROM: 0x186B32] [Bank: 0x61:0x2B32] [CPU: 0x6B32] [OrigLen: 42]
+JP: エンジンを　うごかすまえに
+JP: あのまものを　ひきぬかないと
+JP: また　ぼうそうしますよ。
+CN: 启动引擎前
+CN: 得先拉出魔物
+CN: 不然又会
+CN: 暴走。
+# [0498] [ROM: 0x186B5C] [Bank: 0x61:0x2B5C] [CPU: 0x6B5C] [OrigLen: 15]
+JP: エンジンを　きどうしました。
+CN: 引擎启动了。
+# [0499] [ROM: 0x186B6B] [Bank: 0x61:0x2B6B] [CPU: 0x6B6B] [OrigLen: 37]
+JP: ……………………………………
+JP: ミカサのなかが
+JP: こおりついてる………………
+CN: ………………
+CN: 三笠里面
+CN: 都冻住了……
+# [0500] [ROM: 0x186B90] [Bank: 0x61:0x2B90] [CPU: 0x6B90] [OrigLen: 11]
+JP: スケートができますね
+CN: 能滑冰了呢
+# [0501] [ROM: 0x186B9B] [Bank: 0x61:0x2B9B] [CPU: 0x6B9B] [OrigLen: 13]
+JP: きょだい　れいぞうしつ？
+CN: 巨大冷冻室？
+# [0502] [ROM: 0x186BA8] [Bank: 0x61:0x2BA8] [CPU: 0x6BA8] [OrigLen: 6]
+JP: さむーーー
+CN: 好冷
+# [0503] [ROM: 0x186BAE] [Bank: 0x61:0x2BAE] [CPU: 0x6BAE] [OrigLen: 38]
+JP: このまま　もっとこおったら
+JP: ミカサのなかで　スケートが
+JP: できちゃいますね。
+CN: 再这么冷下去
+CN: 三笠里面
+CN: 就能滑冰了。
+# [0504] [ROM: 0x186BD4] [Bank: 0x61:0x2BD4] [CPU: 0x6BD4] [OrigLen: 35]
+JP: あら　<NAME>さんも
+JP: スケートできるんですか？
+JP: あたしも　できるんですよ。
+CN: 咦，<NAME>也会
+CN: 滑冰吗？我也会哦。
+# [0505] [ROM: 0x186BF7] [Bank: 0x61:0x2BF7] [CPU: 0x6BF7] [OrigLen: 23]
+JP: こんどいっしょに
+JP: すべりに　いきましょうね。
+CN: 下次一起去
+CN: 滑冰吧。
+# [0506] [ROM: 0x186C0E] [Bank: 0x61:0x2C0E] [CPU: 0x6C0E] [OrigLen: 28]
+JP: ……なーんてこと
+JP: いってるばあいじゃ
+JP: ないんですよね。
+CN: ……那只是
+CN: 说着玩的
+CN: 对吧。
+# [0507] [ROM: 0x186C2A] [Bank: 0x61:0x2C2A] [CPU: 0x6C2A] [OrigLen: 29]
+JP: どうして　ミカサが
+JP: こんなことに
+JP: なっているのかしら……
+CN: 为什么三笠
+CN: 会变成
+CN: 这样呢……
+# [0508] [ROM: 0x186C47] [Bank: 0x61:0x2C47] [CPU: 0x6C47] [OrigLen: 44]
+JP: すごい　れいぞうしつですね。
+JP: ここは　ミカサの
+JP: しょくりょう　ちょぞうこ
+JP: なんですか？
+CN: 好厉害的冷冻室。
+CN: 这里是三笠的
+CN: 食材仓库吗？
+# [0509] [ROM: 0x186C73] [Bank: 0x61:0x2C73] [CPU: 0x6C73] [OrigLen: 33]
+JP: いいえ　ちがいます……
+JP: ここは　れいぞうしつじゃ
+JP: ありません……
+CN: 不对，不是……
+CN: 这里不是
+CN: 冷冻室…
+# [0510] [ROM: 0x186C94] [Bank: 0x61:0x2C94] [CPU: 0x6C94] [OrigLen: 24]
+JP: だったら　どうして
+JP: こんなに　さむいんですか？
+CN: 那为什么
+CN: 会这么冷？
+# [0511] [ROM: 0x186CAC] [Bank: 0x61:0x2CAC] [CPU: 0x6CAC] [OrigLen: 24]
+JP: ……わかりません。
+JP: なにか　おかしいですね……
+CN: ……不知道。
+CN: 不对劲…
+# [0512] [ROM: 0x186CC4] [Bank: 0x61:0x2CC4] [CPU: 0x6CC4] [OrigLen: 27]
+JP: このミカサで　なにが
+JP: おこっているんで
+JP: しょうか……
+CN: 三笠到底
+CN: 出了什么
+CN: 事呢……
+# [0513] [ROM: 0x186CDF] [Bank: 0x61:0x2CDF] [CPU: 0x6CDF] [OrigLen: 30]
+JP: さむいですねー。
+JP: さくらさん　カゼひかないで
+JP: くださいね。
+CN: 好冷啊。
+CN: 樱小姐别
+CN: 着凉了。
+# [0514] [ROM: 0x186CFD] [Bank: 0x61:0x2CFD] [CPU: 0x6CFD] [OrigLen: 28]
+JP: ありがとうございます。
+JP: <NAME>さんも
+JP: きをつけてください。
+CN: 谢谢。
+CN: <NAME>也请
+CN: 小心点。
+# [0515] [ROM: 0x186D19] [Bank: 0x61:0x2D19] [CPU: 0x6D19] [OrigLen: 32]
+JP: でも　どうして　ミカサが
+JP: こんなことに
+JP: なっているのかしら……
+CN: 可是为什么
+CN: 三笠会
+CN: 这样呢……
+# [0516] [ROM: 0x186D44] [Bank: 0x61:0x2D44] [CPU: 0x6D44] [OrigLen: 29]
+JP: どうして　ミカサが
+JP: こんなことに
+JP: なっているのかしら……
+CN: 为什么三笠
+CN: 会变成
+CN: 这样呢……
+# [0517] [ROM: 0x186D61] [Bank: 0x61:0x2D61] [CPU: 0x6D61] [OrigLen: 20]
+JP: …………くらさーん
+JP: ……さくらさーん！
+CN: ………樱姐
+CN: ……樱姐
+# [0518] [ROM: 0x186D75] [Bank: 0x61:0x2D75] [CPU: 0x6D75] [OrigLen: 24]
+JP: ……ん？
+JP: いま　こえが
+JP: きこえませんでしたか？
+CN: ……嗯？
+CN: 刚有声音吗？
+# [0519] [ROM: 0x186D8D] [Bank: 0x61:0x2D8D] [CPU: 0x6D8D] [OrigLen: 30]
+JP: えっ？
+JP: あっ！　さくらさん！！
+JP: あそこに　ひとがいます！！
+CN: 诶？
+CN: 啊！樱小姐！
+CN: 那边有人！
+# [0520] [ROM: 0x186DAB] [Bank: 0x61:0x2DAB] [CPU: 0x6DAB] [OrigLen: 38]
+JP: あっ！　あれはバラぐみの
+JP: おか　きくのじょう　さん……
+JP: きくちゃんだわ！！
+CN: 啊！那是杂货店
+CN: 的冈菊小姐
+CN: 小菊！
+# [0521] [ROM: 0x186DD1] [Bank: 0x61:0x2DD1] [CPU: 0x6DD1] [OrigLen: 22]
+JP: きくちゃん！
+JP: どうして　そんなところに！！
+CN: 小菊！
+CN: 怎么会在
+CN: 那里
+# [0522] [ROM: 0x186DE7] [Bank: 0x61:0x2DE7] [CPU: 0x6DE7] [OrigLen: 30]
+JP: そ…　それが……
+JP: 『まじんき』を
+JP: みつけたとおもったら……
+CN: 那个……
+CN: 我以为找到
+CN: 魔神机…
+# [0523] [ROM: 0x186E05] [Bank: 0x61:0x2E05] [CPU: 0x6E05] [OrigLen: 36]
+JP: おそろしいまものに
+JP: おそわれて……
+JP: きがついたら
+JP: ここに　いたんです。
+CN: 被魔物袭击了
+CN: 回过神时
+CN: 我就在这里
+# [0524] [ROM: 0x186E29] [Bank: 0x61:0x2E29] [CPU: 0x6E29] [OrigLen: 30]
+JP: なぜ　そんなところに
+JP: たっているんです？
+JP: さむいでしょう？
+CN: 为什么站在
+CN: 那种地方
+CN: 很冷吧？
+# [0525] [ROM: 0x186E47] [Bank: 0x61:0x2E47] [CPU: 0x6E47] [OrigLen: 32]
+JP: ゆかが　つるつるすべって
+JP: おもうように
+JP: あるけないんですよ〜。
+CN: 地板滑溜溜的
+CN: 怎么都
+CN: 站不住～
+# [0526] [ROM: 0x186E67] [Bank: 0x61:0x2E67] [CPU: 0x6E67] [OrigLen: 8]
+JP: さくらさん……
+CN: 樱……
+# [0527] [ROM: 0x186E6F] [Bank: 0x61:0x2E6F] [CPU: 0x6E6F] [OrigLen: 12]
+JP: いそいで　たすけにいく
+CN: 快去救她
+# [0528] [ROM: 0x186E7B] [Bank: 0x61:0x2E7B] [CPU: 0x6E7B] [OrigLen: 11]
+JP: まものについて　きく
+CN: 问魔物的事
+# [0529] [ROM: 0x186E86] [Bank: 0x61:0x2E86] [CPU: 0x6E86] [OrigLen: 26]
+JP: さくらさん。
+JP: いそいで　たすけに
+JP: いきましょう！！
+CN: 樱小姐。
+CN: 快去
+CN: 救她吧！！
+# [0530] [ROM: 0x186EA0] [Bank: 0x61:0x2EA0] [CPU: 0x6EA0] [OrigLen: 12]
+JP: そうですね。
+JP: <NAME>さん。
+CN: 是啊。
+CN: <NAME>。
+# [0531] [ROM: 0x186EAC] [Bank: 0x61:0x2EAC] [CPU: 0x6EAC] [OrigLen: 37]
+JP: きくちゃん。
+JP: いまから　いきますから
+JP: そこで　じっと
+JP: しててくださーい。
+CN: 小菊。
+CN: 我过去了
+CN: 在那等着
+CN: 哦ー。
+# [0532] [ROM: 0x186ED1] [Bank: 0x61:0x2ED1] [CPU: 0x6ED1] [OrigLen: 5]
+JP: は〜い。
+CN: 好～
+# [0533] [ROM: 0x186ED6] [Bank: 0x61:0x2ED6] [CPU: 0x6ED6] [OrigLen: 29]
+JP: さくらさん
+JP: おそろしい　まものについて
+JP: ききましょうよ。
+CN: 樱小姐
+CN: 问问那只
+CN: 可怕魔物吧。
+# [0534] [ROM: 0x186EF3] [Bank: 0x61:0x2EF3] [CPU: 0x6EF3] [OrigLen: 7]
+JP: そうですね。
+CN: 是啊。
+# [0535] [ROM: 0x186EFA] [Bank: 0x61:0x2EFA] [CPU: 0x6EFA] [OrigLen: 36]
+JP: ねえ　きくちゃん
+JP: おそろしい　まものって
+JP: どんなやつ　だったんですか？
+CN: 喂小菊
+CN: 那只可怕的魔物
+CN: 是什么样的？
+# [0536] [ROM: 0x186F1E] [Bank: 0x61:0x2F1E] [CPU: 0x6F1E] [OrigLen: 26]
+JP: いっしゅんのことだったから
+JP: おぼえてないんです〜。
+CN: 就一瞬间
+CN: 我不记得了～。
+# [0537] [ROM: 0x186F38] [Bank: 0x61:0x2F38] [CPU: 0x6F38] [OrigLen: 38]
+JP: そんなことより
+JP: はやくたすけて　くださーい。
+JP: さむくて　たおれそうでーす。
+CN: 先不说
+CN: 快来救我ー。
+CN: 冷死了要倒了ー。
+# [0538] [ROM: 0x186F5E] [Bank: 0x61:0x2F5E] [CPU: 0x6F5E] [OrigLen: 34]
+JP: じゃあ　たすけに
+JP: いきますから
+JP: そこで　じっと
+JP: しててくださーい。
+CN: 那我去救你
+CN: 在那边
+CN: 等着哦ー。
+# [0539] [ROM: 0x186F80] [Bank: 0x61:0x2F80] [CPU: 0x6F80] [OrigLen: 5]
+JP: は〜い。
+CN: 好～
+# [0540] [ROM: 0x186F85] [Bank: 0x61:0x2F85] [CPU: 0x6F85] [OrigLen: 11]
+JP: <NAME>さん
+JP: いきますよ。
+CN: <NAME>我去了
+# [0541] [ROM: 0x186F9F] [Bank: 0x61:0x2F9F] [CPU: 0x6F9F] [OrigLen: 24]
+JP: <NAME>さん
+JP: グズグズしているヒマは
+JP: ありませんよ。
+CN: <NAME>小姐
+CN: 我可没空
+CN: 磨蹭。
+# [0542] [ROM: 0x186FB7] [Bank: 0x61:0x2FB7] [CPU: 0x6FB7] [OrigLen: 35]
+JP: きくちゃん。
+JP: いま　いきますから
+JP: そこで　じっと
+JP: しててくださーい。
+CN: 小菊。
+CN: 我过去了
+CN: 在那边等着
+CN: 哦ー。
+# [0543] [ROM: 0x186FDA] [Bank: 0x61:0x2FDA] [CPU: 0x6FDA] [OrigLen: 5]
+JP: は〜い。
+CN: 好～
+# [0544] [ROM: 0x186FDF] [Bank: 0x61:0x2FDF] [CPU: 0x6FDF] [OrigLen: 11]
+JP: <NAME>さん
+JP: いきますよ。
+CN: <NAME>我去了
+# [0545] [ROM: 0x186FEA] [Bank: 0x61:0x2FEA] [CPU: 0x6FEA] [OrigLen: 19]
+JP: きくちゃん！
+JP: だいじょうぶですか！！
+CN: 小菊！
+CN: 没事吧！！
+# [0546] [ROM: 0x186FFD] [Bank: 0x61:0x2FFD] [CPU: 0x6FFD] [OrigLen: 34]
+JP: ありがとうございます。
+JP: さくらさん。
+JP: あたしは　だいじょうぶです。
+CN: 谢谢你。
+CN: 樱小姐。
+CN: 我没事。
+# [0547] [ROM: 0x18701F] [Bank: 0x61:0x301F] [CPU: 0x701F] [OrigLen: 9]
+JP: あ〜　よかった。
+CN: 太好了～
+# [0548] [ROM: 0x187028] [Bank: 0x61:0x3028] [CPU: 0x7028] [OrigLen: 15]
+JP: あの……　こちらのかたは……
+CN: 那位是……
+# [0549] [ROM: 0x187037] [Bank: 0x61:0x3037] [CPU: 0x7037] [OrigLen: 7]
+JP: あいさつする
+CN: 打招呼
+# [0550] [ROM: 0x18703E] [Bank: 0x61:0x303E] [CPU: 0x703E] [OrigLen: 7]
+JP: かんさつする
+CN: 观察
+# [0551] [ROM: 0x187045] [Bank: 0x61:0x3045] [CPU: 0x7045] [OrigLen: 7]
+JP: しつもんする
+CN: 提问
+# [0552] [ROM: 0x18704C] [Bank: 0x61:0x304C] [CPU: 0x704C] [OrigLen: 22]
+JP: はじめまして。
+JP: わたしは　<NAME>
+JP: といいます。
+CN: 初次见面。
+CN: 我是<NAME>
+# [0553] [ROM: 0x187062] [Bank: 0x61:0x3062] [CPU: 0x7062] [OrigLen: 17]
+JP: ミカサのちょうさを
+JP: しています。
+CN: 在观测三笠状态
+# [0554] [ROM: 0x187073] [Bank: 0x61:0x3073] [CPU: 0x7073] [OrigLen: 29]
+JP: はじめまして。あたしは
+JP: おか　きくのじょう
+JP: といいます。
+CN: 初次见面。我是
+CN: 冈菊
+# [0555] [ROM: 0x187090] [Bank: 0x61:0x3090] [CPU: 0x7090] [OrigLen: 31]
+JP: きくちゃん　って
+JP: よんでください。
+JP: よろしくおねがいします。
+CN: 请叫我小菊
+CN: 请多关照。
+# [0556] [ROM: 0x1870AF] [Bank: 0x61:0x30AF] [CPU: 0x70AF] [OrigLen: 16]
+JP: わたしは……
+JP: <NAME>といいます……
+CN: 我……
+CN: 我叫<NAME>
+# [0557] [ROM: 0x1870BF] [Bank: 0x61:0x30BF] [CPU: 0x70BF] [OrigLen: 29]
+JP: はじめまして。あたしは
+JP: おか　きくのじょう
+JP: といいます。
+CN: 初次见面。我是
+CN: 冈菊
+# [0558] [ROM: 0x1870DC] [Bank: 0x61:0x30DC] [CPU: 0x70DC] [OrigLen: 31]
+JP: きくちゃん　って
+JP: よんでください。
+JP: よろしくおねがいします。
+CN: 请叫我小菊
+CN: 请多关照。
+# [0559] [ROM: 0x1870FB] [Bank: 0x61:0x30FB] [CPU: 0x70FB] [OrigLen: 37]
+JP: は　はい〜……
+JP: （おとこなのに　『あたし』
+JP: 　って　どういうことなの？）
+CN: 是，是～……
+CN: （男生却说『我』…）
+# [0560] [ROM: 0x187120] [Bank: 0x61:0x3120] [CPU: 0x7120] [OrigLen: 24]
+JP: （もしかして　オカマちゃん
+JP: 　なのかしら……）
+CN: （难道说
+CN: 我是伪娘吗…）
+# [0561] [ROM: 0x187138] [Bank: 0x61:0x3138] [CPU: 0x7138] [OrigLen: 31]
+JP: どうかしたんですか？
+JP: あたしのカオに
+JP: なにか　ついてますか？
+CN: 怎么了？
+CN: 我脸上
+CN: 沾了东西？
+# [0562] [ROM: 0x187157] [Bank: 0x61:0x3157] [CPU: 0x7157] [OrigLen: 14]
+JP: い　いえ……
+JP: おほほほ……
+CN: 不是……呵呵
+# [0563] [ROM: 0x187165] [Bank: 0x61:0x3165] [CPU: 0x7165] [OrigLen: 14]
+JP: わたしは　<NAME>と
+JP: いいます。
+CN: 我是<NAME>
+# [0564] [ROM: 0x187173] [Bank: 0x61:0x3173] [CPU: 0x7173] [OrigLen: 29]
+JP: はじめまして。あたしは
+JP: おか　きくのじょう
+JP: といいます。
+CN: 初次见面。我是
+CN: 冈菊
+# [0565] [ROM: 0x187190] [Bank: 0x61:0x3190] [CPU: 0x7190] [OrigLen: 31]
+JP: きくちゃん　って
+JP: よんでください。
+JP: よろしくおねがいします。
+CN: 请叫我小菊
+CN: 请多关照。
+# [0566] [ROM: 0x1871AF] [Bank: 0x61:0x31AF] [CPU: 0x71AF] [OrigLen: 37]
+JP: あの……　きくちゃんは
+JP: おとこ？　それとも
+JP: おんな？　どちらなんですか？
+CN: 那个……小菊是
+CN: 男的？还是
+CN: 女的？
+# [0567] [ROM: 0x1871D4] [Bank: 0x61:0x31D4] [CPU: 0x71D4] [OrigLen: 41]
+JP: ひ　ひどい……
+JP: あたしは　みてのとおり
+JP: りっぱな　おとこのコなのに
+JP: グッスン……
+CN: 好过分……
+CN: 我明明是
+CN: 英俊的男生
+CN: 却……
+# [0568] [ROM: 0x1871FD] [Bank: 0x61:0x31FD] [CPU: 0x71FD] [OrigLen: 33]
+JP: あ　す　すみません。
+JP: ごめんなさい。
+JP: わたしが　わるかったです。
+CN: 啊 那 对不起
+CN: 都是我的错
+# [0569] [ROM: 0x18722B] [Bank: 0x61:0x322B] [CPU: 0x722B] [OrigLen: 12]
+JP: あら　どうかしました？
+CN: 咦 怎么了
+# [0570] [ROM: 0x187237] [Bank: 0x61:0x3237] [CPU: 0x7237] [OrigLen: 23]
+JP: あ　すみません。
+JP: わたしは　<NAME>
+JP: といいます。
+CN: 啊 对不起。
+CN: 我是<NAME>
+# [0571] [ROM: 0x18724E] [Bank: 0x61:0x324E] [CPU: 0x724E] [OrigLen: 17]
+JP: ミカサのちょうさを
+JP: しています。
+CN: 在观测三笠状态
+# [0572] [ROM: 0x18725F] [Bank: 0x61:0x325F] [CPU: 0x725F] [OrigLen: 29]
+JP: はじめまして。あたしは
+JP: おか　きくのじょう
+JP: といいます。
+CN: 初次见面。我是
+CN: 冈菊
+# [0573] [ROM: 0x18727C] [Bank: 0x61:0x327C] [CPU: 0x727C] [OrigLen: 31]
+JP: きくちゃん　って
+JP: よんでください。
+JP: よろしくおねがいします。
+CN: 请叫我小菊
+CN: 请多关照。
+# [0574] [ROM: 0x18729B] [Bank: 0x61:0x329B] [CPU: 0x729B] [OrigLen: 32]
+JP: それはそうと　きくちゃん。
+JP: 『まじんき』を
+JP: みつけたんですか？
+CN: 对了小菊
+CN: 你找到魔神机了？
+# [0575] [ROM: 0x1872BB] [Bank: 0x61:0x32BB] [CPU: 0x72BB] [OrigLen: 59]
+JP: ええ…『まじんき』のひとつ
+JP: 『けん』をみつけたんですけど
+JP: ……………………………………
+JP: まものに　おそわれて…………
+CN: 是的…我找到了
+CN: 『魔神机』的『剑』
+CN: …………
+CN: 可被魔物袭击…
+# [0576] [ROM: 0x1872F6] [Bank: 0x61:0x32F6] [CPU: 0x72F6] [OrigLen: 32]
+JP: めのまえが　パーッと
+JP: しろくなっちゃった〜って
+JP: おもったら……
+CN: 眼前忽然
+CN: 变得雪白～
+CN: 我还以为…
+# [0577] [ROM: 0x187316] [Bank: 0x61:0x3316] [CPU: 0x7316] [OrigLen: 41]
+JP: あたしの　まわりが
+JP: こおっていたんです。
+JP: いったい　なにが
+JP: おこったのか…………
+CN: 我的周围
+CN: 都冻住了
+CN: 到底怎么了
+CN: …………
+# [0578] [ROM: 0x18733F] [Bank: 0x61:0x333F] [CPU: 0x733F] [OrigLen: 8]
+JP: そうですか……
+CN: 是吗…
+# [0579] [ROM: 0x187347] [Bank: 0x61:0x3347] [CPU: 0x7347] [OrigLen: 18]
+JP: ところで　『まじんき』は
+JP: どこに？
+CN: 对了魔神机
+CN: 在哪？
+# [0580] [ROM: 0x187359] [Bank: 0x61:0x3359] [CPU: 0x7359] [OrigLen: 29]
+JP: そ　それが……
+JP: だれかが　もってっちゃった
+JP: みたいで……
+CN: 那个……
+CN: 好像被谁
+CN: 拿走了……
+# [0581] [ROM: 0x187376] [Bank: 0x61:0x3376] [CPU: 0x7376] [OrigLen: 24]
+JP: すみません　あたしが
+JP: いたらない　ばかりに……
+CN: 对不起
+CN: 都怪我太没用……
+# [0582] [ROM: 0x18738E] [Bank: 0x61:0x338E] [CPU: 0x738E] [OrigLen: 29]
+JP: いいえ　それよりも
+JP: 『だれか』って　
+JP: いったいだれが……
+CN: 不，比那更甚
+CN: 『某人』是谁…
+# [0583] [ROM: 0x1873AB] [Bank: 0x61:0x33AB] [CPU: 0x73AB] [OrigLen: 23]
+JP: は……はっくしょん！
+JP: さむさで　からだが……
+CN: 哈……阿嚏！
+CN: 好冷…
+# [0584] [ROM: 0x1873C2] [Bank: 0x61:0x33C2] [CPU: 0x73C2] [OrigLen: 14]
+JP: きくちゃん　だいじょうぶ？
+CN: 小菊没事吧？
+# [0585] [ROM: 0x1873D0] [Bank: 0x61:0x33D0] [CPU: 0x73D0] [OrigLen: 17]
+JP: きくちゃん
+JP: だいじょうぶですか？
+CN: 小菊
+CN: 没事吧？
+# [0586] [ROM: 0x1873E1] [Bank: 0x61:0x33E1] [CPU: 0x73E1] [OrigLen: 21]
+JP: さくらさん
+JP: ていげきに　もどりましょう。
+CN: 樱小姐
+CN: 马上回去吧。
+# [0587] [ROM: 0x1873F6] [Bank: 0x61:0x33F6] [CPU: 0x73F6] [OrigLen: 20]
+JP: こんなところにいたら
+JP: カゼひきますよ。
+CN: 待在这种地方
+CN: 会着凉
+# [0588] [ROM: 0x187417] [Bank: 0x61:0x3417] [CPU: 0x7417] [OrigLen: 20]
+JP: <NAME>さん。
+JP: ていげきに　もどりましょう。
+CN: <NAME>小姐。
+CN: 快回去吧。
+# [0589] [ROM: 0x18742B] [Bank: 0x61:0x342B] [CPU: 0x742B] [OrigLen: 19]
+JP: きくちゃんのからだが
+JP: しんぱいです。
+CN: 小菊的身体
+CN: 不对劲
+# [0590] [ROM: 0x18743E] [Bank: 0x61:0x343E] [CPU: 0x743E] [OrigLen: 14]
+JP: すみません　さくらさん……
+CN: 对不起…樱…
+# [0591] [ROM: 0x18744C] [Bank: 0x61:0x344C] [CPU: 0x744C] [OrigLen: 49]
+JP: どこへいくんですか！
+JP: はやく　エンジンの
+JP: ぼうそうを　とめないと　
+JP: たいへんなことになります！！
+CN: 你要去哪！
+CN: 不快点停掉
+CN: 引擎暴走的话
+CN: 会出大事！
+# [0592] [ROM: 0x18747D] [Bank: 0x61:0x347D] [CPU: 0x747D] [OrigLen: 26]
+JP: エンジンが
+JP: とまっているから
+JP: うごかないんですよ。
+CN: 引擎停机了
+CN: 所以动不了。
+# [0593] [ROM: 0x187497] [Bank: 0x61:0x3497] [CPU: 0x7497] [OrigLen: 29]
+JP: <NAME>さん
+JP: まものを　メインダクトから
+JP: ひきぬいてください。
+CN: <NAME>小姐
+CN: 请从主通风管
+CN: 拉出魔物
+# [0594] [ROM: 0x1874B4] [Bank: 0x61:0x34B4] [CPU: 0x74B4] [OrigLen: 50]
+JP: メインダクトをあけて
+JP: エンジンを　うごかせるように
+JP: しないと　エレベーターが
+JP: つかえませんからね。
+CN: 不打开主通风管
+CN: 就没法启动引擎
+CN: 电梯也
+CN: 用不了呢。
+# [0595] [ROM: 0x1874E6] [Bank: 0x61:0x34E6] [CPU: 0x74E6] [OrigLen: 7]
+JP: りょうかい！
+CN: 明白！
+# [0596] [ROM: 0x1874ED] [Bank: 0x61:0x34ED] [CPU: 0x74ED] [OrigLen: 10]
+JP: いきおいよく　ぬく
+CN: 用力拔出
+# [0597] [ROM: 0x1874F7] [Bank: 0x61:0x34F7] [CPU: 0x74F7] [OrigLen: 9]
+JP: ゆっくりと　ぬく
+CN: 慢慢拔出
+# [0598] [ROM: 0x187500] [Bank: 0x61:0x3500] [CPU: 0x7500] [OrigLen: 17]
+JP: よーし。
+JP: いっきに　ぬくわよ！！
+CN: 一次拔出来！！
+# [0599] [ROM: 0x187511] [Bank: 0x61:0x3511] [CPU: 0x7511] [OrigLen: 12]
+JP: よしっ！
+JP: ぬけたわ！！
+CN: 拔出来了！
+# [0600] [ROM: 0x18751D] [Bank: 0x61:0x351D] [CPU: 0x751D] [OrigLen: 6]
+JP: きゃあ！！
+CN: 呀啊
+# [0601] [ROM: 0x187523] [Bank: 0x61:0x3523] [CPU: 0x7523] [OrigLen: 6]
+JP: <NAME>さん！！
+CN: <NAME>！
+# [0602] [ROM: 0x187529] [Bank: 0x61:0x3529] [CPU: 0x7529] [OrigLen: 16]
+JP: <NAME>さん
+JP: だいじょうぶでしたか？
+CN: <NAME>小姐
+CN: 没事吧？
+# [0603] [ROM: 0x187539] [Bank: 0x61:0x3539] [CPU: 0x7539] [OrigLen: 18]
+JP: ひとりで　よく
+JP: がんばりましたね。
+CN: 一个人也很
+CN: 努力呢
+# [0604] [ROM: 0x18754B] [Bank: 0x61:0x354B] [CPU: 0x754B] [OrigLen: 32]
+JP: じゃあ　エンジンの
+JP: スイッチをいれて
+JP: さきへ　すすみましょう。
+CN: 那就打开引擎
+CN: 开关
+CN: 往前走吧。
+# [0605] [ROM: 0x18756B] [Bank: 0x61:0x356B] [CPU: 0x756B] [OrigLen: 21]
+JP: ちゅういして　ゆっくりと
+JP: ぬきましょう。
+CN: 小心点
+CN: 慢慢拔吧。
+# [0606] [ROM: 0x187580] [Bank: 0x61:0x3580] [CPU: 0x7580] [OrigLen: 12]
+JP: よしっ！
+JP: ぬけたわ！！
+CN: 拔出来了！
+# [0607] [ROM: 0x18758C] [Bank: 0x61:0x358C] [CPU: 0x758C] [OrigLen: 12]
+JP: <NAME>さん！
+JP: あぶない！！
+CN: <NAME>！
+CN: 危险！
+# [0608] [ROM: 0x187598] [Bank: 0x61:0x3598] [CPU: 0x7598] [OrigLen: 12]
+JP: やりましたね
+JP: <NAME>さん。
+CN: <NAME>真棒
+# [0609] [ROM: 0x1875A4] [Bank: 0x61:0x35A4] [CPU: 0x75A4] [OrigLen: 32]
+JP: じゃあ　エンジンの
+JP: スイッチをいれて
+JP: さきへ　すすみましょう。
+CN: 那就打开引擎
+CN: 开关
+CN: 往前走吧。
+# [0610] [ROM: 0x1875C4] [Bank: 0x61:0x35C4] [CPU: 0x75C4] [OrigLen: 17]
+JP: よーし。
+JP: いっきに　ぬくわよ！！
+CN: 一次拔出来！！
+# [0611] [ROM: 0x1875D5] [Bank: 0x61:0x35D5] [CPU: 0x75D5] [OrigLen: 12]
+JP: よしっ！
+JP: ぬけたわ！！
+CN: 拔出来了！
+# [0612] [ROM: 0x1875E1] [Bank: 0x61:0x35E1] [CPU: 0x75E1] [OrigLen: 6]
+JP: きゃあ！！
+CN: 呀啊
+# [0613] [ROM: 0x1875E7] [Bank: 0x61:0x35E7] [CPU: 0x75E7] [OrigLen: 6]
+JP: <NAME>さん！！
+CN: <NAME>！
+# [0614] [ROM: 0x1875ED] [Bank: 0x61:0x35ED] [CPU: 0x75ED] [OrigLen: 16]
+JP: <NAME>さん
+JP: だいじょうぶでしたか？
+CN: <NAME>小姐
+CN: 没事吧？
+# [0615] [ROM: 0x1875FD] [Bank: 0x61:0x35FD] [CPU: 0x75FD] [OrigLen: 32]
+JP: じゃあ　エンジンの
+JP: スイッチをいれて
+JP: さきへ　すすみましょう。
+CN: 那就打开引擎
+CN: 开关
+CN: 往前走吧。
+# [0616] [ROM: 0x18761D] [Bank: 0x61:0x361D] [CPU: 0x761D] [OrigLen: 17]
+JP: さくらさん！
+JP: まものがいます！！
+CN: 樱小姐！
+CN: 有魔物
+# [0617] [ROM: 0x18762E] [Bank: 0x61:0x362E] [CPU: 0x762E] [OrigLen: 41]
+JP: まずいですね……
+JP: あそこには　ミカサの
+JP: エンジンせいぎょパネルが
+JP: あるんですよ。
+CN: 糟了……
+CN: 那边有
+CN: 三笠的引擎
+CN: 控制面板。
+# [0618] [ROM: 0x187657] [Bank: 0x61:0x3657] [CPU: 0x7657] [OrigLen: 30]
+JP: あれを　こわされたら…………
+JP: ……………………………………
+CN: 毁掉就完了……
+CN: ………………
+# [0619] [ROM: 0x187675] [Bank: 0x61:0x3675] [CPU: 0x7675] [OrigLen: 11]
+JP: ハ　ハ　ハクション！
+CN: 哈…哈…
+# [0620] [ROM: 0x187680] [Bank: 0x61:0x3680] [CPU: 0x7680] [OrigLen: 38]
+JP: あっ！
+JP: さくらさんのくしゃみに
+JP: ビックリして　とびおりて
+JP: にげちゃった……
+CN: 啊！
+CN: 被樱小姐的喷嚏
+CN: 吓了一跳
+CN: 就逃了…
+# [0621] [ROM: 0x1876A6] [Bank: 0x61:0x36A6] [CPU: 0x76A6] [OrigLen: 25]
+JP: し……　しまった…………
+JP: ごめんなさい
+JP: <NAME>さん。
+CN: 糟…糟了……
+CN: 对不起
+CN: <NAME>。
+# [0622] [ROM: 0x1876BF] [Bank: 0x61:0x36BF] [CPU: 0x76BF] [OrigLen: 41]
+JP: まずいですね……
+JP: あそこには　ミカサの
+JP: エンジンせいぎょパネルが
+JP: あるんですよ。
+CN: 糟了……
+CN: 那边有
+CN: 三笠的引擎
+CN: 控制面板。
+# [0623] [ROM: 0x1876E8] [Bank: 0x61:0x36E8] [CPU: 0x76E8] [OrigLen: 36]
+JP: あれを　こわされたら
+JP: エレベーターが
+JP: うごかせなくなって
+JP: しまいます。
+CN: 那东西毁掉的话
+CN: 电梯就
+CN: 动不了了。
+# [0624] [ROM: 0x18770C] [Bank: 0x61:0x370C] [CPU: 0x770C] [OrigLen: 21]
+JP: あのまものを
+JP: やっつけましょう
+JP: <NAME>さん。
+CN: 打倒那只魔物
+CN: <NAME>小姐
+# [0625] [ROM: 0x187721] [Bank: 0x61:0x3721] [CPU: 0x7721] [OrigLen: 23]
+JP: あっ！
+JP: わたしたちに　きづいて
+JP: にげたわ！！
+CN: 啊！
+CN: 发现我们
+CN: 逃了！
+# [0626] [ROM: 0x187738] [Bank: 0x61:0x3738] [CPU: 0x7738] [OrigLen: 35]
+JP: しまった……
+JP: あのまものは　なにをしようと
+JP: していたんでしょうか……
+CN: 糟了……
+CN: 那只魔物
+CN: 想做什么呢……
+# [0627] [ROM: 0x18775B] [Bank: 0x61:0x375B] [CPU: 0x775B] [OrigLen: 7]
+JP: さくらさん！
+CN: 樱小姐
+# [0628] [ROM: 0x187762] [Bank: 0x61:0x3762] [CPU: 0x7762] [OrigLen: 16]
+JP: どうしたんですか？
+JP: ゆりさん。
+CN: 怎么了？
+CN: 百合…
+# [0629] [ROM: 0x187772] [Bank: 0x61:0x3772] [CPU: 0x7772] [OrigLen: 30]
+JP: ばらぐみの　きくちゃんと
+JP: れんらくが
+JP: とれなくなりました。
+CN: 和杂货店的小菊
+CN: 联系不上了。
+# [0630] [ROM: 0x187790] [Bank: 0x61:0x3790] [CPU: 0x7790] [OrigLen: 9]
+JP: ほんとうですか！
+CN: 真的吗！
+# [0631] [ROM: 0x187799] [Bank: 0x61:0x3799] [CPU: 0x7799] [OrigLen: 36]
+JP: さいごに　つうしんが
+JP: あったのは　そこから
+JP: すこしさきの　エリアです。
+CN: 最后通讯处
+CN: 在那边
+CN: 稍微前面
+# [0632] [ROM: 0x1877BD] [Bank: 0x61:0x37BD] [CPU: 0x77BD] [OrigLen: 21]
+JP: わかりました。
+JP: <NAME>さん
+JP: いそぎましょう。
+CN: 明白了。
+CN: <NAME>小姐
+CN: 快走
+# [0633] [ROM: 0x1877D2] [Bank: 0x61:0x37D2] [CPU: 0x77D2] [OrigLen: 4]
+JP: はい！
+CN: 好
+# [0634] [ROM: 0x1877D6] [Bank: 0x61:0x37D6] [CPU: 0x77D6] [OrigLen: 20]
+JP: あっ！　さくらさん！！
+JP: なにかいます！
+CN: 啊！樱小姐！
+CN: 有魔物
+# [0635] [ROM: 0x1877EA] [Bank: 0x61:0x37EA] [CPU: 0x77EA] [OrigLen: 7]
+JP: まものだわ！
+CN: 魔物！
+# [0636] [ROM: 0x1877F1] [Bank: 0x61:0x37F1] [CPU: 0x77F1] [OrigLen: 32]
+JP: あそこは　ミカサの
+JP: エンジンせいぎょばんが
+JP: あるところですよ。
+CN: 那边是三笠的
+CN: 引擎控制面板。
+# [0637] [ROM: 0x187811] [Bank: 0x61:0x3811] [CPU: 0x7811] [OrigLen: 19]
+JP: いったいなにを
+JP: しているのかしら……
+CN: 到底在做什么
+CN: 呢…
+# [0638] [ROM: 0x187824] [Bank: 0x61:0x3824] [CPU: 0x7824] [OrigLen: 29]
+JP: あれ？　さくらさん。
+JP: このエレベーター
+JP: うごきませんよ。
+CN: 咦？樱小姐。
+CN: 这电梯
+CN: 不动了。
+# [0639] [ROM: 0x187841] [Bank: 0x61:0x3841] [CPU: 0x7841] [OrigLen: 9]
+JP: どうしてかしら？
+CN: 为什么？
+# [0640] [ROM: 0x18784A] [Bank: 0x61:0x384A] [CPU: 0x784A] [OrigLen: 10]
+JP: そうですね…………
+CN: 是啊……
+# [0641] [ROM: 0x187854] [Bank: 0x61:0x3854] [CPU: 0x7854] [OrigLen: 14]
+JP: どうりょくが　とまっている
+CN: 动力停住了
+# [0642] [ROM: 0x187862] [Bank: 0x61:0x3862] [CPU: 0x7862] [OrigLen: 11]
+JP: じゅうりょうオーバー
+CN: 电量不足
+# [0643] [ROM: 0x18786D] [Bank: 0x61:0x386D] [CPU: 0x786D] [OrigLen: 26]
+JP: どうりょくが　とまっている
+JP: からじゃ　ないですか？
+CN: 不是动力
+CN: 停了吗？
+# [0644] [ROM: 0x187887] [Bank: 0x61:0x3887] [CPU: 0x7887] [OrigLen: 25]
+JP: きっと　そうですね。
+JP: あたしも　そうおもいます。
+CN: 是啊。
+CN: 我也这么想。
+# [0645] [ROM: 0x1878A0] [Bank: 0x61:0x38A0] [CPU: 0x78A0] [OrigLen: 27]
+JP: それでは　まず
+JP: エンジンをうごかしに
+JP: いきましょう。
+CN: 那么先
+CN: 去启动引擎
+CN: 吧。
+# [0646] [ROM: 0x1878BB] [Bank: 0x61:0x38BB] [CPU: 0x78BB] [OrigLen: 31]
+JP: …………わかった！
+JP: じゅうりょうオーバーですよ
+JP: さくらさん！
+CN: ………懂了！
+CN: 电量不足啊
+CN: 樱小姐
+# [0647] [ROM: 0x1878DA] [Bank: 0x61:0x38DA] [CPU: 0x78DA] [OrigLen: 46]
+JP: きっとそうですよ。
+JP: じゅうりょうオーバーですよ
+JP: じゅうりょうオーバー！
+JP: おもたいんですよ！
+CN: 肯定是啊。
+CN: 电量不足电量不足！
+CN: 好重啊！
+# [0648] [ROM: 0x187908] [Bank: 0x61:0x3908] [CPU: 0x7908] [OrigLen: 28]
+JP: ……なんかいも　いわなくても
+JP: きこえてますよ
+JP: <NAME>さん。
+CN: ……刚才不用说
+CN: 我也听见了
+CN: <NAME>
+# [0649] [ROM: 0x187924] [Bank: 0x61:0x3924] [CPU: 0x7924] [OrigLen: 36]
+JP: あたしの　たいじゅうが
+JP: おもい……
+JP: そういいたいのですね。
+JP: <NAME>さん……
+CN: 我的体重
+CN: 很重……
+CN: 想这么说…
+CN: <NAME>…
+# [0650] [ROM: 0x187948] [Bank: 0x61:0x3948] [CPU: 0x7948] [OrigLen: 26]
+JP: えっ……あの…………
+JP: いや〜……………………………
+CN: 诶……那个……
+CN: 不ー………
+# [0651] [ROM: 0x187971] [Bank: 0x61:0x3971] [CPU: 0x7971] [OrigLen: 6]
+JP: わかった！
+CN: 懂了
+# [0652] [ROM: 0x187977] [Bank: 0x61:0x3977] [CPU: 0x7977] [OrigLen: 24]
+JP: きっと
+JP: どうりょくが　とまって
+JP: いるんですよ。
+CN: 肯定是
+CN: 动力
+CN: 停住了。
+# [0653] [ROM: 0x18798F] [Bank: 0x61:0x398F] [CPU: 0x798F] [OrigLen: 36]
+JP: だったら　エンジンを
+JP: うごかせば　いいんですね！
+JP: さすが　さくらさん！
+CN: 那就开动引擎
+CN: 就好了！
+CN: 不愧是樱…
+# [0654] [ROM: 0x1879B3] [Bank: 0x61:0x39B3] [CPU: 0x79B3] [OrigLen: 16]
+JP: ありがとうございます
+JP: <NAME>さん。
+CN: 谢谢你
+CN: <NAME>小姐。
+# [0655] [ROM: 0x1879C3] [Bank: 0x61:0x39C3] [CPU: 0x79C3] [OrigLen: 21]
+JP: あ　あの
+JP: さくらさん……
+JP: おこってます？
+CN: 樱小姐……
+CN: 在生气吗
+# [0656] [ROM: 0x1879D8] [Bank: 0x61:0x39D8] [CPU: 0x79D8] [OrigLen: 27]
+JP: いいえ……
+JP: さあ　エンジンをうごかしに
+JP: いきますよ。
+CN: 没有……
+CN: 那我去
+CN: 开动引擎。
+# [0657] [ROM: 0x1879F3] [Bank: 0x61:0x39F3] [CPU: 0x79F3] [OrigLen: 45]
+JP: う〜ん……………………………
+JP: ……………………………………
+JP: ……………わからない…………
+CN: 唔～………
+CN: …………
+CN: ……不知道…
+# [0658] [ROM: 0x187A2F] [Bank: 0x61:0x3A2F] [CPU: 0x7A2F] [OrigLen: 6]
+JP: わかった！
+CN: 懂了
+# [0659] [ROM: 0x187A35] [Bank: 0x61:0x3A35] [CPU: 0x7A35] [OrigLen: 25]
+JP: どうりょくが　とまっている
+JP: からじゃないかしら。
+CN: 我想是动力
+CN: 停了吧。
+# [0660] [ROM: 0x187A4E] [Bank: 0x61:0x3A4E] [CPU: 0x7A4E] [OrigLen: 25]
+JP: だったら　エンジンを
+JP: うごかせば　いいんですね！
+CN: 那就开动引擎
+CN: 就好了！
+# [0661] [ROM: 0x187A67] [Bank: 0x61:0x3A67] [CPU: 0x7A67] [OrigLen: 15]
+JP: そのとおりですよ。
+JP: <NAME>さん。
+CN: 正是呢。
+CN: <NAME>。
+# [0662] [ROM: 0x187A76] [Bank: 0x61:0x3A76] [CPU: 0x7A76] [OrigLen: 25]
+JP: では　まず
+JP: エンジンをうごかしに
+JP: いきましょう。
+CN: 那么先
+CN: 去启动引擎吧。
+# [0663] [ROM: 0x187A8F] [Bank: 0x61:0x3A8F] [CPU: 0x7A8F] [OrigLen: 21]
+JP: エンジンをうごかせば
+JP: つかえそうですね。
+CN: 开引擎的话
+CN: 能用。
+# [0664] [ROM: 0x187AA4] [Bank: 0x61:0x3AA4] [CPU: 0x7AA4] [OrigLen: 12]
+JP: エレベーターホール……
+CN: 电梯厅……
+# [0665] [ROM: 0x187AB0] [Bank: 0x61:0x3AB0] [CPU: 0x7AB0] [OrigLen: 38]
+JP: と　いうことは
+JP: ここは　エレベーターで
+JP: おりるしかない
+JP: ということですね。
+CN: 也就是说
+CN: 这里只能
+CN: 坐电梯下去
+CN: 对吧。
+# [0666] [ROM: 0x187AD6] [Bank: 0x61:0x3AD6] [CPU: 0x7AD6] [OrigLen: 33]
+JP: さくらさん。
+JP: これが　エンジンをうごかす
+JP: パネルなんでしょうか？
+CN: 樱小姐。
+CN: 这就是启动
+CN: 引擎的？
+# [0667] [ROM: 0x187AF7] [Bank: 0x61:0x3AF7] [CPU: 0x7AF7] [OrigLen: 34]
+JP: ええ　そうですよ。
+JP: それじゃあ　パネルについてる
+JP: レバーを…………
+CN: 对呀。
+CN: 那么把面板上的
+CN: 杆子……
+# [0668] [ROM: 0x187B19] [Bank: 0x61:0x3B19] [CPU: 0x7B19] [OrigLen: 12]
+JP: レバーを　うえにあげる
+CN: 杆子往上拉
+# [0669] [ROM: 0x187B25] [Bank: 0x61:0x3B25] [CPU: 0x7B25] [OrigLen: 25]
+JP: レバーを　うえにあげるん
+JP: ですね。
+JP: エイヤッ！！
+CN: 是往上拉
+CN: 对吧。
+CN: 嘿呀！！
+# [0670] [ROM: 0x187B3E] [Bank: 0x61:0x3B3E] [CPU: 0x7B3E] [OrigLen: 5]
+JP: ボキッ！
+CN: 咔！
+# [0671] [ROM: 0x187B43] [Bank: 0x61:0x3B43] [CPU: 0x7B43] [OrigLen: 17]
+JP: あ〜
+JP: レバーが　おれちゃった……
+CN: 啊～
+CN: 杆子断了…
+# [0672] [ROM: 0x187B54] [Bank: 0x61:0x3B54] [CPU: 0x7B54] [OrigLen: 18]
+JP: な　なにやってるんですか
+JP: <NAME>さん。
+CN: 你在干嘛
+CN: <NAME>小姐。
+# [0673] [ROM: 0x187B66] [Bank: 0x61:0x3B66] [CPU: 0x7B66] [OrigLen: 46]
+JP: そのレバーは
+JP: ふるくなってるから
+JP: ゆっくり　あげるようにって
+JP: いうところ　だったんですよ。
+CN: 那杆子已经松了
+CN: 我是说要慢慢
+CN: 往上拉
+CN: 懂了吗。
+# [0674] [ROM: 0x187B94] [Bank: 0x61:0x3B94] [CPU: 0x7B94] [OrigLen: 32]
+JP: ひとのはなしは
+JP: さいごまで　ちゃんと
+JP: きいてください
+JP: <NAME>さん。
+CN: 别人的话
+CN: 请听到最后
+CN: <NAME>小姐。
+# [0675] [ROM: 0x187BB4] [Bank: 0x61:0x3BB4] [CPU: 0x7BB4] [OrigLen: 15]
+JP: エンジンが　きどうしました。
+CN: 引擎启动了。
+# [0676] [ROM: 0x187BC3] [Bank: 0x61:0x3BC3] [CPU: 0x7BC3] [OrigLen: 48]
+JP: まあ　エンジンはうごいたから
+JP: よしとしましょう。
+JP: では　エレベーターのところへ
+JP: もどりますよ。
+CN: 引擎都动了
+CN: 就这样吧。
+CN: 那么回
+CN: 电梯那边去吧。
+# [0677] [ROM: 0x187BF3] [Bank: 0x61:0x3BF3] [CPU: 0x7BF3] [OrigLen: 18]
+JP: レバーを　うえに
+JP: あげるのですか？
+CN: 要把杆子
+CN: 往上拉？
+# [0678] [ROM: 0x187C05] [Bank: 0x61:0x3C05] [CPU: 0x7C05] [OrigLen: 49]
+JP: ええ　そうなんですけど
+JP: そのレバーは　ふるくなって
+JP: いますから　ちゅういして
+JP: やってくださいね。
+CN: 对是这样
+CN: 不过那杆子已经松了
+CN: 小心点
+CN: 好好拉哦。
+# [0679] [ROM: 0x187C36] [Bank: 0x61:0x3C36] [CPU: 0x7C36] [OrigLen: 7]
+JP: りょうかい。
+CN: 明白
+# [0680] [ROM: 0x187C3D] [Bank: 0x61:0x3C3D] [CPU: 0x7C3D] [OrigLen: 10]
+JP: ちからづよくいれる
+CN: 用力推入
+# [0681] [ROM: 0x187C47] [Bank: 0x61:0x3C47] [CPU: 0x7C47] [OrigLen: 9]
+JP: ゆっくりといれる
+CN: 慢慢推入
+# [0682] [ROM: 0x187C50] [Bank: 0x61:0x3C50] [CPU: 0x7C50] [OrigLen: 11]
+JP: はやくしてください。
+CN: 请快点
+# [0683] [ROM: 0x187C5B] [Bank: 0x61:0x3C5B] [CPU: 0x7C5B] [OrigLen: 7]
+JP: エイヤッ！！
+CN: 嘿呀！
+# [0684] [ROM: 0x187C62] [Bank: 0x61:0x3C62] [CPU: 0x7C62] [OrigLen: 5]
+JP: ボキッ！
+CN: 咔！
+# [0685] [ROM: 0x187C67] [Bank: 0x61:0x3C67] [CPU: 0x7C67] [OrigLen: 17]
+JP: あ〜
+JP: レバーが　おれちゃった……
+CN: 啊～
+CN: 杆子断了…
+# [0686] [ROM: 0x187C78] [Bank: 0x61:0x3C78] [CPU: 0x7C78] [OrigLen: 19]
+JP: あらら　ダメじゃないですか
+JP: <NAME>さん。
+CN: 哎呀不行啊
+CN: <NAME>小姐。
+# [0687] [ROM: 0x187C8B] [Bank: 0x61:0x3C8B] [CPU: 0x7C8B] [OrigLen: 22]
+JP: ふるくなってるって
+JP: いったじゃないですか。
+CN: 不是说了
+CN: 会变松的。
+# [0688] [ROM: 0x187CA1] [Bank: 0x61:0x3CA1] [CPU: 0x7CA1] [OrigLen: 15]
+JP: エンジンが　きどうしました。
+CN: 引擎启动了。
+# [0689] [ROM: 0x187CB0] [Bank: 0x61:0x3CB0] [CPU: 0x7CB0] [OrigLen: 46]
+JP: まあ　エンジンはうごいたから
+JP: いいでしょう。
+JP: では　エレベーターのところへ
+JP: もどりますよ。
+CN: 引擎都动了
+CN: 好吧。
+CN: 那么回
+CN: 电梯那边去吧。
+# [0690] [ROM: 0x187CDE] [Bank: 0x61:0x3CDE] [CPU: 0x7CDE] [OrigLen: 29]
+JP: ふるくなってるから
+JP: こわれないように
+JP: ゆっくりと…………
+CN: 因为松了
+CN: 为了不断
+CN: 慢慢来……
+# [0691] [ROM: 0x187CFB] [Bank: 0x61:0x3CFB] [CPU: 0x7CFB] [OrigLen: 14]
+JP: よし　レバーがあがったぞ。
+CN: 杆子升上了
+# [0692] [ROM: 0x187D09] [Bank: 0x61:0x3D09] [CPU: 0x7D09] [OrigLen: 5]
+JP: ボキッ！
+CN: 咔！
+# [0693] [ROM: 0x187D0E] [Bank: 0x61:0x3D0E] [CPU: 0x7D0E] [OrigLen: 30]
+JP: あっ………………………………
+JP: レバーが……おれちゃった……
+CN: 啊…………
+CN: 杆子……断了…
+# [0694] [ROM: 0x187D2C] [Bank: 0x61:0x3D2C] [CPU: 0x7D2C] [OrigLen: 15]
+JP: エンジンが　きどうしました。
+CN: 引擎启动了。
+# [0695] [ROM: 0x187D3B] [Bank: 0x61:0x3D3B] [CPU: 0x7D3B] [OrigLen: 18]
+JP: レバー……
+JP: おれちゃいましたね……
+CN: 杆子……
+CN: 断了呢…
+# [0696] [ROM: 0x187D4D] [Bank: 0x61:0x3D4D] [CPU: 0x7D4D] [OrigLen: 36]
+JP: でも　しかたないですね。
+JP: <NAME>さんは
+JP: ちゅういして　やったん
+JP: ですから。
+CN: 可是没办法啊。
+CN: <NAME>小姐
+CN: 已经很小心了。
+# [0697] [ROM: 0x187D71] [Bank: 0x61:0x3D71] [CPU: 0x7D71] [OrigLen: 27]
+JP: それじゃ　エレベーターの
+JP: ところへ　もどりましょう。
+CN: 那就回
+CN: 电梯那边吧。
+# [0698] [ROM: 0x187D8C] [Bank: 0x61:0x3D8C] [CPU: 0x7D8C] [OrigLen: 13]
+JP: エンジン　せいぎょパネル
+CN: 引擎控制面板
+# [0699] [ROM: 0x187D99] [Bank: 0x61:0x3D99] [CPU: 0x7D99] [OrigLen: 25]
+JP: スイッチを　いれると　
+JP: エンジンが　うごきます。
+CN: 一打开开关
+CN: 引擎就会动。
+# [0700] [ROM: 0x187DB2] [Bank: 0x61:0x3DB2] [CPU: 0x7DB2] [OrigLen: 36]
+JP: エンジンを　うごかすと
+JP: エレベーターなどが
+JP: つかえるように　なります。
+CN: 开动引擎的话
+CN: 电梯之类
+CN: 就能用了。
+# [0701] [ROM: 0x187DD6] [Bank: 0x61:0x3DD6] [CPU: 0x7DD6] [OrigLen: 10]
+JP: スイッチを　いれる
+CN: 打开开关
+# [0702] [ROM: 0x187DE0] [Bank: 0x61:0x3DE0] [CPU: 0x7DE0] [OrigLen: 11]
+JP: スイッチを　いれない
+CN: 不打开开关
+# [0703] [ROM: 0x187DEB] [Bank: 0x61:0x3DEB] [CPU: 0x7DEB] [OrigLen: 32]
+JP: よし　エンジンをうごかそう。
+JP: レバーを　うえに
+JP: あげるんだな。
+CN: 好，来开动引擎。
+CN: 把杆子
+CN: 往上拉
+# [0704] [ROM: 0x187E0B] [Bank: 0x61:0x3E0B] [CPU: 0x7E0B] [OrigLen: 5]
+JP: ボキッ！
+CN: 咔！
+# [0705] [ROM: 0x187E10] [Bank: 0x61:0x3E10] [CPU: 0x7E10] [OrigLen: 18]
+JP: あっ！
+JP: レバーが　おれちゃった……
+CN: 啊！
+CN: 杆子断了……
+# [0706] [ROM: 0x187E22] [Bank: 0x61:0x3E22] [CPU: 0x7E22] [OrigLen: 33]
+JP: あ〜あ…………
+JP: でも　ふるくなってましたから
+JP: しかたないですね。
+CN: 唉～………
+CN: 本来就很松
+CN: 没办法呢。
+# [0707] [ROM: 0x187E43] [Bank: 0x61:0x3E43] [CPU: 0x7E43] [OrigLen: 15]
+JP: エンジンが　きどうしました。
+CN: 引擎启动了。
+# [0708] [ROM: 0x187E52] [Bank: 0x61:0x3E52] [CPU: 0x7E52] [OrigLen: 11]
+JP: では　いきましょう。
+CN: 那么走吧。
+# [0709] [ROM: 0x187E61] [Bank: 0x61:0x3E61] [CPU: 0x7E61] [OrigLen: 20]
+JP: あっ！
+JP: さっきにげていった
+JP: まもの！！
+CN: 啊！
+CN: 魔物！
+# [0710] [ROM: 0x187E75] [Bank: 0x61:0x3E75] [CPU: 0x7E75] [OrigLen: 8]
+JP: ワキ〜〜〜！！
+CN: 哇～！
+# [0711] [ROM: 0x187E7D] [Bank: 0x61:0x3E7D] [CPU: 0x7E7D] [OrigLen: 5]
+JP: エッ！？
+CN: 诶！
+# [0712] [ROM: 0x187E82] [Bank: 0x61:0x3E82] [CPU: 0x7E82] [OrigLen: 13]
+JP: あっ！　た　たいへん！！
+CN: 糟了！！
+# [0713] [ROM: 0x187E8F] [Bank: 0x61:0x3E8F] [CPU: 0x7E8F] [OrigLen: 14]
+JP: な　なんですかーーー！！！
+CN: 什么啊！！！
+# [0714] [ROM: 0x187E9D] [Bank: 0x61:0x3E9D] [CPU: 0x7E9D] [OrigLen: 47]
+JP: まものが　メインダクトに
+JP: すいこまれた　から
+JP: エンジンが　オーバーヒート
+JP: しているんです！！
+CN: 魔物被吸进通风管
+CN: 所以引擎才
+CN: 一直过热
+CN: 烧着呢！
+# [0715] [ROM: 0x187ECC] [Bank: 0x61:0x3ECC] [CPU: 0x7ECC] [OrigLen: 27]
+JP: このままでは
+JP: エンジンが　ばくはつして
+JP: しまいます！
+CN: 这样下去
+CN: 引擎会
+CN: 爆掉的！
+# [0716] [ROM: 0x187EE7] [Bank: 0x61:0x3EE7] [CPU: 0x7EE7] [OrigLen: 22]
+JP: はやく　あのまものを
+JP: なんとかしないと！！
+CN: 快点把魔物
+CN: 拉出来！！
+# [0717] [ROM: 0x187EFD] [Bank: 0x61:0x3EFD] [CPU: 0x7EFD] [OrigLen: 6]
+JP: やっつける
+CN: 打倒
+# [0718] [ROM: 0x187F03] [Bank: 0x61:0x3F03] [CPU: 0x7F03] [OrigLen: 10]
+JP: まものを　ひきぬく
+CN: 拉出魔物
+# [0719] [ROM: 0x187F0D] [Bank: 0x61:0x3F0D] [CPU: 0x7F0D] [OrigLen: 9]
+JP: エンジンをとめる
+CN: 关掉引擎
+# [0720] [ROM: 0x187F16] [Bank: 0x61:0x3F16] [CPU: 0x7F16] [OrigLen: 10]
+JP: やっつけましょう！
+CN: 打倒它！
+# [0721] [ROM: 0x187F20] [Bank: 0x61:0x3F20] [CPU: 0x7F20] [OrigLen: 41]
+JP: それは　ダメです！
+JP: ショックで　エンジンが
+JP: ばくはつするかも
+JP: しれませんから！！
+CN: 那不行！
+CN: 受到冲击的话
+CN: 引擎可能会
+CN: 爆掉！
+# [0722] [ROM: 0x187F49] [Bank: 0x61:0x3F49] [CPU: 0x7F49] [OrigLen: 34]
+JP: そうだわ！　<NAME>さん！
+JP: まものを　ダクトから
+JP: ひきぬいてください！！
+CN: 对呀！<NAME>！
+CN: 从管道里
+CN: 拉出魔物！
+# [0723] [ROM: 0x187F6B] [Bank: 0x61:0x3F6B] [CPU: 0x7F6B] [OrigLen: 24]
+JP: まものを　メインダクトから
+JP: ひきぬきましょう。
+CN: 从主通风管
+CN: 拉出魔物
+# [0724] [ROM: 0x187F83] [Bank: 0x61:0x3F83] [CPU: 0x7F83] [OrigLen: 24]
+JP: そうですね！
+JP: <NAME>さん！
+JP: いいかんがえですよ！！
+CN: 对呀！
+CN: <NAME>！
+CN: 好主意！
+# [0725] [ROM: 0x187F9B] [Bank: 0x61:0x3F9B] [CPU: 0x7F9B] [OrigLen: 13]
+JP: エンジンをとめましょう。
+CN: 关掉引擎吧。
+# [0726] [ROM: 0x187FA8] [Bank: 0x61:0x3FA8] [CPU: 0x7FA8] [OrigLen: 24]
+JP: そうですね！
+JP: <NAME>さん！
+JP: いいかんがえですよ！！
+CN: 对呀！
+CN: <NAME>！
+CN: 好主意！
+# [0727] [ROM: 0x187FC0] [Bank: 0x61:0x3FC0] [CPU: 0x7FC0] [OrigLen: 30]
+JP: じゃあ　さっそく
+JP: エンジンせいぎょパネルへ
+JP: いきましょう！
+CN: 那么马上
+CN: 去引擎控制面板
+CN: 吧！

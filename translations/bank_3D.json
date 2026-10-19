@@ -1,0 +1,10 @@
+[
+  {
+    "bank": "0x3D",
+    "offset": "0x0F40EA",
+    "bank_offset": "0x00EA",
+    "format": "Shift-JIS",
+    "raw_hex": "9c739452",
+    "text": "徭燃"
+  }
+]

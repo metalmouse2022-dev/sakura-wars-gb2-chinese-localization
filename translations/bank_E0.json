@@ -1,0 +1,42 @@
+[
+  {
+    "bank": "0xE0",
+    "offset": "0x380BDC",
+    "bank_offset": "0x0BDC",
+    "format": "Shift-JIS",
+    "raw_hex": "9cfc90f8",
+    "text": "戛煽"
+  },
+  {
+    "bank": "0xE0",
+    "offset": "0x381C7C",
+    "bank_offset": "0x1C7C",
+    "format": "Shift-JIS",
+    "raw_hex": "88d8e885",
+    "text": "畏閻"
+  },
+  {
+    "bank": "0xE0",
+    "offset": "0x38243C",
+    "bank_offset": "0x243C",
+    "format": "Shift-JIS",
+    "raw_hex": "e0d78380",
+    "text": "獸ム"
+  },
+  {
+    "bank": "0xE0",
+    "offset": "0x382C82",
+    "bank_offset": "0x2C82",
+    "format": "Shift-JIS",
+    "raw_hex": "e7879c9f81b8",
+    "text": "辯悄∈"
+  },
+  {
+    "bank": "0xE0",
+    "offset": "0x383CAF",
+    "bank_offset": "0x3CAF",
+    "format": "Shift-JIS",
+    "raw_hex": "e0c040e0e0",
+    "text": "狢@珥"
+  }
+]

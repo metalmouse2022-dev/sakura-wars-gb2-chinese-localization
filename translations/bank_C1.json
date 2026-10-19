@@ -1,0 +1,346 @@
+[
+  {
+    "bank": "0xC1",
+    "offset": "0x30423B",
+    "bank_offset": "0x023B",
+    "format": "Shift-JIS",
+    "raw_hex": "e0e7e07021",
+    "text": "珸瀾!"
+  },
+  {
+    "bank": "0xC1",
+    "offset": "0x30437D",
+    "bank_offset": "0x037D",
+    "format": "Shift-JIS",
+    "raw_hex": "e0e7e07021",
+    "text": "珸瀾!"
+  },
+  {
+    "bank": "0xC1",
+    "offset": "0x304621",
+    "bank_offset": "0x0621",
+    "format": "Shift-JIS",
+    "raw_hex": "e0e7e07021",
+    "text": "珸瀾!"
+  },
+  {
+    "bank": "0xC1",
+    "offset": "0x304689",
+    "bank_offset": "0x0689",
+    "format": "Shift-JIS",
+    "raw_hex": "e0e7e07021",
+    "text": "珸瀾!"
+  },
+  {
+    "bank": "0xC1",
+    "offset": "0x30475D",
+    "bank_offset": "0x075D",
+    "format": "Shift-JIS",
+    "raw_hex": "82a082ab82e782df82dc82b782a981480d0d8140814082cd82a20d8140814082a282a282a6",
+    "text": "あきらめますか？\r\r　　はい\r　　いいえ"
+  },
+  {
+    "bank": "0xC1",
+    "offset": "0x304783",
+    "bank_offset": "0x0783",
+    "format": "Shift-JIS",
+    "raw_hex": "834183438365838082aa0d82a282c182cf82a282c582b781420d0d",
+    "text": "アイテムが\rいっぱいです。\r\r"
+  },
+  {
+    "bank": "0xC1",
+    "offset": "0x305029",
+    "bank_offset": "0x1029",
+    "format": "Shift-JIS",
+    "raw_hex": "e0e7e0703e",
+    "text": "珸瀾>"
+  },
+  {
+    "bank": "0xC1",
+    "offset": "0x305698",
+    "bank_offset": "0x1698",
+    "format": "Shift-JIS",
+    "raw_hex": "e0e7e07021",
+    "text": "珸瀾!"
+  },
+  {
+    "bank": "0xC1",
+    "offset": "0x305AC2",
+    "bank_offset": "0x1AC2",
+    "format": "Shift-JIS",
+    "raw_hex": "e0e7e07021",
+    "text": "珸瀾!"
+  },
+  {
+    "bank": "0xC1",
+    "offset": "0x305C66",
+    "bank_offset": "0x1C66",
+    "format": "Shift-JIS",
+    "raw_hex": "814081408140814081408140814091cf8140814081408140815e0d81408140814081408140814081408b438140814081408140815e0d",
+    "text": "　　　　　　　耐　　　　／\r　　　　　　　気　　　　／\r"
+  },
+  {
+    "bank": "0xC1",
+    "offset": "0x305C9D",
+    "bank_offset": "0x1C9D",
+    "format": "Shift-JIS",
+    "raw_hex": "814081408140814081408140814091cf8140814081408140815e0d81408140814081408140814081408b438140814081408140815e",
+    "text": "　　　　　　　耐　　　　／\r　　　　　　　気　　　　／"
+  },
+  {
+    "bank": "0xC1",
+    "offset": "0x305E0D",
+    "bank_offset": "0x1E0D",
+    "format": "Shift-JIS",
+    "raw_hex": "e0e7e07021",
+    "text": "珸瀾!"
+  },
+  {
+    "bank": "0xC1",
+    "offset": "0x306160",
+    "bank_offset": "0x2160",
+    "format": "Shift-JIS",
+    "raw_hex": "814082b182a482b082ab814095a8814081408140814096828140814081400d814082da82a482ac82e5814095a8814081408140814096820d814082b782ce82e282b3",
+    "text": "　こうげき　物　　　　魔　　　\r　ぼうぎょ　物　　　　魔\r　すばやさ"
+  },
+  {
+    "bank": "0xC1",
+    "offset": "0x3061DC",
+    "bank_offset": "0x21DC",
+    "format": "Shift-JIS",
+    "raw_hex": "620d814082b182a482a98146814091cf8250824f824f82a982a282d382ad",
+    "text": "b\r　こうか：　耐１００かいふく"
+  },
+  {
+    "bank": "0xC1",
+    "offset": "0x3061FB",
+    "bank_offset": "0x21FB",
+    "format": "Shift-JIS",
+    "raw_hex": "0d814082b182a482a9814681408b438250824f824f82a982a282d382ad",
+    "text": "\r　こうか：　気１００かいふく"
+  },
+  {
+    "bank": "0xC1",
+    "offset": "0x306219",
+    "bank_offset": "0x2219",
+    "format": "Shift-JIS",
+    "raw_hex": "0d814082b982f182c682a482c582b582a982c282a982a682dc82b982f18142",
+    "text": "\r　せんとうでしかつかえません。"
+  },
+  {
+    "bank": "0xC1",
+    "offset": "0x306298",
+    "bank_offset": "0x2298",
+    "format": "Shift-JIS",
+    "raw_hex": "e0e7e07021",
+    "text": "珸瀾!"
+  },
+  {
+    "bank": "0xC1",
+    "offset": "0x3062F0",
+    "bank_offset": "0x22F0",
+    "format": "Shift-JIS",
+    "raw_hex": "e0e7e07021",
+    "text": "珸瀾!"
+  },
+  {
+    "bank": "0xC1",
+    "offset": "0x306335",
+    "bank_offset": "0x2335",
+    "format": "Shift-JIS",
+    "raw_hex": "8140959781408146814082b782ce82e282b381aa814082b182a482b082ab81ab0d814097d181408146814082d682f182a982c882b58140814081408140814081400d814089ce81408146814082b182a482b082ab81aa814082da82a482ac82e581ab0d81408e5281408146814082da82a482ac82e581aa814082b782ce82e282b381ab",
+    "text": "　風　：　すばやさ↑　こうげき↓\r　林　：　へんかなし　　　　　　\r　火　：　こうげき↑　ぼうぎょ↓\r　山　：　ぼうぎょ↑　すばやさ↓"
+  },
+  {
+    "bank": "0xC1",
+    "offset": "0x3063BE",
+    "bank_offset": "0x23BE",
+    "format": "Shift-JIS",
+    "raw_hex": "e0e7e0703e",
+    "text": "珸瀾>"
+  },
+  {
+    "bank": "0xC1",
+    "offset": "0x3064D5",
+    "bank_offset": "0x24D5",
+    "format": "Shift-JIS",
+    "raw_hex": "e0e7e0703e",
+    "text": "珸瀾>"
+  },
+  {
+    "bank": "0xC1",
+    "offset": "0x306886",
+    "bank_offset": "0x2886",
+    "format": "Shift-JIS",
+    "raw_hex": "e0e7e0703e",
+    "text": "珸瀾>"
+  },
+  {
+    "bank": "0xC1",
+    "offset": "0x306DD7",
+    "bank_offset": "0x2DD7",
+    "format": "Shift-JIS",
+    "raw_hex": "e0e7e07021",
+    "text": "珸瀾!"
+  },
+  {
+    "bank": "0xC1",
+    "offset": "0x306E48",
+    "bank_offset": "0x2E48",
+    "format": "Shift-JIS",
+    "raw_hex": "6f326f834183438365838082f082d982a982f182c582ab82e981428140814081408140",
+    "text": "o2oアイテムをほかんできる。　　　　"
+  },
+  {
+    "bank": "0xC1",
+    "offset": "0x306E6C",
+    "bank_offset": "0x2E6C",
+    "format": "Shift-JIS",
+    "raw_hex": "82b182a482d482aa82e082c182c482a282e98341834383658380814281408140",
+    "text": "こうぶがもっているアイテム。　　"
+  },
+  {
+    "bank": "0xC1",
+    "offset": "0x306E8D",
+    "bank_offset": "0x2E8D",
+    "format": "Shift-JIS",
+    "raw_hex": "82a482c58141837b8366834282cc82b182a482a982f181428140814081408140",
+    "text": "うで、ボディのこうかん。　　　　"
+  },
+  {
+    "bank": "0xC1",
+    "offset": "0x306EAE",
+    "bank_offset": "0x2EAE",
+    "format": "Shift-JIS",
+    "raw_hex": "82bd82a282b982c282c883418343836583808142814081408140814081408140",
+    "text": "たいせつなアイテム。　　　　　　"
+  },
+  {
+    "bank": "0xC1",
+    "offset": "0x306ECF",
+    "bank_offset": "0x2ECF",
+    "format": "Shift-JIS",
+    "raw_hex": "82b182a482d482cc82b682e582a482bd82a2814182c282e682b3814281408140",
+    "text": "こうぶのじょうたい、つよさ。　　"
+  },
+  {
+    "bank": "0xC1",
+    "offset": "0x306EF0",
+    "bank_offset": "0x2EF0",
+    "format": "Shift-JIS",
+    "raw_hex": "8175959797d189ce8e52817682cc82b982f182e882e182ad8142814081408140",
+    "text": "「風林火山」のせんりゃく。　　　"
+  },
+  {
+    "bank": "0xC1",
+    "offset": "0x306F11",
+    "bank_offset": "0x2F11",
+    "format": "Shift-JIS",
+    "raw_hex": "82c682bf82e382a482c582e282df82e982b182c682aa82c582ab82dc82b78142",
+    "text": "とちゅうでやめることができます。"
+  },
+  {
+    "bank": "0xC1",
+    "offset": "0x306F32",
+    "bank_offset": "0x2F32",
+    "format": "Shift-JIS",
+    "raw_hex": "83418343838a835882aa82c282a982a682e982a982a282d382ad82ed82b48142",
+    "text": "アイリスがつかえるかいふくわざ。"
+  },
+  {
+    "bank": "0xC1",
+    "offset": "0x307987",
+    "bank_offset": "0x3987",
+    "format": "Shift-JIS",
+    "raw_hex": "e0e7e0703e",
+    "text": "珸瀾>"
+  },
+  {
+    "bank": "0xC1",
+    "offset": "0x307A24",
+    "bank_offset": "0x3A24",
+    "format": "Shift-JIS",
+    "raw_hex": "8366815b835e82c882b5",
+    "text": "データなし"
+  },
+  {
+    "bank": "0xC1",
+    "offset": "0x307AFD",
+    "bank_offset": "0x3AFD",
+    "format": "Shift-JIS",
+    "raw_hex": "7c82be82a2825082b582e582a40d82b182a482d48140837e834a835482c982bd82c28149",
+    "text": "|だい１しょう\rこうぶ　ミカサにたつ！"
+  },
+  {
+    "bank": "0xC1",
+    "offset": "0x307B22",
+    "bank_offset": "0x3B22",
+    "format": "Shift-JIS",
+    "raw_hex": "82be82a2825182b582e582a40d82da82a482bb82a4834783938357839382f082c682df82eb",
+    "text": "だい２しょう\rぼうそうエンジンをとめろ"
+  },
+  {
+    "bank": "0xC1",
+    "offset": "0x307B48",
+    "bank_offset": "0x3B48",
+    "format": "Shift-JIS",
+    "raw_hex": "82be82a2825282b582e582a40d82cd82c182b582f18149814082b182a482d4835e8393834e",
+    "text": "だい３しょう\rはっしん！　こうぶタンク"
+  },
+  {
+    "bank": "0xC1",
+    "offset": "0x307B6E",
+    "bank_offset": "0x3B6E",
+    "format": "Shift-JIS",
+    "raw_hex": "82be82a2825382b582e582a40d82ad82e782e282dd82a982e782cc8272826e8272",
+    "text": "だい４しょう\rくらやみからのＳＯＳ"
+  },
+  {
+    "bank": "0xC1",
+    "offset": "0x307B90",
+    "bank_offset": "0x3B90",
+    "format": "Shift-JIS",
+    "raw_hex": "82be82a2825482b582e582a40d82e282dc82c6814082b682e582a482e882ad82b582ea82a2",
+    "text": "だい５しょう\rやまと　じょうりくしれい"
+  },
+  {
+    "bank": "0xC1",
+    "offset": "0x307BB6",
+    "bank_offset": "0x3BB6",
+    "format": "Shift-JIS",
+    "raw_hex": "82be82a2825582b582e582a40d82b582e182ad82cb82c282cc814082c682a4",
+    "text": "だい６しょう\rしゃくねつの　とう"
+  },
+  {
+    "bank": "0xC1",
+    "offset": "0x307BD6",
+    "bank_offset": "0x3BD6",
+    "format": "Shift-JIS",
+    "raw_hex": "82be82a2825682b582e582a40d82cc82eb82ed82ea82bd814082eb82a482b282ad",
+    "text": "だい７しょう\rのろわれた　ろうごく"
+  },
+  {
+    "bank": "0xC1",
+    "offset": "0x307BF8",
+    "bank_offset": "0x3BF8",
+    "format": "Shift-JIS",
+    "raw_hex": "82be82a2825782b582e582a40d82b382a282b282cc814082dc82b682f182ab",
+    "text": "だい８しょう\rさいごの　まじんき"
+  },
+  {
+    "bank": "0xC1",
+    "offset": "0x307C18",
+    "bank_offset": "0x3C18",
+    "format": "Shift-JIS",
+    "raw_hex": "82be82a2825782b582e582a40d82b382a282b282cc814082dc82b682f182ab",
+    "text": "だい８しょう\rさいごの　まじんき"
+  },
+  {
+    "bank": "0xC1",
+    "offset": "0x307C38",
+    "bank_offset": "0x3C38",
+    "format": "Shift-JIS",
+    "raw_hex": "82be82a2825882b582e582a40d82af82c182b982f1814982dc82a982a282cc836783728389",
+    "text": "だい９しょう\rけっせん！まかいのトビラ"
+  }
+]

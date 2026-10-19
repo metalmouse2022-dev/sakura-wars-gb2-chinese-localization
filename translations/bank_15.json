@@ -1,0 +1,58 @@
+[
+  {
+    "bank": "0x15",
+    "offset": "0x054005",
+    "bank_offset": "0x0005",
+    "format": "Shift-JIS",
+    "raw_hex": "e0e7e07021",
+    "text": "珸瀾!"
+  },
+  {
+    "bank": "0x15",
+    "offset": "0x054352",
+    "bank_offset": "0x0352",
+    "format": "Shift-JIS",
+    "raw_hex": "e0e7e07021",
+    "text": "珸瀾!"
+  },
+  {
+    "bank": "0x15",
+    "offset": "0x0543C9",
+    "bank_offset": "0x03C9",
+    "format": "Shift-JIS",
+    "raw_hex": "81aa814090ed93ac0d81a981408358834e838a837683670d81ab81408366836f8362834f0d81a8814095f18d908f91",
+    "text": "↑　戦闘\r←　スクリプト\r↓　デバッグ\r→　報告書"
+  },
+  {
+    "bank": "0x15",
+    "offset": "0x0546F0",
+    "bank_offset": "0x06F0",
+    "format": "Shift-JIS",
+    "raw_hex": "e0e7e07021",
+    "text": "珸瀾!"
+  },
+  {
+    "bank": "0x15",
+    "offset": "0x05472C",
+    "bank_offset": "0x072C",
+    "format": "Shift-JIS",
+    "raw_hex": "e0e7e07021",
+    "text": "珸瀾!"
+  },
+  {
+    "bank": "0x15",
+    "offset": "0x055856",
+    "bank_offset": "0x1856",
+    "format": "Shift-JIS",
+    "raw_hex": "8c8a9b657c599d97",
+    "text": "穴嫺|Y摎"
+  },
+  {
+    "bank": "0x15",
+    "offset": "0x056683",
+    "bank_offset": "0x2683",
+    "format": "Shift-JIS",
+    "raw_hex": "eecc92716d",
+    "text": "閒智m"
+  }
+]

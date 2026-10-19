@@ -1,0 +1,98 @@
+[
+  {
+    "bank": "0x07",
+    "offset": "0x01C156",
+    "bank_offset": "0x0156",
+    "format": "Shift-JIS",
+    "raw_hex": "0aee4aeec4ea9e",
+    "text": "\n珵鍗龠"
+  },
+  {
+    "bank": "0x07",
+    "offset": "0x01C355",
+    "bank_offset": "0x0355",
+    "format": "Shift-JIS",
+    "raw_hex": "e8eee8a6",
+    "text": "韶隕"
+  },
+  {
+    "bank": "0x07",
+    "offset": "0x01CE07",
+    "bank_offset": "0x0E07",
+    "format": "Shift-JIS",
+    "raw_hex": "ea46e2e2e24c",
+    "text": "鵲粐祗"
+  },
+  {
+    "bank": "0x07",
+    "offset": "0x01CF39",
+    "bank_offset": "0x0F39",
+    "format": "Shift-JIS",
+    "raw_hex": "92929296",
+    "text": "鋳猪"
+  },
+  {
+    "bank": "0x07",
+    "offset": "0x01D083",
+    "bank_offset": "0x1083",
+    "format": "Shift-JIS",
+    "raw_hex": "8aaaea96",
+    "text": "巻齧"
+  },
+  {
+    "bank": "0x07",
+    "offset": "0x01D185",
+    "bank_offset": "0x1185",
+    "format": "Shift-JIS",
+    "raw_hex": "ea54e2dc5c9caa2a",
+    "text": "鶺籤\\悴*"
+  },
+  {
+    "bank": "0x07",
+    "offset": "0x01D198",
+    "bank_offset": "0x1198",
+    "format": "Shift-JIS",
+    "raw_hex": "5ee4eeee54",
+    "text": "^蒡皂"
+  },
+  {
+    "bank": "0x07",
+    "offset": "0x01D3F8",
+    "bank_offset": "0x13F8",
+    "format": "Shift-JIS",
+    "raw_hex": "5ee8e8ea4e",
+    "text": "^韋鶩"
+  },
+  {
+    "bank": "0x07",
+    "offset": "0x01DB18",
+    "bank_offset": "0x1B18",
+    "format": "Shift-JIS",
+    "raw_hex": "44eee4e45e",
+    "text": "D鮏膺"
+  },
+  {
+    "bank": "0x07",
+    "offset": "0x01DB39",
+    "bank_offset": "0x1B39",
+    "format": "Shift-JIS",
+    "raw_hex": "9ef494f4",
+    "text": "橈簸"
+  },
+  {
+    "bank": "0x07",
+    "offset": "0x01E0B9",
+    "bank_offset": "0x20B9",
+    "format": "Shift-JIS",
+    "raw_hex": "8a9292a6",
+    "text": "樺懲"
+  },
+  {
+    "bank": "0x07",
+    "offset": "0x01E309",
+    "bank_offset": "0x2309",
+    "format": "Shift-JIS",
+    "raw_hex": "9c8888be",
+    "text": "怦粟"
+  }
+]

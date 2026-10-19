@@ -1,0 +1,3684 @@
+# 樱花大战GB2 汉化底稿: 地下城与出击剧情 (Bank 0x6C)
+# 本文件条目数: 684
+# 规则: 在 CN: 下方直接输入中文译文。换行为实际换行，保留 <NAME> 等控制标签。
+============================================================
+
+# [0001] [ROM: 0x1B0000] [Bank: 0x6C:0x0000] [CPU: 0x4000] [OrigLen: 20]
+JP: <NAME>は
+JP: 『リペアキット』を
+JP: てにいれた。
+CN: <NAME>获得了修理套件。
+
+# [0002] [ROM: 0x1B0014] [Bank: 0x6C:0x0014] [CPU: 0x4014] [OrigLen: 21]
+JP: いしでできた　かんおけ……
+JP: みたいだわ。
+CN: 像是石棺……
+
+# [0003] [ROM: 0x1B0029] [Bank: 0x6C:0x0029] [CPU: 0x4029] [OrigLen: 5]
+JP: あけない
+CN: 不开
+
+# [0004] [ROM: 0x1B002E] [Bank: 0x6C:0x002E] [CPU: 0x402E] [OrigLen: 4]
+JP: あける
+CN: 开
+
+# [0005] [ROM: 0x1B0032] [Bank: 0x6C:0x0032] [CPU: 0x4032] [OrigLen: 26]
+JP: ……………………………………
+JP: やめておきましょう。
+CN: ……还是算了。
+
+# [0006] [ROM: 0x1B004C] [Bank: 0x6C:0x004C] [CPU: 0x404C] [OrigLen: 6]
+JP: あけます。
+CN: 打开
+
+# [0007] [ROM: 0x1B0052] [Bank: 0x6C:0x0052] [CPU: 0x4052] [OrigLen: 11]
+JP: あっ！
+JP: てきだわ！！
+CN: 啊！敌人！
+
+# [0008] [ROM: 0x1B005D] [Bank: 0x6C:0x005D] [CPU: 0x405D] [OrigLen: 14]
+JP: ……あら？
+JP: なにかあるわ？
+CN: …哦？有东西
+
+# [0009] [ROM: 0x1B006B] [Bank: 0x6C:0x006B] [CPU: 0x406B] [OrigLen: 20]
+JP: <NAME>は
+JP: 『リペアキット』を
+JP: てにいれた。
+CN: <NAME>获得了修理套件。
+
+# [0010] [ROM: 0x1B007F] [Bank: 0x6C:0x007F] [CPU: 0x407F] [OrigLen: 20]
+JP: こうらんさん。
+JP: なにか　おちています。
+CN: 红兰。
+CN: 有东西掉了
+
+# [0011] [ROM: 0x1B0093] [Bank: 0x6C:0x0093] [CPU: 0x4093] [OrigLen: 26]
+JP: <NAME>は　キーアイテム
+JP: 『コンパクト』を
+JP: てにいれた。
+CN: <NAME>获得关键道具粉盒
+
+# [0012] [ROM: 0x1B00AD] [Bank: 0x6C:0x00AD] [CPU: 0x40AD] [OrigLen: 7]
+JP: コンパクト？
+CN: 粉盒？
+
+# [0013] [ROM: 0x1B00B4] [Bank: 0x6C:0x00B4] [CPU: 0x40B4] [OrigLen: 26]
+JP: おおきなじで
+JP: 『うつくしい』って
+JP: かかれています。
+CN: 用大字写着"美丽"。
+
+# [0014] [ROM: 0x1B00CE] [Bank: 0x6C:0x00CE] [CPU: 0x40CE] [OrigLen: 20]
+JP: うつくしいと　かかれた
+JP: コンパクト……
+CN: 写着美丽的粉盒……
+
+# [0015] [ROM: 0x1B00E2] [Bank: 0x6C:0x00E2] [CPU: 0x40E2] [OrigLen: 22]
+JP: なかには　バラのもようが
+JP: かかれています。
+CN: 里面画着玫瑰图案。
+
+# [0016] [ROM: 0x1B00F8] [Bank: 0x6C:0x00F8] [CPU: 0x40F8] [OrigLen: 20]
+JP: なんや　けったいな
+JP: コンパクトやな〜。
+CN: 好奇怪的粉盒啊～。
+
+# [0017] [ROM: 0x1B010C] [Bank: 0x6C:0x010C] [CPU: 0x410C] [OrigLen: 32]
+JP: なるほどなあ……
+JP: これも　ことねはんのものに
+JP: ちがいないやろ。
+CN: 原来如此…这肯定是小音小姐的。
+
+# [0018] [ROM: 0x1B012C] [Bank: 0x6C:0x012C] [CPU: 0x412C] [OrigLen: 20]
+JP: こうらんさん。
+JP: なにか　おちています。
+CN: 红兰。
+CN: 有东西掉了
+
+# [0019] [ROM: 0x1B0140] [Bank: 0x6C:0x0140] [CPU: 0x4140] [OrigLen: 25]
+JP: <NAME>は　キーアイテム
+JP: 『くちべに』を
+JP: てにいれた。
+CN: <NAME>获得关键道具口红
+
+# [0020] [ROM: 0x1B0159] [Bank: 0x6C:0x0159] [CPU: 0x4159] [OrigLen: 6]
+JP: くちべに？
+CN: 口红
+
+# [0021] [ROM: 0x1B015F] [Bank: 0x6C:0x015F] [CPU: 0x415F] [OrigLen: 20]
+JP: 『うつくしい』って
+JP: かかれています。
+CN: "美丽"写着。
+
+# [0022] [ROM: 0x1B0173] [Bank: 0x6C:0x0173] [CPU: 0x4173] [OrigLen: 20]
+JP: うつくしい？
+JP: くちべに　うつくしい……
+CN: 美丽？口红美丽……
+
+# [0023] [ROM: 0x1B0187] [Bank: 0x6C:0x0187] [CPU: 0x4187] [OrigLen: 25]
+JP: バラのもようが
+JP: かかれています。
+JP: もしかして……
+CN: 画着玫瑰图案。难道……
+
+# [0024] [ROM: 0x1B01A0] [Bank: 0x6C:0x01A0] [CPU: 0x41A0] [OrigLen: 12]
+JP: バラぐみの　ひとが……
+CN: 蔷薇组人…
+
+# [0025] [ROM: 0x1B01AC] [Bank: 0x6C:0x01AC] [CPU: 0x41AC] [OrigLen: 14]
+JP: バラずきの　じょせいが……
+CN: 玫瑰爱好者…
+
+# [0026] [ROM: 0x1B01BA] [Bank: 0x6C:0x01BA] [CPU: 0x41BA] [OrigLen: 24]
+JP: もしかして　バラぐみの
+JP: ひとが　このさきに……
+CN: 难道蔷薇组的人在前面…
+
+# [0027] [ROM: 0x1B01D2] [Bank: 0x6C:0x01D2] [CPU: 0x41D2] [OrigLen: 17]
+JP: ウチも　そうおもったで
+JP: <NAME>はん。
+CN: 我也这么想<NAME>。
+
+# [0028] [ROM: 0x1B01E3] [Bank: 0x6C:0x01E3] [CPU: 0x41E3] [OrigLen: 35]
+JP: このさきに　バラぐみの
+JP: たいちょう　ことねはんが
+JP: いるのかもしれん。
+CN: 前面可能有蔷薇组的队长小音小姐。
+
+# [0029] [ROM: 0x1B0206] [Bank: 0x6C:0x0206] [CPU: 0x4206] [OrigLen: 9]
+JP: いこう　<NAME>はん。
+CN: 走吧<NAME>。
+
+# [0030] [ROM: 0x1B020F] [Bank: 0x6C:0x020F] [CPU: 0x420F] [OrigLen: 28]
+JP: バラずきの　じょせいが
+JP: おとして
+JP: いったんでしょうか？
+CN: 是喜欢玫瑰的女性掉的吗？
+
+# [0031] [ROM: 0x1B022B] [Bank: 0x6C:0x022B] [CPU: 0x422B] [OrigLen: 25]
+JP: バラずきのじょせい？
+JP: ……バラずきの………………
+CN: 玫瑰爱好者？…玫瑰爱好…
+
+# [0032] [ROM: 0x1B0244] [Bank: 0x6C:0x0244] [CPU: 0x4244] [OrigLen: 23]
+JP: ……わかった！
+JP: バラのもように　うつくしい。
+CN: …明白！玫瑰图案，美丽
+
+# [0033] [ROM: 0x1B025B] [Bank: 0x6C:0x025B] [CPU: 0x425B] [OrigLen: 31]
+JP: バラぐみの　たいちょう
+JP: ことねはんが
+JP: このさきに　いるんや！
+CN: 蔷薇组的队长小音小姐在前面！
+
+# [0034] [ROM: 0x1B027A] [Bank: 0x6C:0x027A] [CPU: 0x427A] [OrigLen: 12]
+JP: いそぐで！
+JP: <NAME>はん！！
+CN: 快走！<NAME>！！
+
+# [0035] [ROM: 0x1B0293] [Bank: 0x6C:0x0293] [CPU: 0x4293] [OrigLen: 50]
+JP: バラのもよう……
+JP: 『うつくしい』のもじ……
+JP: バラ……　うつくしい……
+JP: ……………………………………
+CN: 玫瑰图案……"美丽"的文字……玫瑰……美丽……
+
+# [0036] [ROM: 0x1B02C5] [Bank: 0x6C:0x02C5] [CPU: 0x42C5] [OrigLen: 14]
+JP: わかった！
+JP: バラぐみや！！
+CN: 明白！蔷薇组
+
+# [0037] [ROM: 0x1B02D3] [Bank: 0x6C:0x02D3] [CPU: 0x42D3] [OrigLen: 32]
+JP: バラぐみの　たいちょう
+JP: ことねはんが
+JP: このさきに　いるんや！！
+CN: 蔷薇组的队长小音小姐在前面！！
+
+# [0038] [ROM: 0x1B02F3] [Bank: 0x6C:0x02F3] [CPU: 0x42F3] [OrigLen: 12]
+JP: いそぐで！
+JP: <NAME>はん！！
+CN: 快走！<NAME>！！
+
+# [0039] [ROM: 0x1B02FF] [Bank: 0x6C:0x02FF] [CPU: 0x42FF] [OrigLen: 24]
+JP: あっ！　つうしんだわ！
+JP: はい
+JP: こちら　<NAME>です。
+CN: 啊！通信！是，我是<NAME>。
+
+# [0040] [ROM: 0x1B0317] [Bank: 0x6C:0x0317] [CPU: 0x4317] [OrigLen: 6]
+JP: つばきさん
+CN: 椿
+
+# [0041] [ROM: 0x1B031D] [Bank: 0x6C:0x031D] [CPU: 0x431D] [OrigLen: 6]
+JP: かすみさん
+CN: 霞
+
+# [0042] [ROM: 0x1B0323] [Bank: 0x6C:0x0323] [CPU: 0x4323] [OrigLen: 5]
+JP: ゆりさん
+CN: 百合
+
+# [0043] [ROM: 0x1B0328] [Bank: 0x6C:0x0328] [CPU: 0x4328] [OrigLen: 11]
+JP: こちら　つばきです。
+CN: 这里是椿。
+
+# [0044] [ROM: 0x1B0333] [Bank: 0x6C:0x0333] [CPU: 0x4333] [OrigLen: 42]
+JP: いま　<NAME>さんたちが
+JP: すすんでいる　ほうこうに
+JP: バラぐみの　はんのうが
+JP: ありました。
+CN: 现在<NAME>你们前进的方向有蔷薇组的反应。
+
+# [0045] [ROM: 0x1B035D] [Bank: 0x6C:0x035D] [CPU: 0x435D] [OrigLen: 36]
+JP: おそらく　バラぐみの
+JP: せいりゅういん　ことね　さん
+JP: だとおもわれます。
+CN: 大概是蔷薇组的经理小音小姐。
+
+# [0046] [ROM: 0x1B0381] [Bank: 0x6C:0x0381] [CPU: 0x4381] [OrigLen: 11]
+JP: りょうかいしました。
+CN: 明白了。
+
+# [0047] [ROM: 0x1B038C] [Bank: 0x6C:0x038C] [CPU: 0x438C] [OrigLen: 11]
+JP: こちら　かすみです。
+CN: 这里是霞。
+
+# [0048] [ROM: 0x1B0397] [Bank: 0x6C:0x0397] [CPU: 0x4397] [OrigLen: 42]
+JP: いま　<NAME>さんたちが
+JP: すすんでいる　ほうこうに
+JP: バラぐみの　はんのうが
+JP: ありました。
+CN: 现在<NAME>你们前进的方向有蔷薇组的反应。
+
+# [0049] [ROM: 0x1B03C1] [Bank: 0x6C:0x03C1] [CPU: 0x43C1] [OrigLen: 36]
+JP: おそらく　バラぐみの
+JP: せいりゅういん　ことね　さん
+JP: だとおもわれます。
+CN: 大概是蔷薇组的经理小音小姐。
+
+# [0050] [ROM: 0x1B03E5] [Bank: 0x6C:0x03E5] [CPU: 0x43E5] [OrigLen: 11]
+JP: りょうかいしました。
+CN: 明白了。
+
+# [0051] [ROM: 0x1B03F0] [Bank: 0x6C:0x03F0] [CPU: 0x43F0] [OrigLen: 10]
+JP: こちら　ゆりです。
+CN: 我是百合
+
+# [0052] [ROM: 0x1B03FA] [Bank: 0x6C:0x03FA] [CPU: 0x43FA] [OrigLen: 42]
+JP: いま　<NAME>さんたちが
+JP: すすんでいる　ほうこうに
+JP: バラぐみの　はんのうが
+JP: あったのよ。
+CN: 现在<NAME>你们前进的方向有蔷薇组的反应。
+
+# [0053] [ROM: 0x1B0424] [Bank: 0x6C:0x0424] [CPU: 0x4424] [OrigLen: 34]
+JP: おそらく　バラぐみの
+JP: せいりゅういん　ことね　さん
+JP: だとおもうわ。
+CN: 大概是蔷薇组的经理小音小姐。
+
+# [0054] [ROM: 0x1B0446] [Bank: 0x6C:0x0446] [CPU: 0x4446] [OrigLen: 11]
+JP: りょうかいしました。
+CN: 明白了。
+
+# [0055] [ROM: 0x1B0451] [Bank: 0x6C:0x0451] [CPU: 0x4451] [OrigLen: 9]
+JP: こちら　かえで。
+CN: 枫
+
+# [0056] [ROM: 0x1B045A] [Bank: 0x6C:0x045A] [CPU: 0x445A] [OrigLen: 40]
+JP: いま　<NAME>たちが
+JP: すすんでいる　ほうこうに
+JP: バラぐみの　はんのうが
+JP: あったのよ。
+CN: 现在<NAME>你们前进的方向有蔷薇组的反应。
+
+# [0057] [ROM: 0x1B0482] [Bank: 0x6C:0x0482] [CPU: 0x4482] [OrigLen: 35]
+JP: おそらく　バラぐみの
+JP: せいりゅういん　ことね　さん
+JP: だと　おもうわ。
+CN: 大概是蔷薇组的经理小音小姐。
+
+# [0058] [ROM: 0x1B04A5] [Bank: 0x6C:0x04A5] [CPU: 0x44A5] [OrigLen: 11]
+JP: りょうかいしました。
+CN: 明白了。
+
+# [0059] [ROM: 0x1B04B0] [Bank: 0x6C:0x04B0] [CPU: 0x44B0] [OrigLen: 37]
+JP: こうらんさん。
+JP: やっぱり　このさきに
+JP: バラぐみのひとが
+JP: いるみたいです。
+CN: 红兰小姐。前面果然有蔷薇组的人。
+
+# [0060] [ROM: 0x1B04D5] [Bank: 0x6C:0x04D5] [CPU: 0x44D5] [OrigLen: 17]
+JP: よっしゃ！
+JP: いそぐで　<NAME>はん！！
+CN: 好！快走<NAME>！！
+
+# [0061] [ROM: 0x1B04E6] [Bank: 0x6C:0x04E6] [CPU: 0x44E6] [OrigLen: 12]
+JP: これは　なにかしら……
+CN: 这是什么…
+
+# [0062] [ROM: 0x1B04F2] [Bank: 0x6C:0x04F2] [CPU: 0x44F2] [OrigLen: 40]
+JP: いしの　かんおけか……
+JP: なにが　はいってんのかなぁ。
+JP: あけてみるか？
+JP: <NAME>はん。
+CN: 石棺吗……里面有什么呢。要打开吗<NAME>？
+
+# [0063] [ROM: 0x1B051A] [Bank: 0x6C:0x051A] [CPU: 0x451A] [OrigLen: 5]
+JP: あけない
+CN: 不开
+
+# [0064] [ROM: 0x1B051F] [Bank: 0x6C:0x051F] [CPU: 0x451F] [OrigLen: 4]
+JP: あける
+CN: 开
+
+# [0065] [ROM: 0x1B0523] [Bank: 0x6C:0x0523] [CPU: 0x4523] [OrigLen: 26]
+JP: ……………………………………
+JP: やめておきましょう。
+CN: ……还是算了。
+
+# [0066] [ROM: 0x1B053D] [Bank: 0x6C:0x053D] [CPU: 0x453D] [OrigLen: 6]
+JP: あけます。
+CN: 打开
+
+# [0067] [ROM: 0x1B0543] [Bank: 0x6C:0x0543] [CPU: 0x4543] [OrigLen: 11]
+JP: あっ！
+JP: てきだわ！！
+CN: 啊！敌人！
+
+# [0068] [ROM: 0x1B054E] [Bank: 0x6C:0x054E] [CPU: 0x454E] [OrigLen: 14]
+JP: ……あら？
+JP: なにかあるわ？
+CN: …哦？有东西
+
+# [0069] [ROM: 0x1B055C] [Bank: 0x6C:0x055C] [CPU: 0x455C] [OrigLen: 20]
+JP: <NAME>は
+JP: 『リペアキット』を
+JP: てにいれた。
+CN: <NAME>获得了修理套件。
+
+# [0070] [ROM: 0x1B0570] [Bank: 0x6C:0x0570] [CPU: 0x4570] [OrigLen: 20]
+JP: あら　あなたたち
+JP: おそかったじゃない。
+CN: 哎呀你们来晚了。
+
+# [0071] [ROM: 0x1B0584] [Bank: 0x6C:0x0584] [CPU: 0x4584] [OrigLen: 41]
+JP: あっ！　ことねはん！！
+JP: バラぐみの　せいりゅういん
+JP: ことねはん　やないですか！？
+CN: 啊！小音小姐！蔷薇组经理小音小姐！？
+
+# [0072] [ROM: 0x1B05AD] [Bank: 0x6C:0x05AD] [CPU: 0x45AD] [OrigLen: 11]
+JP: ぶじやったんですね。
+CN: 没事就好。
+
+# [0073] [ROM: 0x1B05B8] [Bank: 0x6C:0x05B8] [CPU: 0x45B8] [OrigLen: 16]
+JP: きゃっ！
+JP: このまものたちは……
+CN: 呀！这魔物是…
+
+# [0074] [ROM: 0x1B05C8] [Bank: 0x6C:0x05C8] [CPU: 0x45C8] [OrigLen: 32]
+JP: あらぁ？
+JP: これって　さっきのへやの
+JP: おきものじゃあ　ないの？
+CN: 哎呀？这不是刚才房间的摆设吗？
+
+# [0075] [ROM: 0x1B05E8] [Bank: 0x6C:0x05E8] [CPU: 0x45E8] [OrigLen: 27]
+JP: キキー！
+JP: おれたちは　おきものじゃ
+JP: ないぞ　キキー！
+CN: 唧唧！我们不是摆设！唧唧！
+
+# [0076] [ROM: 0x1B0603] [Bank: 0x6C:0x0603] [CPU: 0x4603] [OrigLen: 19]
+JP: ことねさん
+JP: だいじょうぶ　ですか！
+CN: 小音小姐没事吗！
+
+# [0077] [ROM: 0x1B0616] [Bank: 0x6C:0x0616] [CPU: 0x4616] [OrigLen: 38]
+JP: ええ……
+JP: このうつくしい　わたしが
+JP: やられるわけが
+JP: ないでは　ないですか。
+CN: 是啊……这么美的我怎么可能被打倒呢。
+
+# [0078] [ROM: 0x1B063C] [Bank: 0x6C:0x063C] [CPU: 0x463C] [OrigLen: 11]
+JP: それは　よかった……
+CN: 那太好了…
+
+# [0079] [ROM: 0x1B0647] [Bank: 0x6C:0x0647] [CPU: 0x4647] [OrigLen: 31]
+JP: あっ　そうや！
+JP: ことねはん　『まじんき』は
+JP: みつかりました？
+CN: 啊对了！小音小姐魔神器呢？
+
+# [0080] [ROM: 0x1B0666] [Bank: 0x6C:0x0666] [CPU: 0x4666] [OrigLen: 40]
+JP: それが　きいてください。
+JP: わたし　『まじんき』の
+JP: 『かがみ』を　みつけたのよ。
+CN: 听我说。我找到了魔神器的镜子。
+
+# [0081] [ROM: 0x1B068E] [Bank: 0x6C:0x068E] [CPU: 0x468E] [OrigLen: 36]
+JP: で　せっかく　かがみが
+JP: あるのだから　おけしょうを
+JP: なおさなくては……
+CN: 难得有镜子得补补妆……
+
+# [0082] [ROM: 0x1B06B2] [Bank: 0x6C:0x06B2] [CPU: 0x46B2] [OrigLen: 39]
+JP: とおもったら……
+JP: コンパクト　と　くちべにを
+JP: おとしてしまった
+JP: みたいで……
+CN: 结果……好像把粉盒和口红弄掉了……
+
+# [0083] [ROM: 0x1B06D9] [Bank: 0x6C:0x06D9] [CPU: 0x46D9] [OrigLen: 31]
+JP: ことねはん。
+JP: そんなことより　『かがみ』は
+JP: あったんですか？
+CN: 小音小姐。镜子找到了吗？
+
+# [0084] [ROM: 0x1B06F8] [Bank: 0x6C:0x06F8] [CPU: 0x46F8] [OrigLen: 26]
+JP: そんなことって　なによ！
+JP: しつれいしちゃうわね！！
+CN: 什么叫那种事！真失礼！！
+
+# [0085] [ROM: 0x1B0712] [Bank: 0x6C:0x0712] [CPU: 0x4712] [OrigLen: 23]
+JP: 『かがみ』は　どこかへ
+JP: いってしまったわよ。
+CN: 镜子不知道去哪了。
+
+# [0086] [ROM: 0x1B0729] [Bank: 0x6C:0x0729] [CPU: 0x4729] [OrigLen: 38]
+JP: どこかへ　いったって……
+JP: 『かがみ』が　かってに
+JP: あるいていったんか？……
+CN: 去哪了……镜子自己走了？……
+
+# [0087] [ROM: 0x1B074F] [Bank: 0x6C:0x074F] [CPU: 0x474F] [OrigLen: 12]
+JP: <NAME>はんは
+JP: どうおもう？
+CN: <NAME>你怎么想？
+
+# [0088] [ROM: 0x1B075B] [Bank: 0x6C:0x075B] [CPU: 0x475B] [OrigLen: 13]
+JP: かってに　あるいていった
+CN: 自己走了
+
+# [0089] [ROM: 0x1B0768] [Bank: 0x6C:0x0768] [CPU: 0x4768] [OrigLen: 12]
+JP: だれかが　もっていった
+CN: 被人拿走
+
+# [0090] [ROM: 0x1B0774] [Bank: 0x6C:0x0774] [CPU: 0x4774] [OrigLen: 36]
+JP: 『かがみ』に　てあしがはえて
+JP: かってにあるいて
+JP: いっちゃったんですね。
+CN: 镜子长出手脚自己走了呢。
+
+# [0091] [ROM: 0x1B0798] [Bank: 0x6C:0x0798] [CPU: 0x4798] [OrigLen: 29]
+JP: なんでやねん！
+JP: そんな　アホなこと
+JP: あるわけないやろ！！
+CN: 怎么可能！哪有那种傻事！！
+
+# [0092] [ROM: 0x1B07B5] [Bank: 0x6C:0x07B5] [CPU: 0x47B5] [OrigLen: 22]
+JP: おおあたりーーーっ。
+JP: よくわかりましたね。
+CN: 全中。你真明白。
+
+# [0093] [ROM: 0x1B07CB] [Bank: 0x6C:0x07CB] [CPU: 0x47CB] [OrigLen: 15]
+JP: エエッ！
+JP: そんな　アホな！！
+CN: 咦！真傻！！
+
+# [0094] [ROM: 0x1B07DA] [Bank: 0x6C:0x07DA] [CPU: 0x47DA] [OrigLen: 39]
+JP: こうらんさん。
+JP: 『けん』と『たま』のとき
+JP: のことを　おもいだして
+JP: ください。
+CN: 红兰小姐。请回想剑和珠的时候。
+
+# [0095] [ROM: 0x1B0801] [Bank: 0x6C:0x0801] [CPU: 0x4801] [OrigLen: 28]
+JP: まものと　ゆうごうして
+JP: おそいかかって
+JP: きましたよね。
+CN: 魔物融合后袭击过来了呢。
+
+# [0096] [ROM: 0x1B081D] [Bank: 0x6C:0x081D] [CPU: 0x481D] [OrigLen: 19]
+JP: あっ…………
+JP: そうやったなぁ…………
+CN: 啊……是啊……
+
+# [0097] [ROM: 0x1B0830] [Bank: 0x6C:0x0830] [CPU: 0x4830] [OrigLen: 26]
+JP: ところで
+JP: その　おじょうちゃんは
+JP: なんなのかしら？
+CN: 话说那小姑娘是谁？
+
+# [0098] [ROM: 0x1B084A] [Bank: 0x6C:0x084A] [CPU: 0x484A] [OrigLen: 18]
+JP: だれかが　もっていったの
+JP: ですね。
+CN: 是被人拿走了吧。
+
+# [0099] [ROM: 0x1B085C] [Bank: 0x6C:0x085C] [CPU: 0x485C] [OrigLen: 41]
+JP: そうやろな。
+JP: ウチも　そないおもうわ。
+JP: だれが　もっていったんや？
+JP: ことねはん。
+CN: 是啊。我也这么想。谁拿走的？小音小姐。
+
+# [0100] [ROM: 0x1B0885] [Bank: 0x6C:0x0885] [CPU: 0x4885] [OrigLen: 32]
+JP: ちがうわ！
+JP: あるいていったのよ。
+JP: 『かがみ』が　ひとりでね！！
+CN: 镜子不知道去哪了。
+
+# [0101] [ROM: 0x1B08A5] [Bank: 0x6C:0x08A5] [CPU: 0x48A5] [OrigLen: 30]
+JP: ……『かがみ』がひとりで……
+JP: ……………………………………
+CN: ……镜子自己……
+
+# [0102] [ROM: 0x1B08C3] [Bank: 0x6C:0x08C3] [CPU: 0x48C3] [OrigLen: 39]
+JP: ……わかった。
+JP: <NAME>はん　いままでの
+JP: 『けん』や『たま』を
+JP: おもいだしてみ……
+CN: ……明白。<NAME>回想一下剑和珠……
+
+# [0103] [ROM: 0x1B08EA] [Bank: 0x6C:0x08EA] [CPU: 0x48EA] [OrigLen: 40]
+JP: まものが　『まじんき』と
+JP: ゆうごうして　ウチらに
+JP: おそいかかって
+JP: きたやんか。
+CN: 魔物和魔神器融合后袭击我们了。
+
+# [0104] [ROM: 0x1B0912] [Bank: 0x6C:0x0912] [CPU: 0x4912] [OrigLen: 5]
+JP: あっ……
+CN: 啊…
+
+# [0105] [ROM: 0x1B0917] [Bank: 0x6C:0x0917] [CPU: 0x4917] [OrigLen: 16]
+JP: わかって　いただけた
+JP: かしら？
+CN: 您明白了吗？
+
+# [0106] [ROM: 0x1B0927] [Bank: 0x6C:0x0927] [CPU: 0x4927] [OrigLen: 26]
+JP: ところで
+JP: その　おじょうちゃんは
+JP: なんなのかしら？
+CN: 话说那小姑娘是谁？
+
+# [0107] [ROM: 0x1B094E] [Bank: 0x6C:0x094E] [CPU: 0x494E] [OrigLen: 31]
+JP: かってに　あるいて
+JP: いっちゃったのよ。
+JP: てあしが　はえてね。
+CN: 自己走了。长出手脚了呢。
+
+# [0108] [ROM: 0x1B096D] [Bank: 0x6C:0x096D] [CPU: 0x496D] [OrigLen: 15]
+JP: エエッ！
+JP: そんな　アホな！！
+CN: 咦！真傻！！
+
+# [0109] [ROM: 0x1B097C] [Bank: 0x6C:0x097C] [CPU: 0x497C] [OrigLen: 30]
+JP: わたしも
+JP: しんじられないわよ。
+JP: でも　ほんとうなのですよ。
+CN: 我也不信。但这是真的。
+
+# [0110] [ROM: 0x1B099A] [Bank: 0x6C:0x099A] [CPU: 0x499A] [OrigLen: 26]
+JP: ところで
+JP: その　おじょうちゃんは
+JP: なんなのかしら？
+CN: 话说那小姑娘是谁？
+
+# [0111] [ROM: 0x1B09B4] [Bank: 0x6C:0x09B4] [CPU: 0x49B4] [OrigLen: 22]
+JP: はじめまして。
+JP: わたしは　<NAME>
+JP: といいます。
+CN: 初次见面。我叫<NAME>。
+
+# [0112] [ROM: 0x1B09CA] [Bank: 0x6C:0x09CA] [CPU: 0x49CA] [OrigLen: 34]
+JP: 『まじんき』をさがす
+JP: にんむを　うけて
+JP: ここまで　やってきました。
+CN: 我接受了寻找魔神器任务来到这里。
+
+# [0113] [ROM: 0x1B09EC] [Bank: 0x6C:0x09EC] [CPU: 0x49EC] [OrigLen: 31]
+JP: あら　そうでしたか。
+JP: わたしは
+JP: せいりゅういん　ことね　よ〒
+CN: 哎呀是吗。我是经理小音〒
+
+# [0114] [ROM: 0x1B0A0B] [Bank: 0x6C:0x0A0B] [CPU: 0x4A0B] [OrigLen: 17]
+JP: ことね　って
+JP: よんでくださいね〒
+CN: 请叫我小音〒
+
+# [0115] [ROM: 0x1B0A1C] [Bank: 0x6C:0x0A1C] [CPU: 0x4A1C] [OrigLen: 34]
+JP: ところで　ことねはん。
+JP: 『かがみ』は　いったいどこへ
+JP: いったんや？
+CN: 话说小音小姐。镜子到底去哪了？
+
+# [0116] [ROM: 0x1B0A3E] [Bank: 0x6C:0x0A3E] [CPU: 0x4A3E] [OrigLen: 42]
+JP: それが　『せいまじょう』の
+JP: さらに　おくふかくへ
+JP: いってしまった
+JP: みたいなのです。
+CN: 好像去了圣魔城更深的地方。
+
+# [0117] [ROM: 0x1B0A68] [Bank: 0x6C:0x0A68] [CPU: 0x4A68] [OrigLen: 12]
+JP: そうでっか………………
+CN: 这样啊……
+
+# [0118] [ROM: 0x1B0A74] [Bank: 0x6C:0x0A74] [CPU: 0x4A74] [OrigLen: 38]
+JP: ほな　いちど
+JP: ていげきに　もどって
+JP: さくせんを　たてなおさな
+JP: アカンな。
+CN: 那先回帝击重新制定作战吧。
+
+# [0119] [ROM: 0x1B0A9A] [Bank: 0x6C:0x0A9A] [CPU: 0x4A9A] [OrigLen: 20]
+JP: こうらんさん。
+JP: なにか　おちています。
+CN: 红兰。
+CN: 有东西掉了
+
+# [0120] [ROM: 0x1B0AAE] [Bank: 0x6C:0x0AAE] [CPU: 0x4AAE] [OrigLen: 26]
+JP: <NAME>は　キーアイテム
+JP: 『コンパクト』を
+JP: てにいれた。
+CN: <NAME>获得关键道具粉盒
+
+# [0121] [ROM: 0x1B0AC8] [Bank: 0x6C:0x0AC8] [CPU: 0x4AC8] [OrigLen: 7]
+JP: コンパクト？
+CN: 粉盒？
+
+# [0122] [ROM: 0x1B0ACF] [Bank: 0x6C:0x0ACF] [CPU: 0x4ACF] [OrigLen: 26]
+JP: おおきなじで
+JP: 『うつくしい』って
+JP: かかれています。
+CN: 用大字写着"美丽"。
+
+# [0123] [ROM: 0x1B0AE9] [Bank: 0x6C:0x0AE9] [CPU: 0x4AE9] [OrigLen: 22]
+JP: うつくしい？
+JP: コンパクトに　うつくしい……
+CN: 美丽？粉盒美丽……
+
+# [0124] [ROM: 0x1B0AFF] [Bank: 0x6C:0x0AFF] [CPU: 0x4AFF] [OrigLen: 22]
+JP: なかには　バラのもようが
+JP: かかれています。
+CN: 里面画着玫瑰图案。
+
+# [0125] [ROM: 0x1B0B15] [Bank: 0x6C:0x0B15] [CPU: 0x4B15] [OrigLen: 20]
+JP: なんや　けったいな
+JP: コンパクトやな〜。
+CN: 好奇怪的粉盒啊～。
+
+# [0126] [ROM: 0x1B0B29] [Bank: 0x6C:0x0B29] [CPU: 0x4B29] [OrigLen: 32]
+JP: なるほどなあ……
+JP: これも　ことねはんのものに
+JP: ちがいないやろ。
+CN: 原来如此…这肯定是小音小姐的。
+
+# [0127] [ROM: 0x1B0B49] [Bank: 0x6C:0x0B49] [CPU: 0x4B49] [OrigLen: 20]
+JP: こうらんさん。
+JP: なにか　おちています。
+CN: 红兰。
+CN: 有东西掉了
+
+# [0128] [ROM: 0x1B0B5D] [Bank: 0x6C:0x0B5D] [CPU: 0x4B5D] [OrigLen: 25]
+JP: <NAME>は　キーアイテム
+JP: 『くちべに』を
+JP: てにいれた。
+CN: <NAME>获得关键道具口红
+
+# [0129] [ROM: 0x1B0B76] [Bank: 0x6C:0x0B76] [CPU: 0x4B76] [OrigLen: 15]
+JP: これは……
+JP: くちべに　やな。
+CN: 这是……口红。
+
+# [0130] [ROM: 0x1B0B85] [Bank: 0x6C:0x0B85] [CPU: 0x4B85] [OrigLen: 20]
+JP: 『うつくしい』って
+JP: かかれています。
+CN: "美丽"写着。
+
+# [0131] [ROM: 0x1B0B99] [Bank: 0x6C:0x0B99] [CPU: 0x4B99] [OrigLen: 20]
+JP: うつくしい？
+JP: くちべに　うつくしい……
+CN: 美丽？口红美丽……
+
+# [0132] [ROM: 0x1B0BAD] [Bank: 0x6C:0x0BAD] [CPU: 0x4BAD] [OrigLen: 25]
+JP: バラのもようが
+JP: かかれています。
+JP: もしかして……
+CN: 画着玫瑰图案。难道……
+
+# [0133] [ROM: 0x1B0BC6] [Bank: 0x6C:0x0BC6] [CPU: 0x4BC6] [OrigLen: 12]
+JP: バラぐみの　ひとが……
+CN: 蔷薇组人…
+
+# [0134] [ROM: 0x1B0BD2] [Bank: 0x6C:0x0BD2] [CPU: 0x4BD2] [OrigLen: 14]
+JP: バラずきの　じょせいが……
+CN: 玫瑰爱好者…
+
+# [0135] [ROM: 0x1B0BE0] [Bank: 0x6C:0x0BE0] [CPU: 0x4BE0] [OrigLen: 24]
+JP: もしかして　バラぐみの
+JP: ひとが　このさきに……
+CN: 难道蔷薇组的人在前面…
+
+# [0136] [ROM: 0x1B0BF8] [Bank: 0x6C:0x0BF8] [CPU: 0x4BF8] [OrigLen: 17]
+JP: ウチも　そうおもったで
+JP: <NAME>はん。
+CN: 我也这么想<NAME>。
+
+# [0137] [ROM: 0x1B0C09] [Bank: 0x6C:0x0C09] [CPU: 0x4C09] [OrigLen: 35]
+JP: このさきに　バラぐみの
+JP: たいちょう　ことねはんが
+JP: いるのかもしれん。
+CN: 前面可能有蔷薇组的队长小音小姐。
+
+# [0138] [ROM: 0x1B0C2C] [Bank: 0x6C:0x0C2C] [CPU: 0x4C2C] [OrigLen: 9]
+JP: いこう　<NAME>はん。
+CN: 走吧<NAME>。
+
+# [0139] [ROM: 0x1B0C35] [Bank: 0x6C:0x0C35] [CPU: 0x4C35] [OrigLen: 28]
+JP: バラずきの　じょせいが
+JP: おとして
+JP: いったんでしょうか？
+CN: 是喜欢玫瑰的女性掉的吗？
+
+# [0140] [ROM: 0x1B0C51] [Bank: 0x6C:0x0C51] [CPU: 0x4C51] [OrigLen: 25]
+JP: バラずきのじょせい？
+JP: ……バラずきの………………
+CN: 玫瑰爱好者？…玫瑰爱好…
+
+# [0141] [ROM: 0x1B0C6A] [Bank: 0x6C:0x0C6A] [CPU: 0x4C6A] [OrigLen: 23]
+JP: ……わかった！
+JP: バラのもように　うつくしい。
+CN: …明白！玫瑰图案，美丽
+
+# [0142] [ROM: 0x1B0C81] [Bank: 0x6C:0x0C81] [CPU: 0x4C81] [OrigLen: 31]
+JP: バラぐみの　たいちょう
+JP: ことねはんが
+JP: このさきに　いるんや！
+CN: 蔷薇组的队长小音小姐在前面！
+
+# [0143] [ROM: 0x1B0CA0] [Bank: 0x6C:0x0CA0] [CPU: 0x4CA0] [OrigLen: 12]
+JP: いそぐで！
+JP: <NAME>はん！！
+CN: 快走！<NAME>！！
+
+# [0144] [ROM: 0x1B0CB9] [Bank: 0x6C:0x0CB9] [CPU: 0x4CB9] [OrigLen: 50]
+JP: バラのもよう……
+JP: 『うつくしい』のもじ……
+JP: バラ……　うつくしい……
+JP: ……………………………………
+CN: 玫瑰图案……"美丽"的文字……玫瑰……美丽……
+
+# [0145] [ROM: 0x1B0CEB] [Bank: 0x6C:0x0CEB] [CPU: 0x4CEB] [OrigLen: 14]
+JP: わかった！
+JP: バラぐみや！！
+CN: 明白！蔷薇组
+
+# [0146] [ROM: 0x1B0CF9] [Bank: 0x6C:0x0CF9] [CPU: 0x4CF9] [OrigLen: 32]
+JP: バラぐみの　たいちょう
+JP: ことねはんが
+JP: このさきに　いるんや！！
+CN: 蔷薇组的队长小音小姐在前面！！
+
+# [0147] [ROM: 0x1B0D19] [Bank: 0x6C:0x0D19] [CPU: 0x4D19] [OrigLen: 12]
+JP: いそぐで！
+JP: <NAME>はん！！
+CN: 快走！<NAME>！！
+
+# [0148] [ROM: 0x1B0D25] [Bank: 0x6C:0x0D25] [CPU: 0x4D25] [OrigLen: 23]
+JP: あっ！　つうしんだ！
+JP: はい
+JP: こちら　<NAME>です。
+CN: 啊！通信！是，我是<NAME>。
+
+# [0149] [ROM: 0x1B0D3C] [Bank: 0x6C:0x0D3C] [CPU: 0x4D3C] [OrigLen: 6]
+JP: つばきさん
+CN: 椿
+
+# [0150] [ROM: 0x1B0D42] [Bank: 0x6C:0x0D42] [CPU: 0x4D42] [OrigLen: 6]
+JP: かすみさん
+CN: 霞
+
+# [0151] [ROM: 0x1B0D48] [Bank: 0x6C:0x0D48] [CPU: 0x4D48] [OrigLen: 5]
+JP: ゆりさん
+CN: 百合
+
+# [0152] [ROM: 0x1B0D4D] [Bank: 0x6C:0x0D4D] [CPU: 0x4D4D] [OrigLen: 11]
+JP: こちら　つばきです。
+CN: 这里是椿。
+
+# [0153] [ROM: 0x1B0D58] [Bank: 0x6C:0x0D58] [CPU: 0x4D58] [OrigLen: 42]
+JP: いま　<NAME>さんたちが
+JP: すすんでいる　ほうこうに
+JP: バラぐみの　はんのうが
+JP: ありました。
+CN: 现在<NAME>你们前进的方向有蔷薇组的反应。
+
+# [0154] [ROM: 0x1B0D82] [Bank: 0x6C:0x0D82] [CPU: 0x4D82] [OrigLen: 36]
+JP: おそらく　バラぐみの
+JP: せいりゅういん　ことね　さん
+JP: だとおもわれます。
+CN: 大概是蔷薇组的经理小音小姐。
+
+# [0155] [ROM: 0x1B0DA6] [Bank: 0x6C:0x0DA6] [CPU: 0x4DA6] [OrigLen: 11]
+JP: りょうかいしました。
+CN: 明白了。
+
+# [0156] [ROM: 0x1B0DB1] [Bank: 0x6C:0x0DB1] [CPU: 0x4DB1] [OrigLen: 11]
+JP: こちら　かすみです。
+CN: 这里是霞。
+
+# [0157] [ROM: 0x1B0DBC] [Bank: 0x6C:0x0DBC] [CPU: 0x4DBC] [OrigLen: 42]
+JP: いま　<NAME>さんたちが
+JP: すすんでいる　ほうこうに
+JP: バラぐみの　はんのうが
+JP: ありました。
+CN: 现在<NAME>你们前进的方向有蔷薇组的反应。
+
+# [0158] [ROM: 0x1B0DE6] [Bank: 0x6C:0x0DE6] [CPU: 0x4DE6] [OrigLen: 36]
+JP: おそらく　バラぐみの
+JP: せいりゅういん　ことね　さん
+JP: だとおもわれます。
+CN: 大概是蔷薇组的经理小音小姐。
+
+# [0159] [ROM: 0x1B0E0A] [Bank: 0x6C:0x0E0A] [CPU: 0x4E0A] [OrigLen: 11]
+JP: りょうかいしました。
+CN: 明白了。
+
+# [0160] [ROM: 0x1B0E15] [Bank: 0x6C:0x0E15] [CPU: 0x4E15] [OrigLen: 10]
+JP: こちら　ゆりです。
+CN: 我是百合
+
+# [0161] [ROM: 0x1B0E1F] [Bank: 0x6C:0x0E1F] [CPU: 0x4E1F] [OrigLen: 42]
+JP: いま　<NAME>くんたちが
+JP: すすんでいる　ほうこうに
+JP: バラぐみの　はんのうが
+JP: あったのよ。
+CN: 现在<NAME>你们前进的方向有蔷薇组的反应。
+
+# [0162] [ROM: 0x1B0E49] [Bank: 0x6C:0x0E49] [CPU: 0x4E49] [OrigLen: 34]
+JP: おそらく　バラぐみの
+JP: せいりゅういん　ことね　さん
+JP: だとおもうわ。
+CN: 大概是蔷薇组的经理小音小姐。
+
+# [0163] [ROM: 0x1B0E6B] [Bank: 0x6C:0x0E6B] [CPU: 0x4E6B] [OrigLen: 11]
+JP: りょうかいしました。
+CN: 明白了。
+
+# [0164] [ROM: 0x1B0E76] [Bank: 0x6C:0x0E76] [CPU: 0x4E76] [OrigLen: 9]
+JP: こちら　かえで。
+CN: 枫
+
+# [0165] [ROM: 0x1B0E7F] [Bank: 0x6C:0x0E7F] [CPU: 0x4E7F] [OrigLen: 42]
+JP: いま　<NAME>くんたちが
+JP: すすんでいる　ほうこうに
+JP: バラぐみの　はんのうが
+JP: ありました。
+CN: 现在<NAME>你们前进的方向有蔷薇组的反应。
+
+# [0166] [ROM: 0x1B0EA9] [Bank: 0x6C:0x0EA9] [CPU: 0x4EA9] [OrigLen: 35]
+JP: たぶん　バラぐみの
+JP: せいりゅういん　ことね　さん
+JP: だと　おもいます。
+CN: 大概是蔷薇组的经理小音小姐。
+
+# [0167] [ROM: 0x1B0ECC] [Bank: 0x6C:0x0ECC] [CPU: 0x4ECC] [OrigLen: 11]
+JP: りょうかいしました。
+CN: 明白了。
+
+# [0168] [ROM: 0x1B0ED7] [Bank: 0x6C:0x0ED7] [CPU: 0x4ED7] [OrigLen: 37]
+JP: こうらんさん。
+JP: やっぱり　このさきに
+JP: バラぐみのひとが
+JP: いるみたいです。
+CN: 红兰小姐。前面果然有蔷薇组的人。
+
+# [0169] [ROM: 0x1B0EFC] [Bank: 0x6C:0x0EFC] [CPU: 0x4EFC] [OrigLen: 17]
+JP: よっしゃ！
+JP: いそぐで　<NAME>はん！！
+CN: 好！快走<NAME>！！
+
+# [0170] [ROM: 0x1B0F0D] [Bank: 0x6C:0x0F0D] [CPU: 0x4F0D] [OrigLen: 12]
+JP: これは　なんだろう……
+CN: 这是什么…
+
+# [0171] [ROM: 0x1B0F19] [Bank: 0x6C:0x0F19] [CPU: 0x4F19] [OrigLen: 40]
+JP: いしの　かんおけか……
+JP: なにが　はいってんのかなぁ。
+JP: あけてみるか？
+JP: <NAME>はん。
+CN: 石棺吗……里面有什么呢。要打开吗<NAME>？
+
+# [0172] [ROM: 0x1B0F41] [Bank: 0x6C:0x0F41] [CPU: 0x4F41] [OrigLen: 5]
+JP: あけない
+CN: 不开
+
+# [0173] [ROM: 0x1B0F46] [Bank: 0x6C:0x0F46] [CPU: 0x4F46] [OrigLen: 4]
+JP: あける
+CN: 开
+
+# [0174] [ROM: 0x1B0F4A] [Bank: 0x6C:0x0F4A] [CPU: 0x4F4A] [OrigLen: 27]
+JP: ……………………………………
+JP: やっぱりやめておこう。
+CN: ……还是算了。
+
+# [0175] [ROM: 0x1B0F65] [Bank: 0x6C:0x0F65] [CPU: 0x4F65] [OrigLen: 6]
+JP: あけます。
+CN: 打开
+
+# [0176] [ROM: 0x1B0F6B] [Bank: 0x6C:0x0F6B] [CPU: 0x4F6B] [OrigLen: 11]
+JP: うわっ！
+JP: てきだ！！
+CN: 啊！敌人！
+
+# [0177] [ROM: 0x1B0F76] [Bank: 0x6C:0x0F76] [CPU: 0x4F76] [OrigLen: 14]
+JP: ……おや？
+JP: なにかあるぞ？
+CN: …哦？有东西
+
+# [0178] [ROM: 0x1B0F84] [Bank: 0x6C:0x0F84] [CPU: 0x4F84] [OrigLen: 20]
+JP: <NAME>は
+JP: 『リペアキット』を
+JP: てにいれた。
+CN: <NAME>获得了修理套件。
+
+# [0179] [ROM: 0x1B0F98] [Bank: 0x6C:0x0F98] [CPU: 0x4F98] [OrigLen: 20]
+JP: あら　あなたたち
+JP: おそかったじゃない。
+CN: 哎呀你们来晚了。
+
+# [0180] [ROM: 0x1B0FAC] [Bank: 0x6C:0x0FAC] [CPU: 0x4FAC] [OrigLen: 41]
+JP: あっ！　ことねはん！！
+JP: バラぐみの　せいりゅういん
+JP: ことねはん　やないですか！？
+CN: 啊！小音小姐！蔷薇组经理小音小姐！？
+
+# [0181] [ROM: 0x1B0FD5] [Bank: 0x6C:0x0FD5] [CPU: 0x4FD5] [OrigLen: 11]
+JP: ぶじやったんですね。
+CN: 没事就好。
+
+# [0182] [ROM: 0x1B0FE0] [Bank: 0x6C:0x0FE0] [CPU: 0x4FE0] [OrigLen: 16]
+JP: うわっ！
+JP: このまものたちは……
+CN: 呀！这魔物是…
+
+# [0183] [ROM: 0x1B0FF0] [Bank: 0x6C:0x0FF0] [CPU: 0x4FF0] [OrigLen: 32]
+JP: あらぁ？
+JP: これって　さっきのへやの
+JP: おきものじゃあ　ないの？
+CN: 哎呀？这不是刚才房间的摆设吗？
+
+# [0184] [ROM: 0x1B1010] [Bank: 0x6C:0x1010] [CPU: 0x5010] [OrigLen: 27]
+JP: キキー！
+JP: おれたちは　おきものじゃ
+JP: ないぞ　キキー！
+CN: 唧唧！我们不是摆设！唧唧！
+
+# [0185] [ROM: 0x1B102B] [Bank: 0x6C:0x102B] [CPU: 0x502B] [OrigLen: 19]
+JP: ことねさん
+JP: だいじょうぶ　ですか！
+CN: 小音小姐没事吗！
+
+# [0186] [ROM: 0x1B103E] [Bank: 0x6C:0x103E] [CPU: 0x503E] [OrigLen: 38]
+JP: ええ……
+JP: このうつくしい　わたしが
+JP: やられるわけが
+JP: ないでは　ないですか。
+CN: 是啊……这么美的我怎么可能被打倒呢。
+
+# [0187] [ROM: 0x1B1064] [Bank: 0x6C:0x1064] [CPU: 0x5064] [OrigLen: 11]
+JP: それは　よかった……
+CN: 那太好了…
+
+# [0188] [ROM: 0x1B106F] [Bank: 0x6C:0x106F] [CPU: 0x506F] [OrigLen: 31]
+JP: あっ　そうや！
+JP: ことねはん　『まじんき』は
+JP: みつかりました？
+CN: 啊对了！小音小姐魔神器呢？
+
+# [0189] [ROM: 0x1B108E] [Bank: 0x6C:0x108E] [CPU: 0x508E] [OrigLen: 40]
+JP: それが　きいてください。
+JP: わたし　『まじんき』の
+JP: 『かがみ』を　みつけたのよ。
+CN: 听我说。我找到了魔神器的镜子。
+
+# [0190] [ROM: 0x1B10B6] [Bank: 0x6C:0x10B6] [CPU: 0x50B6] [OrigLen: 36]
+JP: で　せっかく　かがみが
+JP: あるのだから　おけしょうを
+JP: なおさなくては……
+CN: 难得有镜子得补补妆……
+
+# [0191] [ROM: 0x1B10DA] [Bank: 0x6C:0x10DA] [CPU: 0x50DA] [OrigLen: 39]
+JP: とおもったら……
+JP: コンパクト　と　くちべにを
+JP: おとしてしまった
+JP: みたいで……
+CN: 结果……好像把粉盒和口红弄掉了……
+
+# [0192] [ROM: 0x1B1101] [Bank: 0x6C:0x1101] [CPU: 0x5101] [OrigLen: 31]
+JP: ことねはん。
+JP: そんなことより　『かがみ』は
+JP: あったんですか？
+CN: 小音小姐。镜子找到了吗？
+
+# [0193] [ROM: 0x1B1120] [Bank: 0x6C:0x1120] [CPU: 0x5120] [OrigLen: 26]
+JP: そんなことって　なによ！
+JP: しつれいしちゃうわね！！
+CN: 什么叫那种事！真失礼！！
+
+# [0194] [ROM: 0x1B113A] [Bank: 0x6C:0x113A] [CPU: 0x513A] [OrigLen: 23]
+JP: 『かがみ』は　どこかへ
+JP: いってしまったわよ。
+CN: 镜子不知道去哪了。
+
+# [0195] [ROM: 0x1B1151] [Bank: 0x6C:0x1151] [CPU: 0x5151] [OrigLen: 38]
+JP: どこかへ　いったって……
+JP: 『かがみ』が　かってに
+JP: あるいていったんか？……
+CN: 去哪了……镜子自己走了？……
+
+# [0196] [ROM: 0x1B1177] [Bank: 0x6C:0x1177] [CPU: 0x5177] [OrigLen: 12]
+JP: <NAME>はんは
+JP: どうおもう？
+CN: <NAME>你怎么想？
+
+# [0197] [ROM: 0x1B1183] [Bank: 0x6C:0x1183] [CPU: 0x5183] [OrigLen: 13]
+JP: かってに　あるいていった
+CN: 自己走了
+
+# [0198] [ROM: 0x1B1190] [Bank: 0x6C:0x1190] [CPU: 0x5190] [OrigLen: 12]
+JP: だれかが　もっていった
+CN: 被人拿走
+
+# [0199] [ROM: 0x1B119C] [Bank: 0x6C:0x119C] [CPU: 0x519C] [OrigLen: 36]
+JP: 『かがみ』に　てあしがはえて
+JP: かってにあるいて
+JP: いっちゃったんですね。
+CN: 镜子长出手脚自己走了呢。
+
+# [0200] [ROM: 0x1B11C0] [Bank: 0x6C:0x11C0] [CPU: 0x51C0] [OrigLen: 29]
+JP: なんでやねん！
+JP: そんな　アホなこと
+JP: あるわけないやろ！！
+CN: 怎么可能！哪有那种傻事！！
+
+# [0201] [ROM: 0x1B11DD] [Bank: 0x6C:0x11DD] [CPU: 0x51DD] [OrigLen: 22]
+JP: おおあたりーーーっ。
+JP: よくわかりましたね。
+CN: 全中。你真明白。
+
+# [0202] [ROM: 0x1B11F3] [Bank: 0x6C:0x11F3] [CPU: 0x51F3] [OrigLen: 15]
+JP: エエッ！
+JP: そんな　アホな！！
+CN: 咦！真傻！！
+
+# [0203] [ROM: 0x1B1202] [Bank: 0x6C:0x1202] [CPU: 0x5202] [OrigLen: 40]
+JP: こうらんさん。
+JP: 『けん』と『たま』のとき
+JP: のことを　おもいだして
+JP: くださいよ。
+CN: 红兰小姐。请回想剑和珠的时候。
+
+# [0204] [ROM: 0x1B122A] [Bank: 0x6C:0x122A] [CPU: 0x522A] [OrigLen: 31]
+JP: まものと　ゆうごうして
+JP: おそいかかってきた
+JP: じゃないですか。
+CN: 魔物融合后袭击过来了呢。
+
+# [0205] [ROM: 0x1B1249] [Bank: 0x6C:0x1249] [CPU: 0x5249] [OrigLen: 19]
+JP: あっ…………
+JP: そうやったなぁ…………
+CN: 啊……是啊……
+
+# [0206] [ROM: 0x1B125C] [Bank: 0x6C:0x125C] [CPU: 0x525C] [OrigLen: 27]
+JP: ところで　そこのカワイイ
+JP: ぼうやは　だれなのかしら？
+CN: 话说那边可爱的小男孩是谁？
+
+# [0207] [ROM: 0x1B1277] [Bank: 0x6C:0x1277] [CPU: 0x5277] [OrigLen: 18]
+JP: だれかが　もっていったん
+JP: ですね。
+CN: 是被人拿走了吧。
+
+# [0208] [ROM: 0x1B1289] [Bank: 0x6C:0x1289] [CPU: 0x5289] [OrigLen: 41]
+JP: そうやろな。
+JP: ウチも　そないおもうわ。
+JP: だれが　もっていったんや？
+JP: ことねはん。
+CN: 是啊。我也这么想。谁拿走的？小音小姐。
+
+# [0209] [ROM: 0x1B12B2] [Bank: 0x6C:0x12B2] [CPU: 0x52B2] [OrigLen: 32]
+JP: ちがうわ！
+JP: あるいていったのよ。
+JP: 『かがみ』が　ひとりでね！！
+CN: 镜子不知道去哪了。
+
+# [0210] [ROM: 0x1B12D2] [Bank: 0x6C:0x12D2] [CPU: 0x52D2] [OrigLen: 30]
+JP: ……『かがみ』がひとりで……
+JP: ……………………………………
+CN: ……镜子自己……
+
+# [0211] [ROM: 0x1B12F0] [Bank: 0x6C:0x12F0] [CPU: 0x52F0] [OrigLen: 39]
+JP: ……わかった。
+JP: <NAME>はん　いままでの
+JP: 『けん』や『たま』を
+JP: おもいだしてみ……
+CN: ……明白。<NAME>回想一下剑和珠……
+
+# [0212] [ROM: 0x1B1317] [Bank: 0x6C:0x1317] [CPU: 0x5317] [OrigLen: 40]
+JP: まものが　『まじんき』と
+JP: ゆうごうして　ウチらに
+JP: おそいかかって
+JP: きたやんか。
+CN: 魔物和魔神器融合后袭击我们了。
+
+# [0213] [ROM: 0x1B133F] [Bank: 0x6C:0x133F] [CPU: 0x533F] [OrigLen: 5]
+JP: あっ……
+CN: 啊…
+
+# [0214] [ROM: 0x1B1344] [Bank: 0x6C:0x1344] [CPU: 0x5344] [OrigLen: 16]
+JP: わかって　いただけた
+JP: かしら？
+CN: 您明白了吗？
+
+# [0215] [ROM: 0x1B1354] [Bank: 0x6C:0x1354] [CPU: 0x5354] [OrigLen: 27]
+JP: ところで　そこのカワイイ
+JP: ぼうやは　だれなのかしら？
+CN: 话说那边可爱的小男孩是谁？
+
+# [0216] [ROM: 0x1B137C] [Bank: 0x6C:0x137C] [CPU: 0x537C] [OrigLen: 31]
+JP: かってに　あるいて
+JP: いっちゃったのよ。
+JP: てあしが　はえてね。
+CN: 自己走了。长出手脚了呢。
+
+# [0217] [ROM: 0x1B139B] [Bank: 0x6C:0x139B] [CPU: 0x539B] [OrigLen: 15]
+JP: エエッ！
+JP: そんな　アホな！！
+CN: 咦！真傻！！
+
+# [0218] [ROM: 0x1B13AA] [Bank: 0x6C:0x13AA] [CPU: 0x53AA] [OrigLen: 30]
+JP: わたしも
+JP: しんじられないわよ。
+JP: でも　ほんとうなのですよ。
+CN: 我也不信。但这是真的。
+
+# [0219] [ROM: 0x1B13C8] [Bank: 0x6C:0x13C8] [CPU: 0x53C8] [OrigLen: 27]
+JP: ところで　そこのカワイイ
+JP: ぼうやは　だれなのかしら？
+CN: 话说那边可爱的小男孩是谁？
+
+# [0220] [ROM: 0x1B13E3] [Bank: 0x6C:0x13E3] [CPU: 0x53E3] [OrigLen: 21]
+JP: はじめまして。
+JP: ボクは　<NAME>
+JP: といいます。
+CN: 初次见面。我叫<NAME>。
+
+# [0221] [ROM: 0x1B13F8] [Bank: 0x6C:0x13F8] [CPU: 0x53F8] [OrigLen: 34]
+JP: 『まじんき』をさがす
+JP: にんむを　うけて
+JP: ここまで　やってきました。
+CN: 我接受了寻找魔神器任务来到这里。
+
+# [0222] [ROM: 0x1B141A] [Bank: 0x6C:0x141A] [CPU: 0x541A] [OrigLen: 31]
+JP: あら　そうでしたか。
+JP: わたしは
+JP: せいりゅういん　ことね　よ〒
+CN: 哎呀是吗。我是经理小音〒
+
+# [0223] [ROM: 0x1B1439] [Bank: 0x6C:0x1439] [CPU: 0x5439] [OrigLen: 17]
+JP: ことね　って
+JP: よんでくださいね〒
+CN: 请叫我小音〒
+
+# [0224] [ROM: 0x1B144A] [Bank: 0x6C:0x144A] [CPU: 0x544A] [OrigLen: 34]
+JP: ところで　ことねはん。
+JP: 『かがみ』は　いったいどこへ
+JP: いったんや？
+CN: 话说小音小姐。镜子到底去哪了？
+
+# [0225] [ROM: 0x1B146C] [Bank: 0x6C:0x146C] [CPU: 0x546C] [OrigLen: 42]
+JP: それが　『せいまじょう』の
+JP: さらに　おくふかくへ
+JP: いってしまった
+JP: みたいなのです。
+CN: 好像去了圣魔城更深的地方。
+
+# [0226] [ROM: 0x1B1496] [Bank: 0x6C:0x1496] [CPU: 0x5496] [OrigLen: 12]
+JP: そうでっか………………
+CN: 这样啊……
+
+# [0227] [ROM: 0x1B14A2] [Bank: 0x6C:0x14A2] [CPU: 0x54A2] [OrigLen: 38]
+JP: ほな　いちど
+JP: ていげきに　もどって
+JP: さくせんを　たてなおさな
+JP: アカンな。
+CN: 那先回帝击重新制定作战吧。
+
+# [0228] [ROM: 0x1B14C8] [Bank: 0x6C:0x14C8] [CPU: 0x54C8] [OrigLen: 21]
+JP: よっしゃ　<NAME>はん
+JP: ここがあやしいんやな？
+CN: 好<NAME>这里可疑吗？
+
+# [0229] [ROM: 0x1B14DD] [Bank: 0x6C:0x14DD] [CPU: 0x54DD] [OrigLen: 19]
+JP: ほな　あぶないさかい
+JP: さがっててや。
+CN: 那危险你退后吧。
+
+# [0230] [ROM: 0x1B14F0] [Bank: 0x6C:0x14F0] [CPU: 0x54F0] [OrigLen: 17]
+JP: セットかんりょう！
+JP: いくで〜！！
+CN: 设置完成！上！！
+
+# [0231] [ROM: 0x1B1501] [Bank: 0x6C:0x1501] [CPU: 0x5501] [OrigLen: 27]
+JP: おお〜！！
+JP: あいた！あいたで！！
+JP: やったな　<NAME>はん！
+CN: 哦！开了！开了！干得好<NAME>
+
+# [0232] [ROM: 0x1B151C] [Bank: 0x6C:0x151C] [CPU: 0x551C] [OrigLen: 24]
+JP: ほな　とつげきや！
+JP: おたからが　まってるで〜！
+CN: 那就突击！宝物等着呢！
+
+# [0233] [ROM: 0x1B1534] [Bank: 0x6C:0x1534] [CPU: 0x5534] [OrigLen: 17]
+JP: あ！　ちょっと！
+JP: こうらんさん！
+CN: 啊！等等红兰！
+
+# [0234] [ROM: 0x1B1545] [Bank: 0x6C:0x1545] [CPU: 0x5545] [OrigLen: 21]
+JP: これや！
+JP: <NAME>はん
+JP: おたから　はっけんや！
+CN: 这个！<NAME>发现宝物了！
+
+# [0235] [ROM: 0x1B155A] [Bank: 0x6C:0x155A] [CPU: 0x555A] [OrigLen: 24]
+JP: きゃあ！こうらんさん！！
+JP: うしろ　うしろに！！
+CN: 呀！红兰小姐！后面后面
+
+# [0236] [ROM: 0x1B1572] [Bank: 0x6C:0x1572] [CPU: 0x5572] [OrigLen: 22]
+JP: ウガガガー？！
+JP: おまえら　なにものだウガ！
+CN: 呜嘎！你们是谁呜嘎！
+
+# [0237] [ROM: 0x1B1588] [Bank: 0x6C:0x1588] [CPU: 0x5588] [OrigLen: 37]
+JP: なんや　アンタは！
+JP: これは　ウチらがみつけたんや
+JP: よこどりはさせへんで！
+CN: 什么啊你！这是我们找到的别想抢！
+
+# [0238] [ROM: 0x1B15AD] [Bank: 0x6C:0x15AD] [CPU: 0x55AD] [OrigLen: 14]
+JP: ウガガ？
+JP: なんのことウガ？
+CN: 呜嘎？什么？
+
+# [0239] [ROM: 0x1B15BB] [Bank: 0x6C:0x15BB] [CPU: 0x55BB] [OrigLen: 36]
+JP: いや〜　ビックリしたな〜。
+JP: とつぜん　まものが
+JP: でてくんねんもんな〜。
+CN: 哎呀吓一跳～。突然冒出魔物嘛～。
+
+# [0240] [ROM: 0x1B15DF] [Bank: 0x6C:0x15DF] [CPU: 0x55DF] [OrigLen: 18]
+JP: だけど　なんとか
+JP: たおせましたね。
+CN: 不过总算打倒了。
+
+# [0241] [ROM: 0x1B15F1] [Bank: 0x6C:0x15F1] [CPU: 0x55F1] [OrigLen: 19]
+JP: そや！　そんなことより
+JP: おたからや！
+CN: 对！比起那个宝物！
+
+# [0242] [ROM: 0x1B1604] [Bank: 0x6C:0x1604] [CPU: 0x5604] [OrigLen: 20]
+JP: うわわ！　なんや？！
+JP: あんた　だれや！
+CN: 哇！什么？！你是谁
+
+# [0243] [ROM: 0x1B1618] [Bank: 0x6C:0x1618] [CPU: 0x5618] [OrigLen: 38]
+JP: ああ……　たすかった……
+JP: もうすこしで　まものに
+JP: くわれる　とこでしたよ。
+CN: 啊……得救了……差点被魔物吃掉。
+
+# [0244] [ROM: 0x1B163E] [Bank: 0x6C:0x163E] [CPU: 0x563E] [OrigLen: 16]
+JP: ええっ！
+JP: まものにくわれる！？
+CN: 咦！被魔物吃！
+
+# [0245] [ROM: 0x1B164E] [Bank: 0x6C:0x164E] [CPU: 0x564E] [OrigLen: 38]
+JP: ええ　まものにつかまって
+JP: どこかへ　つれていかれた
+JP: ひとを　みたんですよ。
+CN: 我看到有人被魔物抓走了。
+
+# [0246] [ROM: 0x1B1674] [Bank: 0x6C:0x1674] [CPU: 0x5674] [OrigLen: 20]
+JP: きっと　やつらに
+JP: くわれてるんですよ。
+CN: 肯定被它们吃掉了。
+
+# [0247] [ROM: 0x1B1688] [Bank: 0x6C:0x1688] [CPU: 0x5688] [OrigLen: 26]
+JP: それで　こんなところに
+JP: かくれて　いたんですか……
+CN: 所以你躲在这里吗……
+
+# [0248] [ROM: 0x1B16A2] [Bank: 0x6C:0x16A2] [CPU: 0x56A2] [OrigLen: 21]
+JP: はい……
+JP: それにしても
+JP: たすかりました。
+CN: 是……不过真得救了。
+
+# [0249] [ROM: 0x1B16B7] [Bank: 0x6C:0x16B7] [CPU: 0x56B7] [OrigLen: 40]
+JP: おやくにたつか　どうかは
+JP: わかりませんが　おれいにこの
+JP: ほんを　さしあげます。
+CN: 不知有没有用，作为谢礼送你这本书。
+
+# [0250] [ROM: 0x1B16DF] [Bank: 0x6C:0x16DF] [CPU: 0x56DF] [OrigLen: 17]
+JP: 『ちみゃくのしょ』……
+JP: これは？
+CN: 地脉之书…这是？
+
+# [0251] [ROM: 0x1B16F0] [Bank: 0x6C:0x16F0] [CPU: 0x56F0] [OrigLen: 36]
+JP: わたしは
+JP: ミカサきねんこうえんの
+JP: そうじを　しているもの
+JP: なんですが。
+CN: 我是打扫三笠纪念公园的。
+
+# [0252] [ROM: 0x1B1714] [Bank: 0x6C:0x1714] [CPU: 0x5714] [OrigLen: 27]
+JP: せんじつ　そうじをしていて
+JP: みつけた　ものなんです。
+CN: 前几天打扫时发现的。
+
+# [0253] [ROM: 0x1B172F] [Bank: 0x6C:0x172F] [CPU: 0x572F] [OrigLen: 20]
+JP: そうですか……
+JP: ありがとうございます。
+CN: 这样啊……谢谢。
+
+# [0254] [ROM: 0x1B1743] [Bank: 0x6C:0x1743] [CPU: 0x5743] [OrigLen: 20]
+JP: <NAME>は
+JP: 『ちみゃくのしょ』を
+JP: もらった。
+CN: <NAME>获得了地脉之书。
+
+# [0255] [ROM: 0x1B1757] [Bank: 0x6C:0x1757] [CPU: 0x5757] [OrigLen: 23]
+JP: <NAME>は
+JP: 『ガンセキまつり』のわざを
+JP: おぼえた！
+CN: <NAME>学会了岩石祭！
+
+# [0256] [ROM: 0x1B176E] [Bank: 0x6C:0x176E] [CPU: 0x576E] [OrigLen: 23]
+JP: しかし
+JP: つかえるそうびを
+JP: もっていなかった。
+CN: 但没有可用的装备。
+
+# [0257] [ROM: 0x1B1785] [Bank: 0x6C:0x1785] [CPU: 0x5785] [OrigLen: 44]
+JP: 『ガンセキまつり』は
+JP: 『きょだいけん』と
+JP: 『ガントレット』に
+JP: セットすることができる。
+CN: 岩石祭可以装备在巨剑和护手上。
+
+# [0258] [ROM: 0x1B17B1] [Bank: 0x6C:0x17B1] [CPU: 0x57B1] [OrigLen: 34]
+JP: 『ガンセキまつり』は
+JP: 『ガントレット』に
+JP: セットすることができる。
+CN: 岩石祭可以装备在护手上。
+
+# [0259] [ROM: 0x1B17D3] [Bank: 0x6C:0x17D3] [CPU: 0x57D3] [OrigLen: 34]
+JP: 『ガンセキまつり』は
+JP: 『きょだいけん』に
+JP: セットすることができる。
+CN: 岩石祭可以装备在巨剑上。
+
+# [0260] [ROM: 0x1B17F5] [Bank: 0x6C:0x17F5] [CPU: 0x57F5] [OrigLen: 32]
+JP: <NAME>　は
+JP: おそうじ　おじさん
+JP: はせがわ　おさむ　を
+JP: たすけた。
+CN: <NAME>帮助了清洁工长谷川修。
+
+# [0261] [ROM: 0x1B1815] [Bank: 0x6C:0x1815] [CPU: 0x5815] [OrigLen: 27]
+JP: なんや……まあ
+JP: おたからやなかったけど
+JP: よかったな！
+CN: 虽然……不是宝物但太好了！
+
+# [0262] [ROM: 0x1B1830] [Bank: 0x6C:0x1830] [CPU: 0x5830] [OrigLen: 21]
+JP: よっしゃ　<NAME>はん
+JP: ここがあやしいんやな？
+CN: 好<NAME>这里可疑吗？
+
+# [0263] [ROM: 0x1B1845] [Bank: 0x6C:0x1845] [CPU: 0x5845] [OrigLen: 19]
+JP: ほな　あぶないさかい
+JP: さがっててや。
+CN: 那危险你退后吧。
+
+# [0264] [ROM: 0x1B1858] [Bank: 0x6C:0x1858] [CPU: 0x5858] [OrigLen: 17]
+JP: セットかんりょう！
+JP: いくで〜！！
+CN: 设置完成！上！！
+
+# [0265] [ROM: 0x1B1869] [Bank: 0x6C:0x1869] [CPU: 0x5869] [OrigLen: 27]
+JP: おお〜！！
+JP: あいた！あいたで！！
+JP: やったな　<NAME>はん！
+CN: 哦！开了！开了！干得好<NAME>
+
+# [0266] [ROM: 0x1B1884] [Bank: 0x6C:0x1884] [CPU: 0x5884] [OrigLen: 24]
+JP: ほな　とつげきや！
+JP: おたからが　まってるで〜！
+CN: 那就突击！宝物等着呢！
+
+# [0267] [ROM: 0x1B189C] [Bank: 0x6C:0x189C] [CPU: 0x589C] [OrigLen: 17]
+JP: わ！　ちょっと！
+JP: こうらんさん！
+CN: 哇！等等红兰！
+
+# [0268] [ROM: 0x1B18AD] [Bank: 0x6C:0x18AD] [CPU: 0x58AD] [OrigLen: 21]
+JP: これや！
+JP: <NAME>はん
+JP: おたから　はっけんや！
+CN: 这个！<NAME>发现宝物了！
+
+# [0269] [ROM: 0x1B18C2] [Bank: 0x6C:0x18C2] [CPU: 0x58C2] [OrigLen: 23]
+JP: うわっ！こうらんさん！！
+JP: うしろ　うしろ！！
+CN: 哇！红兰！后面后面！
+
+# [0270] [ROM: 0x1B18D9] [Bank: 0x6C:0x18D9] [CPU: 0x58D9] [OrigLen: 22]
+JP: ウガガガー？！
+JP: おまえら　なにものだウガ！
+CN: 呜嘎！你们是谁呜嘎！
+
+# [0271] [ROM: 0x1B18EF] [Bank: 0x6C:0x18EF] [CPU: 0x58EF] [OrigLen: 37]
+JP: なんや　アンタは！
+JP: これは　ウチらがみつけたんや
+JP: よこどりはさせへんで！
+CN: 什么啊你！这是我们找到的别想抢！
+
+# [0272] [ROM: 0x1B1914] [Bank: 0x6C:0x1914] [CPU: 0x5914] [OrigLen: 14]
+JP: ウガガ？
+JP: なんのことウガ？
+CN: 呜嘎？什么？
+
+# [0273] [ROM: 0x1B1922] [Bank: 0x6C:0x1922] [CPU: 0x5922] [OrigLen: 36]
+JP: いや〜　ビックリしたな〜。
+JP: とつぜん　まものが
+JP: でてくんねんもんな〜。
+CN: 哎呀吓一跳～。突然冒出魔物嘛～。
+
+# [0274] [ROM: 0x1B1946] [Bank: 0x6C:0x1946] [CPU: 0x5946] [OrigLen: 18]
+JP: だけど　なんとか
+JP: たおせましたね。
+CN: 不过总算打倒了。
+
+# [0275] [ROM: 0x1B1958] [Bank: 0x6C:0x1958] [CPU: 0x5958] [OrigLen: 19]
+JP: そや！　そんなことより
+JP: おたからや！
+CN: 对！比起那个宝物！
+
+# [0276] [ROM: 0x1B196B] [Bank: 0x6C:0x196B] [CPU: 0x596B] [OrigLen: 20]
+JP: うわわ！　なんや？！
+JP: あんた　だれや！
+CN: 哇！什么？！你是谁
+
+# [0277] [ROM: 0x1B197F] [Bank: 0x6C:0x197F] [CPU: 0x597F] [OrigLen: 38]
+JP: ああ……　たすかった……
+JP: もうすこしで　まものに
+JP: くわれる　とこでしたよ。
+CN: 啊……得救了……差点被魔物吃掉。
+
+# [0278] [ROM: 0x1B19A5] [Bank: 0x6C:0x19A5] [CPU: 0x59A5] [OrigLen: 16]
+JP: ええっ！
+JP: まものにくわれる！？
+CN: 咦！被魔物吃！
+
+# [0279] [ROM: 0x1B19B5] [Bank: 0x6C:0x19B5] [CPU: 0x59B5] [OrigLen: 38]
+JP: ええ　まものにつかまって
+JP: どこかへ　つれていかれた
+JP: ひとを　みたんですよ。
+CN: 我看到有人被魔物抓走了。
+
+# [0280] [ROM: 0x1B19DB] [Bank: 0x6C:0x19DB] [CPU: 0x59DB] [OrigLen: 20]
+JP: きっと　やつらに
+JP: くわれてるんですよ。
+CN: 肯定被它们吃掉了。
+
+# [0281] [ROM: 0x1B19EF] [Bank: 0x6C:0x19EF] [CPU: 0x59EF] [OrigLen: 26]
+JP: それで　こんなところに
+JP: かくれて　いたんですか……
+CN: 所以你躲在这里吗……
+
+# [0282] [ROM: 0x1B1A09] [Bank: 0x6C:0x1A09] [CPU: 0x5A09] [OrigLen: 21]
+JP: はい……
+JP: それにしても
+JP: たすかりました。
+CN: 是……不过真得救了。
+
+# [0283] [ROM: 0x1B1A1E] [Bank: 0x6C:0x1A1E] [CPU: 0x5A1E] [OrigLen: 40]
+JP: おやくにたつか　どうかは
+JP: わかりませんが　おれいにこの
+JP: ほんを　さしあげます。
+CN: 不知有没有用，作为谢礼送你这本书。
+
+# [0284] [ROM: 0x1B1A46] [Bank: 0x6C:0x1A46] [CPU: 0x5A46] [OrigLen: 17]
+JP: 『ちみゃくのしょ』……
+JP: これは？
+CN: 地脉之书…这是？
+
+# [0285] [ROM: 0x1B1A57] [Bank: 0x6C:0x1A57] [CPU: 0x5A57] [OrigLen: 36]
+JP: わたしは
+JP: ミカサきねんこうえんの
+JP: そうじを　しているもの
+JP: なんですが。
+CN: 我是打扫三笠纪念公园的。
+
+# [0286] [ROM: 0x1B1A7B] [Bank: 0x6C:0x1A7B] [CPU: 0x5A7B] [OrigLen: 27]
+JP: せんじつ　そうじをしていて
+JP: みつけた　ものなんです。
+CN: 前几天打扫时发现的。
+
+# [0287] [ROM: 0x1B1A96] [Bank: 0x6C:0x1A96] [CPU: 0x5A96] [OrigLen: 20]
+JP: そうですか……
+JP: ありがとうございます。
+CN: 这样啊……谢谢。
+
+# [0288] [ROM: 0x1B1AAA] [Bank: 0x6C:0x1AAA] [CPU: 0x5AAA] [OrigLen: 20]
+JP: <NAME>は
+JP: 『ちみゃくのしょ』を
+JP: もらった。
+CN: <NAME>获得了地脉之书。
+
+# [0289] [ROM: 0x1B1ABE] [Bank: 0x6C:0x1ABE] [CPU: 0x5ABE] [OrigLen: 23]
+JP: <NAME>は
+JP: 『ガンセキまつり』のわざを
+JP: おぼえた！
+CN: <NAME>学会了岩石祭！
+
+# [0290] [ROM: 0x1B1AD5] [Bank: 0x6C:0x1AD5] [CPU: 0x5AD5] [OrigLen: 23]
+JP: しかし
+JP: つかえるそうびを
+JP: もっていなかった。
+CN: 但没有可用的装备。
+
+# [0291] [ROM: 0x1B1AEC] [Bank: 0x6C:0x1AEC] [CPU: 0x5AEC] [OrigLen: 44]
+JP: 『ガンセキまつり』は
+JP: 『きょだいけん』と
+JP: 『ガントレット』に
+JP: セットすることができる。
+CN: 岩石祭可以装备在巨剑和护手上。
+
+# [0292] [ROM: 0x1B1B18] [Bank: 0x6C:0x1B18] [CPU: 0x5B18] [OrigLen: 34]
+JP: 『ガンセキまつり』は
+JP: 『ガントレット』に
+JP: セットすることができる。
+CN: 岩石祭可以装备在护手上。
+
+# [0293] [ROM: 0x1B1B3A] [Bank: 0x6C:0x1B3A] [CPU: 0x5B3A] [OrigLen: 34]
+JP: 『ガンセキまつり』は
+JP: 『きょだいけん』に
+JP: セットすることができる。
+CN: 岩石祭可以装备在巨剑上。
+
+# [0294] [ROM: 0x1B1B5C] [Bank: 0x6C:0x1B5C] [CPU: 0x5B5C] [OrigLen: 32]
+JP: <NAME>　は
+JP: おそうじ　おじさん
+JP: はせがわ　おさむ　を
+JP: たすけた。
+CN: <NAME>帮助了清洁工长谷川修。
+
+# [0295] [ROM: 0x1B1B7C] [Bank: 0x6C:0x1B7C] [CPU: 0x5B7C] [OrigLen: 27]
+JP: なんや……まあ
+JP: おたからやなかったけど
+JP: よかったな！
+CN: 虽然……不是宝物但太好了！
+
+# [0296] [ROM: 0x1B1B97] [Bank: 0x6C:0x1B97] [CPU: 0x5B97] [OrigLen: 17]
+JP: おっ！
+JP: <NAME>はん
+JP: ちょっとまった。
+CN: 哦！<NAME>等一下。
+
+# [0297] [ROM: 0x1B1BA8] [Bank: 0x6C:0x1BA8] [CPU: 0x5BA8] [OrigLen: 21]
+JP: このへんの　かべのなかに
+JP: なんかあるで。
+CN: 这附近的墙里有什么。
+
+# [0298] [ROM: 0x1B1BBD] [Bank: 0x6C:0x1BBD] [CPU: 0x5BBD] [OrigLen: 28]
+JP: ウチのもってきた
+JP: レーダーに　はんのうが
+JP: でとるんや。
+CN: 我带来的雷达有反应。
+
+# [0299] [ROM: 0x1B1BD9] [Bank: 0x6C:0x1BD9] [CPU: 0x5BD9] [OrigLen: 26]
+JP: <NAME>はん
+JP: あやしそうなところを
+JP: しらべてくれへんか？
+CN: <NAME>能查查可疑的地方吗？
+
+# [0300] [ROM: 0x1B1BF3] [Bank: 0x6C:0x1BF3] [CPU: 0x5BF3] [OrigLen: 23]
+JP: ウチが　そこに　バクダン
+JP: しかけるさかいに。
+CN: 我在那里放炸弹。
+
+# [0301] [ROM: 0x1B1C0A] [Bank: 0x6C:0x1C0A] [CPU: 0x5C0A] [OrigLen: 21]
+JP: よっしゃ　<NAME>はん
+JP: ここがあやしいんやな？
+CN: 好<NAME>这里可疑吗？
+
+# [0302] [ROM: 0x1B1C1F] [Bank: 0x6C:0x1C1F] [CPU: 0x5C1F] [OrigLen: 19]
+JP: ほな　あぶないさかい
+JP: さがっててや。
+CN: 那危险你退后吧。
+
+# [0303] [ROM: 0x1B1C32] [Bank: 0x6C:0x1C32] [CPU: 0x5C32] [OrigLen: 17]
+JP: セットかんりょう！
+JP: いくで〜！！
+CN: 设置完成！上！！
+
+# [0304] [ROM: 0x1B1C43] [Bank: 0x6C:0x1C43] [CPU: 0x5C43] [OrigLen: 20]
+JP: あかんなあ…
+JP: ここやないん　ちゃうか？
+CN: 不行…不是这里吧？
+
+# [0305] [ROM: 0x1B1C57] [Bank: 0x6C:0x1C57] [CPU: 0x5C57] [OrigLen: 21]
+JP: よっしゃ　<NAME>はん
+JP: ここがあやしいんやな？
+CN: 好<NAME>这里可疑吗？
+
+# [0306] [ROM: 0x1B1C6C] [Bank: 0x6C:0x1C6C] [CPU: 0x5C6C] [OrigLen: 19]
+JP: ほな　あぶないさかい
+JP: さがっててや。
+CN: 那危险你退后吧。
+
+# [0307] [ROM: 0x1B1C7F] [Bank: 0x6C:0x1C7F] [CPU: 0x5C7F] [OrigLen: 17]
+JP: セットかんりょう！
+JP: いくで〜！！
+CN: 设置完成！上！！
+
+# [0308] [ROM: 0x1B1C90] [Bank: 0x6C:0x1C90] [CPU: 0x5C90] [OrigLen: 20]
+JP: あかんなあ…
+JP: ここやないん　ちゃうか？
+CN: 不行…不是这里吧？
+
+# [0309] [ROM: 0x1B1CA4] [Bank: 0x6C:0x1CA4] [CPU: 0x5CA4] [OrigLen: 19]
+JP: マリアさん。
+JP: なにか　おちています。
+CN: 玛利亚。有东西掉了
+
+# [0310] [ROM: 0x1B1CB7] [Bank: 0x6C:0x1CB7] [CPU: 0x5CB7] [OrigLen: 26]
+JP: <NAME>は　キーアイテム
+JP: 『コンパクト』を
+JP: てにいれた。
+CN: <NAME>获得关键道具粉盒
+
+# [0311] [ROM: 0x1B1CD1] [Bank: 0x6C:0x1CD1] [CPU: 0x5CD1] [OrigLen: 7]
+JP: コンパクト？
+CN: 粉盒？
+
+# [0312] [ROM: 0x1B1CD8] [Bank: 0x6C:0x1CD8] [CPU: 0x5CD8] [OrigLen: 26]
+JP: おおきなじで
+JP: 『うつくしい』って
+JP: かかれています。
+CN: 用大字写着"美丽"。
+
+# [0313] [ROM: 0x1B1CF2] [Bank: 0x6C:0x1CF2] [CPU: 0x5CF2] [OrigLen: 20]
+JP: うつくしいと　かかれた
+JP: コンパクト……
+CN: 写着美丽的粉盒……
+
+# [0314] [ROM: 0x1B1D06] [Bank: 0x6C:0x1D06] [CPU: 0x5D06] [OrigLen: 22]
+JP: なかには　バラのもようが
+JP: かかれています。
+CN: 里面画着玫瑰图案。
+
+# [0315] [ROM: 0x1B1D1C] [Bank: 0x6C:0x1D1C] [CPU: 0x5D1C] [OrigLen: 29]
+JP: しゅみのわるい
+JP: コンパクトね〜。
+JP: いったいだれのかしら？
+CN: 品味差的粉盒～。到底是谁的？
+
+# [0316] [ROM: 0x1B1D39] [Bank: 0x6C:0x1D39] [CPU: 0x5D39] [OrigLen: 31]
+JP: わかったわ……
+JP: これも　ことねさんのものに
+JP: ちがいないわね。
+CN: 明白了…这肯定也是小音小姐的。
+
+# [0317] [ROM: 0x1B1D58] [Bank: 0x6C:0x1D58] [CPU: 0x5D58] [OrigLen: 19]
+JP: マリアさん。
+JP: なにか　おちています。
+CN: 玛利亚。有东西掉了
+
+# [0318] [ROM: 0x1B1D6B] [Bank: 0x6C:0x1D6B] [CPU: 0x5D6B] [OrigLen: 25]
+JP: <NAME>は　キーアイテム
+JP: 『くちべに』を
+JP: てにいれた。
+CN: <NAME>获得关键道具口红
+
+# [0319] [ROM: 0x1B1D84] [Bank: 0x6C:0x1D84] [CPU: 0x5D84] [OrigLen: 6]
+JP: くちべに？
+CN: 口红
+
+# [0320] [ROM: 0x1B1D8A] [Bank: 0x6C:0x1D8A] [CPU: 0x5D8A] [OrigLen: 20]
+JP: 『うつくしい』って
+JP: かかれています。
+CN: "美丽"写着。
+
+# [0321] [ROM: 0x1B1D9E] [Bank: 0x6C:0x1D9E] [CPU: 0x5D9E] [OrigLen: 19]
+JP: うつくしいと　かかれた
+JP: くちべに……
+CN: 写着美丽的唇膏……
+
+# [0322] [ROM: 0x1B1DB1] [Bank: 0x6C:0x1DB1] [CPU: 0x5DB1] [OrigLen: 25]
+JP: バラのもようが
+JP: かかれています。
+JP: もしかして……
+CN: 画着玫瑰图案。难道……
+
+# [0323] [ROM: 0x1B1DCA] [Bank: 0x6C:0x1DCA] [CPU: 0x5DCA] [OrigLen: 12]
+JP: バラぐみの　ひとが……
+CN: 蔷薇组人…
+
+# [0324] [ROM: 0x1B1DD6] [Bank: 0x6C:0x1DD6] [CPU: 0x5DD6] [OrigLen: 14]
+JP: バラずきの　じょせいが……
+CN: 玫瑰爱好者…
+
+# [0325] [ROM: 0x1B1DE4] [Bank: 0x6C:0x1DE4] [CPU: 0x5DE4] [OrigLen: 24]
+JP: もしかして　バラぐみの
+JP: ひとが　このさきに……
+CN: 难道蔷薇组的人在前面…
+
+# [0326] [ROM: 0x1B1DFC] [Bank: 0x6C:0x1DFC] [CPU: 0x5DFC] [OrigLen: 20]
+JP: わたしも　そうおもって
+JP: いたわ。
+JP: <NAME>。
+CN: 我也这么想。<NAME>。
+
+# [0327] [ROM: 0x1B1E10] [Bank: 0x6C:0x1E10] [CPU: 0x5E10] [OrigLen: 40]
+JP: このさきに　バラぐみの
+JP: たいちょうの　ことねさんが
+JP: いるのかも　しれないわね。
+CN: 前面可能有蔷薇组的队长小音小姐。
+
+# [0328] [ROM: 0x1B1E38] [Bank: 0x6C:0x1E38] [CPU: 0x5E38] [OrigLen: 11]
+JP: いそぎましょう
+JP: <NAME>。
+CN: 快走吧<NAME>。
+
+# [0329] [ROM: 0x1B1E43] [Bank: 0x6C:0x1E43] [CPU: 0x5E43] [OrigLen: 28]
+JP: バラずきの　じょせいが
+JP: おとして
+JP: いったんでしょうか？
+CN: 是喜欢玫瑰的女性掉的吗？
+
+# [0330] [ROM: 0x1B1E5F] [Bank: 0x6C:0x1E5F] [CPU: 0x5E5F] [OrigLen: 25]
+JP: バラずきのじょせい？
+JP: ……バラずきの………………
+CN: 玫瑰爱好者？…玫瑰爱好…
+
+# [0331] [ROM: 0x1B1E78] [Bank: 0x6C:0x1E78] [CPU: 0x5E78] [OrigLen: 24]
+JP: ……わかったわ！
+JP: バラのもように　うつくしい。
+CN: 明白了！玫瑰图案，美丽
+
+# [0332] [ROM: 0x1B1E90] [Bank: 0x6C:0x1E90] [CPU: 0x5E90] [OrigLen: 36]
+JP: きっと　バラぐみの
+JP: たいちょうの　ことねさんが
+JP: このさきに　いるのよ！
+CN: 一定是蔷薇组队长小音小姐在前面！
+
+# [0333] [ROM: 0x1B1EB4] [Bank: 0x6C:0x1EB4] [CPU: 0x5EB4] [OrigLen: 13]
+JP: いそぎましょう！
+JP: <NAME>！！
+CN: 快走！<NAME>！！
+
+# [0334] [ROM: 0x1B1ECE] [Bank: 0x6C:0x1ECE] [CPU: 0x5ECE] [OrigLen: 50]
+JP: バラのもよう……
+JP: 『うつくしい』のもじ……
+JP: バラ……　うつくしい……
+JP: ……………………………………
+CN: 玫瑰图案……"美丽"的文字……玫瑰……美丽……
+
+# [0335] [ROM: 0x1B1F00] [Bank: 0x6C:0x1F00] [CPU: 0x5F00] [OrigLen: 15]
+JP: わかったわ！
+JP: バラぐみよ！！
+CN: 知道！蔷薇组！
+
+# [0336] [ROM: 0x1B1F0F] [Bank: 0x6C:0x1F0F] [CPU: 0x5F0F] [OrigLen: 36]
+JP: きっと　バラぐみの
+JP: たいちょうの　ことねさんが
+JP: このさきに　いるのよ！
+CN: 一定是蔷薇组队长小音小姐在前面！
+
+# [0337] [ROM: 0x1B1F33] [Bank: 0x6C:0x1F33] [CPU: 0x5F33] [OrigLen: 13]
+JP: いそぎましょう！
+JP: <NAME>！！
+CN: 快走！<NAME>！！
+
+# [0338] [ROM: 0x1B1F40] [Bank: 0x6C:0x1F40] [CPU: 0x5F40] [OrigLen: 24]
+JP: あっ！　つうしんだわ！
+JP: はい
+JP: こちら　<NAME>です。
+CN: 啊！通信！是，我是<NAME>。
+
+# [0339] [ROM: 0x1B1F58] [Bank: 0x6C:0x1F58] [CPU: 0x5F58] [OrigLen: 6]
+JP: つばきさん
+CN: 椿
+
+# [0340] [ROM: 0x1B1F5E] [Bank: 0x6C:0x1F5E] [CPU: 0x5F5E] [OrigLen: 6]
+JP: かすみさん
+CN: 霞
+
+# [0341] [ROM: 0x1B1F64] [Bank: 0x6C:0x1F64] [CPU: 0x5F64] [OrigLen: 5]
+JP: ゆりさん
+CN: 百合
+
+# [0342] [ROM: 0x1B1F69] [Bank: 0x6C:0x1F69] [CPU: 0x5F69] [OrigLen: 11]
+JP: こちら　つばきです。
+CN: 这里是椿。
+
+# [0343] [ROM: 0x1B1F74] [Bank: 0x6C:0x1F74] [CPU: 0x5F74] [OrigLen: 42]
+JP: いま　<NAME>さんたちが
+JP: すすんでいる　ほうこうに
+JP: バラぐみの　はんのうが
+JP: ありました。
+CN: 现在<NAME>你们前进的方向有蔷薇组的反应。
+
+# [0344] [ROM: 0x1B1F9E] [Bank: 0x6C:0x1F9E] [CPU: 0x5F9E] [OrigLen: 36]
+JP: おそらく　バラぐみの
+JP: せいりゅういん　ことね　さん
+JP: だとおもわれます。
+CN: 大概是蔷薇组的经理小音小姐。
+
+# [0345] [ROM: 0x1B1FC2] [Bank: 0x6C:0x1FC2] [CPU: 0x5FC2] [OrigLen: 11]
+JP: りょうかいしました。
+CN: 明白了。
+
+# [0346] [ROM: 0x1B1FCD] [Bank: 0x6C:0x1FCD] [CPU: 0x5FCD] [OrigLen: 11]
+JP: こちら　かすみです。
+CN: 这里是霞。
+
+# [0347] [ROM: 0x1B1FD8] [Bank: 0x6C:0x1FD8] [CPU: 0x5FD8] [OrigLen: 42]
+JP: いま　<NAME>さんたちが
+JP: すすんでいる　ほうこうに
+JP: バラぐみの　はんのうが
+JP: ありました。
+CN: 现在<NAME>你们前进的方向有蔷薇组的反应。
+
+# [0348] [ROM: 0x1B2002] [Bank: 0x6C:0x2002] [CPU: 0x6002] [OrigLen: 36]
+JP: おそらく　バラぐみの
+JP: せいりゅういん　ことね　さん
+JP: だとおもわれます。
+CN: 大概是蔷薇组的经理小音小姐。
+
+# [0349] [ROM: 0x1B2026] [Bank: 0x6C:0x2026] [CPU: 0x6026] [OrigLen: 11]
+JP: りょうかいしました。
+CN: 明白了。
+
+# [0350] [ROM: 0x1B2031] [Bank: 0x6C:0x2031] [CPU: 0x6031] [OrigLen: 10]
+JP: こちら　ゆりです。
+CN: 我是百合
+
+# [0351] [ROM: 0x1B203B] [Bank: 0x6C:0x203B] [CPU: 0x603B] [OrigLen: 42]
+JP: いま　<NAME>さんたちが
+JP: すすんでいる　ほうこうに
+JP: バラぐみの　はんのうが
+JP: あったのよ。
+CN: 现在<NAME>你们前进的方向有蔷薇组的反应。
+
+# [0352] [ROM: 0x1B2065] [Bank: 0x6C:0x2065] [CPU: 0x6065] [OrigLen: 34]
+JP: おそらく　バラぐみの
+JP: せいりゅういん　ことね　さん
+JP: だとおもうわ。
+CN: 大概是蔷薇组的经理小音小姐。
+
+# [0353] [ROM: 0x1B2087] [Bank: 0x6C:0x2087] [CPU: 0x6087] [OrigLen: 11]
+JP: りょうかいしました。
+CN: 明白了。
+
+# [0354] [ROM: 0x1B2092] [Bank: 0x6C:0x2092] [CPU: 0x6092] [OrigLen: 9]
+JP: こちら　かえで。
+CN: 枫
+
+# [0355] [ROM: 0x1B209B] [Bank: 0x6C:0x209B] [CPU: 0x609B] [OrigLen: 40]
+JP: いま　<NAME>たちが
+JP: すすんでいる　ほうこうに
+JP: バラぐみの　はんのうが
+JP: あったのよ。
+CN: 现在<NAME>你们前进的方向有蔷薇组的反应。
+
+# [0356] [ROM: 0x1B20C3] [Bank: 0x6C:0x20C3] [CPU: 0x60C3] [OrigLen: 35]
+JP: おそらく　バラぐみの
+JP: せいりゅういん　ことね　さん
+JP: だと　おもうわ。
+CN: 大概是蔷薇组的经理小音小姐。
+
+# [0357] [ROM: 0x1B20E6] [Bank: 0x6C:0x20E6] [CPU: 0x60E6] [OrigLen: 11]
+JP: りょうかいしました。
+CN: 明白了。
+
+# [0358] [ROM: 0x1B20F1] [Bank: 0x6C:0x20F1] [CPU: 0x60F1] [OrigLen: 36]
+JP: マリアさん。
+JP: やっぱり　このさきに
+JP: バラぐみのひとが
+JP: いるみたいです。
+CN: 玛利亚小姐。前面果然有蔷薇组的人。
+
+# [0359] [ROM: 0x1B2115] [Bank: 0x6C:0x2115] [CPU: 0x6115] [OrigLen: 9]
+JP: いそぐわよ　<NAME>。
+CN: 快走<NAME>。
+
+# [0360] [ROM: 0x1B211E] [Bank: 0x6C:0x211E] [CPU: 0x611E] [OrigLen: 12]
+JP: これは　なにかしら……
+CN: 这是什么…
+
+# [0361] [ROM: 0x1B212A] [Bank: 0x6C:0x212A] [CPU: 0x612A] [OrigLen: 37]
+JP: なんだか　あやしげな
+JP: かんおけだわ……
+JP: あけないほうが
+JP: いいんじゃない。
+CN: 总觉得可疑的棺材……还是别开吧。
+
+# [0362] [ROM: 0x1B214F] [Bank: 0x6C:0x214F] [CPU: 0x614F] [OrigLen: 5]
+JP: あけない
+CN: 不开
+
+# [0363] [ROM: 0x1B2154] [Bank: 0x6C:0x2154] [CPU: 0x6154] [OrigLen: 4]
+JP: あける
+CN: 开
+
+# [0364] [ROM: 0x1B2158] [Bank: 0x6C:0x2158] [CPU: 0x6158] [OrigLen: 26]
+JP: ……………………………………
+JP: やめておきましょう。
+CN: ……还是算了。
+
+# [0365] [ROM: 0x1B2172] [Bank: 0x6C:0x2172] [CPU: 0x6172] [OrigLen: 6]
+JP: あけます。
+CN: 打开
+
+# [0366] [ROM: 0x1B2178] [Bank: 0x6C:0x2178] [CPU: 0x6178] [OrigLen: 11]
+JP: あっ！
+JP: てきだわ！！
+CN: 啊！敌人！
+
+# [0367] [ROM: 0x1B2183] [Bank: 0x6C:0x2183] [CPU: 0x6183] [OrigLen: 14]
+JP: ……あら？
+JP: なにかあるわ？
+CN: …哦？有东西
+
+# [0368] [ROM: 0x1B2191] [Bank: 0x6C:0x2191] [CPU: 0x6191] [OrigLen: 20]
+JP: <NAME>は
+JP: 『リペアキット』を
+JP: てにいれた。
+CN: <NAME>获得了修理套件。
+
+# [0369] [ROM: 0x1B21A5] [Bank: 0x6C:0x21A5] [CPU: 0x61A5] [OrigLen: 20]
+JP: あら　あなたたち
+JP: おそかったじゃない。
+CN: 哎呀你们来晚了。
+
+# [0370] [ROM: 0x1B21B9] [Bank: 0x6C:0x21B9] [CPU: 0x61B9] [OrigLen: 41]
+JP: あっ！　ことねさん！！
+JP: バラぐみの　せいりゅういん
+JP: ことねさん　じゃないですか？
+CN: 啊！小音小姐！蔷薇组经理小音小姐！？
+
+# [0371] [ROM: 0x1B21E2] [Bank: 0x6C:0x21E2] [CPU: 0x61E2] [OrigLen: 11]
+JP: ぶじだったんですね。
+CN: 没事就好。
+
+# [0372] [ROM: 0x1B21ED] [Bank: 0x6C:0x21ED] [CPU: 0x61ED] [OrigLen: 16]
+JP: きゃっ！
+JP: このまものたちは……
+CN: 呀！这魔物是…
+
+# [0373] [ROM: 0x1B21FD] [Bank: 0x6C:0x21FD] [CPU: 0x61FD] [OrigLen: 32]
+JP: あらぁ？
+JP: これって　さっきのへやの
+JP: おきものじゃあ　ないの？
+CN: 哎呀？这不是刚才房间的摆设吗？
+
+# [0374] [ROM: 0x1B221D] [Bank: 0x6C:0x221D] [CPU: 0x621D] [OrigLen: 27]
+JP: キキー！
+JP: おれたちは　おきものじゃ
+JP: ないぞ　キキー！
+CN: 唧唧！我们不是摆设！唧唧！
+
+# [0375] [ROM: 0x1B2238] [Bank: 0x6C:0x2238] [CPU: 0x6238] [OrigLen: 19]
+JP: ことねさん
+JP: だいじょうぶ　ですか！
+CN: 小音小姐没事吗！
+
+# [0376] [ROM: 0x1B224B] [Bank: 0x6C:0x224B] [CPU: 0x624B] [OrigLen: 38]
+JP: ええ……
+JP: このうつくしい　わたしが
+JP: やられるわけが
+JP: ないでは　ないですか。
+CN: 是啊……这么美的我怎么可能被打倒呢。
+
+# [0377] [ROM: 0x1B2271] [Bank: 0x6C:0x2271] [CPU: 0x6271] [OrigLen: 11]
+JP: それは　よかった……
+CN: 那太好了…
+
+# [0378] [ROM: 0x1B227C] [Bank: 0x6C:0x227C] [CPU: 0x627C] [OrigLen: 33]
+JP: あっ　そうだわ！
+JP: ことねさん　『まじんき』は
+JP: みつかりましたか？
+CN: 啊对了！小音小姐魔神器呢？
+
+# [0379] [ROM: 0x1B229D] [Bank: 0x6C:0x229D] [CPU: 0x629D] [OrigLen: 40]
+JP: それが　きいてください。
+JP: わたし　『まじんき』の
+JP: 『かがみ』を　みつけたのよ。
+CN: 听我说。我找到了魔神器的镜子。
+
+# [0380] [ROM: 0x1B22C5] [Bank: 0x6C:0x22C5] [CPU: 0x62C5] [OrigLen: 36]
+JP: で　せっかく　かがみが
+JP: あるのだから　おけしょうを
+JP: なおさなくては……
+CN: 难得有镜子得补补妆……
+
+# [0381] [ROM: 0x1B22E9] [Bank: 0x6C:0x22E9] [CPU: 0x62E9] [OrigLen: 39]
+JP: とおもったら……
+JP: コンパクト　と　くちべにを
+JP: おとしてしまった
+JP: みたいで……
+CN: 结果……好像把粉盒和口红弄掉了……
+
+# [0382] [ROM: 0x1B2310] [Bank: 0x6C:0x2310] [CPU: 0x6310] [OrigLen: 33]
+JP: ことねさん。
+JP: そんなことより　『かがみ』は
+JP: どうしたんですか？！
+CN: 小音小姐。镜子找到了吗？
+
+# [0383] [ROM: 0x1B2331] [Bank: 0x6C:0x2331] [CPU: 0x6331] [OrigLen: 26]
+JP: そんなことって　なによ！
+JP: しつれいしちゃうわね！！
+CN: 什么叫那种事！真失礼！！
+
+# [0384] [ROM: 0x1B234B] [Bank: 0x6C:0x234B] [CPU: 0x634B] [OrigLen: 23]
+JP: 『かがみ』は　どこかへ
+JP: いってしまったわよ。
+CN: 镜子不知道去哪了。
+
+# [0385] [ROM: 0x1B2362] [Bank: 0x6C:0x2362] [CPU: 0x6362] [OrigLen: 39]
+JP: どこかへ　いったって……
+JP: 『かがみ』が　かってに
+JP: あるいていくわけないし……
+CN: 去哪了……镜子不可能自己走……
+
+# [0386] [ROM: 0x1B2389] [Bank: 0x6C:0x2389] [CPU: 0x6389] [OrigLen: 10]
+JP: <NAME>は　どうおもう？
+CN: <NAME>怎么想？
+
+# [0387] [ROM: 0x1B2393] [Bank: 0x6C:0x2393] [CPU: 0x6393] [OrigLen: 13]
+JP: かってに　あるいていった
+CN: 自己走了
+
+# [0388] [ROM: 0x1B23A0] [Bank: 0x6C:0x23A0] [CPU: 0x63A0] [OrigLen: 12]
+JP: だれかが　もっていった
+CN: 被人拿走
+
+# [0389] [ROM: 0x1B23AC] [Bank: 0x6C:0x23AC] [CPU: 0x63AC] [OrigLen: 36]
+JP: 『かがみ』に　てあしがはえて
+JP: かってにあるいて
+JP: いっちゃったんですね。
+CN: 镜子长出手脚自己走了呢。
+
+# [0390] [ROM: 0x1B23D0] [Bank: 0x6C:0x23D0] [CPU: 0x63D0] [OrigLen: 18]
+JP: なにバカなこと　いってるの。
+JP: <NAME>。
+CN: 说什么傻话。<NAME>。
+
+# [0391] [ROM: 0x1B23E2] [Bank: 0x6C:0x23E2] [CPU: 0x63E2] [OrigLen: 22]
+JP: おおあたりーーーっ。
+JP: よくわかりましたね。
+CN: 全中。你真明白。
+
+# [0392] [ROM: 0x1B23F8] [Bank: 0x6C:0x23F8] [CPU: 0x63F8] [OrigLen: 14]
+JP: エエッ！
+JP: そ　そうなの？！
+CN: 咦！是吗？！
+
+# [0393] [ROM: 0x1B2406] [Bank: 0x6C:0x2406] [CPU: 0x6406] [OrigLen: 38]
+JP: マリアさん。
+JP: 『けん』と『たま』のとき
+JP: のことを　おもいだして
+JP: ください。
+CN: 玛利亚小姐。请回想剑和珠的时候。
+
+# [0394] [ROM: 0x1B242C] [Bank: 0x6C:0x242C] [CPU: 0x642C] [OrigLen: 28]
+JP: まものと　ゆうごうして
+JP: おそいかかって
+JP: きましたよね。
+CN: 魔物融合后袭击过来了呢。
+
+# [0395] [ROM: 0x1B2448] [Bank: 0x6C:0x2448] [CPU: 0x6448] [OrigLen: 17]
+JP: そういえば……
+JP: そうだったわね。
+CN: 说起来……是啊。
+
+# [0396] [ROM: 0x1B2459] [Bank: 0x6C:0x2459] [CPU: 0x6459] [OrigLen: 26]
+JP: ところで
+JP: その　おじょうちゃんは
+JP: なんなのかしら？
+CN: 话说那小姑娘是谁？
+
+# [0397] [ROM: 0x1B2473] [Bank: 0x6C:0x2473] [CPU: 0x6473] [OrigLen: 18]
+JP: だれかが　もっていったの
+JP: ですね。
+CN: 是被人拿走了吧。
+
+# [0398] [ROM: 0x1B2485] [Bank: 0x6C:0x2485] [CPU: 0x6485] [OrigLen: 39]
+JP: そうよね。
+JP: わたしも　そうおもうわ。
+JP: だれが　もっていったの？
+JP: ことねさん。
+CN: 是啊。我也这么想。谁拿走的？小音小姐。
+
+# [0399] [ROM: 0x1B24AC] [Bank: 0x6C:0x24AC] [CPU: 0x64AC] [OrigLen: 32]
+JP: ちがうわ！
+JP: あるいていったのよ。
+JP: 『かがみ』が　ひとりでね！！
+CN: 镜子不知道去哪了。
+
+# [0400] [ROM: 0x1B24CC] [Bank: 0x6C:0x24CC] [CPU: 0x64CC] [OrigLen: 30]
+JP: ……『かがみ』がひとりで……
+JP: ……………………………………
+CN: ……镜子自己……
+
+# [0401] [ROM: 0x1B24EA] [Bank: 0x6C:0x24EA] [CPU: 0x64EA] [OrigLen: 39]
+JP: ……わかったわ。
+JP: <NAME>　いままでの
+JP: 『けん』や『たま』を
+JP: おもいだしてみて……
+CN: ……明白。<NAME>回想一下剑和珠……
+
+# [0402] [ROM: 0x1B2511] [Bank: 0x6C:0x2511] [CPU: 0x6511] [OrigLen: 43]
+JP: まものが　『まじんき』と
+JP: ゆうごうして　わたしたちに
+JP: おそいかかって
+JP: きたじゃない。
+CN: 魔物和魔神器融合后袭击我们了。
+
+# [0403] [ROM: 0x1B253C] [Bank: 0x6C:0x253C] [CPU: 0x653C] [OrigLen: 5]
+JP: あっ……
+CN: 啊…
+
+# [0404] [ROM: 0x1B2541] [Bank: 0x6C:0x2541] [CPU: 0x6541] [OrigLen: 16]
+JP: わかって　いただけた
+JP: かしら？
+CN: 您明白了吗？
+
+# [0405] [ROM: 0x1B2551] [Bank: 0x6C:0x2551] [CPU: 0x6551] [OrigLen: 26]
+JP: ところで
+JP: その　おじょうちゃんは
+JP: なんなのかしら？
+CN: 话说那小姑娘是谁？
+
+# [0406] [ROM: 0x1B2578] [Bank: 0x6C:0x2578] [CPU: 0x6578] [OrigLen: 31]
+JP: かってに　あるいて
+JP: いっちゃったのよ。
+JP: てあしが　はえてね。
+CN: 自己走了。长出手脚了呢。
+
+# [0407] [ROM: 0x1B2597] [Bank: 0x6C:0x2597] [CPU: 0x6597] [OrigLen: 9]
+JP: そんなバカな……
+CN: 不会吧…
+
+# [0408] [ROM: 0x1B25A0] [Bank: 0x6C:0x25A0] [CPU: 0x65A0] [OrigLen: 29]
+JP: わたしも
+JP: しんじられないわ。
+JP: でも　ほんとうなのですよ。
+CN: 我也不信。但这是真的。
+
+# [0409] [ROM: 0x1B25BD] [Bank: 0x6C:0x25BD] [CPU: 0x65BD] [OrigLen: 26]
+JP: ところで
+JP: その　おじょうちゃんは
+JP: なんなのかしら？
+CN: 话说那小姑娘是谁？
+
+# [0410] [ROM: 0x1B25D7] [Bank: 0x6C:0x25D7] [CPU: 0x65D7] [OrigLen: 22]
+JP: はじめまして。
+JP: わたしは　<NAME>
+JP: といいます。
+CN: 初次见面。我叫<NAME>。
+
+# [0411] [ROM: 0x1B25ED] [Bank: 0x6C:0x25ED] [CPU: 0x65ED] [OrigLen: 34]
+JP: 『まじんき』をさがす
+JP: にんむを　うけて
+JP: ここまで　やってきました。
+CN: 我接受了寻找魔神器任务来到这里。
+
+# [0412] [ROM: 0x1B260F] [Bank: 0x6C:0x260F] [CPU: 0x660F] [OrigLen: 31]
+JP: あら　そうでしたか。
+JP: わたしは
+JP: せいりゅういん　ことね　よ〒
+CN: 哎呀是吗。我是经理小音〒
+
+# [0413] [ROM: 0x1B262E] [Bank: 0x6C:0x262E] [CPU: 0x662E] [OrigLen: 17]
+JP: ことね　って
+JP: よんでくださいね〒
+CN: 请叫我小音〒
+
+# [0414] [ROM: 0x1B263F] [Bank: 0x6C:0x263F] [CPU: 0x663F] [OrigLen: 36]
+JP: ところで　ことねさん。
+JP: 『かがみ』は　いったいどこへ
+JP: いったのですか？
+CN: 话说小音小姐。镜子到底去哪了？
+
+# [0415] [ROM: 0x1B2663] [Bank: 0x6C:0x2663] [CPU: 0x6663] [OrigLen: 42]
+JP: それが　『せいまじょう』の
+JP: さらに　おくふかくへ
+JP: いってしまった
+JP: みたいなのです。
+CN: 好像去了圣魔城更深的地方。
+
+# [0416] [ROM: 0x1B268D] [Bank: 0x6C:0x268D] [CPU: 0x668D] [OrigLen: 12]
+JP: そうですか………………
+CN: 这样啊……
+
+# [0417] [ROM: 0x1B2699] [Bank: 0x6C:0x2699] [CPU: 0x6699] [OrigLen: 37]
+JP: では　いちど
+JP: ていげきに　もどって
+JP: さくせんを　たてなおし
+JP: ましょう。
+CN: 那先回帝击重新制定作战吧。
+
+# [0418] [ROM: 0x1B26BE] [Bank: 0x6C:0x26BE] [CPU: 0x66BE] [OrigLen: 19]
+JP: マリアさん。
+JP: なにか　おちています。
+CN: 玛利亚。有东西掉了
+
+# [0419] [ROM: 0x1B26D1] [Bank: 0x6C:0x26D1] [CPU: 0x66D1] [OrigLen: 26]
+JP: <NAME>は　キーアイテム
+JP: 『コンパクト』を
+JP: てにいれた。
+CN: <NAME>获得关键道具粉盒
+
+# [0420] [ROM: 0x1B26EB] [Bank: 0x6C:0x26EB] [CPU: 0x66EB] [OrigLen: 7]
+JP: コンパクト？
+CN: 粉盒？
+
+# [0421] [ROM: 0x1B26F2] [Bank: 0x6C:0x26F2] [CPU: 0x66F2] [OrigLen: 26]
+JP: おおきなじで
+JP: 『うつくしい』って
+JP: かかれています。
+CN: 用大字写着"美丽"。
+
+# [0422] [ROM: 0x1B270C] [Bank: 0x6C:0x270C] [CPU: 0x670C] [OrigLen: 20]
+JP: うつくしいと　かかれた
+JP: コンパクト……
+CN: 写着美丽的粉盒……
+
+# [0423] [ROM: 0x1B2720] [Bank: 0x6C:0x2720] [CPU: 0x6720] [OrigLen: 22]
+JP: なかには　バラのもようが
+JP: かかれています。
+CN: 里面画着玫瑰图案。
+
+# [0424] [ROM: 0x1B2736] [Bank: 0x6C:0x2736] [CPU: 0x6736] [OrigLen: 29]
+JP: しゅみのわるい
+JP: コンパクトね〜。
+JP: いったいだれのかしら？
+CN: 品味差的粉盒～。到底是谁的？
+
+# [0425] [ROM: 0x1B2753] [Bank: 0x6C:0x2753] [CPU: 0x6753] [OrigLen: 31]
+JP: わかったわ……
+JP: これも　ことねさんのものに
+JP: ちがいないわね。
+CN: 明白了…这肯定也是小音小姐的。
+
+# [0426] [ROM: 0x1B2772] [Bank: 0x6C:0x2772] [CPU: 0x6772] [OrigLen: 19]
+JP: マリアさん。
+JP: なにか　おちています。
+CN: 玛利亚。有东西掉了
+
+# [0427] [ROM: 0x1B2785] [Bank: 0x6C:0x2785] [CPU: 0x6785] [OrigLen: 25]
+JP: <NAME>は　キーアイテム
+JP: 『くちべに』を
+JP: てにいれた。
+CN: <NAME>获得关键道具口红
+
+# [0428] [ROM: 0x1B279E] [Bank: 0x6C:0x279E] [CPU: 0x679E] [OrigLen: 8]
+JP: くちべに……？
+CN: 口红？
+
+# [0429] [ROM: 0x1B27A6] [Bank: 0x6C:0x27A6] [CPU: 0x67A6] [OrigLen: 20]
+JP: 『うつくしい』って
+JP: かかれています。
+CN: "美丽"写着。
+
+# [0430] [ROM: 0x1B27BA] [Bank: 0x6C:0x27BA] [CPU: 0x67BA] [OrigLen: 19]
+JP: うつくしいと　かかれた
+JP: くちべに……
+CN: 写着美丽的唇膏……
+
+# [0431] [ROM: 0x1B27CD] [Bank: 0x6C:0x27CD] [CPU: 0x67CD] [OrigLen: 25]
+JP: バラのもようが
+JP: かかれています。
+JP: もしかして……
+CN: 画着玫瑰图案。难道……
+
+# [0432] [ROM: 0x1B27E6] [Bank: 0x6C:0x27E6] [CPU: 0x67E6] [OrigLen: 12]
+JP: バラぐみの　ひとが……
+CN: 蔷薇组人…
+
+# [0433] [ROM: 0x1B27F2] [Bank: 0x6C:0x27F2] [CPU: 0x67F2] [OrigLen: 14]
+JP: バラずきの　じょせいが……
+CN: 玫瑰爱好者…
+
+# [0434] [ROM: 0x1B2800] [Bank: 0x6C:0x2800] [CPU: 0x6800] [OrigLen: 24]
+JP: もしかして　バラぐみの
+JP: ひとが　このさきに……
+CN: 难道蔷薇组的人在前面…
+
+# [0435] [ROM: 0x1B2818] [Bank: 0x6C:0x2818] [CPU: 0x6818] [OrigLen: 22]
+JP: わたしも　そうおもって
+JP: いたわ。
+JP: <NAME>くん。
+CN: 我也这么想。<NAME>君。
+
+# [0436] [ROM: 0x1B282E] [Bank: 0x6C:0x282E] [CPU: 0x682E] [OrigLen: 40]
+JP: このさきに　バラぐみの
+JP: たいちょうの　ことねさんが
+JP: いるのかも　しれないわね。
+CN: 前面可能有蔷薇组的队长小音小姐。
+
+# [0437] [ROM: 0x1B2856] [Bank: 0x6C:0x2856] [CPU: 0x6856] [OrigLen: 13]
+JP: いそぎましょう
+JP: <NAME>くん。
+CN: 快走吧<NAME>君。
+
+# [0438] [ROM: 0x1B2863] [Bank: 0x6C:0x2863] [CPU: 0x6863] [OrigLen: 28]
+JP: バラずきの　じょせいが
+JP: おとして
+JP: いったんでしょうか？
+CN: 是喜欢玫瑰的女性掉的吗？
+
+# [0439] [ROM: 0x1B287F] [Bank: 0x6C:0x287F] [CPU: 0x687F] [OrigLen: 25]
+JP: バラずきのじょせい？
+JP: ……バラずきの………………
+CN: 玫瑰爱好者？…玫瑰爱好…
+
+# [0440] [ROM: 0x1B2898] [Bank: 0x6C:0x2898] [CPU: 0x6898] [OrigLen: 24]
+JP: ……わかったわ！
+JP: バラのもように　うつくしい。
+CN: 明白了！玫瑰图案，美丽
+
+# [0441] [ROM: 0x1B28B0] [Bank: 0x6C:0x28B0] [CPU: 0x68B0] [OrigLen: 36]
+JP: きっと　バラぐみの
+JP: たいちょうの　ことねさんが
+JP: このさきに　いるのよ！
+CN: 一定是蔷薇组队长小音小姐在前面！
+
+# [0442] [ROM: 0x1B28D4] [Bank: 0x6C:0x28D4] [CPU: 0x68D4] [OrigLen: 15]
+JP: いそぎましょう！
+JP: <NAME>くん！！
+CN: 快走！<NAME>君！！
+
+# [0443] [ROM: 0x1B28F0] [Bank: 0x6C:0x28F0] [CPU: 0x68F0] [OrigLen: 50]
+JP: バラのもよう……
+JP: 『うつくしい』のもじ……
+JP: バラ……　うつくしい……
+JP: ……………………………………
+CN: 玫瑰图案……"美丽"的文字……玫瑰……美丽……
+
+# [0444] [ROM: 0x1B2922] [Bank: 0x6C:0x2922] [CPU: 0x6922] [OrigLen: 15]
+JP: わかったわ！
+JP: バラぐみよ！！
+CN: 知道！蔷薇组！
+
+# [0445] [ROM: 0x1B2931] [Bank: 0x6C:0x2931] [CPU: 0x6931] [OrigLen: 36]
+JP: きっと　バラぐみの
+JP: たいちょうの　ことねさんが
+JP: このさきに　いるのよ！
+CN: 一定是蔷薇组队长小音小姐在前面！
+
+# [0446] [ROM: 0x1B2955] [Bank: 0x6C:0x2955] [CPU: 0x6955] [OrigLen: 15]
+JP: いそぎましょう！
+JP: <NAME>くん！！
+CN: 快走！<NAME>君！！
+
+# [0447] [ROM: 0x1B2964] [Bank: 0x6C:0x2964] [CPU: 0x6964] [OrigLen: 23]
+JP: あっ！　つうしんだ！
+JP: はい
+JP: こちら　<NAME>です。
+CN: 啊！通信！是，我是<NAME>。
+
+# [0448] [ROM: 0x1B297B] [Bank: 0x6C:0x297B] [CPU: 0x697B] [OrigLen: 6]
+JP: つばきさん
+CN: 椿
+
+# [0449] [ROM: 0x1B2981] [Bank: 0x6C:0x2981] [CPU: 0x6981] [OrigLen: 6]
+JP: かすみさん
+CN: 霞
+
+# [0450] [ROM: 0x1B2987] [Bank: 0x6C:0x2987] [CPU: 0x6987] [OrigLen: 5]
+JP: ゆりさん
+CN: 百合
+
+# [0451] [ROM: 0x1B298C] [Bank: 0x6C:0x298C] [CPU: 0x698C] [OrigLen: 11]
+JP: こちら　つばきです。
+CN: 这里是椿。
+
+# [0452] [ROM: 0x1B2997] [Bank: 0x6C:0x2997] [CPU: 0x6997] [OrigLen: 42]
+JP: いま　<NAME>さんたちが
+JP: すすんでいる　ほうこうに
+JP: バラぐみの　はんのうが
+JP: ありました。
+CN: 现在<NAME>你们前进的方向有蔷薇组的反应。
+
+# [0453] [ROM: 0x1B29C1] [Bank: 0x6C:0x29C1] [CPU: 0x69C1] [OrigLen: 36]
+JP: おそらく　バラぐみの
+JP: せいりゅういん　ことね　さん
+JP: だとおもわれます。
+CN: 大概是蔷薇组的经理小音小姐。
+
+# [0454] [ROM: 0x1B29E5] [Bank: 0x6C:0x29E5] [CPU: 0x69E5] [OrigLen: 11]
+JP: りょうかいしました。
+CN: 明白了。
+
+# [0455] [ROM: 0x1B29F0] [Bank: 0x6C:0x29F0] [CPU: 0x69F0] [OrigLen: 11]
+JP: こちら　かすみです。
+CN: 这里是霞。
+
+# [0456] [ROM: 0x1B29FB] [Bank: 0x6C:0x29FB] [CPU: 0x69FB] [OrigLen: 42]
+JP: いま　<NAME>さんたちが
+JP: すすんでいる　ほうこうに
+JP: バラぐみの　はんのうが
+JP: ありました。
+CN: 现在<NAME>你们前进的方向有蔷薇组的反应。
+
+# [0457] [ROM: 0x1B2A25] [Bank: 0x6C:0x2A25] [CPU: 0x6A25] [OrigLen: 36]
+JP: おそらく　バラぐみの
+JP: せいりゅういん　ことね　さん
+JP: だとおもわれます。
+CN: 大概是蔷薇组的经理小音小姐。
+
+# [0458] [ROM: 0x1B2A49] [Bank: 0x6C:0x2A49] [CPU: 0x6A49] [OrigLen: 11]
+JP: りょうかいしました。
+CN: 明白了。
+
+# [0459] [ROM: 0x1B2A54] [Bank: 0x6C:0x2A54] [CPU: 0x6A54] [OrigLen: 10]
+JP: こちら　ゆりです。
+CN: 我是百合
+
+# [0460] [ROM: 0x1B2A5E] [Bank: 0x6C:0x2A5E] [CPU: 0x6A5E] [OrigLen: 42]
+JP: いま　<NAME>くんたちが
+JP: すすんでいる　ほうこうに
+JP: バラぐみの　はんのうが
+JP: あったのよ。
+CN: 现在<NAME>你们前进的方向有蔷薇组的反应。
+
+# [0461] [ROM: 0x1B2A88] [Bank: 0x6C:0x2A88] [CPU: 0x6A88] [OrigLen: 34]
+JP: おそらく　バラぐみの
+JP: せいりゅういん　ことね　さん
+JP: だとおもうわ。
+CN: 大概是蔷薇组的经理小音小姐。
+
+# [0462] [ROM: 0x1B2AAA] [Bank: 0x6C:0x2AAA] [CPU: 0x6AAA] [OrigLen: 11]
+JP: りょうかいしました。
+CN: 明白了。
+
+# [0463] [ROM: 0x1B2AB5] [Bank: 0x6C:0x2AB5] [CPU: 0x6AB5] [OrigLen: 9]
+JP: こちら　かえで。
+CN: 枫
+
+# [0464] [ROM: 0x1B2ABE] [Bank: 0x6C:0x2ABE] [CPU: 0x6ABE] [OrigLen: 42]
+JP: いま　<NAME>くんたちが
+JP: すすんでいる　ほうこうに
+JP: バラぐみの　はんのうが
+JP: ありました。
+CN: 现在<NAME>你们前进的方向有蔷薇组的反应。
+
+# [0465] [ROM: 0x1B2AE8] [Bank: 0x6C:0x2AE8] [CPU: 0x6AE8] [OrigLen: 35]
+JP: たぶん　バラぐみの
+JP: せいりゅういん　ことね　さん
+JP: だと　おもいます。
+CN: 大概是蔷薇组的经理小音小姐。
+
+# [0466] [ROM: 0x1B2B0B] [Bank: 0x6C:0x2B0B] [CPU: 0x6B0B] [OrigLen: 11]
+JP: りょうかいしました。
+CN: 明白了。
+
+# [0467] [ROM: 0x1B2B16] [Bank: 0x6C:0x2B16] [CPU: 0x6B16] [OrigLen: 36]
+JP: マリアさん。
+JP: やっぱり　このさきに
+JP: バラぐみのひとが
+JP: いるみたいです。
+CN: 玛利亚小姐。前面果然有蔷薇组的人。
+
+# [0468] [ROM: 0x1B2B3A] [Bank: 0x6C:0x2B3A] [CPU: 0x6B3A] [OrigLen: 13]
+JP: <NAME>くん
+JP: いそぎましょう。
+CN: <NAME>君快走吧。
+
+# [0469] [ROM: 0x1B2B47] [Bank: 0x6C:0x2B47] [CPU: 0x6B47] [OrigLen: 12]
+JP: これは　なんだろう……
+CN: 这是什么…
+
+# [0470] [ROM: 0x1B2B53] [Bank: 0x6C:0x2B53] [CPU: 0x6B53] [OrigLen: 41]
+JP: なんだか　あやしげな
+JP: かんおけだわ……
+JP: あけないほうが　いいんじゃ
+JP: ないかしら。
+CN: 总觉得可疑的棺材……还是别开吧。
+
+# [0471] [ROM: 0x1B2B7C] [Bank: 0x6C:0x2B7C] [CPU: 0x6B7C] [OrigLen: 5]
+JP: あけない
+CN: 不开
+
+# [0472] [ROM: 0x1B2B81] [Bank: 0x6C:0x2B81] [CPU: 0x6B81] [OrigLen: 4]
+JP: あける
+CN: 开
+
+# [0473] [ROM: 0x1B2B85] [Bank: 0x6C:0x2B85] [CPU: 0x6B85] [OrigLen: 27]
+JP: ……………………………………
+JP: やっぱりやめておこう。
+CN: ……还是算了。
+
+# [0474] [ROM: 0x1B2BA0] [Bank: 0x6C:0x2BA0] [CPU: 0x6BA0] [OrigLen: 6]
+JP: あけます。
+CN: 打开
+
+# [0475] [ROM: 0x1B2BA6] [Bank: 0x6C:0x2BA6] [CPU: 0x6BA6] [OrigLen: 11]
+JP: うわっ！
+JP: てきだ！！
+CN: 啊！敌人！
+
+# [0476] [ROM: 0x1B2BB1] [Bank: 0x6C:0x2BB1] [CPU: 0x6BB1] [OrigLen: 14]
+JP: ……おや？
+JP: なにかあるぞ？
+CN: …哦？有东西
+
+# [0477] [ROM: 0x1B2BBF] [Bank: 0x6C:0x2BBF] [CPU: 0x6BBF] [OrigLen: 20]
+JP: <NAME>は
+JP: 『リペアキット』を
+JP: てにいれた。
+CN: <NAME>获得了修理套件。
+
+# [0478] [ROM: 0x1B2BD3] [Bank: 0x6C:0x2BD3] [CPU: 0x6BD3] [OrigLen: 20]
+JP: あら　あなたたち
+JP: おそかったじゃない。
+CN: 哎呀你们来晚了。
+
+# [0479] [ROM: 0x1B2BE7] [Bank: 0x6C:0x2BE7] [CPU: 0x6BE7] [OrigLen: 41]
+JP: あっ！　ことねさん！！
+JP: バラぐみの　せいりゅういん
+JP: ことねさん　じゃないですか？
+CN: 啊！小音小姐！蔷薇组经理小音小姐！？
+
+# [0480] [ROM: 0x1B2C10] [Bank: 0x6C:0x2C10] [CPU: 0x6C10] [OrigLen: 11]
+JP: ぶじだったんですね。
+CN: 没事就好。
+
+# [0481] [ROM: 0x1B2C1B] [Bank: 0x6C:0x2C1B] [CPU: 0x6C1B] [OrigLen: 16]
+JP: うわっ！
+JP: このまものたちは……
+CN: 呀！这魔物是…
+
+# [0482] [ROM: 0x1B2C2B] [Bank: 0x6C:0x2C2B] [CPU: 0x6C2B] [OrigLen: 32]
+JP: あらぁ？
+JP: これって　さっきのへやの
+JP: おきものじゃあ　ないの？
+CN: 哎呀？这不是刚才房间的摆设吗？
+
+# [0483] [ROM: 0x1B2C4B] [Bank: 0x6C:0x2C4B] [CPU: 0x6C4B] [OrigLen: 27]
+JP: キキー！
+JP: おれたちは　おきものじゃ
+JP: ないぞ　キキー！
+CN: 唧唧！我们不是摆设！唧唧！
+
+# [0484] [ROM: 0x1B2C66] [Bank: 0x6C:0x2C66] [CPU: 0x6C66] [OrigLen: 19]
+JP: ことねさん
+JP: だいじょうぶ　ですか！
+CN: 小音小姐没事吗！
+
+# [0485] [ROM: 0x1B2C79] [Bank: 0x6C:0x2C79] [CPU: 0x6C79] [OrigLen: 38]
+JP: ええ……
+JP: このうつくしい　わたしが
+JP: やられるわけが
+JP: ないでは　ないですか。
+CN: 是啊……这么美的我怎么可能被打倒呢。
+
+# [0486] [ROM: 0x1B2C9F] [Bank: 0x6C:0x2C9F] [CPU: 0x6C9F] [OrigLen: 11]
+JP: それは　よかった……
+CN: 那太好了…
+
+# [0487] [ROM: 0x1B2CAA] [Bank: 0x6C:0x2CAA] [CPU: 0x6CAA] [OrigLen: 33]
+JP: あっ　そうだわ！
+JP: ことねさん　『まじんき』は
+JP: みつかりましたか？
+CN: 啊对了！小音小姐魔神器呢？
+
+# [0488] [ROM: 0x1B2CCB] [Bank: 0x6C:0x2CCB] [CPU: 0x6CCB] [OrigLen: 40]
+JP: それが　きいてください。
+JP: わたし　『まじんき』の
+JP: 『かがみ』を　みつけたのよ。
+CN: 听我说。我找到了魔神器的镜子。
+
+# [0489] [ROM: 0x1B2CF3] [Bank: 0x6C:0x2CF3] [CPU: 0x6CF3] [OrigLen: 36]
+JP: で　せっかく　かがみが
+JP: あるのだから　おけしょうを
+JP: なおさなくては……
+CN: 难得有镜子得补补妆……
+
+# [0490] [ROM: 0x1B2D17] [Bank: 0x6C:0x2D17] [CPU: 0x6D17] [OrigLen: 39]
+JP: とおもったら……
+JP: コンパクト　と　くちべにを
+JP: おとしてしまった
+JP: みたいで……
+CN: 结果……好像把粉盒和口红弄掉了……
+
+# [0491] [ROM: 0x1B2D3E] [Bank: 0x6C:0x2D3E] [CPU: 0x6D3E] [OrigLen: 33]
+JP: ことねさん。
+JP: そんなことより　『かがみ』は
+JP: どうしたんですか？！
+CN: 小音小姐。镜子找到了吗？
+
+# [0492] [ROM: 0x1B2D5F] [Bank: 0x6C:0x2D5F] [CPU: 0x6D5F] [OrigLen: 26]
+JP: そんなことって　なによ！
+JP: しつれいしちゃうわね！！
+CN: 什么叫那种事！真失礼！！
+
+# [0493] [ROM: 0x1B2D79] [Bank: 0x6C:0x2D79] [CPU: 0x6D79] [OrigLen: 23]
+JP: 『かがみ』は　どこかへ
+JP: いってしまったわよ。
+CN: 镜子不知道去哪了。
+
+# [0494] [ROM: 0x1B2D90] [Bank: 0x6C:0x2D90] [CPU: 0x6D90] [OrigLen: 39]
+JP: どこかへ　いったって……
+JP: 『かがみ』が　かってに
+JP: あるいていくわけないし……
+CN: 去哪了……镜子不可能自己走……
+
+# [0495] [ROM: 0x1B2DB7] [Bank: 0x6C:0x2DB7] [CPU: 0x6DB7] [OrigLen: 12]
+JP: <NAME>くんは
+JP: どうおもう？
+CN: <NAME>君怎么想？
+
+# [0496] [ROM: 0x1B2DC3] [Bank: 0x6C:0x2DC3] [CPU: 0x6DC3] [OrigLen: 13]
+JP: かってに　あるいていった
+CN: 自己走了
+
+# [0497] [ROM: 0x1B2DD0] [Bank: 0x6C:0x2DD0] [CPU: 0x6DD0] [OrigLen: 12]
+JP: だれかが　もっていった
+CN: 被人拿走
+
+# [0498] [ROM: 0x1B2DDC] [Bank: 0x6C:0x2DDC] [CPU: 0x6DDC] [OrigLen: 36]
+JP: 『かがみ』に　てあしがはえて
+JP: かってにあるいて
+JP: いっちゃったんですね。
+CN: 镜子长出手脚自己走了呢。
+
+# [0499] [ROM: 0x1B2E00] [Bank: 0x6C:0x2E00] [CPU: 0x6E00] [OrigLen: 20]
+JP: <NAME>くん。
+JP: なにバカなこと　いってるの。
+CN: <NAME>君。说什么傻话。
+
+# [0500] [ROM: 0x1B2E14] [Bank: 0x6C:0x2E14] [CPU: 0x6E14] [OrigLen: 22]
+JP: おおあたりーーーっ。
+JP: よくわかりましたね。
+CN: 全中。你真明白。
+
+# [0501] [ROM: 0x1B2E2A] [Bank: 0x6C:0x2E2A] [CPU: 0x6E2A] [OrigLen: 14]
+JP: エエッ！
+JP: そ　そうなの？！
+CN: 咦！是吗？！
+
+# [0502] [ROM: 0x1B2E38] [Bank: 0x6C:0x2E38] [CPU: 0x6E38] [OrigLen: 39]
+JP: マリアさん。
+JP: 『けん』と『たま』のとき
+JP: のことを　おもいだして
+JP: くださいよ。
+CN: 玛利亚小姐。请回想剑和珠的时候。
+
+# [0503] [ROM: 0x1B2E5F] [Bank: 0x6C:0x2E5F] [CPU: 0x6E5F] [OrigLen: 31]
+JP: まものと　ゆうごうして
+JP: おそいかかってきた
+JP: じゃないですか。
+CN: 魔物融合后袭击过来了呢。
+
+# [0504] [ROM: 0x1B2E7E] [Bank: 0x6C:0x2E7E] [CPU: 0x6E7E] [OrigLen: 17]
+JP: そういえば……
+JP: そうだったわね。
+CN: 说起来……是啊。
+
+# [0505] [ROM: 0x1B2E8F] [Bank: 0x6C:0x2E8F] [CPU: 0x6E8F] [OrigLen: 27]
+JP: ところで　そこのカワイイ
+JP: ぼうやは　だれなのかしら？
+CN: 话说那边可爱的小男孩是谁？
+
+# [0506] [ROM: 0x1B2EAA] [Bank: 0x6C:0x2EAA] [CPU: 0x6EAA] [OrigLen: 18]
+JP: だれかが　もっていったん
+JP: ですね。
+CN: 是被人拿走了吧。
+
+# [0507] [ROM: 0x1B2EBC] [Bank: 0x6C:0x2EBC] [CPU: 0x6EBC] [OrigLen: 39]
+JP: そうよね。
+JP: わたしも　そうおもうわ。
+JP: だれが　もっていったの？
+JP: ことねさん。
+CN: 是啊。我也这么想。谁拿走的？小音小姐。
+
+# [0508] [ROM: 0x1B2EE3] [Bank: 0x6C:0x2EE3] [CPU: 0x6EE3] [OrigLen: 32]
+JP: ちがうわ！
+JP: あるいていったのよ。
+JP: 『かがみ』が　ひとりでね！！
+CN: 镜子不知道去哪了。
+
+# [0509] [ROM: 0x1B2F03] [Bank: 0x6C:0x2F03] [CPU: 0x6F03] [OrigLen: 30]
+JP: ……『かがみ』がひとりで……
+JP: ……………………………………
+CN: ……镜子自己……
+
+# [0510] [ROM: 0x1B2F21] [Bank: 0x6C:0x2F21] [CPU: 0x6F21] [OrigLen: 41]
+JP: ……わかったわ。
+JP: <NAME>くん　いままでの
+JP: 『けん』や『たま』を
+JP: おもいだしてみて……
+CN: ……明白。<NAME>君回想一下剑和珠……
+
+# [0511] [ROM: 0x1B2F4A] [Bank: 0x6C:0x2F4A] [CPU: 0x6F4A] [OrigLen: 43]
+JP: まものが　『まじんき』と
+JP: ゆうごうして　わたしたちに
+JP: おそいかかって
+JP: きたじゃない。
+CN: 魔物和魔神器融合后袭击我们了。
+
+# [0512] [ROM: 0x1B2F75] [Bank: 0x6C:0x2F75] [CPU: 0x6F75] [OrigLen: 5]
+JP: あっ……
+CN: 啊…
+
+# [0513] [ROM: 0x1B2F7A] [Bank: 0x6C:0x2F7A] [CPU: 0x6F7A] [OrigLen: 16]
+JP: わかって　いただけた
+JP: かしら？
+CN: 您明白了吗？
+
+# [0514] [ROM: 0x1B2F8A] [Bank: 0x6C:0x2F8A] [CPU: 0x6F8A] [OrigLen: 27]
+JP: ところで　そこのカワイイ
+JP: ぼうやは　だれなのかしら？
+CN: 话说那边可爱的小男孩是谁？
+
+# [0515] [ROM: 0x1B2FB2] [Bank: 0x6C:0x2FB2] [CPU: 0x6FB2] [OrigLen: 31]
+JP: かってに　あるいて
+JP: いっちゃったのよ。
+JP: てあしが　はえてね。
+CN: 自己走了。长出手脚了呢。
+
+# [0516] [ROM: 0x1B2FD1] [Bank: 0x6C:0x2FD1] [CPU: 0x6FD1] [OrigLen: 9]
+JP: そんなバカな……
+CN: 不会吧…
+
+# [0517] [ROM: 0x1B2FDA] [Bank: 0x6C:0x2FDA] [CPU: 0x6FDA] [OrigLen: 30]
+JP: わたしも
+JP: しんじられないわよ。
+JP: でも　ほんとうなのですよ。
+CN: 我也不信。但这是真的。
+
+# [0518] [ROM: 0x1B2FF8] [Bank: 0x6C:0x2FF8] [CPU: 0x6FF8] [OrigLen: 27]
+JP: ところで　そこのカワイイ
+JP: ぼうやは　だれなのかしら？
+CN: 话说那边可爱的小男孩是谁？
+
+# [0519] [ROM: 0x1B3013] [Bank: 0x6C:0x3013] [CPU: 0x7013] [OrigLen: 21]
+JP: はじめまして。
+JP: ボクは　<NAME>
+JP: といいます。
+CN: 初次见面。我叫<NAME>。
+
+# [0520] [ROM: 0x1B3028] [Bank: 0x6C:0x3028] [CPU: 0x7028] [OrigLen: 34]
+JP: 『まじんき』をさがす
+JP: にんむを　うけて
+JP: ここまで　やってきました。
+CN: 我接受了寻找魔神器任务来到这里。
+
+# [0521] [ROM: 0x1B304A] [Bank: 0x6C:0x304A] [CPU: 0x704A] [OrigLen: 31]
+JP: あら　そうでしたか。
+JP: わたしは
+JP: せいりゅういん　ことね　よ〒
+CN: 哎呀是吗。我是经理小音〒
+
+# [0522] [ROM: 0x1B3069] [Bank: 0x6C:0x3069] [CPU: 0x7069] [OrigLen: 17]
+JP: ことね　って
+JP: よんでくださいね〒
+CN: 请叫我小音〒
+
+# [0523] [ROM: 0x1B307A] [Bank: 0x6C:0x307A] [CPU: 0x707A] [OrigLen: 36]
+JP: ところで　ことねさん。
+JP: 『かがみ』は　いったいどこへ
+JP: いったのですか？
+CN: 话说小音小姐。镜子到底去哪了？
+
+# [0524] [ROM: 0x1B309E] [Bank: 0x6C:0x309E] [CPU: 0x709E] [OrigLen: 42]
+JP: それが　『せいまじょう』の
+JP: さらに　おくふかくへ
+JP: いってしまった
+JP: みたいなのです。
+CN: 好像去了圣魔城更深的地方。
+
+# [0525] [ROM: 0x1B30C8] [Bank: 0x6C:0x30C8] [CPU: 0x70C8] [OrigLen: 12]
+JP: そうですか………………
+CN: 这样啊……
+
+# [0526] [ROM: 0x1B30D4] [Bank: 0x6C:0x30D4] [CPU: 0x70D4] [OrigLen: 37]
+JP: では　いちど
+JP: ていげきに　もどって
+JP: さくせんを　たてなおし
+JP: ましょう。
+CN: 那先回帝击重新制定作战吧。
+
+# [0527] [ROM: 0x1B30F9] [Bank: 0x6C:0x30F9] [CPU: 0x70F9] [OrigLen: 20]
+JP: おりひめさん。
+JP: なにか　おちています。
+CN: 织姬。有东西掉了
+
+# [0528] [ROM: 0x1B310D] [Bank: 0x6C:0x310D] [CPU: 0x710D] [OrigLen: 26]
+JP: <NAME>は　キーアイテム
+JP: 『コンパクト』を
+JP: てにいれた。
+CN: <NAME>获得关键道具粉盒
+
+# [0529] [ROM: 0x1B3127] [Bank: 0x6C:0x3127] [CPU: 0x7127] [OrigLen: 7]
+JP: コンパクト？
+CN: 粉盒？
+
+# [0530] [ROM: 0x1B312E] [Bank: 0x6C:0x312E] [CPU: 0x712E] [OrigLen: 26]
+JP: おおきなじで
+JP: 『うつくしい』って
+JP: かかれています。
+CN: 用大字写着"美丽"。
+
+# [0531] [ROM: 0x1B3148] [Bank: 0x6C:0x3148] [CPU: 0x7148] [OrigLen: 34]
+JP: うつくしい？
+JP: コンパクトに　うつくしい？
+JP: ワケが　わかりませーん。
+CN: 美丽？粉盒美丽？不懂什么意思。
+
+# [0532] [ROM: 0x1B316A] [Bank: 0x6C:0x316A] [CPU: 0x716A] [OrigLen: 22]
+JP: なかには　バラのもようが
+JP: かかれています。
+CN: 里面画着玫瑰图案。
+
+# [0533] [ROM: 0x1B3180] [Bank: 0x6C:0x3180] [CPU: 0x7180] [OrigLen: 41]
+JP: バラのもよう？
+JP: いいしゅみ　してまーす。
+JP: いったい　だれが
+JP: おとしたんでしょー？
+CN: 玫瑰图案？品味不错～。到底是谁掉的？
+
+# [0534] [ROM: 0x1B31A9] [Bank: 0x6C:0x31A9] [CPU: 0x71A9] [OrigLen: 33]
+JP: わかったでーす！
+JP: これも　ことねさんのものに
+JP: ちがいないでーす。
+CN: 明白了……这肯定也是小音小姐的。
+
+# [0535] [ROM: 0x1B31CA] [Bank: 0x6C:0x31CA] [CPU: 0x71CA] [OrigLen: 20]
+JP: おりひめさん。
+JP: なにか　おちています。
+CN: 织姬。有东西掉了
+
+# [0536] [ROM: 0x1B31DE] [Bank: 0x6C:0x31DE] [CPU: 0x71DE] [OrigLen: 25]
+JP: <NAME>は　キーアイテム
+JP: 『くちべに』を
+JP: てにいれた。
+CN: <NAME>获得关键道具口红
+
+# [0537] [ROM: 0x1B31F7] [Bank: 0x6C:0x31F7] [CPU: 0x71F7] [OrigLen: 17]
+JP: くちべに？
+JP: ……ルージュですね。
+CN: 口红？…唇膏呢。
+
+# [0538] [ROM: 0x1B3208] [Bank: 0x6C:0x3208] [CPU: 0x7208] [OrigLen: 20]
+JP: 『うつくしい』って
+JP: かかれています。
+CN: "美丽"写着。
+
+# [0539] [ROM: 0x1B321C] [Bank: 0x6C:0x321C] [CPU: 0x721C] [OrigLen: 21]
+JP: うつくしい？
+JP: ルージュに　うつくしい……
+CN: 美丽？唇膏美丽……
+
+# [0540] [ROM: 0x1B3231] [Bank: 0x6C:0x3231] [CPU: 0x7231] [OrigLen: 25]
+JP: バラのもようが
+JP: かかれています。
+JP: もしかして……
+CN: 画着玫瑰图案。难道……
+
+# [0541] [ROM: 0x1B324A] [Bank: 0x6C:0x324A] [CPU: 0x724A] [OrigLen: 12]
+JP: バラぐみの　ひとが……
+CN: 蔷薇组人…
+
+# [0542] [ROM: 0x1B3256] [Bank: 0x6C:0x3256] [CPU: 0x7256] [OrigLen: 14]
+JP: バラずきの　じょせいが……
+CN: 玫瑰爱好者…
+
+# [0543] [ROM: 0x1B3264] [Bank: 0x6C:0x3264] [CPU: 0x7264] [OrigLen: 24]
+JP: もしかして　バラぐみの
+JP: ひとが　このさきに……
+CN: 难道蔷薇组的人在前面…
+
+# [0544] [ROM: 0x1B327C] [Bank: 0x6C:0x327C] [CPU: 0x727C] [OrigLen: 25]
+JP: わたしも　そう
+JP: おもってましたでーす。
+JP: <NAME>さん。
+CN: 我也这么想～。<NAME>。
+
+# [0545] [ROM: 0x1B3295] [Bank: 0x6C:0x3295] [CPU: 0x7295] [OrigLen: 40]
+JP: このさきに　バラぐみの
+JP: たいちょうの　ことねさんが
+JP: いるのかも　しれませーん。
+CN: 前面可能有蔷薇组的队长小音小姐。
+
+# [0546] [ROM: 0x1B32BD] [Bank: 0x6C:0x32BD] [CPU: 0x72BD] [OrigLen: 14]
+JP: いきましょう！
+JP: <NAME>さん！！
+CN: 走吧！<NAME>！！
+
+# [0547] [ROM: 0x1B32CB] [Bank: 0x6C:0x32CB] [CPU: 0x72CB] [OrigLen: 28]
+JP: バラずきの　じょせいが
+JP: おとして
+JP: いったんでしょうか？
+CN: 是喜欢玫瑰的女性掉的吗？
+
+# [0548] [ROM: 0x1B32E7] [Bank: 0x6C:0x32E7] [CPU: 0x72E7] [OrigLen: 34]
+JP: それは　わたしでーす。
+JP: でも　これは　わたしのじゃ
+JP: ありませーん。
+CN: 那是我～。但这不是我的～。
+
+# [0549] [ROM: 0x1B3309] [Bank: 0x6C:0x3309] [CPU: 0x7309] [OrigLen: 25]
+JP: バラずきのじょせい？
+JP: ……バラずきの………………
+CN: 玫瑰爱好者？…玫瑰爱好…
+
+# [0550] [ROM: 0x1B3322] [Bank: 0x6C:0x3322] [CPU: 0x7322] [OrigLen: 26]
+JP: ……わかりまーした！
+JP: バラのもように　うつくしい。
+CN: …明白了！玫瑰图案，美丽
+
+# [0551] [ROM: 0x1B333C] [Bank: 0x6C:0x333C] [CPU: 0x733C] [OrigLen: 34]
+JP: バラぐみの　たいちょうの
+JP: ことねさんが
+JP: このさきに　いるのでーす。
+CN: 蔷薇组队长小音小姐在前面～。
+
+# [0552] [ROM: 0x1B335E] [Bank: 0x6C:0x335E] [CPU: 0x735E] [OrigLen: 15]
+JP: いそぎましょう！
+JP: <NAME>さん！！
+CN: 走吧！<NAME>！！
+
+# [0553] [ROM: 0x1B337A] [Bank: 0x6C:0x337A] [CPU: 0x737A] [OrigLen: 50]
+JP: バラのもよう……
+JP: 『うつくしい』のもじ……
+JP: バラ……　うつくしい……
+JP: ……………………………………
+CN: 玫瑰图案……"美丽"的文字……玫瑰……美丽……
+
+# [0554] [ROM: 0x1B33AC] [Bank: 0x6C:0x33AC] [CPU: 0x73AC] [OrigLen: 9]
+JP: わかりまーした！
+CN: 明白～！
+
+# [0555] [ROM: 0x1B33B5] [Bank: 0x6C:0x33B5] [CPU: 0x73B5] [OrigLen: 34]
+JP: バラぐみの　たいちょうの
+JP: ことねさんが
+JP: このさきに　いるのでーす。
+CN: 蔷薇组队长小音小姐在前面～。
+
+# [0556] [ROM: 0x1B33D7] [Bank: 0x6C:0x33D7] [CPU: 0x73D7] [OrigLen: 15]
+JP: いそぎましょう！
+JP: <NAME>さん！！
+CN: 走吧！<NAME>！！
+
+# [0557] [ROM: 0x1B33E6] [Bank: 0x6C:0x33E6] [CPU: 0x73E6] [OrigLen: 24]
+JP: あっ！　つうしんだわ！
+JP: はい
+JP: こちら　<NAME>です。
+CN: 啊！通信！是，我是<NAME>。
+
+# [0558] [ROM: 0x1B33FE] [Bank: 0x6C:0x33FE] [CPU: 0x73FE] [OrigLen: 6]
+JP: つばきさん
+CN: 椿
+
+# [0559] [ROM: 0x1B3404] [Bank: 0x6C:0x3404] [CPU: 0x7404] [OrigLen: 6]
+JP: かすみさん
+CN: 霞
+
+# [0560] [ROM: 0x1B340A] [Bank: 0x6C:0x340A] [CPU: 0x740A] [OrigLen: 5]
+JP: ゆりさん
+CN: 百合
+
+# [0561] [ROM: 0x1B340F] [Bank: 0x6C:0x340F] [CPU: 0x740F] [OrigLen: 11]
+JP: こちら　つばきです。
+CN: 这里是椿。
+
+# [0562] [ROM: 0x1B341A] [Bank: 0x6C:0x341A] [CPU: 0x741A] [OrigLen: 42]
+JP: いま　<NAME>さんたちが
+JP: すすんでいる　ほうこうに
+JP: バラぐみの　はんのうが
+JP: ありました。
+CN: 现在<NAME>你们前进的方向有蔷薇组的反应。
+
+# [0563] [ROM: 0x1B3444] [Bank: 0x6C:0x3444] [CPU: 0x7444] [OrigLen: 36]
+JP: おそらく　バラぐみの
+JP: せいりゅういん　ことね　さん
+JP: だとおもわれます。
+CN: 大概是蔷薇组的经理小音小姐。
+
+# [0564] [ROM: 0x1B3468] [Bank: 0x6C:0x3468] [CPU: 0x7468] [OrigLen: 11]
+JP: りょうかいしました。
+CN: 明白了。
+
+# [0565] [ROM: 0x1B3473] [Bank: 0x6C:0x3473] [CPU: 0x7473] [OrigLen: 11]
+JP: こちら　かすみです。
+CN: 这里是霞。
+
+# [0566] [ROM: 0x1B347E] [Bank: 0x6C:0x347E] [CPU: 0x747E] [OrigLen: 42]
+JP: いま　<NAME>さんたちが
+JP: すすんでいる　ほうこうに
+JP: バラぐみの　はんのうが
+JP: ありました。
+CN: 现在<NAME>你们前进的方向有蔷薇组的反应。
+
+# [0567] [ROM: 0x1B34A8] [Bank: 0x6C:0x34A8] [CPU: 0x74A8] [OrigLen: 36]
+JP: おそらく　バラぐみの
+JP: せいりゅういん　ことね　さん
+JP: だとおもわれます。
+CN: 大概是蔷薇组的经理小音小姐。
+
+# [0568] [ROM: 0x1B34CC] [Bank: 0x6C:0x34CC] [CPU: 0x74CC] [OrigLen: 11]
+JP: りょうかいしました。
+CN: 明白了。
+
+# [0569] [ROM: 0x1B34D7] [Bank: 0x6C:0x34D7] [CPU: 0x74D7] [OrigLen: 10]
+JP: こちら　ゆりです。
+CN: 我是百合
+
+# [0570] [ROM: 0x1B34E1] [Bank: 0x6C:0x34E1] [CPU: 0x74E1] [OrigLen: 42]
+JP: いま　<NAME>さんたちが
+JP: すすんでいる　ほうこうに
+JP: バラぐみの　はんのうが
+JP: あったのよ。
+CN: 现在<NAME>你们前进的方向有蔷薇组的反应。
+
+# [0571] [ROM: 0x1B350B] [Bank: 0x6C:0x350B] [CPU: 0x750B] [OrigLen: 34]
+JP: おそらく　バラぐみの
+JP: せいりゅういん　ことね　さん
+JP: だとおもうわ。
+CN: 大概是蔷薇组的经理小音小姐。
+
+# [0572] [ROM: 0x1B352D] [Bank: 0x6C:0x352D] [CPU: 0x752D] [OrigLen: 11]
+JP: りょうかいしました。
+CN: 明白了。
+
+# [0573] [ROM: 0x1B3538] [Bank: 0x6C:0x3538] [CPU: 0x7538] [OrigLen: 9]
+JP: こちら　かえで。
+CN: 枫
+
+# [0574] [ROM: 0x1B3541] [Bank: 0x6C:0x3541] [CPU: 0x7541] [OrigLen: 40]
+JP: いま　<NAME>たちが
+JP: すすんでいる　ほうこうに
+JP: バラぐみの　はんのうが
+JP: あったのよ。
+CN: 现在<NAME>你们前进的方向有蔷薇组的反应。
+
+# [0575] [ROM: 0x1B3569] [Bank: 0x6C:0x3569] [CPU: 0x7569] [OrigLen: 35]
+JP: おそらく　バラぐみの
+JP: せいりゅういん　ことね　さん
+JP: だと　おもうわ。
+CN: 大概是蔷薇组的经理小音小姐。
+
+# [0576] [ROM: 0x1B358C] [Bank: 0x6C:0x358C] [CPU: 0x758C] [OrigLen: 11]
+JP: りょうかいしました。
+CN: 明白了。
+
+# [0577] [ROM: 0x1B3597] [Bank: 0x6C:0x3597] [CPU: 0x7597] [OrigLen: 37]
+JP: おりひめさん。
+JP: やっぱり　このさきに
+JP: バラぐみのひとが
+JP: いるみたいです。
+CN: 织姬小姐。前面果然有蔷薇组的人。
+
+# [0578] [ROM: 0x1B35BC] [Bank: 0x6C:0x35BC] [CPU: 0x75BC] [OrigLen: 28]
+JP: オッケー！　わかりました！
+JP: いそぎましょう
+JP: <NAME>さん！！
+CN: 好！明白！快走吧<NAME>！！
+
+# [0579] [ROM: 0x1B35D8] [Bank: 0x6C:0x35D8] [CPU: 0x75D8] [OrigLen: 12]
+JP: これは　なにかしら……
+CN: 这是什么…
+
+# [0580] [ROM: 0x1B35E4] [Bank: 0x6C:0x35E4] [CPU: 0x75E4] [OrigLen: 44]
+JP: いしの　かんおけでーす。
+JP: なにが　はいってるか
+JP: わかりませーん。あけますか？
+JP: <NAME>さん。
+CN: 石棺哦～。不知道里面有什么～。要开吗<NAME>？
+
+# [0581] [ROM: 0x1B3610] [Bank: 0x6C:0x3610] [CPU: 0x7610] [OrigLen: 5]
+JP: あけない
+CN: 不开
+
+# [0582] [ROM: 0x1B3615] [Bank: 0x6C:0x3615] [CPU: 0x7615] [OrigLen: 4]
+JP: あける
+CN: 开
+
+# [0583] [ROM: 0x1B3619] [Bank: 0x6C:0x3619] [CPU: 0x7619] [OrigLen: 26]
+JP: ……………………………………
+JP: やめておきましょう。
+CN: ……还是算了。
+
+# [0584] [ROM: 0x1B3633] [Bank: 0x6C:0x3633] [CPU: 0x7633] [OrigLen: 6]
+JP: あけます。
+CN: 打开
+
+# [0585] [ROM: 0x1B3639] [Bank: 0x6C:0x3639] [CPU: 0x7639] [OrigLen: 11]
+JP: あっ！
+JP: てきだわ！！
+CN: 啊！敌人！
+
+# [0586] [ROM: 0x1B3644] [Bank: 0x6C:0x3644] [CPU: 0x7644] [OrigLen: 14]
+JP: ……あら？
+JP: なにかあるわ？
+CN: …哦？有东西
+
+# [0587] [ROM: 0x1B3652] [Bank: 0x6C:0x3652] [CPU: 0x7652] [OrigLen: 20]
+JP: <NAME>は
+JP: 『リペアキット』を
+JP: てにいれた。
+CN: <NAME>获得了修理套件。
+
+# [0588] [ROM: 0x1B3666] [Bank: 0x6C:0x3666] [CPU: 0x7666] [OrigLen: 20]
+JP: あら　あなたたち
+JP: おそかったじゃない。
+CN: 哎呀你们来晚了。
+
+# [0589] [ROM: 0x1B367A] [Bank: 0x6C:0x367A] [CPU: 0x767A] [OrigLen: 34]
+JP: あっ！　ことねさん！！
+JP: バラぐみの　せいりゅういん
+JP: ことねさん！？
+CN: 啊！小音小姐！蔷薇组经理！？
+
+# [0590] [ROM: 0x1B369C] [Bank: 0x6C:0x369C] [CPU: 0x769C] [OrigLen: 12]
+JP: ぶじだったんでーすね。
+CN: 没事就好。
+
+# [0591] [ROM: 0x1B36A8] [Bank: 0x6C:0x36A8] [CPU: 0x76A8] [OrigLen: 16]
+JP: きゃっ！
+JP: このまものたちは……
+CN: 呀！这魔物是…
+
+# [0592] [ROM: 0x1B36B8] [Bank: 0x6C:0x36B8] [CPU: 0x76B8] [OrigLen: 32]
+JP: あらぁ？
+JP: これって　さっきのへやの
+JP: おきものじゃあ　ないの？
+CN: 哎呀？这不是刚才房间的摆设吗？
+
+# [0593] [ROM: 0x1B36D8] [Bank: 0x6C:0x36D8] [CPU: 0x76D8] [OrigLen: 27]
+JP: キキー！
+JP: おれたちは　おきものじゃ
+JP: ないぞ　キキー！
+CN: 唧唧！我们不是摆设！唧唧！
+
+# [0594] [ROM: 0x1B36F3] [Bank: 0x6C:0x36F3] [CPU: 0x76F3] [OrigLen: 19]
+JP: ことねさん
+JP: だいじょうぶ　ですか！
+CN: 小音小姐没事吗！
+
+# [0595] [ROM: 0x1B3706] [Bank: 0x6C:0x3706] [CPU: 0x7706] [OrigLen: 38]
+JP: ええ……
+JP: このうつくしい　わたしが
+JP: やられるわけが
+JP: ないでは　ないですか。
+CN: 是啊……这么美的我怎么可能被打倒呢。
+
+# [0596] [ROM: 0x1B372C] [Bank: 0x6C:0x372C] [CPU: 0x772C] [OrigLen: 10]
+JP: よかったでーす！！
+CN: 太好了！
+
+# [0597] [ROM: 0x1B3736] [Bank: 0x6C:0x3736] [CPU: 0x7736] [OrigLen: 32]
+JP: それは　そうと
+JP: ことねさん　『まじんき』は
+JP: みつかりましたか？
+CN: 话说小音小姐魔神器找到了吗？
+
+# [0598] [ROM: 0x1B3756] [Bank: 0x6C:0x3756] [CPU: 0x7756] [OrigLen: 40]
+JP: それが　きいてください。
+JP: わたし　『まじんき』の
+JP: 『かがみ』を　みつけたのよ。
+CN: 听我说。我找到了魔神器的镜子。
+
+# [0599] [ROM: 0x1B377E] [Bank: 0x6C:0x377E] [CPU: 0x777E] [OrigLen: 36]
+JP: で　せっかく　かがみが
+JP: あるのだから　おけしょうを
+JP: なおさなくては……
+CN: 难得有镜子得补补妆……
+
+# [0600] [ROM: 0x1B37A2] [Bank: 0x6C:0x37A2] [CPU: 0x77A2] [OrigLen: 39]
+JP: とおもったら……
+JP: コンパクト　と　くちべにを
+JP: おとしてしまった
+JP: みたいで……
+CN: 结果……好像把粉盒和口红弄掉了……
+
+# [0601] [ROM: 0x1B37C9] [Bank: 0x6C:0x37C9] [CPU: 0x77C9] [OrigLen: 33]
+JP: ことねさん。
+JP: そんなことより　『かがみ』は
+JP: どうしたんですか？！
+CN: 小音小姐。镜子找到了吗？
+
+# [0602] [ROM: 0x1B37EA] [Bank: 0x6C:0x37EA] [CPU: 0x77EA] [OrigLen: 26]
+JP: そんなことって　なによ！
+JP: しつれいしちゃうわね！！
+CN: 什么叫那种事！真失礼！！
+
+# [0603] [ROM: 0x1B3804] [Bank: 0x6C:0x3804] [CPU: 0x7804] [OrigLen: 23]
+JP: 『かがみ』は　どこかへ
+JP: いってしまったわよ。
+CN: 镜子不知道去哪了。
+
+# [0604] [ROM: 0x1B381B] [Bank: 0x6C:0x381B] [CPU: 0x781B] [OrigLen: 44]
+JP: どこかへ　いった……
+JP: 『かがみ』が　かってに
+JP: あるいていった　とでも
+JP: いうんですか？！
+CN: 去哪了……你是说镜子自己走了吗？！
+
+# [0605] [ROM: 0x1B3847] [Bank: 0x6C:0x3847] [CPU: 0x7847] [OrigLen: 16]
+JP: <NAME>さんは
+JP: どうおもいまーすか？
+CN: <NAME>你怎么看？
+
+# [0606] [ROM: 0x1B3857] [Bank: 0x6C:0x3857] [CPU: 0x7857] [OrigLen: 13]
+JP: かってに　あるいていった
+CN: 自己走了
+
+# [0607] [ROM: 0x1B3864] [Bank: 0x6C:0x3864] [CPU: 0x7864] [OrigLen: 12]
+JP: だれかが　もっていった
+CN: 被人拿走
+
+# [0608] [ROM: 0x1B3870] [Bank: 0x6C:0x3870] [CPU: 0x7870] [OrigLen: 36]
+JP: 『かがみ』に　てあしがはえて
+JP: かってにあるいて
+JP: いっちゃったんですね。
+CN: 镜子长出手脚自己走了呢。
+
+# [0609] [ROM: 0x1B3894] [Bank: 0x6C:0x3894] [CPU: 0x7894] [OrigLen: 24]
+JP: それが　ほんとだったら
+JP: だいばくしょうでーす！
+CN: 要是真的就太好笑了！
+
+# [0610] [ROM: 0x1B38AC] [Bank: 0x6C:0x38AC] [CPU: 0x78AC] [OrigLen: 22]
+JP: おおあたりーーーっ。
+JP: よくわかりましたね。
+CN: 全中。你真明白。
+
+# [0611] [ROM: 0x1B38C2] [Bank: 0x6C:0x38C2] [CPU: 0x78C2] [OrigLen: 22]
+JP: エエッ！
+JP: それは　だいばくしょう
+JP: でーす！
+CN: 咦！那太好笑了！
+
+# [0612] [ROM: 0x1B38D8] [Bank: 0x6C:0x38D8] [CPU: 0x78D8] [OrigLen: 39]
+JP: おりひめさん。
+JP: 『けん』と『たま』のとき
+JP: のことを　おもいだして
+JP: ください。
+CN: 织姬小姐。请回想剑和珠的时候。
+
+# [0613] [ROM: 0x1B38FF] [Bank: 0x6C:0x38FF] [CPU: 0x78FF] [OrigLen: 28]
+JP: まものと　ゆうごうして
+JP: おそいかかって
+JP: きましたよね。
+CN: 魔物融合后袭击过来了呢。
+
+# [0614] [ROM: 0x1B391B] [Bank: 0x6C:0x391B] [CPU: 0x791B] [OrigLen: 22]
+JP: <82>ー<82><88>！
+JP: そういうことも
+JP: ありましたね。
+CN: 哎呀！也有那种事呢。
+
+# [0615] [ROM: 0x1B3931] [Bank: 0x6C:0x3931] [CPU: 0x7931] [OrigLen: 26]
+JP: ところで
+JP: その　おじょうちゃんは
+JP: なんなのかしら？
+CN: 话说那小姑娘是谁？
+
+# [0616] [ROM: 0x1B394B] [Bank: 0x6C:0x394B] [CPU: 0x794B] [OrigLen: 18]
+JP: だれかが　もっていったん
+JP: ですね。
+CN: 是被人拿走了吧。
+
+# [0617] [ROM: 0x1B395D] [Bank: 0x6C:0x395D] [CPU: 0x795D] [OrigLen: 26]
+JP: そうでーす。
+JP: わたしも　そうかんがえて
+JP: いました。
+CN: 对～。我也这么想。
+
+# [0618] [ROM: 0x1B3977] [Bank: 0x6C:0x3977] [CPU: 0x7977] [OrigLen: 32]
+JP: ちがうわ！
+JP: あるいていったのよ。
+JP: 『かがみ』が　ひとりでね！！
+CN: 镜子不知道去哪了。
+
+# [0619] [ROM: 0x1B3997] [Bank: 0x6C:0x3997] [CPU: 0x7997] [OrigLen: 30]
+JP: 『かがみ』が　ひとりで？！…
+JP: ……………………………………
+CN: ……镜子自己……
+
+# [0620] [ROM: 0x1B39B5] [Bank: 0x6C:0x39B5] [CPU: 0x79B5] [OrigLen: 44]
+JP: ……わかりました。
+JP: <NAME>さん　いままでの
+JP: 『けん』や『たま』を
+JP: おもいだしてくださーい。
+CN: ……明白。<NAME>回想一下剑和珠……
+
+# [0621] [ROM: 0x1B39E1] [Bank: 0x6C:0x39E1] [CPU: 0x79E1] [OrigLen: 42]
+JP: まものが　『まじんき』と
+JP: ゆうごうして　わたしたちに
+JP: おそいかかって　きましたね。
+CN: 魔物和魔神器融合后袭击我们了。
+
+# [0622] [ROM: 0x1B3A0B] [Bank: 0x6C:0x3A0B] [CPU: 0x7A0B] [OrigLen: 5]
+JP: あっ……
+CN: 啊…
+
+# [0623] [ROM: 0x1B3A10] [Bank: 0x6C:0x3A10] [CPU: 0x7A10] [OrigLen: 16]
+JP: わかって　いただけた
+JP: かしら？
+CN: 您明白了吗？
+
+# [0624] [ROM: 0x1B3A20] [Bank: 0x6C:0x3A20] [CPU: 0x7A20] [OrigLen: 26]
+JP: ところで
+JP: その　おじょうちゃんは
+JP: なんなのかしら？
+CN: 话说那小姑娘是谁？
+
+# [0625] [ROM: 0x1B3A47] [Bank: 0x6C:0x3A47] [CPU: 0x7A47] [OrigLen: 31]
+JP: かってに　あるいて
+JP: いっちゃったのよ。
+JP: てあしが　はえてね。
+CN: 自己走了。长出手脚了呢。
+
+# [0626] [ROM: 0x1B3A66] [Bank: 0x6C:0x3A66] [CPU: 0x7A66] [OrigLen: 11]
+JP: それは　ウソでーす！
+CN: 骗人！
+
+# [0627] [ROM: 0x1B3A71] [Bank: 0x6C:0x3A71] [CPU: 0x7A71] [OrigLen: 30]
+JP: わたしも
+JP: しんじられないわよ。
+JP: でも　ほんとうなのですよ。
+CN: 我也不信。但这是真的。
+
+# [0628] [ROM: 0x1B3A8F] [Bank: 0x6C:0x3A8F] [CPU: 0x7A8F] [OrigLen: 27]
+JP: そこまで　いわれたら
+JP: しんじるしか
+JP: ありませーんね。
+CN: 说到这份上只能相信了。
+
+# [0629] [ROM: 0x1B3AAA] [Bank: 0x6C:0x3AAA] [CPU: 0x7AAA] [OrigLen: 26]
+JP: ところで
+JP: その　おじょうちゃんは
+JP: なんなのかしら？
+CN: 话说那小姑娘是谁？
+
+# [0630] [ROM: 0x1B3AC4] [Bank: 0x6C:0x3AC4] [CPU: 0x7AC4] [OrigLen: 22]
+JP: はじめまして。
+JP: わたしは　<NAME>
+JP: といいます。
+CN: 初次见面。我叫<NAME>。
+
+# [0631] [ROM: 0x1B3ADA] [Bank: 0x6C:0x3ADA] [CPU: 0x7ADA] [OrigLen: 34]
+JP: 『まじんき』をさがす
+JP: にんむを　うけて
+JP: ここまで　やってきました。
+CN: 我接受了寻找魔神器任务来到这里。
+
+# [0632] [ROM: 0x1B3AFC] [Bank: 0x6C:0x3AFC] [CPU: 0x7AFC] [OrigLen: 31]
+JP: あら　そうでしたか。
+JP: わたしは
+JP: せいりゅういん　ことね　よ〒
+CN: 哎呀是吗。我是经理小音〒
+
+# [0633] [ROM: 0x1B3B1B] [Bank: 0x6C:0x3B1B] [CPU: 0x7B1B] [OrigLen: 17]
+JP: ことね　って
+JP: よんでくださいね〒
+CN: 请叫我小音〒
+
+# [0634] [ROM: 0x1B3B2C] [Bank: 0x6C:0x3B2C] [CPU: 0x7B2C] [OrigLen: 37]
+JP: ところで　ことねさん。
+JP: 『かがみ』は　いったいどこへ
+JP: いったのでーすか？
+CN: 话说小音小姐。镜子到底去哪了？
+
+# [0635] [ROM: 0x1B3B51] [Bank: 0x6C:0x3B51] [CPU: 0x7B51] [OrigLen: 42]
+JP: それが　『せいまじょう』の
+JP: さらに　おくふかくへ
+JP: いってしまった
+JP: みたいなのです。
+CN: 好像去了圣魔城更深的地方。
+
+# [0636] [ROM: 0x1B3B7B] [Bank: 0x6C:0x3B7B] [CPU: 0x7B7B] [OrigLen: 8]
+JP: そうですか……
+CN: 这样啊
+
+# [0637] [ROM: 0x1B3B83] [Bank: 0x6C:0x3B83] [CPU: 0x7B83] [OrigLen: 41]
+JP: では　いちど
+JP: ていげきに　もどって
+JP: さくせんを　たてなおさねば
+JP: なりませんね。
+CN: 那先回帝击重新制定作战吧。
+
+# [0638] [ROM: 0x1B3BAC] [Bank: 0x6C:0x3BAC] [CPU: 0x7BAC] [OrigLen: 20]
+JP: おりひめさん。
+JP: なにか　おちています。
+CN: 织姬。有东西掉了
+
+# [0639] [ROM: 0x1B3BC0] [Bank: 0x6C:0x3BC0] [CPU: 0x7BC0] [OrigLen: 26]
+JP: <NAME>は　キーアイテム
+JP: 『コンパクト』を
+JP: てにいれた。
+CN: <NAME>获得关键道具粉盒
+
+# [0640] [ROM: 0x1B3BDA] [Bank: 0x6C:0x3BDA] [CPU: 0x7BDA] [OrigLen: 14]
+JP: これは　コンパクトでーす。
+CN: 这是粉盒～。
+
+# [0641] [ROM: 0x1B3BE8] [Bank: 0x6C:0x3BE8] [CPU: 0x7BE8] [OrigLen: 26]
+JP: おおきなじで
+JP: 『うつくしい』って
+JP: かかれています。
+CN: 用大字写着"美丽"。
+
+# [0642] [ROM: 0x1B3C02] [Bank: 0x6C:0x3C02] [CPU: 0x7C02] [OrigLen: 34]
+JP: うつくしい？
+JP: コンパクトに　うつくしい？
+JP: ワケが　わかりませーん。
+CN: 美丽？粉盒美丽？不懂什么意思。
+
+# [0643] [ROM: 0x1B3C24] [Bank: 0x6C:0x3C24] [CPU: 0x7C24] [OrigLen: 22]
+JP: なかには　バラのもようが
+JP: かかれています。
+CN: 里面画着玫瑰图案。
+
+# [0644] [ROM: 0x1B3C3A] [Bank: 0x6C:0x3C3A] [CPU: 0x7C3A] [OrigLen: 41]
+JP: バラのもよう？
+JP: いいしゅみ　してまーす。
+JP: いったい　だれが
+JP: おとしたんでしょー？
+CN: 玫瑰图案？品味不错～。到底是谁掉的？
+
+# [0645] [ROM: 0x1B3C63] [Bank: 0x6C:0x3C63] [CPU: 0x7C63] [OrigLen: 33]
+JP: わかったでーす！
+JP: これも　ことねさんのものに
+JP: ちがいないでーす。
+CN: 明白了……这肯定也是小音小姐的。
+
+# [0646] [ROM: 0x1B3C84] [Bank: 0x6C:0x3C84] [CPU: 0x7C84] [OrigLen: 20]
+JP: おりひめさん。
+JP: なにか　おちています。
+CN: 织姬。有东西掉了
+
+# [0647] [ROM: 0x1B3C98] [Bank: 0x6C:0x3C98] [CPU: 0x7C98] [OrigLen: 25]
+JP: <NAME>は　キーアイテム
+JP: 『くちべに』を
+JP: てにいれた。
+CN: <NAME>获得关键道具口红
+
+# [0648] [ROM: 0x1B3CB1] [Bank: 0x6C:0x3CB1] [CPU: 0x7CB1] [OrigLen: 17]
+JP: くちべに？
+JP: ……ルージュですね。
+CN: 口红？…唇膏呢。
+
+# [0649] [ROM: 0x1B3CC2] [Bank: 0x6C:0x3CC2] [CPU: 0x7CC2] [OrigLen: 20]
+JP: 『うつくしい』って
+JP: かかれています。
+CN: "美丽"写着。
+
+# [0650] [ROM: 0x1B3CD6] [Bank: 0x6C:0x3CD6] [CPU: 0x7CD6] [OrigLen: 21]
+JP: うつくしい？
+JP: ルージュに　うつくしい……
+CN: 美丽？唇膏美丽……
+
+# [0651] [ROM: 0x1B3CEB] [Bank: 0x6C:0x3CEB] [CPU: 0x7CEB] [OrigLen: 25]
+JP: バラのもようが
+JP: かかれています。
+JP: もしかして……
+CN: 画着玫瑰图案。难道……
+
+# [0652] [ROM: 0x1B3D04] [Bank: 0x6C:0x3D04] [CPU: 0x7D04] [OrigLen: 12]
+JP: バラぐみの　ひとが……
+CN: 蔷薇组人…
+
+# [0653] [ROM: 0x1B3D10] [Bank: 0x6C:0x3D10] [CPU: 0x7D10] [OrigLen: 14]
+JP: バラずきの　じょせいが……
+CN: 玫瑰爱好者…
+
+# [0654] [ROM: 0x1B3D1E] [Bank: 0x6C:0x3D1E] [CPU: 0x7D1E] [OrigLen: 24]
+JP: もしかして　バラぐみの
+JP: ひとが　このさきに……
+CN: 难道蔷薇组的人在前面…
+
+# [0655] [ROM: 0x1B3D36] [Bank: 0x6C:0x3D36] [CPU: 0x7D36] [OrigLen: 25]
+JP: わたしも　そう
+JP: おもってましたでーす。
+JP: <NAME>さん。
+CN: 我也这么想～。<NAME>。
+
+# [0656] [ROM: 0x1B3D4F] [Bank: 0x6C:0x3D4F] [CPU: 0x7D4F] [OrigLen: 40]
+JP: このさきに　バラぐみの
+JP: たいちょうの　ことねさんが
+JP: いるのかも　しれませーん。
+CN: 前面可能有蔷薇组的队长小音小姐。
+
+# [0657] [ROM: 0x1B3D77] [Bank: 0x6C:0x3D77] [CPU: 0x7D77] [OrigLen: 14]
+JP: いきましょう！
+JP: <NAME>さん！！
+CN: 走吧！<NAME>！！
+
+# [0658] [ROM: 0x1B3D85] [Bank: 0x6C:0x3D85] [CPU: 0x7D85] [OrigLen: 28]
+JP: バラずきの　じょせいが
+JP: おとして
+JP: いったんでしょうか？
+CN: 是喜欢玫瑰的女性掉的吗？
+
+# [0659] [ROM: 0x1B3DA1] [Bank: 0x6C:0x3DA1] [CPU: 0x7DA1] [OrigLen: 34]
+JP: それは　わたしでーす。
+JP: でも　これは　わたしのじゃ
+JP: ありませーん。
+CN: 那是我～。但这不是我的～。
+
+# [0660] [ROM: 0x1B3DC3] [Bank: 0x6C:0x3DC3] [CPU: 0x7DC3] [OrigLen: 25]
+JP: バラずきのじょせい？
+JP: ……バラずきの………………
+CN: 玫瑰爱好者？…玫瑰爱好…
+
+# [0661] [ROM: 0x1B3DDC] [Bank: 0x6C:0x3DDC] [CPU: 0x7DDC] [OrigLen: 26]
+JP: ……わかりまーした！
+JP: バラのもように　うつくしい。
+CN: …明白了！玫瑰图案，美丽
+
+# [0662] [ROM: 0x1B3DF6] [Bank: 0x6C:0x3DF6] [CPU: 0x7DF6] [OrigLen: 34]
+JP: バラぐみの　たいちょうの
+JP: ことねさんが
+JP: このさきに　いるのでーす。
+CN: 蔷薇组队长小音小姐在前面～。
+
+# [0663] [ROM: 0x1B3E18] [Bank: 0x6C:0x3E18] [CPU: 0x7E18] [OrigLen: 15]
+JP: いそぎましょう！
+JP: <NAME>さん！！
+CN: 走吧！<NAME>！！
+
+# [0664] [ROM: 0x1B3E34] [Bank: 0x6C:0x3E34] [CPU: 0x7E34] [OrigLen: 50]
+JP: バラのもよう……
+JP: 『うつくしい』のもじ……
+JP: バラ……　うつくしい……
+JP: ……………………………………
+CN: 玫瑰图案……"美丽"的文字……玫瑰……美丽……
+
+# [0665] [ROM: 0x1B3E66] [Bank: 0x6C:0x3E66] [CPU: 0x7E66] [OrigLen: 9]
+JP: わかりまーした！
+CN: 明白～！
+
+# [0666] [ROM: 0x1B3E6F] [Bank: 0x6C:0x3E6F] [CPU: 0x7E6F] [OrigLen: 34]
+JP: バラぐみの　たいちょうの
+JP: ことねさんが
+JP: このさきに　いるのでーす。
+CN: 蔷薇组队长小音小姐在前面～。
+
+# [0667] [ROM: 0x1B3E91] [Bank: 0x6C:0x3E91] [CPU: 0x7E91] [OrigLen: 15]
+JP: いそぎましょう！
+JP: <NAME>さん！！
+CN: 走吧！<NAME>！！
+
+# [0668] [ROM: 0x1B3EA0] [Bank: 0x6C:0x3EA0] [CPU: 0x7EA0] [OrigLen: 23]
+JP: あっ！　つうしんだ！
+JP: はい
+JP: こちら　<NAME>です。
+CN: 啊！通信！是，我是<NAME>。
+
+# [0669] [ROM: 0x1B3EB7] [Bank: 0x6C:0x3EB7] [CPU: 0x7EB7] [OrigLen: 6]
+JP: つばきさん
+CN: 椿
+
+# [0670] [ROM: 0x1B3EBD] [Bank: 0x6C:0x3EBD] [CPU: 0x7EBD] [OrigLen: 6]
+JP: かすみさん
+CN: 霞
+
+# [0671] [ROM: 0x1B3EC3] [Bank: 0x6C:0x3EC3] [CPU: 0x7EC3] [OrigLen: 5]
+JP: ゆりさん
+CN: 百合
+
+# [0672] [ROM: 0x1B3EC8] [Bank: 0x6C:0x3EC8] [CPU: 0x7EC8] [OrigLen: 11]
+JP: こちら　つばきです。
+CN: 这里是椿。
+
+# [0673] [ROM: 0x1B3ED3] [Bank: 0x6C:0x3ED3] [CPU: 0x7ED3] [OrigLen: 42]
+JP: いま　<NAME>さんたちが
+JP: すすんでいる　ほうこうに
+JP: バラぐみの　はんのうが
+JP: ありました。
+CN: 现在<NAME>你们前进的方向有蔷薇组的反应。
+
+# [0674] [ROM: 0x1B3EFD] [Bank: 0x6C:0x3EFD] [CPU: 0x7EFD] [OrigLen: 36]
+JP: おそらく　バラぐみの
+JP: せいりゅういん　ことね　さん
+JP: だとおもわれます。
+CN: 大概是蔷薇组的经理小音小姐。
+
+# [0675] [ROM: 0x1B3F21] [Bank: 0x6C:0x3F21] [CPU: 0x7F21] [OrigLen: 11]
+JP: りょうかいしました。
+CN: 明白了。
+
+# [0676] [ROM: 0x1B3F2C] [Bank: 0x6C:0x3F2C] [CPU: 0x7F2C] [OrigLen: 11]
+JP: こちら　かすみです。
+CN: 这里是霞。
+
+# [0677] [ROM: 0x1B3F37] [Bank: 0x6C:0x3F37] [CPU: 0x7F37] [OrigLen: 42]
+JP: いま　<NAME>さんたちが
+JP: すすんでいる　ほうこうに
+JP: バラぐみの　はんのうが
+JP: ありました。
+CN: 现在<NAME>你们前进的方向有蔷薇组的反应。
+
+# [0678] [ROM: 0x1B3F61] [Bank: 0x6C:0x3F61] [CPU: 0x7F61] [OrigLen: 36]
+JP: おそらく　バラぐみの
+JP: せいりゅういん　ことね　さん
+JP: だとおもわれます。
+CN: 大概是蔷薇组的经理小音小姐。
+
+# [0679] [ROM: 0x1B3F85] [Bank: 0x6C:0x3F85] [CPU: 0x7F85] [OrigLen: 11]
+JP: りょうかいしました。
+CN: 明白了。
+
+# [0680] [ROM: 0x1B3F90] [Bank: 0x6C:0x3F90] [CPU: 0x7F90] [OrigLen: 10]
+JP: こちら　ゆりです。
+CN: 我是百合
+
+# [0681] [ROM: 0x1B3F9A] [Bank: 0x6C:0x3F9A] [CPU: 0x7F9A] [OrigLen: 42]
+JP: いま　<NAME>くんたちが
+JP: すすんでいる　ほうこうに
+JP: バラぐみの　はんのうが
+JP: あったのよ。
+CN: 现在<NAME>你们前进的方向有蔷薇组的反应。
+
+# [0682] [ROM: 0x1B3FC4] [Bank: 0x6C:0x3FC4] [CPU: 0x7FC4] [OrigLen: 34]
+JP: おそらく　バラぐみの
+JP: せいりゅういん　ことね　さん
+JP: だとおもうわ。
+CN: 大概是蔷薇组的经理小音小姐。
+
+# [0683] [ROM: 0x1B3FE6] [Bank: 0x6C:0x3FE6] [CPU: 0x7FE6] [OrigLen: 11]
+JP: りょうかいしました。
+CN: 明白了。
+
+# [0684] [ROM: 0x1B3FF1] [Bank: 0x6C:0x3FF1] [CPU: 0x7FF1] [OrigLen: 9]
+JP: こちら　かえで。
+CN: 枫

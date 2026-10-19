@@ -1,0 +1,74 @@
+[
+  {
+    "bank": "0xC5",
+    "offset": "0x31405C",
+    "bank_offset": "0x005C",
+    "format": "Shift-JIS",
+    "raw_hex": "68789ee6",
+    "text": "hx樊"
+  },
+  {
+    "bank": "0xC5",
+    "offset": "0x31617A",
+    "bank_offset": "0x217A",
+    "format": "Shift-JIS",
+    "raw_hex": "88d870503070",
+    "text": "畏pP0p"
+  },
+  {
+    "bank": "0xC5",
+    "offset": "0x316621",
+    "bank_offset": "0x2621",
+    "format": "Shift-JIS",
+    "raw_hex": "90c060606040404040",
+    "text": "逝```@@@@"
+  },
+  {
+    "bank": "0xC5",
+    "offset": "0x316F24",
+    "bank_offset": "0x2F24",
+    "format": "Shift-JIS",
+    "raw_hex": "95959595818142424c4c",
+    "text": "封封＝BBLL"
+  },
+  {
+    "bank": "0xC5",
+    "offset": "0x317224",
+    "bank_offset": "0x3224",
+    "format": "Shift-JIS",
+    "raw_hex": "22222121292949498a8a",
+    "text": "\"\"!!))II滑"
+  },
+  {
+    "bank": "0xC5",
+    "offset": "0x317524",
+    "bank_offset": "0x3524",
+    "format": "Shift-JIS",
+    "raw_hex": "20202020202042428181",
+    "text": "      BB＝"
+  },
+  {
+    "bank": "0xC5",
+    "offset": "0x317554",
+    "bank_offset": "0x3554",
+    "format": "Shift-JIS",
+    "raw_hex": "95959595818142424c4c",
+    "text": "封封＝BBLL"
+  },
+  {
+    "bank": "0xC5",
+    "offset": "0x317824",
+    "bank_offset": "0x3824",
+    "format": "Shift-JIS",
+    "raw_hex": "95959595818142424c4c",
+    "text": "封封＝BBLL"
+  },
+  {
+    "bank": "0xC5",
+    "offset": "0x317B24",
+    "bank_offset": "0x3B24",
+    "format": "Shift-JIS",
+    "raw_hex": "22222121292949498a8a",
+    "text": "\"\"!!))II滑"
+  }
+]

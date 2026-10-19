@@ -1,0 +1,106 @@
+[
+  {
+    "bank": "0x23",
+    "offset": "0x08C372",
+    "bank_offset": "0x0372",
+    "format": "Shift-JIS",
+    "raw_hex": "83437c4391438a43",
+    "text": "イ|C舛海"
+  },
+  {
+    "bank": "0x23",
+    "offset": "0x08C4DD",
+    "bank_offset": "0x04DD",
+    "format": "Shift-JIS",
+    "raw_hex": "e344ea44",
+    "text": "絅鵐"
+  },
+  {
+    "bank": "0x23",
+    "offset": "0x08C77D",
+    "bank_offset": "0x077D",
+    "format": "Shift-JIS",
+    "raw_hex": "83478a47",
+    "text": "エ絵"
+  },
+  {
+    "bank": "0x23",
+    "offset": "0x08CFDA",
+    "bank_offset": "0x0FDA",
+    "format": "Shift-JIS",
+    "raw_hex": "e24fe64fed4f",
+    "text": "祕覦伀"
+  },
+  {
+    "bank": "0x23",
+    "offset": "0x08D285",
+    "bank_offset": "0x1285",
+    "format": "Shift-JIS",
+    "raw_hex": "9d529652",
+    "text": "抒乏"
+  },
+  {
+    "bank": "0x23",
+    "offset": "0x08D376",
+    "bank_offset": "0x1376",
+    "format": "Shift-JIS",
+    "raw_hex": "538a5395539c53",
+    "text": "S慨百彜"
+  },
+  {
+    "bank": "0x23",
+    "offset": "0x08D8FB",
+    "bank_offset": "0x18FB",
+    "format": "Shift-JIS",
+    "raw_hex": "20e9800d944b50",
+    "text": " 騾\r葱P"
+  },
+  {
+    "bank": "0x23",
+    "offset": "0x08F0B3",
+    "bank_offset": "0x30B3",
+    "format": "Shift-JIS",
+    "raw_hex": "e0e7e07021",
+    "text": "珸瀾!"
+  },
+  {
+    "bank": "0x23",
+    "offset": "0x08F202",
+    "bank_offset": "0x3202",
+    "format": "Shift-JIS",
+    "raw_hex": "e0e7e07021",
+    "text": "珸瀾!"
+  },
+  {
+    "bank": "0x23",
+    "offset": "0x08F3F3",
+    "bank_offset": "0x33F3",
+    "format": "Shift-JIS",
+    "raw_hex": "e0e7e07021",
+    "text": "珸瀾!"
+  },
+  {
+    "bank": "0x23",
+    "offset": "0x08F88E",
+    "bank_offset": "0x388E",
+    "format": "Shift-JIS",
+    "raw_hex": "94c8e1c9",
+    "text": "畔睨"
+  },
+  {
+    "bank": "0x23",
+    "offset": "0x08FAE4",
+    "bank_offset": "0x3AE4",
+    "format": "Shift-JIS",
+    "raw_hex": "e0e7e07021",
+    "text": "珸瀾!"
+  },
+  {
+    "bank": "0x23",
+    "offset": "0x08FB7D",
+    "bank_offset": "0x3B7D",
+    "format": "Shift-JIS",
+    "raw_hex": "e0e7e07021",
+    "text": "珸瀾!"
+  }
+]

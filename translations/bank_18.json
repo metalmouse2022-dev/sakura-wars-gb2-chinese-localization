@@ -1,0 +1,34 @@
+[
+  {
+    "bank": "0x18",
+    "offset": "0x06042F",
+    "bank_offset": "0x042F",
+    "format": "Shift-JIS",
+    "raw_hex": "ea64ea64",
+    "text": "鹽鹽"
+  },
+  {
+    "bank": "0x18",
+    "offset": "0x060C97",
+    "bank_offset": "0x0C97",
+    "format": "Shift-JIS",
+    "raw_hex": "e0e7e07021",
+    "text": "珸瀾!"
+  },
+  {
+    "bank": "0x18",
+    "offset": "0x061291",
+    "bank_offset": "0x1291",
+    "format": "Shift-JIS",
+    "raw_hex": "e0e7e07021",
+    "text": "珸瀾!"
+  },
+  {
+    "bank": "0x18",
+    "offset": "0x062347",
+    "bank_offset": "0x2347",
+    "format": "Shift-JIS",
+    "raw_hex": "e0e7e07021",
+    "text": "珸瀾!"
+  }
+]

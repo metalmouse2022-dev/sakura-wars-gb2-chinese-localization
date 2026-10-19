@@ -1,0 +1,34 @@
+[
+  {
+    "bank": "0x50",
+    "offset": "0x140878",
+    "bank_offset": "0x0878",
+    "format": "Shift-JIS",
+    "raw_hex": "4055994850",
+    "text": "@U僣P"
+  },
+  {
+    "bank": "0x50",
+    "offset": "0x140887",
+    "bank_offset": "0x0887",
+    "format": "Shift-JIS",
+    "raw_hex": "4055e14555924850",
+    "text": "@U瓲U辿P"
+  },
+  {
+    "bank": "0x50",
+    "offset": "0x140CAA",
+    "bank_offset": "0x0CAA",
+    "format": "Shift-JIS",
+    "raw_hex": "5658905258905258905258905258905258",
+    "text": "VX審X審X審X審X審X"
+  },
+  {
+    "bank": "0x50",
+    "offset": "0x140DBF",
+    "bank_offset": "0x0DBF",
+    "format": "Shift-JIS",
+    "raw_hex": "565862525826e94c588a485827e74d504b5b58e35658e35658e35658e35658e35658364458ee4d5026e3565879525826",
+    "text": "VXbRX&餃X芥X'蹼PK[X綏X綏X綏X綏X綏X6DX琩P&綏XyRX&"
+  }
+]

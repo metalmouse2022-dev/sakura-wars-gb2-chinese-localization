@@ -1,0 +1,386 @@
+[
+  {
+    "bank": "0x34",
+    "offset": "0x0D199C",
+    "bank_offset": "0x199C",
+    "format": "Shift-JIS",
+    "raw_hex": "e0e7e07021",
+    "text": "珸瀾!"
+  },
+  {
+    "bank": "0x34",
+    "offset": "0x0D1BC0",
+    "bank_offset": "0x1BC0",
+    "format": "Shift-JIS",
+    "raw_hex": "82b182a482d4814582a982a281408140",
+    "text": "こうぶ・かい　　"
+  },
+  {
+    "bank": "0x34",
+    "offset": "0x0D1BD1",
+    "bank_offset": "0x1BD1",
+    "format": "Shift-JIS",
+    "raw_hex": "82a882a882bd82bf8140814081408140",
+    "text": "おおたち　　　　"
+  },
+  {
+    "bank": "0x34",
+    "offset": "0x0D1BF4",
+    "bank_offset": "0x1BF4",
+    "format": "Shift-JIS",
+    "raw_hex": "82b182a482d4814582a982a281408140",
+    "text": "こうぶ・かい　　"
+  },
+  {
+    "bank": "0x34",
+    "offset": "0x0D1C05",
+    "bank_offset": "0x1C05",
+    "format": "Shift-JIS",
+    "raw_hex": "82c882ac82c882bd8140814081408140",
+    "text": "なぎなた　　　　"
+  },
+  {
+    "bank": "0x34",
+    "offset": "0x0D1C17",
+    "bank_offset": "0x1C17",
+    "format": "Shift-JIS",
+    "raw_hex": "836d815b837d838b82a482c581408140",
+    "text": "ノーマルうで　　"
+  },
+  {
+    "bank": "0x34",
+    "offset": "0x0D1C28",
+    "bank_offset": "0x1C28",
+    "format": "Shift-JIS",
+    "raw_hex": "82b182a482d4814582a982a281408140",
+    "text": "こうぶ・かい　　"
+  },
+  {
+    "bank": "0x34",
+    "offset": "0x0D1C39",
+    "bank_offset": "0x1C39",
+    "format": "Shift-JIS",
+    "raw_hex": "834b8367838a8393834f82a482c58140",
+    "text": "ガトリングうで　"
+  },
+  {
+    "bank": "0x34",
+    "offset": "0x0D1C4B",
+    "bank_offset": "0x1C4B",
+    "format": "Shift-JIS",
+    "raw_hex": "836d815b837d838b82a482c581408140",
+    "text": "ノーマルうで　　"
+  },
+  {
+    "bank": "0x34",
+    "offset": "0x0D1C5C",
+    "bank_offset": "0x1C5C",
+    "format": "Shift-JIS",
+    "raw_hex": "82b182a482d4814582a982a281408140",
+    "text": "こうぶ・かい　　"
+  },
+  {
+    "bank": "0x34",
+    "offset": "0x0D1C6D",
+    "bank_offset": "0x1C6D",
+    "format": "Shift-JIS",
+    "raw_hex": "836d815b837d838b82a482c581408140",
+    "text": "ノーマルうで　　"
+  },
+  {
+    "bank": "0x34",
+    "offset": "0x0D1C7F",
+    "bank_offset": "0x1C7F",
+    "format": "Shift-JIS",
+    "raw_hex": "836d815b837d838b82a482c581408140",
+    "text": "ノーマルうで　　"
+  },
+  {
+    "bank": "0x34",
+    "offset": "0x0D1C90",
+    "bank_offset": "0x1C90",
+    "format": "Shift-JIS",
+    "raw_hex": "82b182a482d4814582a982a281408140",
+    "text": "こうぶ・かい　　"
+  },
+  {
+    "bank": "0x34",
+    "offset": "0x0D1CA1",
+    "bank_offset": "0x1CA1",
+    "format": "Shift-JIS",
+    "raw_hex": "836e838a835a83938140814081408140",
+    "text": "ハリセン　　　　"
+  },
+  {
+    "bank": "0x34",
+    "offset": "0x0D1CB3",
+    "bank_offset": "0x1CB3",
+    "format": "Shift-JIS",
+    "raw_hex": "8356838b83588345835882cc82b182c4",
+    "text": "シルスウスのこて"
+  },
+  {
+    "bank": "0x34",
+    "offset": "0x0D1CC4",
+    "bank_offset": "0x1CC4",
+    "format": "Shift-JIS",
+    "raw_hex": "82b182a482d4814582a982a281408140",
+    "text": "こうぶ・かい　　"
+  },
+  {
+    "bank": "0x34",
+    "offset": "0x0D1CD5",
+    "bank_offset": "0x1CD5",
+    "format": "Shift-JIS",
+    "raw_hex": "8356838b83588345835882cc82b182c4",
+    "text": "シルスウスのこて"
+  },
+  {
+    "bank": "0x34",
+    "offset": "0x0D1CE7",
+    "bank_offset": "0x1CE7",
+    "format": "Shift-JIS",
+    "raw_hex": "836d815b837d838b82a482c581408140",
+    "text": "ノーマルうで　　"
+  },
+  {
+    "bank": "0x34",
+    "offset": "0x0D1CF8",
+    "bank_offset": "0x1CF8",
+    "format": "Shift-JIS",
+    "raw_hex": "83418343835b8393834e838983438367",
+    "text": "アイゼンクライト"
+  },
+  {
+    "bank": "0x34",
+    "offset": "0x0D1D09",
+    "bank_offset": "0x1D09",
+    "format": "Shift-JIS",
+    "raw_hex": "836d815b837d838b82a482c581408140",
+    "text": "ノーマルうで　　"
+  },
+  {
+    "bank": "0x34",
+    "offset": "0x0D1D1B",
+    "bank_offset": "0x1D1B",
+    "format": "Shift-JIS",
+    "raw_hex": "836d815b837d838b82a482c581408140",
+    "text": "ノーマルうで　　"
+  },
+  {
+    "bank": "0x34",
+    "offset": "0x0D1D2C",
+    "bank_offset": "0x1D2C",
+    "format": "Shift-JIS",
+    "raw_hex": "83418343835b8393834e838983438367",
+    "text": "アイゼンクライト"
+  },
+  {
+    "bank": "0x34",
+    "offset": "0x0D1D3D",
+    "bank_offset": "0x1D3D",
+    "format": "Shift-JIS",
+    "raw_hex": "8356838b83588345835882cc8384838a",
+    "text": "シルスウスのヤリ"
+  },
+  {
+    "bank": "0x34",
+    "offset": "0x0D1D4F",
+    "bank_offset": "0x1D4F",
+    "format": "Shift-JIS",
+    "raw_hex": "8356838b83588345835882cc82bd82bf",
+    "text": "シルスウスのたち"
+  },
+  {
+    "bank": "0x34",
+    "offset": "0x0D1D60",
+    "bank_offset": "0x1D60",
+    "format": "Shift-JIS",
+    "raw_hex": "82b182a482d4814582a982a281408140",
+    "text": "こうぶ・かい　　"
+  },
+  {
+    "bank": "0x34",
+    "offset": "0x0D1D71",
+    "bank_offset": "0x1D71",
+    "format": "Shift-JIS",
+    "raw_hex": "8356838b83588345835882cc82bd82bf",
+    "text": "シルスウスのたち"
+  },
+  {
+    "bank": "0x34",
+    "offset": "0x0D1D82",
+    "bank_offset": "0x1D82",
+    "format": "Shift-JIS",
+    "raw_hex": "82b182a482d4814582a982a281408140",
+    "text": "こうぶ・かい　　"
+  },
+  {
+    "bank": "0x34",
+    "offset": "0x0D1D93",
+    "bank_offset": "0x1D93",
+    "format": "Shift-JIS",
+    "raw_hex": "82b182a482d4814582a982a281408140",
+    "text": "こうぶ・かい　　"
+  },
+  {
+    "bank": "0x34",
+    "offset": "0x0D1DA4",
+    "bank_offset": "0x1DA4",
+    "format": "Shift-JIS",
+    "raw_hex": "82b182a482d4814582a982a281408140",
+    "text": "こうぶ・かい　　"
+  },
+  {
+    "bank": "0x34",
+    "offset": "0x0D1DB5",
+    "bank_offset": "0x1DB5",
+    "format": "Shift-JIS",
+    "raw_hex": "82b182a482d4814582a982a281408140",
+    "text": "こうぶ・かい　　"
+  },
+  {
+    "bank": "0x34",
+    "offset": "0x0D1DC6",
+    "bank_offset": "0x1DC6",
+    "format": "Shift-JIS",
+    "raw_hex": "82b182a482d4814582a982a281408140",
+    "text": "こうぶ・かい　　"
+  },
+  {
+    "bank": "0x34",
+    "offset": "0x0D1DD7",
+    "bank_offset": "0x1DD7",
+    "format": "Shift-JIS",
+    "raw_hex": "82b182a482d4814582a982a281408140",
+    "text": "こうぶ・かい　　"
+  },
+  {
+    "bank": "0x34",
+    "offset": "0x0D1DE8",
+    "bank_offset": "0x1DE8",
+    "format": "Shift-JIS",
+    "raw_hex": "83418343835b8393834e838983438367",
+    "text": "アイゼンクライト"
+  },
+  {
+    "bank": "0x34",
+    "offset": "0x0D1DF9",
+    "bank_offset": "0x1DF9",
+    "format": "Shift-JIS",
+    "raw_hex": "83418343835b8393834e838983438367",
+    "text": "アイゼンクライト"
+  },
+  {
+    "bank": "0x34",
+    "offset": "0x0D1E0A",
+    "bank_offset": "0x1E0A",
+    "format": "Shift-JIS",
+    "raw_hex": "82b182a482d4814582a982a281408140",
+    "text": "こうぶ・かい　　"
+  },
+  {
+    "bank": "0x34",
+    "offset": "0x0D1E20",
+    "bank_offset": "0x1E20",
+    "format": "Shift-JIS",
+    "raw_hex": "e0e7e07021",
+    "text": "珸瀾!"
+  },
+  {
+    "bank": "0x34",
+    "offset": "0x0D2645",
+    "bank_offset": "0x2645",
+    "format": "Shift-JIS",
+    "raw_hex": "e0e7e07021",
+    "text": "珸瀾!"
+  },
+  {
+    "bank": "0x34",
+    "offset": "0x0D26FF",
+    "bank_offset": "0x26FF",
+    "format": "Shift-JIS",
+    "raw_hex": "82bb82a482d10d82ed82b4835a836283670d82b982c282df82a2",
+    "text": "そうび\rわざセット\rせつめい"
+  },
+  {
+    "bank": "0x34",
+    "offset": "0x0D271A",
+    "bank_offset": "0x271A",
+    "format": "Shift-JIS",
+    "raw_hex": "82bb82a482d10d82b982c282df82a2",
+    "text": "そうび\rせつめい"
+  },
+  {
+    "bank": "0x34",
+    "offset": "0x0D2869",
+    "bank_offset": "0x2869",
+    "format": "Shift-JIS",
+    "raw_hex": "e0e7e0703e",
+    "text": "珸瀾>"
+  },
+  {
+    "bank": "0x34",
+    "offset": "0x0D2989",
+    "bank_offset": "0x2989",
+    "format": "Shift-JIS",
+    "raw_hex": "e0e7e0703e",
+    "text": "珸瀾>"
+  },
+  {
+    "bank": "0x34",
+    "offset": "0x0D2A75",
+    "bank_offset": "0x2A75",
+    "format": "Shift-JIS",
+    "raw_hex": "e0e7e0703e",
+    "text": "珸瀾>"
+  },
+  {
+    "bank": "0x34",
+    "offset": "0x0D2CC3",
+    "bank_offset": "0x2CC3",
+    "format": "Shift-JIS",
+    "raw_hex": "e0e7e07021",
+    "text": "珸瀾!"
+  },
+  {
+    "bank": "0x34",
+    "offset": "0x0D2EAA",
+    "bank_offset": "0x2EAA",
+    "format": "Shift-JIS",
+    "raw_hex": "e0e7e07021",
+    "text": "珸瀾!"
+  },
+  {
+    "bank": "0x34",
+    "offset": "0x0D3001",
+    "bank_offset": "0x3001",
+    "format": "Shift-JIS",
+    "raw_hex": "e0e7e0703e",
+    "text": "珸瀾>"
+  },
+  {
+    "bank": "0x34",
+    "offset": "0x0D3103",
+    "bank_offset": "0x3103",
+    "format": "Shift-JIS",
+    "raw_hex": "e0e7e0703e",
+    "text": "珸瀾>"
+  },
+  {
+    "bank": "0x34",
+    "offset": "0x0D325D",
+    "bank_offset": "0x325D",
+    "format": "Shift-JIS",
+    "raw_hex": "e0e7e0703e",
+    "text": "珸瀾>"
+  },
+  {
+    "bank": "0x34",
+    "offset": "0x0D3371",
+    "bank_offset": "0x3371",
+    "format": "Shift-JIS",
+    "raw_hex": "e0e7e0703e",
+    "text": "珸瀾>"
+  }
+]

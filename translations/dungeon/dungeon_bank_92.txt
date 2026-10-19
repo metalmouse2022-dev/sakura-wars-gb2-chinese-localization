@@ -1,0 +1,4327 @@
+# 樱花大战GB2 汉化底稿: 地下城与出击剧情 (Bank 0x92)
+# 本文件条目数: 647
+# 规则: 在 CN: 下方直接输入中文译文。换行为实际换行，保留 <NAME> 等控制标签。
+============================================================
+
+# [0001] [ROM: 0x248000] [Bank: 0x92:0x0000] [CPU: 0x4000] [OrigLen: 16]
+JP: うん。
+JP: アイリス　げんきだよ。
+CN: 嗯。
+CN: 爱丽丝精神
+
+# [0002] [ROM: 0x248010] [Bank: 0x92:0x0010] [CPU: 0x4010] [OrigLen: 23]
+JP: こんなところにいた　パパこそ
+JP: だいじょうぶ？
+CN: 爸爸没事吧？
+
+# [0003] [ROM: 0x248027] [Bank: 0x92:0x0027] [CPU: 0x4027] [OrigLen: 36]
+JP: ああ　だいじょうぶだよ。
+JP: アイリスに　あえたから
+JP: げんきに　なれたよ。
+CN: 嗯，没事。
+CN: 见到爱丽丝
+CN: 就有精神了
+
+# [0004] [ROM: 0x24804B] [Bank: 0x92:0x004B] [CPU: 0x404B] [OrigLen: 41]
+JP: それにしても　こんなところで
+JP: アイリスに　あえるなんて
+JP: まるで　ゆめのようだね。
+CN: 在这种地方
+CN: 见到爱丽丝
+CN: 简直像做梦
+
+# [0005] [ROM: 0x248074] [Bank: 0x92:0x0074] [CPU: 0x4074] [OrigLen: 24]
+JP: アイリス　これは　パパからの
+JP: プレゼントだよ。
+CN: 这是爸爸送
+CN: 爱丽丝的礼物
+
+# [0006] [ROM: 0x24808C] [Bank: 0x92:0x008C] [CPU: 0x408C] [OrigLen: 22]
+JP: わーーー　プリンだー。
+JP: いっただきまーす。
+CN: 哇，布丁！
+CN: 开动了～
+
+# [0007] [ROM: 0x2480A2] [Bank: 0x92:0x00A2] [CPU: 0x40A2] [OrigLen: 19]
+JP: アイリスのきりょくが
+JP: ぜんかいした。
+CN: 爱丽丝气力
+CN: 恢复了
+
+# [0008] [ROM: 0x2480B5] [Bank: 0x92:0x00B5] [CPU: 0x40B5] [OrigLen: 6]
+JP: エヘヘ……
+CN: 嘿嘿
+
+# [0009] [ROM: 0x2480BB] [Bank: 0x92:0x00BB] [CPU: 0x40BB] [OrigLen: 7]
+JP: アイリス……
+CN: 爱丽丝
+
+# [0010] [ROM: 0x2480C2] [Bank: 0x92:0x00C2] [CPU: 0x40C2] [OrigLen: 6]
+JP: よかったね
+CN: 真好
+
+# [0011] [ROM: 0x2480C8] [Bank: 0x92:0x00C8] [CPU: 0x40C8] [OrigLen: 10]
+JP: やっぱり　こどもね
+CN: 真是孩子
+
+# [0012] [ROM: 0x2480D2] [Bank: 0x92:0x00D2] [CPU: 0x40D2] [OrigLen: 8]
+JP: すてきなパパね
+CN: 好爸爸
+
+# [0013] [ROM: 0x2480DA] [Bank: 0x92:0x00DA] [CPU: 0x40DA] [OrigLen: 22]
+JP: おとうさんに　ケガがなくて
+JP: よかったわね。
+CN: 爸爸没受伤
+CN: 真是太好了
+
+# [0014] [ROM: 0x2480F0] [Bank: 0x92:0x00F0] [CPU: 0x40F0] [OrigLen: 13]
+JP: うん！
+JP: <NAME>　ありがとう！
+CN: 嗯！
+CN: <NAME>谢谢！
+
+# [0015] [ROM: 0x2480FD] [Bank: 0x92:0x00FD] [CPU: 0x40FD] [OrigLen: 44]
+JP: パパがぶじで　よかったわね。
+JP: でも　なんだかんだいっても
+JP: アイリスって　こどもなのね。
+CN: 爸爸平安真好，
+CN: 可说到底
+CN: 爱丽丝还是孩子
+
+# [0016] [ROM: 0x248129] [Bank: 0x92:0x0129] [CPU: 0x4129] [OrigLen: 25]
+JP: アイリス　こどもじゃ
+JP: ないもん！！
+JP: <NAME>　のバカ！
+CN: 才不是孩子！！
+CN: <NAME>笨蛋！
+
+# [0017] [ROM: 0x248142] [Bank: 0x92:0x0142] [CPU: 0x4142] [OrigLen: 38]
+JP: アイリスのおとうさんって
+JP: おヒゲが　にあって
+JP: とてもステキな　かたなのね。
+CN: 爱丽丝的爸爸
+CN: 很配胡子
+CN: 非常有魅力
+
+# [0018] [ROM: 0x248168] [Bank: 0x92:0x0168] [CPU: 0x4168] [OrigLen: 6]
+JP: エヘヘ……
+CN: 嘿嘿
+
+# [0019] [ROM: 0x24816E] [Bank: 0x92:0x016E] [CPU: 0x416E] [OrigLen: 21]
+JP: じゃあ　さきをいそぎましょ。
+JP: アイリス。
+CN: 我们快走吧，
+CN: 爱丽丝
+
+# [0020] [ROM: 0x248183] [Bank: 0x92:0x0183] [CPU: 0x4183] [OrigLen: 4]
+JP: うん！
+CN: 嗯
+
+# [0021] [ROM: 0x248187] [Bank: 0x92:0x0187] [CPU: 0x4187] [OrigLen: 36]
+JP: <NAME>は
+JP: アイリスの　ちちおや
+JP: ロベール<81>よシャトーブリアンを
+JP: たすけた。
+CN: <NAME>救出了
+CN: 爱丽丝之父
+CN: 夏多布里昂
+
+# [0022] [ROM: 0x2481AB] [Bank: 0x92:0x01AB] [CPU: 0x41AB] [OrigLen: 8]
+JP: パ……パパ！！
+CN: 爸！！
+
+# [0023] [ROM: 0x2481B3] [Bank: 0x92:0x01B3] [CPU: 0x41B3] [OrigLen: 7]
+JP: アイリス！！
+CN: 爱丽丝
+
+# [0024] [ROM: 0x2481BA] [Bank: 0x92:0x01BA] [CPU: 0x41BA] [OrigLen: 18]
+JP: どうして
+JP: こんなところに　いるの？
+CN: 你怎么会
+CN: 在这里？
+
+# [0025] [ROM: 0x2481CC] [Bank: 0x92:0x01CC] [CPU: 0x41CC] [OrigLen: 27]
+JP: それが　パパにも
+JP: なにがなんだか
+JP: わからないんだよ。
+CN: 爸爸自己
+CN: 也弄不清
+CN: 怎么回事
+
+# [0026] [ROM: 0x2481E7] [Bank: 0x92:0x01E7] [CPU: 0x41E7] [OrigLen: 17]
+JP: きがついたら
+JP: ここに　いたんだ。
+CN: 一醒来
+CN: 就在这里
+
+# [0027] [ROM: 0x2481F8] [Bank: 0x92:0x01F8] [CPU: 0x41F8] [OrigLen: 18]
+JP: それよりも
+JP: アイリス　げんきかい？
+CN: 爱丽丝你
+CN: 还好吗？
+
+# [0028] [ROM: 0x24820A] [Bank: 0x92:0x020A] [CPU: 0x420A] [OrigLen: 16]
+JP: うん。
+JP: アイリス　げんきだよ。
+CN: 嗯。
+CN: 爱丽丝精神
+
+# [0029] [ROM: 0x24821A] [Bank: 0x92:0x021A] [CPU: 0x421A] [OrigLen: 22]
+JP: こんなところにいたパパこそ
+JP: だいじょうぶ？
+CN: 爸爸没事吧？
+
+# [0030] [ROM: 0x248230] [Bank: 0x92:0x0230] [CPU: 0x4230] [OrigLen: 36]
+JP: ああ　だいじょうぶだよ。
+JP: アイリスに　あえたから
+JP: げんきに　なれたよ。
+CN: 嗯，没事。
+CN: 见到爱丽丝
+CN: 就有精神了
+
+# [0031] [ROM: 0x248254] [Bank: 0x92:0x0254] [CPU: 0x4254] [OrigLen: 41]
+JP: それにしても　こんなところで
+JP: アイリスに　あえるなんて
+JP: まるで　ゆめのようだね。
+CN: 在这种地方
+CN: 见到爱丽丝
+CN: 简直像做梦
+
+# [0032] [ROM: 0x24827D] [Bank: 0x92:0x027D] [CPU: 0x427D] [OrigLen: 24]
+JP: アイリス　これは　パパからの
+JP: プレゼントだよ。
+CN: 这是爸爸送
+CN: 爱丽丝的礼物
+
+# [0033] [ROM: 0x248295] [Bank: 0x92:0x0295] [CPU: 0x4295] [OrigLen: 22]
+JP: わーーー　プリンだー。
+JP: いっただきまーす。
+CN: 哇，布丁！
+CN: 开动了～
+
+# [0034] [ROM: 0x2482AB] [Bank: 0x92:0x02AB] [CPU: 0x42AB] [OrigLen: 19]
+JP: アイリスのきりょくが
+JP: ぜんかいした。
+CN: 爱丽丝气力
+CN: 恢复了
+
+# [0035] [ROM: 0x2482BE] [Bank: 0x92:0x02BE] [CPU: 0x42BE] [OrigLen: 6]
+JP: エヘヘ……
+CN: 嘿嘿
+
+# [0036] [ROM: 0x2482C4] [Bank: 0x92:0x02C4] [CPU: 0x42C4] [OrigLen: 7]
+JP: アイリス……
+CN: 爱丽丝
+
+# [0037] [ROM: 0x2482CB] [Bank: 0x92:0x02CB] [CPU: 0x42CB] [OrigLen: 6]
+JP: よかったね
+CN: 真好
+
+# [0038] [ROM: 0x2482D1] [Bank: 0x92:0x02D1] [CPU: 0x42D1] [OrigLen: 11]
+JP: やっぱり　こどもだね
+CN: 真是孩子呢
+
+# [0039] [ROM: 0x2482DC] [Bank: 0x92:0x02DC] [CPU: 0x42DC] [OrigLen: 9]
+JP: すてきなパパだね
+CN: 好爸爸呢
+
+# [0040] [ROM: 0x2482E5] [Bank: 0x92:0x02E5] [CPU: 0x42E5] [OrigLen: 21]
+JP: おとうさんに　ケガがなくて
+JP: よかったね。
+CN: 爸爸没受伤
+CN: 太好了
+
+# [0041] [ROM: 0x2482FA] [Bank: 0x92:0x02FA] [CPU: 0x42FA] [OrigLen: 13]
+JP: うん！
+JP: <NAME>　ありがとう！
+CN: 嗯！
+CN: <NAME>谢谢！
+
+# [0042] [ROM: 0x248307] [Bank: 0x92:0x0307] [CPU: 0x4307] [OrigLen: 38]
+JP: よかったね　パパがぶじで。
+JP: でも　やっぱり　アイリスって
+JP: こどもなんだね。
+CN: 爸爸平安真好，
+CN: 可爱丽丝
+CN: 到底是孩子
+
+# [0043] [ROM: 0x24832D] [Bank: 0x92:0x032D] [CPU: 0x432D] [OrigLen: 25]
+JP: アイリス　こどもじゃ
+JP: ないもん！！
+JP: <NAME>　のバカ！
+CN: 才不是孩子！！
+CN: <NAME>笨蛋！
+
+# [0044] [ROM: 0x248346] [Bank: 0x92:0x0346] [CPU: 0x4346] [OrigLen: 26]
+JP: アイリスのおとうさんって
+JP: ダンディでかっこいいね。
+CN: 爱丽丝的爸爸
+CN: 潇洒又帅气
+
+# [0045] [ROM: 0x248360] [Bank: 0x92:0x0360] [CPU: 0x4360] [OrigLen: 6]
+JP: エヘヘ……
+CN: 嘿嘿
+
+# [0046] [ROM: 0x248366] [Bank: 0x92:0x0366] [CPU: 0x4366] [OrigLen: 20]
+JP: じゃあ　さきをいそごうか。
+JP: アイリス。
+CN: 那快出发吧，
+CN: 爱丽丝
+
+# [0047] [ROM: 0x24837A] [Bank: 0x92:0x037A] [CPU: 0x437A] [OrigLen: 4]
+JP: うん！
+CN: 嗯
+
+# [0048] [ROM: 0x24837E] [Bank: 0x92:0x037E] [CPU: 0x437E] [OrigLen: 36]
+JP: <NAME>は
+JP: アイリスの　ちちおや
+JP: ロベール<81>よシャトーブリアンを
+JP: たすけた。
+CN: <NAME>救出了
+CN: 爱丽丝之父
+CN: 夏多布里昂
+
+# [0049] [ROM: 0x2483A2] [Bank: 0x92:0x03A2] [CPU: 0x43A2] [OrigLen: 8]
+JP: マ……ママ！！
+CN: 妈！！
+
+# [0050] [ROM: 0x2483AA] [Bank: 0x92:0x03AA] [CPU: 0x43AA] [OrigLen: 7]
+JP: アイリス！！
+CN: 爱丽丝
+
+# [0051] [ROM: 0x2483B1] [Bank: 0x92:0x03B1] [CPU: 0x43B1] [OrigLen: 17]
+JP: どうして
+JP: こんなところにいるの！
+CN: 你怎么会
+CN: 在这！
+
+# [0052] [ROM: 0x2483C2] [Bank: 0x92:0x03C2] [CPU: 0x43C2] [OrigLen: 14]
+JP: ああ……
+JP: アイリス…………
+CN: 啊……
+CN: 爱丽丝
+
+# [0053] [ROM: 0x2483D0] [Bank: 0x92:0x03D0] [CPU: 0x43D0] [OrigLen: 36]
+JP: ママね
+JP: アイリスのことを　
+JP: かんがえながら
+JP: おかしを　つくっていたの。
+CN: 妈妈呀，
+CN: 想着爱丽丝
+CN: 做点心呢
+
+# [0054] [ROM: 0x2483F4] [Bank: 0x92:0x03F4] [CPU: 0x43F4] [OrigLen: 30]
+JP: そしたら　とつぜん
+JP: めのまえが　まっしろになって
+JP: …………
+CN: 突然眼前
+CN: 一片空白，
+CN: ……
+
+# [0055] [ROM: 0x248412] [Bank: 0x92:0x0412] [CPU: 0x4412] [OrigLen: 26]
+JP: きがついたら
+JP: ここにいたのよ。
+JP: ここは　どこなの？
+CN: 一醒来
+CN: 就在这
+CN: 这是哪？
+
+# [0056] [ROM: 0x24842C] [Bank: 0x92:0x042C] [CPU: 0x442C] [OrigLen: 22]
+JP: ミカサきねんこうえんの
+JP: ミカサのなかだよ。
+CN: 三笠公园
+CN: 三笠里面哦
+
+# [0057] [ROM: 0x248442] [Bank: 0x92:0x0442] [CPU: 0x4442] [OrigLen: 45]
+JP: まぁ……ここは
+JP: ニッポンなのね。
+JP: でも　アイリスにあえるなんて
+JP: ほんとうに　ゆめみたい。
+CN: 这里是日本
+CN: 呢。能见到
+CN: 爱丽丝，真像
+CN: 做梦一样
+
+# [0058] [ROM: 0x24846F] [Bank: 0x92:0x046F] [CPU: 0x446F] [OrigLen: 23]
+JP: さあ　アイリス。
+JP: ママに　おかおをみせて……
+CN: 来，爱丽丝
+CN: 给妈妈看脸
+
+# [0059] [ROM: 0x248486] [Bank: 0x92:0x0486] [CPU: 0x4486] [OrigLen: 17]
+JP: げんきそうね……
+JP: よかったわ……
+CN: 很精神
+CN: 太好了
+
+# [0060] [ROM: 0x248497] [Bank: 0x92:0x0497] [CPU: 0x4497] [OrigLen: 30]
+JP: アイリスが　げんきなら
+JP: ママ　なにも　しんぱいは
+JP: ないわ。
+CN: 爱丽丝健康
+CN: 妈妈就
+CN: 不担心
+
+# [0061] [ROM: 0x2484B5] [Bank: 0x92:0x04B5] [CPU: 0x44B5] [OrigLen: 5]
+JP: ママ……
+CN: 妈妈
+
+# [0062] [ROM: 0x2484BA] [Bank: 0x92:0x04BA] [CPU: 0x44BA] [OrigLen: 30]
+JP: アイリス　これは　
+JP: ママがつくった
+JP: やきたてのクッキーよ。
+CN: 爱丽丝，这是
+CN: 妈妈做的
+CN: 饼干哦
+
+# [0063] [ROM: 0x2484D8] [Bank: 0x92:0x04D8] [CPU: 0x44D8] [OrigLen: 26]
+JP: わーーー　アイリス　ママの
+JP: クッキー　だーいすき！
+CN: 哇，爱丽丝
+CN: 最爱妈妈饼干
+
+# [0064] [ROM: 0x2484F2] [Bank: 0x92:0x04F2] [CPU: 0x44F2] [OrigLen: 19]
+JP: アイリスのきりょくが
+JP: ぜんかいした。
+CN: 爱丽丝气力
+CN: 恢复了
+
+# [0065] [ROM: 0x248505] [Bank: 0x92:0x0505] [CPU: 0x4505] [OrigLen: 6]
+JP: エヘヘ……
+CN: 嘿嘿
+
+# [0066] [ROM: 0x24850B] [Bank: 0x92:0x050B] [CPU: 0x450B] [OrigLen: 7]
+JP: アイリス……
+CN: 爱丽丝
+
+# [0067] [ROM: 0x248512] [Bank: 0x92:0x0512] [CPU: 0x4512] [OrigLen: 7]
+JP: よかったわね
+CN: 真好呢
+
+# [0068] [ROM: 0x248519] [Bank: 0x92:0x0519] [CPU: 0x4519] [OrigLen: 10]
+JP: やっぱり　こどもね
+CN: 真是孩子
+
+# [0069] [ROM: 0x248523] [Bank: 0x92:0x0523] [CPU: 0x4523] [OrigLen: 8]
+JP: すてきなママね
+CN: 好妈妈
+
+# [0070] [ROM: 0x24852B] [Bank: 0x92:0x052B] [CPU: 0x452B] [OrigLen: 22]
+JP: おかあさんに　ケガがなくて
+JP: よかったわね。
+CN: 妈妈没受伤
+CN: 真是太好了
+
+# [0071] [ROM: 0x248541] [Bank: 0x92:0x0541] [CPU: 0x4541] [OrigLen: 13]
+JP: うん！
+JP: <NAME>　ありがとう！
+CN: 嗯！
+CN: <NAME>谢谢！
+
+# [0072] [ROM: 0x24854E] [Bank: 0x92:0x054E] [CPU: 0x454E] [OrigLen: 22]
+JP: よかったわね
+JP: ママのクッキーが　たべれて。
+CN: 能吃到妈妈
+CN: 饼干真好
+
+# [0073] [ROM: 0x248564] [Bank: 0x92:0x0564] [CPU: 0x4564] [OrigLen: 28]
+JP: でも　やっぱり　アイリスって
+JP: こどもなのね。　ウフフ。
+CN: 可爱丽丝
+CN: 到底是孩子啦
+
+# [0074] [ROM: 0x248580] [Bank: 0x92:0x0580] [CPU: 0x4580] [OrigLen: 25]
+JP: アイリス　こどもじゃ
+JP: ないもん！！
+JP: <NAME>　のバカ！
+CN: 才不是孩子！！
+CN: <NAME>笨蛋！
+
+# [0075] [ROM: 0x248599] [Bank: 0x92:0x0599] [CPU: 0x4599] [OrigLen: 20]
+JP: アイリスのおかあさんって
+JP: ステキね〜。
+CN: 爱丽丝妈妈
+CN: 好温柔～
+
+# [0076] [ROM: 0x2485AD] [Bank: 0x92:0x05AD] [CPU: 0x45AD] [OrigLen: 36]
+JP: こんな　ステキなおかあさんが
+JP: いるなんて
+JP: アイリスが　うらやましいわ。
+CN: 有这么温柔
+CN: 的妈妈，
+CN: 真羡慕爱丽丝
+
+# [0077] [ROM: 0x2485D1] [Bank: 0x92:0x05D1] [CPU: 0x45D1] [OrigLen: 6]
+JP: エヘヘ……
+CN: 嘿嘿
+
+# [0078] [ROM: 0x2485D7] [Bank: 0x92:0x05D7] [CPU: 0x45D7] [OrigLen: 21]
+JP: じゃあ　さきをいそぎましょ。
+JP: アイリス。
+CN: 我们快走吧，
+CN: 爱丽丝
+
+# [0079] [ROM: 0x2485EC] [Bank: 0x92:0x05EC] [CPU: 0x45EC] [OrigLen: 4]
+JP: うん！
+CN: 嗯
+
+# [0080] [ROM: 0x2485F0] [Bank: 0x92:0x05F0] [CPU: 0x45F0] [OrigLen: 38]
+JP: <NAME>は
+JP: アイリスの　ははおや
+JP: マルグリット<81>よシャトーブリアンを
+JP: たすけた。
+CN: <NAME>救出了
+CN: 爱丽丝之母
+CN: 夏多布里昂
+
+# [0081] [ROM: 0x248616] [Bank: 0x92:0x0616] [CPU: 0x4616] [OrigLen: 8]
+JP: マ……ママ！！
+CN: 妈！！
+
+# [0082] [ROM: 0x24861E] [Bank: 0x92:0x061E] [CPU: 0x461E] [OrigLen: 7]
+JP: アイリス！！
+CN: 爱丽丝
+
+# [0083] [ROM: 0x248625] [Bank: 0x92:0x0625] [CPU: 0x4625] [OrigLen: 17]
+JP: どうして
+JP: こんなところにいるの！
+CN: 你怎么会
+CN: 在这！
+
+# [0084] [ROM: 0x248636] [Bank: 0x92:0x0636] [CPU: 0x4636] [OrigLen: 14]
+JP: ああ……
+JP: アイリス…………
+CN: 啊……
+CN: 爱丽丝
+
+# [0085] [ROM: 0x248644] [Bank: 0x92:0x0644] [CPU: 0x4644] [OrigLen: 36]
+JP: ママね
+JP: アイリスのことを　
+JP: かんがえながら
+JP: おかしを　つくっていたの。
+CN: 妈妈呀，
+CN: 想着爱丽丝
+CN: 做点心呢
+
+# [0086] [ROM: 0x248668] [Bank: 0x92:0x0668] [CPU: 0x4668] [OrigLen: 30]
+JP: そしたら　とつぜん
+JP: めのまえが　まっしろになって
+JP: …………
+CN: 突然眼前
+CN: 一片空白，
+CN: ……
+
+# [0087] [ROM: 0x248686] [Bank: 0x92:0x0686] [CPU: 0x4686] [OrigLen: 26]
+JP: きがついたら
+JP: ここにいたのよ。
+JP: ここは　どこなの？
+CN: 一醒来
+CN: 就在这
+CN: 这是哪？
+
+# [0088] [ROM: 0x2486A0] [Bank: 0x92:0x06A0] [CPU: 0x46A0] [OrigLen: 22]
+JP: ミカサきねんこうえんの
+JP: ミカサのなかだよ。
+CN: 三笠公园
+CN: 三笠里面哦
+
+# [0089] [ROM: 0x2486B6] [Bank: 0x92:0x06B6] [CPU: 0x46B6] [OrigLen: 45]
+JP: まぁ……ここは
+JP: ニッポンなのね。
+JP: でも　アイリスにあえるなんて
+JP: ほんとうに　ゆめみたい。
+CN: 这里是日本
+CN: 呢。能见到
+CN: 爱丽丝，真像
+CN: 做梦一样
+
+# [0090] [ROM: 0x2486E3] [Bank: 0x92:0x06E3] [CPU: 0x46E3] [OrigLen: 23]
+JP: さあ　アイリス。
+JP: ママに　おかおをみせて……
+CN: 来，爱丽丝
+CN: 给妈妈看脸
+
+# [0091] [ROM: 0x2486FA] [Bank: 0x92:0x06FA] [CPU: 0x46FA] [OrigLen: 17]
+JP: げんきそうね……
+JP: よかったわ……
+CN: 很精神
+CN: 太好了
+
+# [0092] [ROM: 0x24870B] [Bank: 0x92:0x070B] [CPU: 0x470B] [OrigLen: 30]
+JP: アイリスが　げんきなら
+JP: ママ　なにも　しんぱいは
+JP: ないわ。
+CN: 爱丽丝健康
+CN: 妈妈就
+CN: 不担心
+
+# [0093] [ROM: 0x248729] [Bank: 0x92:0x0729] [CPU: 0x4729] [OrigLen: 5]
+JP: ママ……
+CN: 妈妈
+
+# [0094] [ROM: 0x24872E] [Bank: 0x92:0x072E] [CPU: 0x472E] [OrigLen: 29]
+JP: アイリス　これは　
+JP: ママがやいた
+JP: やきたてのクッキーよ。
+CN: 爱丽丝，这是
+CN: 妈妈烤的
+CN: 饼干哦
+
+# [0095] [ROM: 0x24874B] [Bank: 0x92:0x074B] [CPU: 0x474B] [OrigLen: 26]
+JP: わーーー　アイリス　ママの
+JP: クッキー　だーいすき！
+CN: 哇，爱丽丝
+CN: 最爱妈妈饼干
+
+# [0096] [ROM: 0x248765] [Bank: 0x92:0x0765] [CPU: 0x4765] [OrigLen: 19]
+JP: アイリスのきりょくが
+JP: ぜんかいした。
+CN: 爱丽丝气力
+CN: 恢复了
+
+# [0097] [ROM: 0x248778] [Bank: 0x92:0x0778] [CPU: 0x4778] [OrigLen: 6]
+JP: エヘヘ……
+CN: 嘿嘿
+
+# [0098] [ROM: 0x24877E] [Bank: 0x92:0x077E] [CPU: 0x477E] [OrigLen: 7]
+JP: アイリス……
+CN: 爱丽丝
+
+# [0099] [ROM: 0x248785] [Bank: 0x92:0x0785] [CPU: 0x4785] [OrigLen: 6]
+JP: よかったね
+CN: 真好
+
+# [0100] [ROM: 0x24878B] [Bank: 0x92:0x078B] [CPU: 0x478B] [OrigLen: 11]
+JP: やっぱり　こどもだね
+CN: 真是孩子呢
+
+# [0101] [ROM: 0x248796] [Bank: 0x92:0x0796] [CPU: 0x4796] [OrigLen: 9]
+JP: すてきなママだね
+CN: 好妈妈呢
+
+# [0102] [ROM: 0x24879F] [Bank: 0x92:0x079F] [CPU: 0x479F] [OrigLen: 21]
+JP: おかあさんに　ケガがなくて
+JP: よかったね。
+CN: 妈妈没受伤
+CN: 太好了
+
+# [0103] [ROM: 0x2487B4] [Bank: 0x92:0x07B4] [CPU: 0x47B4] [OrigLen: 13]
+JP: うん！
+JP: <NAME>　ありがとう！
+CN: 嗯！
+CN: <NAME>谢谢！
+
+# [0104] [ROM: 0x2487C1] [Bank: 0x92:0x07C1] [CPU: 0x47C1] [OrigLen: 21]
+JP: よかったね　ママのクッキーが
+JP: たべれて。
+CN: 吃到妈妈
+CN: 饼干真好
+
+# [0105] [ROM: 0x2487D6] [Bank: 0x92:0x07D6] [CPU: 0x47D6] [OrigLen: 24]
+JP: でも　やっぱり　アイリスって
+JP: こどもなんだね。
+CN: 可爱丽丝
+CN: 到底是孩子
+
+# [0106] [ROM: 0x2487EE] [Bank: 0x92:0x07EE] [CPU: 0x47EE] [OrigLen: 25]
+JP: アイリス　こどもじゃ
+JP: ないもん！！
+JP: <NAME>　のバカ！
+CN: 才不是孩子！！
+CN: <NAME>笨蛋！
+
+# [0107] [ROM: 0x248807] [Bank: 0x92:0x0807] [CPU: 0x4807] [OrigLen: 42]
+JP: アイリスのおかあさんって
+JP: キレイだよね〜。
+JP: どうりで　アイリスも
+JP: かわいいわけだ。
+CN: 爱丽丝的妈妈
+CN: 真美呢～
+CN: 难怪她
+CN: 这么可爱
+
+# [0108] [ROM: 0x248831] [Bank: 0x92:0x0831] [CPU: 0x4831] [OrigLen: 6]
+JP: エヘヘ……
+CN: 嘿嘿
+
+# [0109] [ROM: 0x248837] [Bank: 0x92:0x0837] [CPU: 0x4837] [OrigLen: 20]
+JP: じゃあ　さきをいそごうか。
+JP: アイリス。
+CN: 那快出发吧，
+CN: 爱丽丝
+
+# [0110] [ROM: 0x24884B] [Bank: 0x92:0x084B] [CPU: 0x484B] [OrigLen: 4]
+JP: うん！
+CN: 嗯
+
+# [0111] [ROM: 0x24884F] [Bank: 0x92:0x084F] [CPU: 0x484F] [OrigLen: 38]
+JP: <NAME>は
+JP: アイリスの　ははおや
+JP: マルグリット<81>よシャトーブリアンを
+JP: たすけた。
+CN: <NAME>救出了
+CN: 爱丽丝之母
+CN: 夏多布里昂
+
+# [0112] [ROM: 0x248875] [Bank: 0x92:0x0875] [CPU: 0x4875] [OrigLen: 11]
+JP: お……おかあさま！！
+CN: 母亲大人！
+
+# [0113] [ROM: 0x248880] [Bank: 0x92:0x0880] [CPU: 0x4880] [OrigLen: 8]
+JP: さくらさん……
+CN: 樱小姐
+
+# [0114] [ROM: 0x248888] [Bank: 0x92:0x0888] [CPU: 0x4888] [OrigLen: 14]
+JP: おかあさま　ごぶじですか！
+CN: 母亲没事吧！
+
+# [0115] [ROM: 0x248896] [Bank: 0x92:0x0896] [CPU: 0x4896] [OrigLen: 19]
+JP: ええ　わたしは
+JP: だいじょうぶですよ。
+CN: 嗯，我
+CN: 没事的。
+
+# [0116] [ROM: 0x2488A9] [Bank: 0x92:0x08A9] [CPU: 0x48A9] [OrigLen: 16]
+JP: それよりも　ここは
+JP: どこなの？
+CN: 这里是哪
+CN: 哪里？
+
+# [0117] [ROM: 0x2488B9] [Bank: 0x92:0x08B9] [CPU: 0x48B9] [OrigLen: 34]
+JP: ミカサきねんこうえんの
+JP: ちか　ふかくにある
+JP: 『せいまじょう』です。
+CN: 三笠公园
+CN: 地下深处
+CN: 『圣魔城』
+
+# [0118] [ROM: 0x2488DB] [Bank: 0x92:0x08DB] [CPU: 0x48DB] [OrigLen: 23]
+JP: そう……
+JP: わるい　れいりょくを
+JP: かんじるわ。
+CN: 能感觉到
+CN: 邪恶灵力
+
+# [0119] [ROM: 0x2488F2] [Bank: 0x92:0x08F2] [CPU: 0x48F2] [OrigLen: 19]
+JP: なにか　じけんが
+JP: おこっているのね。
+CN: 看来发生
+CN: 事件了
+
+# [0120] [ROM: 0x248905] [Bank: 0x92:0x0905] [CPU: 0x4905] [OrigLen: 37]
+JP: はい。おかあさま。
+JP: 『まじんき』のチカラが
+JP: ぼうそうしてるようなのです。
+CN: 是的母亲大人
+CN: 『魔神器』力量
+CN: 正在失控
+
+# [0121] [ROM: 0x24892A] [Bank: 0x92:0x092A] [CPU: 0x492A] [OrigLen: 17]
+JP: 『まじんき』……
+JP: そうですか……
+CN: 『魔神器』……
+
+# [0122] [ROM: 0x24893B] [Bank: 0x92:0x093B] [CPU: 0x493B] [OrigLen: 37]
+JP: やはり　あなたも
+JP: 『まじんき』の　まりょくから
+JP: のがれられないのですね。
+CN: 你也无法
+CN: 摆脱『魔神器』
+CN: 的魔力
+
+# [0123] [ROM: 0x248960] [Bank: 0x92:0x0960] [CPU: 0x4960] [OrigLen: 32]
+JP: これが
+JP: しんぐうじけに
+JP: うまれたものの
+JP: うんめいなのですね……
+CN: 这就是
+CN: 生于神社之家
+CN: 的命运吧
+
+# [0124] [ROM: 0x248980] [Bank: 0x92:0x0980] [CPU: 0x4980] [OrigLen: 37]
+JP: さくらさん　『まじんき』を
+JP: とりかえすことも
+JP: たいせつなことですけど……
+CN: 要夺回魔神器
+CN: 固然重要
+CN: 但别逞强
+
+# [0125] [ROM: 0x2489A5] [Bank: 0x92:0x09A5] [CPU: 0x49A5] [OrigLen: 28]
+JP: いのちを　おとすような
+JP: ことがあっては
+JP: いけませんよ。
+CN: 绝不可
+CN: 送了性命哦
+
+# [0126] [ROM: 0x2489C1] [Bank: 0x92:0x09C1] [CPU: 0x49C1] [OrigLen: 10]
+JP: はい　おかあさま。
+CN: 是，母亲
+
+# [0127] [ROM: 0x2489CB] [Bank: 0x92:0x09CB] [CPU: 0x49CB] [OrigLen: 29]
+JP: そちらのかた
+JP: むすめのこと
+JP: よろしく　おねがいしますね。
+CN: 这位先生，
+CN: 我女儿
+CN: 拜托你了
+
+# [0128] [ROM: 0x2489E8] [Bank: 0x92:0x09E8] [CPU: 0x49E8] [OrigLen: 23]
+JP: さくら　と　<NAME>の
+JP: きりょくが
+JP: ぜんかいした。
+CN: 樱与<NAME>的
+CN: 气力
+CN: 全恢复
+
+# [0129] [ROM: 0x2489FF] [Bank: 0x92:0x09FF] [CPU: 0x49FF] [OrigLen: 30]
+JP: <NAME>は
+JP: さくらの　ははおや
+JP: しんぐうじ　わかなを
+JP: たすけた。
+CN: <NAME>救出了
+CN: 樱之母
+CN: 神宮寺若菜。
+
+# [0130] [ROM: 0x248A1D] [Bank: 0x92:0x0A1D] [CPU: 0x4A1D] [OrigLen: 9]
+JP: さ……　さくら！
+CN: 樱！
+
+# [0131] [ROM: 0x248A26] [Bank: 0x92:0x0A26] [CPU: 0x4A26] [OrigLen: 17]
+JP: えっ？
+JP: ………………………………
+CN: 咦？
+CN: …………
+
+# [0132] [ROM: 0x248A37] [Bank: 0x92:0x0A37] [CPU: 0x4A37] [OrigLen: 37]
+JP: なんだ　わすれちゃったのか？
+JP: オレだよ　タケシだよ。
+JP: まつもと　タケシ。
+CN: 怎么，忘了吗？
+CN: 是我啊，武。
+CN: 松本武。
+
+# [0133] [ROM: 0x248A5C] [Bank: 0x92:0x0A5C] [CPU: 0x4A5C] [OrigLen: 20]
+JP: あーーー　おさななじみの
+JP: タケシくん！
+CN: 啊——发小
+CN: 的武君！
+
+# [0134] [ROM: 0x248A70] [Bank: 0x92:0x0A70] [CPU: 0x4A70] [OrigLen: 15]
+JP: そのかたは
+JP: さくらさんの……
+CN: 那位是樱的
+
+# [0135] [ROM: 0x248A7F] [Bank: 0x92:0x0A7F] [CPU: 0x4A7F] [OrigLen: 12]
+JP: こいびと　なんですか？
+CN: 恋人吗？
+
+# [0136] [ROM: 0x248A8B] [Bank: 0x92:0x0A8B] [CPU: 0x4A8B] [OrigLen: 12]
+JP: おとうとさん　ですか？
+CN: 弟弟吗？
+
+# [0137] [ROM: 0x248A97] [Bank: 0x92:0x0A97] [CPU: 0x4A97] [OrigLen: 11]
+JP: おともだち　ですか？
+CN: 朋友吗？
+
+# [0138] [ROM: 0x248AA2] [Bank: 0x92:0x0AA2] [CPU: 0x4AA2] [OrigLen: 31]
+JP: こいびと　なんですか？
+JP: おおがみさんのことは
+JP: いいんですか？
+CN: 恋人吗？
+CN: 大神先生
+CN: 怎么办？
+
+# [0139] [ROM: 0x248AC1] [Bank: 0x92:0x0AC1] [CPU: 0x4AC1] [OrigLen: 34]
+JP: ちがいます！
+JP: タケシくんは　イナカの
+JP: おさななじみ　なんですよ！！
+CN: 不是的！
+CN: 武君是乡下
+CN: 发小呀！！
+
+# [0140] [ROM: 0x248AE3] [Bank: 0x92:0x0AE3] [CPU: 0x4AE3] [OrigLen: 32]
+JP: あっ！
+JP: ごめんなさい　タケシくん。
+JP: おおごえ　だしちゃって……
+CN: 啊！
+CN: 对不起武君
+CN: 我叫出声了
+
+# [0141] [ROM: 0x248B03] [Bank: 0x92:0x0B03] [CPU: 0x4B03] [OrigLen: 12]
+JP: おとうとさん　ですか？
+CN: 弟弟吗？
+
+# [0142] [ROM: 0x248B0F] [Bank: 0x92:0x0B0F] [CPU: 0x4B0F] [OrigLen: 36]
+JP: みょうじが　ちがうでしょ。
+JP: かれは　まつもと。
+JP: あたしは　しんぐうじ。
+CN: 姓氏不同
+CN: 他姓松本
+CN: 我姓神宮寺
+
+# [0143] [ROM: 0x248B33] [Bank: 0x92:0x0B33] [CPU: 0x4B33] [OrigLen: 22]
+JP: タケシくんとは
+JP: おさななじみ　なんですよ。
+CN: 我和武君
+CN: 是发小
+
+# [0144] [ROM: 0x248B49] [Bank: 0x92:0x0B49] [CPU: 0x4B49] [OrigLen: 13]
+JP: おともだち　なんですか？
+CN: 是朋友吗？
+
+# [0145] [ROM: 0x248B56] [Bank: 0x92:0x0B56] [CPU: 0x4B56] [OrigLen: 41]
+JP: よくわかりましたね。
+JP: そうなんです。
+JP: タケシくんとは　おさななじみ
+JP: なんですよ。
+CN: 看得真准
+CN: 是的，我和
+CN: 武君是
+CN: 发小
+
+# [0146] [ROM: 0x248B8C] [Bank: 0x92:0x0B8C] [CPU: 0x4B8C] [OrigLen: 17]
+JP: ところで……ここは
+JP: どこなんだ？
+CN: 这里是哪儿？
+
+# [0147] [ROM: 0x248B9D] [Bank: 0x92:0x0B9D] [CPU: 0x4B9D] [OrigLen: 36]
+JP: がっこうに　いこうとおもって
+JP: いえをでたら
+JP: ひかりに　つつまれたんだ。
+CN: 本想去上学
+CN: 出了家门
+CN: 被光包住了
+
+# [0148] [ROM: 0x248BC1] [Bank: 0x92:0x0BC1] [CPU: 0x4BC1] [OrigLen: 39]
+JP: ここは　ミカサのなかなの。
+JP: あたしたちが　きたからには
+JP: もう　あんしんして。
+CN: 这里是三笠
+CN: 我们来了就
+CN: 放心吧
+
+# [0149] [ROM: 0x248BE8] [Bank: 0x92:0x0BE8] [CPU: 0x4BE8] [OrigLen: 37]
+JP: うん　そうだね。
+JP: でも　ひさしぶりだな〜。
+JP: げんきそうで　なによりだよ。
+CN: 嗯，说得对
+CN: 好久不见～
+CN: 你很精神好
+
+# [0150] [ROM: 0x248C0D] [Bank: 0x92:0x0C0D] [CPU: 0x4C0D] [OrigLen: 27]
+JP: そうだ　さくらは
+JP: いまだに　カミナリが
+JP: こわいのか？
+CN: 对了，樱
+CN: 还怕打雷吗
+
+# [0151] [ROM: 0x248C28] [Bank: 0x92:0x0C28] [CPU: 0x4C28] [OrigLen: 17]
+JP: えっ……
+JP: う……　うん　まあね。
+CN: 咦……
+CN: 嗯，算是
+
+# [0152] [ROM: 0x248C39] [Bank: 0x92:0x0C39] [CPU: 0x4C39] [OrigLen: 32]
+JP: じゃあ　コレあげるよ。
+JP: とっても　ごりやくのある
+JP: おまもりだ。
+CN: 那给你这个
+CN: 很灵验的
+CN: 护身符
+
+# [0153] [ROM: 0x248C59] [Bank: 0x92:0x0C59] [CPU: 0x4C59] [OrigLen: 22]
+JP: きっと　カミナリからも
+JP: まもってくれるよ。
+CN: 一定能替你
+CN: 挡住雷
+
+# [0154] [ROM: 0x248C6F] [Bank: 0x92:0x0C6F] [CPU: 0x4C6F] [OrigLen: 23]
+JP: あっ　よろしければ
+JP: そちらのかたも　どうぞ。
+CN: 不嫌弃的话
+CN: 他也请拿
+
+# [0155] [ROM: 0x248C86] [Bank: 0x92:0x0C86] [CPU: 0x4C86] [OrigLen: 24]
+JP: <NAME>は
+JP: 『ごりやくのあるおまもり』を
+JP: もらった。
+CN: <NAME>拿到了
+CN: 灵验护身符
+
+# [0156] [ROM: 0x248C9E] [Bank: 0x92:0x0C9E] [CPU: 0x4C9E] [OrigLen: 20]
+JP: <NAME>は
+JP: 『ヒラリン』の
+JP: わざをおぼえた！
+CN: <NAME>学会了
+CN: 闪避技！
+
+# [0157] [ROM: 0x248CB2] [Bank: 0x92:0x0CB2] [CPU: 0x4CB2] [OrigLen: 33]
+JP: 『ヒラリン』は
+JP: 『シルスウスのたち』に
+JP: セットすることができる。
+CN: 『闪避』可
+CN: 装备于
+CN: 希尔斯之剑
+
+# [0158] [ROM: 0x248CD3] [Bank: 0x92:0x0CD3] [CPU: 0x4CD3] [OrigLen: 13]
+JP: ありがとう　タケシくん。
+CN: 谢谢武君
+
+# [0159] [ROM: 0x248CE0] [Bank: 0x92:0x0CE0] [CPU: 0x4CE0] [OrigLen: 31]
+JP: <NAME>は
+JP: さくらの　おさななじみ
+JP: まつもと　タケシを
+JP: たすけた。
+CN: <NAME>救出了
+CN: 樱的发小
+CN: 松本武。
+
+# [0160] [ROM: 0x248CFF] [Bank: 0x92:0x0CFF] [CPU: 0x4CFF] [OrigLen: 9]
+JP: さ……　さくら！
+CN: 樱！
+
+# [0161] [ROM: 0x248D08] [Bank: 0x92:0x0D08] [CPU: 0x4D08] [OrigLen: 17]
+JP: えっ？
+JP: ………………………………
+CN: 咦？
+CN: …………
+
+# [0162] [ROM: 0x248D19] [Bank: 0x92:0x0D19] [CPU: 0x4D19] [OrigLen: 37]
+JP: なんだ　わすれちゃったのか？
+JP: オレだよ　タケシだよ。
+JP: まつもと　タケシ。
+CN: 怎么，忘了吗？
+CN: 是我啊，武。
+CN: 松本武。
+
+# [0163] [ROM: 0x248D3E] [Bank: 0x92:0x0D3E] [CPU: 0x4D3E] [OrigLen: 20]
+JP: あーーー　おさななじみの
+JP: タケシくん！
+CN: 啊——发小
+CN: 的武君！
+
+# [0164] [ROM: 0x248D52] [Bank: 0x92:0x0D52] [CPU: 0x4D52] [OrigLen: 15]
+JP: そのかたは
+JP: さくらさんの……
+CN: 那位是樱的
+
+# [0165] [ROM: 0x248D61] [Bank: 0x92:0x0D61] [CPU: 0x4D61] [OrigLen: 10]
+JP: こいびと　ですか？
+CN: 恋人吗？
+
+# [0166] [ROM: 0x248D6B] [Bank: 0x92:0x0D6B] [CPU: 0x4D6B] [OrigLen: 12]
+JP: おとうとさん　ですか？
+CN: 弟弟吗？
+
+# [0167] [ROM: 0x248D77] [Bank: 0x92:0x0D77] [CPU: 0x4D77] [OrigLen: 11]
+JP: おともだち　ですか？
+CN: 朋友吗？
+
+# [0168] [ROM: 0x248D82] [Bank: 0x92:0x0D82] [CPU: 0x4D82] [OrigLen: 35]
+JP: こいびと　なんですか？
+JP: やりますね〜。
+JP: おおがみさん　そっちのけで。
+CN: 恋人吗？
+CN: 把大神先生
+CN: 晾一边啦
+
+# [0169] [ROM: 0x248DA5] [Bank: 0x92:0x0DA5] [CPU: 0x4DA5] [OrigLen: 34]
+JP: ちがいます！
+JP: タケシくんは　イナカの
+JP: おさななじみ　なんですよ！！
+CN: 不是的！
+CN: 武君是乡下
+CN: 发小呀！！
+
+# [0170] [ROM: 0x248DC7] [Bank: 0x92:0x0DC7] [CPU: 0x4DC7] [OrigLen: 32]
+JP: あっ！
+JP: ごめんなさい　タケシくん。
+JP: おおごえ　だしちゃって……
+CN: 啊！
+CN: 对不起武君
+CN: 我叫出声了
+
+# [0171] [ROM: 0x248DE7] [Bank: 0x92:0x0DE7] [CPU: 0x4DE7] [OrigLen: 12]
+JP: おとうとさん　ですか？
+CN: 弟弟吗？
+
+# [0172] [ROM: 0x248DF3] [Bank: 0x92:0x0DF3] [CPU: 0x4DF3] [OrigLen: 36]
+JP: みょうじが　ちがうでしょ。
+JP: かれは　まつもと。
+JP: あたしは　しんぐうじ。
+CN: 姓氏不同
+CN: 他姓松本
+CN: 我姓神宮寺
+
+# [0173] [ROM: 0x248E17] [Bank: 0x92:0x0E17] [CPU: 0x4E17] [OrigLen: 22]
+JP: タケシくんとは
+JP: おさななじみ　なんですよ。
+CN: 我和武君
+CN: 是发小
+
+# [0174] [ROM: 0x248E2D] [Bank: 0x92:0x0E2D] [CPU: 0x4E2D] [OrigLen: 13]
+JP: おともだち　なんですか？
+CN: 是朋友吗？
+
+# [0175] [ROM: 0x248E3A] [Bank: 0x92:0x0E3A] [CPU: 0x4E3A] [OrigLen: 41]
+JP: よくわかりましたね。
+JP: そうなんです。
+JP: タケシくんとは　おさななじみ
+JP: なんですよ。
+CN: 看得真准
+CN: 是的，我和
+CN: 武君是
+CN: 发小
+
+# [0176] [ROM: 0x248E70] [Bank: 0x92:0x0E70] [CPU: 0x4E70] [OrigLen: 17]
+JP: ところで……ここは
+JP: どこなんだ？
+CN: 这里是哪儿？
+
+# [0177] [ROM: 0x248E81] [Bank: 0x92:0x0E81] [CPU: 0x4E81] [OrigLen: 36]
+JP: がっこうに　いこうとおもって
+JP: いえをでたら
+JP: ひかりに　つつまれたんだ。
+CN: 本想去上学
+CN: 出了家门
+CN: 被光包住了
+
+# [0178] [ROM: 0x248EA5] [Bank: 0x92:0x0EA5] [CPU: 0x4EA5] [OrigLen: 39]
+JP: ここは　ミカサのなかなの。
+JP: あたしたちが　きたからには
+JP: もう　あんしんして。
+CN: 这里是三笠
+CN: 我们来了就
+CN: 放心吧
+
+# [0179] [ROM: 0x248ECC] [Bank: 0x92:0x0ECC] [CPU: 0x4ECC] [OrigLen: 37]
+JP: うん　そうだね。
+JP: でも　ひさしぶりだな〜。
+JP: げんきそうで　なによりだよ。
+CN: 嗯，说得对
+CN: 好久不见～
+CN: 你很精神好
+
+# [0180] [ROM: 0x248EF1] [Bank: 0x92:0x0EF1] [CPU: 0x4EF1] [OrigLen: 27]
+JP: そうだ　さくらは
+JP: いまだに　カミナリが
+JP: こわいのか？
+CN: 对了，樱
+CN: 还怕打雷吗
+
+# [0181] [ROM: 0x248F0C] [Bank: 0x92:0x0F0C] [CPU: 0x4F0C] [OrigLen: 17]
+JP: えっ……
+JP: う……　うん　まあね。
+CN: 咦……
+CN: 嗯，算是
+
+# [0182] [ROM: 0x248F1D] [Bank: 0x92:0x0F1D] [CPU: 0x4F1D] [OrigLen: 32]
+JP: じゃあ　コレあげるよ。
+JP: とっても　ごりやくのある
+JP: おまもりだ。
+CN: 那给你这个
+CN: 很灵验的
+CN: 护身符
+
+# [0183] [ROM: 0x248F3D] [Bank: 0x92:0x0F3D] [CPU: 0x4F3D] [OrigLen: 22]
+JP: きっと　カミナリからも
+JP: まもってくれるよ。
+CN: 一定能替你
+CN: 挡住雷
+
+# [0184] [ROM: 0x248F53] [Bank: 0x92:0x0F53] [CPU: 0x4F53] [OrigLen: 23]
+JP: あっ　よろしければ
+JP: そちらのかたも　どうぞ。
+CN: 不嫌弃的话
+CN: 他也请拿
+
+# [0185] [ROM: 0x248F6A] [Bank: 0x92:0x0F6A] [CPU: 0x4F6A] [OrigLen: 24]
+JP: <NAME>は
+JP: 『ごりやくのあるおまもり』を
+JP: もらった。
+CN: <NAME>拿到了
+CN: 灵验护身符
+
+# [0186] [ROM: 0x248F82] [Bank: 0x92:0x0F82] [CPU: 0x4F82] [OrigLen: 20]
+JP: <NAME>は
+JP: 『ヒラリン』の
+JP: わざをおぼえた！
+CN: <NAME>学会了
+CN: 闪避技！
+
+# [0187] [ROM: 0x248F96] [Bank: 0x92:0x0F96] [CPU: 0x4F96] [OrigLen: 33]
+JP: 『ヒラリン』は
+JP: 『シルスウスのたち』に
+JP: セットすることができる。
+CN: 『闪避』可
+CN: 装备于
+CN: 希尔斯之剑
+
+# [0188] [ROM: 0x248FB7] [Bank: 0x92:0x0FB7] [CPU: 0x4FB7] [OrigLen: 13]
+JP: ありがとう　タケシくん。
+CN: 谢谢武君
+
+# [0189] [ROM: 0x248FC4] [Bank: 0x92:0x0FC4] [CPU: 0x4FC4] [OrigLen: 31]
+JP: <NAME>は
+JP: さくらの　おさななじみ
+JP: まつもと　タケシを
+JP: たすけた。
+CN: <NAME>救出了
+CN: 樱的发小
+CN: 松本武。
+
+# [0190] [ROM: 0x248FE3] [Bank: 0x92:0x0FE3] [CPU: 0x4FE3] [OrigLen: 9]
+JP: お……おやじ！！
+CN: 老爸！！
+
+# [0191] [ROM: 0x248FEC] [Bank: 0x92:0x0FEC] [CPU: 0x4FEC] [OrigLen: 13]
+JP: ん？
+JP: お……おまえは！！
+CN: 嗯？
+CN: 是你！
+
+# [0192] [ROM: 0x248FF9] [Bank: 0x92:0x0FF9] [CPU: 0x4FF9] [OrigLen: 21]
+JP: どうして……
+JP: い……いきているんだ……？
+CN: 你怎么会
+CN: 活着……？
+
+# [0193] [ROM: 0x24900E] [Bank: 0x92:0x100E] [CPU: 0x500E] [OrigLen: 26]
+JP: おまえは……
+JP: いきわかれの　ひとりむすこ
+JP: …………
+CN: 你是……
+CN: 失散的独子
+CN: ……
+
+# [0194] [ROM: 0x249028] [Bank: 0x92:0x1028] [CPU: 0x5028] [OrigLen: 22]
+JP: いきわかれ……
+JP: ん？　……む<81>よす<81>よこ？
+CN: 失散……
+CN: 咦？儿子？
+
+# [0195] [ROM: 0x24903E] [Bank: 0x92:0x103E] [CPU: 0x503E] [OrigLen: 15]
+JP: カンナさん　おとこだったの？
+CN: 神奈是男生？
+
+# [0196] [ROM: 0x24904D] [Bank: 0x92:0x104D] [CPU: 0x504D] [OrigLen: 13]
+JP: ひとちがい　のようですね
+CN: 认错人了
+
+# [0197] [ROM: 0x24905A] [Bank: 0x92:0x105A] [CPU: 0x505A] [OrigLen: 27]
+JP: むすこって……
+JP: カンナさん　おとこだった
+JP: のですか？
+CN: 儿子？
+CN: 神奈是男？
+
+# [0198] [ROM: 0x249075] [Bank: 0x92:0x1075] [CPU: 0x5075] [OrigLen: 23]
+JP: バ　バカヤロー
+JP: あたいは　おんなだーーーっ！
+CN: 混蛋！
+CN: 我是女人！！
+
+# [0199] [ROM: 0x24908C] [Bank: 0x92:0x108C] [CPU: 0x508C] [OrigLen: 17]
+JP: えっ？　おんな？
+JP: ウソだろーっ？
+CN: 女人？骗人？
+
+# [0200] [ROM: 0x24909D] [Bank: 0x92:0x109D] [CPU: 0x509D] [OrigLen: 27]
+JP: むすこって……
+JP: どうやら　ひとちがいの
+JP: ようですね。
+CN: 儿子……
+CN: 看来是
+CN: 认错人了
+
+# [0201] [ROM: 0x2490B8] [Bank: 0x92:0x10B8] [CPU: 0x50B8] [OrigLen: 14]
+JP: ああ……
+JP: そのようだな……
+CN: 原来如此
+
+# [0202] [ROM: 0x2490C6] [Bank: 0x92:0x10C6] [CPU: 0x50C6] [OrigLen: 24]
+JP: えっ！？
+JP: あんた　おんななの？
+JP: ウソだろーっ？
+CN: 你是女的？
+CN: 骗人吧？
+
+# [0203] [ROM: 0x2490EB] [Bank: 0x92:0x10EB] [CPU: 0x50EB] [OrigLen: 20]
+JP: むすこって……
+JP: あたいは　おんなだぜ。
+CN: 儿子……
+CN: 我是女人
+
+# [0204] [ROM: 0x2490FF] [Bank: 0x92:0x10FF] [CPU: 0x50FF] [OrigLen: 24]
+JP: えっ！？
+JP: あんた　おんななの？
+JP: ウソだろーっ？
+CN: 你是女的？
+CN: 骗人吧？
+
+# [0205] [ROM: 0x249117] [Bank: 0x92:0x1117] [CPU: 0x5117] [OrigLen: 18]
+JP: ウソって　なんだよ！
+JP: ウソって！！
+CN: 骗人？
+CN: 胡说！！
+
+# [0206] [ROM: 0x249129] [Bank: 0x92:0x1129] [CPU: 0x5129] [OrigLen: 28]
+JP: どこから　どうみても
+JP: りっぱなレディじゃ
+JP: ねーかよ！！
+CN: 怎么看都是
+CN: 漂亮淑女
+
+# [0207] [ROM: 0x249145] [Bank: 0x92:0x1145] [CPU: 0x5145] [OrigLen: 45]
+JP: す……　すまん……
+JP: あんたが　きたぐにで
+JP: いきわかれた　むすこに
+JP: そっくりだったから……
+CN: 抱歉……
+CN: 你和老家失散
+CN: 的儿子太像
+
+# [0208] [ROM: 0x249172] [Bank: 0x92:0x1172] [CPU: 0x5172] [OrigLen: 15]
+JP: いきわかれた……
+JP: そうか……
+CN: 失散……
+CN: 这样
+
+# [0209] [ROM: 0x249181] [Bank: 0x92:0x1181] [CPU: 0x5181] [OrigLen: 41]
+JP: あたいも　あんたをみたとき
+JP: しんだ　おやじが
+JP: いきかえったのかと
+JP: おもったぜ……
+CN: 我看到你时
+CN: 也以为死去的
+CN: 老爸复活了
+
+# [0210] [ROM: 0x2491AA] [Bank: 0x92:0x11AA] [CPU: 0x51AA] [OrigLen: 38]
+JP: しんだおやじ…か……
+JP: それは　そうと　あんた
+JP: いいカラダしてるじゃないか。
+CN: 死去的老爸…
+CN: 你这身材
+CN: 真不错
+
+# [0211] [ROM: 0x2491D0] [Bank: 0x92:0x11D0] [CPU: 0x51D0] [OrigLen: 17]
+JP: ああ　カラテを
+JP: やっているんだ。
+CN: 我在练
+CN: 空手道
+
+# [0212] [ROM: 0x2491E1] [Bank: 0x92:0x11E1] [CPU: 0x51E1] [OrigLen: 22]
+JP: そうなのか　オレも
+JP: カラテやってるんだぜ。
+CN: 这样啊，我也
+CN: 练空手道
+
+# [0213] [ROM: 0x2491F7] [Bank: 0x92:0x11F7] [CPU: 0x51F7] [OrigLen: 39]
+JP: たすけてくれた　おれいに
+JP: ふたりに　オレの
+JP: ひっさつわざを
+JP: おしえてやるよ。
+CN: 谢你救命
+CN: 教你们俩
+CN: 我的必杀技
+
+# [0214] [ROM: 0x24921E] [Bank: 0x92:0x121E] [CPU: 0x521E] [OrigLen: 29]
+JP: あんた　ちょっとオレに
+JP: せいけんづきを
+JP: だしてくれるか？
+CN: 你朝我
+CN: 打一记正拳
+CN: 如何？
+
+# [0215] [ROM: 0x24923B] [Bank: 0x92:0x123B] [CPU: 0x523B] [OrigLen: 27]
+JP: ええっ！？
+JP: いいのかよ　おおケガしても
+JP: しらねえぜ！
+CN: 咦！？
+CN: 打伤了可
+CN: 不管哦！
+
+# [0216] [ROM: 0x249256] [Bank: 0x92:0x1256] [CPU: 0x5256] [OrigLen: 30]
+JP: ああ。
+JP: えんりょは　いらない。
+JP: おもいっきり　やってくれ。
+CN: 嗯。
+CN: 不用客气
+CN: 尽管打
+
+# [0217] [ROM: 0x249274] [Bank: 0x92:0x1274] [CPU: 0x5274] [OrigLen: 31]
+JP: ……わかった……
+JP: そんじゃ　いくぜっ！
+JP: どりゃあ〜〜〜〜！！
+CN: 明白！
+CN: 那我上了！
+CN: 喝啊——！
+
+# [0218] [ROM: 0x249293] [Bank: 0x92:0x1293] [CPU: 0x5293] [OrigLen: 6]
+JP: たあっ！！
+CN: 喝
+
+# [0219] [ROM: 0x249299] [Bank: 0x92:0x1299] [CPU: 0x5299] [OrigLen: 37]
+JP: すごい　わざじゃないか。
+JP: あたいの　こぶしが
+JP: はねかえされる　なんて……
+CN: 好厉害的招
+CN: 我的拳头
+CN: 竟被弹开……
+
+# [0220] [ROM: 0x2492BE] [Bank: 0x92:0x12BE] [CPU: 0x52BE] [OrigLen: 23]
+JP: ところで　おじさん
+JP: なんて　なまえなんだい？
+CN: 对了大叔
+CN: 你叫什么？
+
+# [0221] [ROM: 0x2492D5] [Bank: 0x92:0x12D5] [CPU: 0x52D5] [OrigLen: 25]
+JP: オレのなまえは
+JP: くりしま　たくや
+JP: っていうんだ。
+CN: 我叫
+CN: 栗岛拓也。
+
+# [0222] [ROM: 0x2492EE] [Bank: 0x92:0x12EE] [CPU: 0x52EE] [OrigLen: 31]
+JP: なんだよ……
+JP: なまえまで
+JP: オヤジに　にてるじゃ
+JP: ねーかよ……
+CN: 怎么连名字
+CN: 都像我老爸……
+
+# [0223] [ROM: 0x24930D] [Bank: 0x92:0x130D] [CPU: 0x530D] [OrigLen: 8]
+JP: カンナさん……
+CN: 神奈
+
+# [0224] [ROM: 0x249315] [Bank: 0x92:0x1315] [CPU: 0x5315] [OrigLen: 25]
+JP: よし！
+JP: それじゃあ　さきを
+JP: いそごうぜ！　<NAME>！！
+CN: 好！
+CN: 快走吧！
+CN: <NAME>！！
+
+# [0225] [ROM: 0x24932E] [Bank: 0x92:0x132E] [CPU: 0x532E] [OrigLen: 32]
+JP: ひっさつわざを　みた
+JP: <NAME>は
+JP: 『カウンター』のわざを
+JP: おぼえた！
+CN: 看到必杀技
+CN: <NAME>学会了
+CN: 反击技！
+
+# [0226] [ROM: 0x24934E] [Bank: 0x92:0x134E] [CPU: 0x534E] [OrigLen: 23]
+JP: しかし
+JP: つかえるそうびを
+JP: もっていなかった。
+CN: 但没有
+CN: 可装备的
+
+# [0227] [ROM: 0x249365] [Bank: 0x92:0x1365] [CPU: 0x5365] [OrigLen: 40]
+JP: 『カウンター』は
+JP: 『ガントレット』と
+JP: 『デカうで』に
+JP: セットすることができる。
+CN: 『反击』可装于
+CN: 『护手』和
+CN: 『巨臂』
+
+# [0228] [ROM: 0x24938D] [Bank: 0x92:0x138D] [CPU: 0x538D] [OrigLen: 32]
+JP: 『カウンター』は
+JP: 『ガントレット』に
+JP: セットすることができる。
+CN: 『反击』可装于
+CN: 『护手』
+
+# [0229] [ROM: 0x2493AD] [Bank: 0x92:0x13AD] [CPU: 0x53AD] [OrigLen: 30]
+JP: 『カウンター』は
+JP: 『デカうで』に
+JP: セットすることができる。
+CN: 『反击』可装于
+CN: 『巨臂』
+
+# [0230] [ROM: 0x2493CB] [Bank: 0x92:0x13CB] [CPU: 0x53CB] [OrigLen: 35]
+JP: <NAME>は
+JP: カンナのちちおやにソックリな
+JP: くりしま　たくや　を
+JP: たすけた。
+CN: <NAME>救出了
+CN: 酷似神奈之父的
+CN: 栗岛拓也。
+
+# [0231] [ROM: 0x2493EE] [Bank: 0x92:0x13EE] [CPU: 0x53EE] [OrigLen: 12]
+JP: お……　おかあさま！！
+CN: 母亲大人！
+
+# [0232] [ROM: 0x2493FA] [Bank: 0x92:0x13FA] [CPU: 0x53FA] [OrigLen: 8]
+JP: すみれさん！！
+CN: 堇小姐
+
+# [0233] [ROM: 0x249402] [Bank: 0x92:0x1402] [CPU: 0x5402] [OrigLen: 27]
+JP: おかあさまも　このじけんに
+JP: まきこまれ　ましたのね。
+CN: 母亲也被卷入
+CN: 这次事件。
+
+# [0234] [ROM: 0x24941D] [Bank: 0x92:0x141D] [CPU: 0x541D] [OrigLen: 5]
+JP: じけん？
+CN: 事件
+
+# [0235] [ROM: 0x249422] [Bank: 0x92:0x1422] [CPU: 0x5422] [OrigLen: 56]
+JP: はい　ミカサにのこされた
+JP: 『まじんき』の　えいきょうで
+JP: ミカサに　てんそうされた
+JP: ひとが　おおぜいいるのです。
+CN: 是，受三笠上
+CN: 魔神器影响，
+CN: 很多人被传
+CN: 送到三笠。
+
+# [0236] [ROM: 0x24945A] [Bank: 0x92:0x145A] [CPU: 0x545A] [OrigLen: 40]
+JP: すみれさんは　そのじけんを
+JP: かいけつするために
+JP: しゅつどうして
+JP: いるのですね。
+CN: 堇小姐是为
+CN: 解决事件才
+CN: 出动的吧。
+
+# [0237] [ROM: 0x249482] [Bank: 0x92:0x1482] [CPU: 0x5482] [OrigLen: 37]
+JP: そうですわ　おかあさま。
+JP: わたくしが　きたからには
+JP: ごあんしんください。
+CN: 是的母亲大人
+CN: 我既然来了
+CN: 请放心
+
+# [0238] [ROM: 0x2494A7] [Bank: 0x92:0x14A7] [CPU: 0x54A7] [OrigLen: 40]
+JP: すみれさん　じょゆうは
+JP: かおがいのちです。
+JP: かおだけは　だいじに
+JP: しなさいね。
+CN: 堇小姐，演员
+CN: 脸就是生命
+CN: 脸可得爱惜
+
+# [0239] [ROM: 0x2494CF] [Bank: 0x92:0x14CF] [CPU: 0x54CF] [OrigLen: 10]
+JP: はい　おかあさま。
+CN: 是，母亲
+
+# [0240] [ROM: 0x2494D9] [Bank: 0x92:0x14D9] [CPU: 0x54D9] [OrigLen: 8]
+JP: すみれさん……
+CN: 堇小姐
+
+# [0241] [ROM: 0x2494E1] [Bank: 0x92:0x14E1] [CPU: 0x54E1] [OrigLen: 26]
+JP: すみれは　ははのあいで
+JP: きりょくが
+JP: ぜんかいした。
+CN: 堇靠母爱
+CN: 气力
+CN: 完全恢复。
+
+# [0242] [ROM: 0x2494FB] [Bank: 0x92:0x14FB] [CPU: 0x54FB] [OrigLen: 16]
+JP: あの……
+JP: ちょっといいですか？
+CN: 那个……
+CN: 方便？
+
+# [0243] [ROM: 0x24950B] [Bank: 0x92:0x150B] [CPU: 0x550B] [OrigLen: 17]
+JP: あら　<NAME>さん
+JP: どうかしましたか？
+CN: 哎呀<NAME>
+CN: 怎么了？
+
+# [0244] [ROM: 0x24951C] [Bank: 0x92:0x151C] [CPU: 0x551C] [OrigLen: 13]
+JP: おかあさんの　ファンです
+CN: 母亲粉丝
+
+# [0245] [ROM: 0x249529] [Bank: 0x92:0x1529] [CPU: 0x5529] [OrigLen: 12]
+JP: うつくしいかた　ですね
+CN: 真美丽呢
+
+# [0246] [ROM: 0x249535] [Bank: 0x92:0x1535] [CPU: 0x5535] [OrigLen: 39]
+JP: ボク
+JP: すみれさんの　おかあさまの
+JP: さえき　ひな　さんの
+JP: だいファンなんです。
+CN: 我是堇小姐
+CN: 母亲佐伯雏
+CN: 的超级粉丝。
+
+# [0247] [ROM: 0x24955C] [Bank: 0x92:0x155C] [CPU: 0x555C] [OrigLen: 24]
+JP: こんなところで　あえるなんて
+JP: ラッキーだな〜。
+CN: 在这遇到您
+CN: 真幸运～
+
+# [0248] [ROM: 0x249574] [Bank: 0x92:0x1574] [CPU: 0x5574] [OrigLen: 17]
+JP: まぁ　うれしいわね。
+JP: あなたは？
+CN: 真高兴，
+CN: 你是？
+
+# [0249] [ROM: 0x249585] [Bank: 0x92:0x1585] [CPU: 0x5585] [OrigLen: 41]
+JP: はい！　ボクは　<NAME>
+JP: といいます。
+JP: すみれさんには　いつも
+JP: おせわになっています。
+CN: 是！我叫<NAME>
+CN: 平时承蒙
+CN: 堇小姐照顾。
+
+# [0250] [ROM: 0x2495AE] [Bank: 0x92:0x15AE] [CPU: 0x55AE] [OrigLen: 29]
+JP: そう。
+JP: これからも　すみれを
+JP: よろしくおねがいしますね。
+CN: 这样。
+CN: 今后也请
+CN: 多关照堇。
+
+# [0251] [ROM: 0x2495CB] [Bank: 0x92:0x15CB] [CPU: 0x55CB] [OrigLen: 31]
+JP: <NAME>は　
+JP: ははのあいの　おこぼれで
+JP: きりょくが
+JP: ぜんかいした。
+CN: <NAME>沾母爱的光
+CN: 气力
+CN: 完全恢复。
+
+# [0252] [ROM: 0x2495EA] [Bank: 0x92:0x15EA] [CPU: 0x55EA] [OrigLen: 33]
+JP: うつくしいかたですね〜。
+JP: すみれさんの　おかあさま
+JP: なんですね。
+CN: 真美丽呢～
+CN: 原来是堇小姐
+CN: 的母亲。
+
+# [0253] [ROM: 0x24960B] [Bank: 0x92:0x160B] [CPU: 0x560B] [OrigLen: 45]
+JP: はじめまして。　ボクは
+JP: <NAME>　といいます。
+JP: すみれさんには　いつも
+JP: おせわになっています。
+CN: 初次见面。我是
+CN: <NAME>
+CN: 承蒙堇小姐
+CN: 照顾。
+
+# [0254] [ROM: 0x249638] [Bank: 0x92:0x1638] [CPU: 0x5638] [OrigLen: 33]
+JP: いや〜　すみれさんが
+JP: うつくしい　りゆうが
+JP: よくわかりましたよ。
+CN: 难怪堇小姐
+CN: 这么美，
+CN: 我明白了。
+
+# [0255] [ROM: 0x249659] [Bank: 0x92:0x1659] [CPU: 0x5659] [OrigLen: 37]
+JP: うつくしい　おかあさまから
+JP: うつくしい　すみれさんが
+JP: うまれたんですね。
+CN: 美丽母亲
+CN: 生出美丽的
+CN: 堇小姐。
+
+# [0256] [ROM: 0x24967E] [Bank: 0x92:0x167E] [CPU: 0x567E] [OrigLen: 34]
+JP: まあ　<NAME>さんったら。
+JP: まさに　そのとおりですわ。
+JP: おーほほほほほ。
+CN: 哎呀<NAME>先生
+CN: 正是如此。
+CN: 哦呵呵。
+
+# [0257] [ROM: 0x2496AD] [Bank: 0x92:0x16AD] [CPU: 0x56AD] [OrigLen: 15]
+JP: <NAME>さん？
+JP: どうしたんですの？
+CN: <NAME>？
+CN: 怎么了？
+
+# [0258] [ROM: 0x2496BC] [Bank: 0x92:0x16BC] [CPU: 0x56BC] [OrigLen: 39]
+JP: あ　いや〜　すみません。
+JP: おふたりの　うつくしさに
+JP: みとれてしまい　ました。
+CN: 啊不好意思
+CN: 被二位的美
+CN: 看呆了。
+
+# [0259] [ROM: 0x2496E3] [Bank: 0x92:0x16E3] [CPU: 0x56E3] [OrigLen: 13]
+JP: あら　おじょうずだこと。
+CN: 哎呀真会说。
+
+# [0260] [ROM: 0x2496F0] [Bank: 0x92:0x16F0] [CPU: 0x56F0] [OrigLen: 18]
+JP: では　<NAME>さん。
+JP: まいりましょうか。
+CN: 那么<NAME>
+CN: 走吧。
+
+# [0261] [ROM: 0x249702] [Bank: 0x92:0x1702] [CPU: 0x5702] [OrigLen: 30]
+JP: <NAME>は
+JP: すみれの　ははおや
+JP: かんざき　ひなこ　を
+JP: たすけた。
+CN: <NAME>救出了
+CN: 堇之母
+CN: 神崎雏子。
+
+# [0262] [ROM: 0x249720] [Bank: 0x92:0x1720] [CPU: 0x5720] [OrigLen: 12]
+JP: お……　おかあさま！！
+CN: 母亲大人！
+
+# [0263] [ROM: 0x24972C] [Bank: 0x92:0x172C] [CPU: 0x572C] [OrigLen: 8]
+JP: すみれさん！！
+CN: 堇小姐
+
+# [0264] [ROM: 0x249734] [Bank: 0x92:0x1734] [CPU: 0x5734] [OrigLen: 27]
+JP: おかあさまも　このじけんに
+JP: まきこまれ　ましたのね。
+CN: 母亲也被卷入
+CN: 这次事件。
+
+# [0265] [ROM: 0x24974F] [Bank: 0x92:0x174F] [CPU: 0x574F] [OrigLen: 5]
+JP: じけん？
+CN: 事件
+
+# [0266] [ROM: 0x249754] [Bank: 0x92:0x1754] [CPU: 0x5754] [OrigLen: 56]
+JP: はい　ミカサにのこされた
+JP: 『まじんき』の　えいきょうで
+JP: ミカサに　てんそうされた
+JP: ひとが　おおぜいいるのです。
+CN: 是，受三笠上
+CN: 魔神器影响，
+CN: 很多人被传
+CN: 送到三笠。
+
+# [0267] [ROM: 0x24978C] [Bank: 0x92:0x178C] [CPU: 0x578C] [OrigLen: 40]
+JP: すみれさんは　そのじけんを
+JP: かいけつするために
+JP: しゅつどうして
+JP: いるのですね。
+CN: 堇小姐是为
+CN: 解决事件才
+CN: 出动的吧。
+
+# [0268] [ROM: 0x2497B4] [Bank: 0x92:0x17B4] [CPU: 0x57B4] [OrigLen: 37]
+JP: そうですわ　おかあさま。
+JP: わたくしが　きたからには
+JP: ごあんしんください。
+CN: 是的母亲大人
+CN: 我既然来了
+CN: 请放心
+
+# [0269] [ROM: 0x2497D9] [Bank: 0x92:0x17D9] [CPU: 0x57D9] [OrigLen: 44]
+JP: はりきるのは　いいけど
+JP: むりはきんもつですよ。
+JP: あなたは　おんなのこ
+JP: なのですからね。
+CN: 干劲足是好事
+CN: 但别勉强
+CN: 你可是女孩子。
+
+# [0270] [ROM: 0x249805] [Bank: 0x92:0x1805] [CPU: 0x5805] [OrigLen: 10]
+JP: はい　おかあさま。
+CN: 是，母亲
+
+# [0271] [ROM: 0x24980F] [Bank: 0x92:0x180F] [CPU: 0x580F] [OrigLen: 8]
+JP: すみれさん……
+CN: 堇小姐
+
+# [0272] [ROM: 0x249817] [Bank: 0x92:0x1817] [CPU: 0x5817] [OrigLen: 26]
+JP: すみれは　ははのあいで
+JP: きりょくが
+JP: ぜんかいした。
+CN: 堇靠母爱
+CN: 气力
+CN: 完全恢复。
+
+# [0273] [ROM: 0x249831] [Bank: 0x92:0x1831] [CPU: 0x5831] [OrigLen: 19]
+JP: すみません……
+JP: ちょっといいですか？
+CN: 抱歉……
+CN: 方便吗？
+
+# [0274] [ROM: 0x249844] [Bank: 0x92:0x1844] [CPU: 0x5844] [OrigLen: 17]
+JP: あら　<NAME>さん
+JP: どうかしましたか？
+CN: 哎呀<NAME>
+CN: 怎么了？
+
+# [0275] [ROM: 0x249855] [Bank: 0x92:0x1855] [CPU: 0x5855] [OrigLen: 13]
+JP: おかあさまの　ファンです
+CN: 母亲粉丝
+
+# [0276] [ROM: 0x249862] [Bank: 0x92:0x1862] [CPU: 0x5862] [OrigLen: 12]
+JP: うつくしいかた　ですね
+CN: 真美丽呢
+
+# [0277] [ROM: 0x24986E] [Bank: 0x92:0x186E] [CPU: 0x586E] [OrigLen: 40]
+JP: わたし
+JP: すみれさんの　おかあさまの
+JP: さえき　ひな　さんの
+JP: だいファンなんです。
+CN: 我是堇小姐
+CN: 母亲佐伯雏
+CN: 的超级粉丝。
+
+# [0278] [ROM: 0x249896] [Bank: 0x92:0x1896] [CPU: 0x5896] [OrigLen: 30]
+JP: こんなところで　あえるなんて
+JP: なんて　しあわせなのかしら。
+CN: 在这遇到您
+CN: 真幸福呀。
+
+# [0279] [ROM: 0x2498B4] [Bank: 0x92:0x18B4] [CPU: 0x58B4] [OrigLen: 17]
+JP: まぁ　うれしいわね。
+JP: あなたは？
+CN: 真高兴，
+CN: 你是？
+
+# [0280] [ROM: 0x2498C5] [Bank: 0x92:0x18C5] [CPU: 0x58C5] [OrigLen: 43]
+JP: はい！　わたしは　<NAME>
+JP: ともうします。
+JP: すみれさんには　いつも
+JP: おせわになっています。
+CN: 是！我叫<NAME>
+CN: 平时承蒙
+CN: 堇小姐照顾。
+
+# [0281] [ROM: 0x2498F0] [Bank: 0x92:0x18F0] [CPU: 0x58F0] [OrigLen: 29]
+JP: そう。
+JP: これからも　すみれを
+JP: よろしくおねがいしますね。
+CN: 这样。
+CN: 今后也请
+CN: 多关照堇。
+
+# [0282] [ROM: 0x24990D] [Bank: 0x92:0x190D] [CPU: 0x590D] [OrigLen: 31]
+JP: <NAME>は　
+JP: ははのあいの　おこぼれで
+JP: きりょくが
+JP: ぜんかいした。
+CN: <NAME>沾母爱的光
+CN: 气力
+CN: 完全恢复。
+
+# [0283] [ROM: 0x24992C] [Bank: 0x92:0x192C] [CPU: 0x592C] [OrigLen: 34]
+JP: とても　うつくしいかた……
+JP: すみれさんの　おかあさま
+JP: なんですね。
+CN: 真美丽……
+CN: 原来是堇小姐
+CN: 的母亲。
+
+# [0284] [ROM: 0x24994E] [Bank: 0x92:0x194E] [CPU: 0x594E] [OrigLen: 47]
+JP: はじめまして。　わたしは
+JP: <NAME>　ともうします。
+JP: すみれさんには　いつも
+JP: おせわになっています。
+CN: 初次见面。我是
+CN: <NAME>
+CN: 承蒙堇小姐
+CN: 照顾。
+
+# [0285] [ROM: 0x24997D] [Bank: 0x92:0x197D] [CPU: 0x597D] [OrigLen: 39]
+JP: それにしても　おふたり
+JP: まるで　しまいのような
+JP: かんじで　とてもステキです。
+CN: 再说二位
+CN: 简直像姐妹，
+CN: 非常美。
+
+# [0286] [ROM: 0x2499A4] [Bank: 0x92:0x19A4] [CPU: 0x59A4] [OrigLen: 21]
+JP: まあ　おじょうずですわ。
+JP: おじょうさん。
+CN: 哎呀真会说
+CN: 小少爷
+
+# [0287] [ROM: 0x2499B9] [Bank: 0x92:0x19B9] [CPU: 0x59B9] [OrigLen: 21]
+JP: すみれのこと
+JP: よろしくおねがいしますね。
+CN: 堇的事
+CN: 就拜托你了。
+
+# [0288] [ROM: 0x2499CE] [Bank: 0x92:0x19CE] [CPU: 0x59CE] [OrigLen: 31]
+JP: <NAME>は　
+JP: ははのあいの　おこぼれで
+JP: きりょくが
+JP: ぜんかいした。
+CN: <NAME>沾母爱的光
+CN: 气力
+CN: 完全恢复。
+
+# [0289] [ROM: 0x2499FA] [Bank: 0x92:0x19FA] [CPU: 0x59FA] [OrigLen: 15]
+JP: <NAME>さん？
+JP: どうしたんですの？
+CN: <NAME>？
+CN: 怎么了？
+
+# [0290] [ROM: 0x249A09] [Bank: 0x92:0x1A09] [CPU: 0x5A09] [OrigLen: 36]
+JP: あっ　すみません。
+JP: おふたりの　うつくしさに
+JP: みとれてしまい　ました。
+CN: 啊不好意思
+CN: 被二位的美
+CN: 看呆了。
+
+# [0291] [ROM: 0x249A2D] [Bank: 0x92:0x1A2D] [CPU: 0x5A2D] [OrigLen: 23]
+JP: あら　おじょうずだこと。
+JP: おーほほほほほほ。
+CN: 哎呀真会说
+CN: 哦呵呵
+
+# [0292] [ROM: 0x249A44] [Bank: 0x92:0x1A44] [CPU: 0x5A44] [OrigLen: 18]
+JP: では　<NAME>さん。
+JP: まいりましょうか。
+CN: 那么<NAME>
+CN: 走吧。
+
+# [0293] [ROM: 0x249A56] [Bank: 0x92:0x1A56] [CPU: 0x5A56] [OrigLen: 30]
+JP: <NAME>は
+JP: すみれの　ははおや
+JP: かんざき　ひなこ　を
+JP: たすけた。
+CN: <NAME>救出了
+CN: 堇之母
+CN: 神崎雏子。
+
+# [0294] [ROM: 0x249A74] [Bank: 0x92:0x1A74] [CPU: 0x5A74] [OrigLen: 12]
+JP: あ……　あなたはっ！！
+CN: 是你！！
+
+# [0295] [ROM: 0x249A80] [Bank: 0x92:0x1A80] [CPU: 0x5A80] [OrigLen: 19]
+JP: お　おりひめ……
+JP: おりひめなのかい？
+CN: 织姬……
+CN: 是你？
+
+# [0296] [ROM: 0x249A93] [Bank: 0x92:0x1A93] [CPU: 0x5A93] [OrigLen: 15]
+JP: おりひめ　げんきだったかい？
+CN: 织姬还好吗？
+
+# [0297] [ROM: 0x249AA2] [Bank: 0x92:0x1AA2] [CPU: 0x5AA2] [OrigLen: 16]
+JP: あなた　なんか
+JP: しりませーん！
+CN: 我不认识你！
+
+# [0298] [ROM: 0x249AB2] [Bank: 0x92:0x1AB2] [CPU: 0x5AB2] [OrigLen: 19]
+JP: さあ　<NAME>さん
+JP: さきを　いそぐでーす。
+CN: 走吧<NAME>先生
+CN: 赶路咯～
+
+# [0299] [ROM: 0x249AC5] [Bank: 0x92:0x1AC5] [CPU: 0x5AC5] [OrigLen: 14]
+JP: ま　まってくれ
+JP: おりひめ！
+CN: 等等
+CN: 织姬！
+
+# [0300] [ROM: 0x249AD3] [Bank: 0x92:0x1AD3] [CPU: 0x5AD3] [OrigLen: 43]
+JP: あなたは　ママとわたしを
+JP: すてて　１<82>ぜねんかんも
+JP: あそびほうけていた
+JP: ひとでーす！
+CN: 你抛弃妈妈和我
+CN: 玩了１７年，
+CN: 的人！
+
+# [0301] [ROM: 0x249B0B] [Bank: 0x92:0x1B0B] [CPU: 0x5B0B] [OrigLen: 37]
+JP: しかたないか……
+JP: あ　キミ。
+JP: これを　おりひめに
+JP: わたして　くれないか？
+CN: 没办法……
+CN: 喂你，把这个
+CN: 交给织姬？
+
+# [0302] [ROM: 0x249B30] [Bank: 0x92:0x1B30] [CPU: 0x5B30] [OrigLen: 13]
+JP: これは……
+JP: バラですね？
+CN: 玫瑰？
+
+# [0303] [ROM: 0x249B3D] [Bank: 0x92:0x1B3D] [CPU: 0x5B3D] [OrigLen: 29]
+JP: おりひめは　わたしの
+JP: たいせつな　ひとりむすめ
+JP: なんだ。
+CN: 织姬是我
+CN: 唯一的独生女。
+
+# [0304] [ROM: 0x249B5A] [Bank: 0x92:0x1B5A] [CPU: 0x5B5A] [OrigLen: 19]
+JP: おりひめのこと
+JP: よろしくたのんだよ。
+CN: 织姬拜托了
+
+# [0305] [ROM: 0x249B6D] [Bank: 0x92:0x1B6D] [CPU: 0x5B6D] [OrigLen: 30]
+JP: <NAME>は
+JP: おりひめの　ちちおや
+JP: おがた　せいや　を
+JP: たすけた。
+CN: <NAME>救出了
+CN: 织姬之父
+CN: 绪方诚也。
+
+# [0306] [ROM: 0x249B8B] [Bank: 0x92:0x1B8B] [CPU: 0x5B8B] [OrigLen: 9]
+JP: おりひめさん……
+CN: 织姬
+
+# [0307] [ROM: 0x249B94] [Bank: 0x92:0x1B94] [CPU: 0x5B94] [OrigLen: 12]
+JP: さきを　いそぎましょう
+CN: 我们赶路吧
+
+# [0308] [ROM: 0x249BA0] [Bank: 0x92:0x1BA0] [CPU: 0x5BA0] [OrigLen: 11]
+JP: おとうさんを　ほめる
+CN: 称赞父亲
+
+# [0309] [ROM: 0x249BAB] [Bank: 0x92:0x1BAB] [CPU: 0x5BAB] [OrigLen: 7]
+JP: バラをわたす
+CN: 玫瑰
+
+# [0310] [ROM: 0x249BB2] [Bank: 0x92:0x1BB2] [CPU: 0x5BB2] [OrigLen: 25]
+JP: じゃあ　さきを
+JP: いそぎましょうか
+JP: おりひめさん。
+CN: 那我们快走吧
+CN: 织姬小姐。
+
+# [0311] [ROM: 0x249BCB] [Bank: 0x92:0x1BCB] [CPU: 0x5BCB] [OrigLen: 21]
+JP: そーですね。
+JP: いきましょう！
+JP: <NAME>さん！！
+CN: 走吧！
+CN: <NAME>！！
+
+# [0312] [ROM: 0x249BE0] [Bank: 0x92:0x1BE0] [CPU: 0x5BE0] [OrigLen: 18]
+JP: いい　おとうさんじゃ
+JP: ないですか。
+CN: 不是个好父亲
+CN: 吗。
+
+# [0313] [ROM: 0x249BF2] [Bank: 0x92:0x1BF2] [CPU: 0x5BF2] [OrigLen: 28]
+JP: ウルサイでーす！
+JP: <NAME>さんには
+JP: かんけい　ありませーん。
+CN: 吵死了！
+CN: 不关<NAME>先生
+CN: 的事！
+
+# [0314] [ROM: 0x249C0E] [Bank: 0x92:0x1C0E] [CPU: 0x5C0E] [OrigLen: 14]
+JP: さあ　さきをいそぐでーす！
+CN: 快赶路咯！
+
+# [0315] [ROM: 0x249C1C] [Bank: 0x92:0x1C1C] [CPU: 0x5C1C] [OrigLen: 29]
+JP: おりひめさん
+JP: おとうさんから　これを
+JP: わたしてくれと……
+CN: 父亲让我
+CN: 把这个给你
+
+# [0316] [ROM: 0x249C39] [Bank: 0x92:0x1C39] [CPU: 0x5C39] [OrigLen: 5]
+JP: バラ……
+CN: 玫瑰
+
+# [0317] [ROM: 0x249C3E] [Bank: 0x92:0x1C3E] [CPU: 0x5C3E] [OrigLen: 23]
+JP: いーえ　こんなものでは
+JP: ごまかされませーん。
+CN: 骗不了我！
+
+# [0318] [ROM: 0x249C55] [Bank: 0x92:0x1C55] [CPU: 0x5C55] [OrigLen: 20]
+JP: さあ　<NAME>さん。
+JP: さきを　いそぐでーす！
+CN: 走吧<NAME>先生
+CN: 赶路咯！
+
+# [0319] [ROM: 0x249C76] [Bank: 0x92:0x1C76] [CPU: 0x5C76] [OrigLen: 15]
+JP: <NAME>さん？
+JP: どうかしましたか？
+CN: <NAME>？
+CN: 怎么了？
+
+# [0320] [ROM: 0x249C85] [Bank: 0x92:0x1C85] [CPU: 0x5C85] [OrigLen: 25]
+JP: さあ　ボヤッとしてないで
+JP: さきを　いそぐでーす！
+CN: 别发呆了
+CN: 快赶路咯！
+
+# [0321] [ROM: 0x249C9E] [Bank: 0x92:0x1C9E] [CPU: 0x5C9E] [OrigLen: 21]
+JP: レ…レニさん……
+JP: また　イヌがいますよ？
+CN: 蕾妮小姐
+CN: 又有狗？
+
+# [0322] [ROM: 0x249CB3] [Bank: 0x92:0x1CB3] [CPU: 0x5CB3] [OrigLen: 29]
+JP: ボクが　たしかめてみよう。
+JP: フント？
+JP: フント　なのかい？
+CN: 我去看看。
+CN: 芬特？
+CN: 是芬特吗？
+
+# [0323] [ROM: 0x249CDF] [Bank: 0x92:0x1CDF] [CPU: 0x5CDF] [OrigLen: 9]
+JP: クーン。クーン。
+CN: 呜。呜。
+
+# [0324] [ROM: 0x249CE8] [Bank: 0x92:0x1CE8] [CPU: 0x5CE8] [OrigLen: 18]
+JP: フント！
+JP: まちがいない　フントだ。
+CN: 芬特！
+CN: 是芬特！
+
+# [0325] [ROM: 0x249CFA] [Bank: 0x92:0x1CFA] [CPU: 0x5CFA] [OrigLen: 25]
+JP: イ……イヌがいます。
+JP: イヌがいますよ　レニさん。
+CN: 有条狗。
+CN: 蕾妮。
+
+# [0326] [ROM: 0x249D13] [Bank: 0x92:0x1D13] [CPU: 0x5D13] [OrigLen: 33]
+JP: ひとがいるんだ。
+JP: イヌがいても　なんのふしぎは
+JP: ………………！！
+CN: 有人在，
+CN: 有条狗
+CN: 奇怪？
+
+# [0327] [ROM: 0x249D34] [Bank: 0x92:0x1D34] [CPU: 0x5D34] [OrigLen: 16]
+JP: フント！
+JP: フント　じゃないか！
+CN: 芬特！
+CN: 是芬特！
+
+# [0328] [ROM: 0x249D44] [Bank: 0x92:0x1D44] [CPU: 0x5D44] [OrigLen: 9]
+JP: クーン。クーン。
+CN: 呜。呜。
+
+# [0329] [ROM: 0x249D4D] [Bank: 0x92:0x1D4D] [CPU: 0x5D4D] [OrigLen: 24]
+JP: レニさん。
+JP: そのイヌなにか　くわえて
+JP: ますよ。
+CN: 蕾妮小姐，
+CN: 它叼着
+CN: 东西
+
+# [0330] [ROM: 0x249D65] [Bank: 0x92:0x1D65] [CPU: 0x5D65] [OrigLen: 14]
+JP: イヌじゃない。
+JP: フントだ。
+CN: 是芬特
+
+# [0331] [ROM: 0x249D73] [Bank: 0x92:0x1D73] [CPU: 0x5D73] [OrigLen: 9]
+JP: クーン。クーン。
+CN: 呜。呜。
+
+# [0332] [ROM: 0x249D7C] [Bank: 0x92:0x1D7C] [CPU: 0x5D7C] [OrigLen: 26]
+JP: これは……
+JP: アイゼンクライトの
+JP: 『せっけいず』だ！
+CN: 这是……
+CN: 艾森的
+CN: 设计图！
+
+# [0333] [ROM: 0x249D96] [Bank: 0x92:0x1D96] [CPU: 0x5D96] [OrigLen: 14]
+JP: フント　すごいじゃないか。
+CN: 芬特真厉害
+
+# [0334] [ROM: 0x249DA4] [Bank: 0x92:0x1DA4] [CPU: 0x5DA4] [OrigLen: 52]
+JP: あ　あの　レニさん。
+JP: その　イヌ……　フントが
+JP: その『せっけいず』を　かいた
+JP: わけじゃ　ないですよね。
+CN: 那个蕾妮小姐
+CN: 芬特它
+CN: 总不会画了
+CN: 这张设计图吧
+
+# [0335] [ROM: 0x249DD8] [Bank: 0x92:0x1DD8] [CPU: 0x5DD8] [OrigLen: 22]
+JP: あたりまえだ。
+JP: なにを　いってるんだ
+JP: <NAME>。
+CN: 当然了。
+CN: 说什么呢
+CN: <NAME>。
+
+# [0336] [ROM: 0x249DEE] [Bank: 0x92:0x1DEE] [CPU: 0x5DEE] [OrigLen: 31]
+JP: どこかに
+JP: この『せっけいず』を
+JP: かいたひとが　いるんだろう。
+CN: 某处一定有
+CN: 画设计图的人
+
+# [0337] [ROM: 0x249E0D] [Bank: 0x92:0x1E0D] [CPU: 0x5E0D] [OrigLen: 26]
+JP: <NAME>は　キーアイテム
+JP: 『せっけいず』を
+JP: てにいれた。
+CN: <NAME>拿到了
+CN: 设计图
+
+# [0338] [ROM: 0x249E27] [Bank: 0x92:0x1E27] [CPU: 0x5E27] [OrigLen: 23]
+JP: <NAME>は
+JP: ていげきのイヌ
+JP: フント　を
+JP: たすけた。
+CN: <NAME>救出了
+CN: 芬特。
+
+# [0339] [ROM: 0x249E3E] [Bank: 0x92:0x1E3E] [CPU: 0x5E3E] [OrigLen: 26]
+JP: <NAME>は　キーアイテム
+JP: 『せっけいず』を
+JP: てにいれた。
+CN: <NAME>拿到了
+CN: 设计图
+
+# [0340] [ROM: 0x249E58] [Bank: 0x92:0x1E58] [CPU: 0x5E58] [OrigLen: 41]
+JP: ところで……………
+JP: この『せっけいず』を
+JP: さがしていた　ひとが
+JP: いなかったかい？
+CN: 话说……
+CN: 有没有人
+CN: 找过这张
+CN: 设计图？
+
+# [0341] [ROM: 0x249E81] [Bank: 0x92:0x1E81] [CPU: 0x5E81] [OrigLen: 43]
+JP: あっ！
+JP: そういえば　かねこぎしが
+JP: こうらんさんに　わたして
+JP: くれって　いってました。
+CN: 啊！
+CN: 说起来兼子
+CN: 让我把这个
+CN: 交给红兰
+
+# [0342] [ROM: 0x249EAC] [Bank: 0x92:0x1EAC] [CPU: 0x5EAC] [OrigLen: 34]
+JP: じゃあ　ていげきにもどったら
+JP: こうらんに　それを
+JP: わたすといい……
+CN: 回帝都后
+CN: 把它交给
+CN: 红兰就好
+
+# [0343] [ROM: 0x249ECE] [Bank: 0x92:0x1ECE] [CPU: 0x5ECE] [OrigLen: 23]
+JP: <NAME>は
+JP: ていげきのイヌ
+JP: フント　を
+JP: たすけた。
+CN: <NAME>救出了
+CN: 芬特。
+
+# [0344] [ROM: 0x249EE5] [Bank: 0x92:0x1EE5] [CPU: 0x5EE5] [OrigLen: 11]
+JP: お……おじいさま！！
+CN: 老爷爷！！
+
+# [0345] [ROM: 0x249EF0] [Bank: 0x92:0x1EF0] [CPU: 0x5EF0] [OrigLen: 16]
+JP: おお　すみれ……
+JP: すみれか？！
+CN: 哦，堇？
+
+# [0346] [ROM: 0x249F00] [Bank: 0x92:0x1F00] [CPU: 0x5F00] [OrigLen: 24]
+JP: おからだは
+JP: だいじょうぶですか？
+JP: おじいさま。
+CN: 您身体
+CN: 没事吧
+CN: 老爷爷
+
+# [0347] [ROM: 0x249F18] [Bank: 0x92:0x1F18] [CPU: 0x5F18] [OrigLen: 34]
+JP: ああ　だいじょうぶじゃ。
+JP: ところで　すみれ
+JP: ここは　どこなんじゃ。
+CN: 嗯，没事。
+CN: 话说堇，这
+CN: 是哪儿？
+
+# [0348] [ROM: 0x249F3A] [Bank: 0x92:0x1F3A] [CPU: 0x5F3A] [OrigLen: 30]
+JP: ここは　
+JP: ミカサきねんこうえんのちか
+JP: 『やまと』ですのよ。
+CN: 这里是
+CN: 公园地下
+CN: 『大和』
+
+# [0349] [ROM: 0x249F58] [Bank: 0x92:0x1F58] [CPU: 0x5F58] [OrigLen: 30]
+JP: 『やまと』……
+JP: なぜ　わしは　こんなところに
+JP: いるんじゃ？
+CN: 『大和』……
+CN: 我为何在这
+
+# [0350] [ROM: 0x249F76] [Bank: 0x92:0x1F76] [CPU: 0x5F76] [OrigLen: 38]
+JP: ミカサに　のこしていた
+JP: 『まじんき』の　えいきょう
+JP: だと　おもわれますの。
+CN: 应是三笠上
+CN: 遗留魔神器
+CN: 影响吧
+
+# [0351] [ROM: 0x249F9C] [Bank: 0x92:0x1F9C] [CPU: 0x5F9C] [OrigLen: 28]
+JP: なるほど……
+JP: すみれは　それを
+JP: しらべて　おるのだな。
+CN: 原来如此
+CN: 堇在查这个
+
+# [0352] [ROM: 0x249FB8] [Bank: 0x92:0x1FB8] [CPU: 0x5FB8] [OrigLen: 10]
+JP: はい。そうですわ。
+CN: 是的。
+
+# [0353] [ROM: 0x249FC2] [Bank: 0x92:0x1FC2] [CPU: 0x5FC2] [OrigLen: 28]
+JP: そうか……
+JP: ところで　わしは　ここから
+JP: でられるのか？
+CN: 这样……
+CN: 话说我能
+CN: 出去吗
+
+# [0354] [ROM: 0x249FDE] [Bank: 0x92:0x1FDE] [CPU: 0x5FDE] [OrigLen: 33]
+JP: もちろんですわ。
+JP: わたくしが　きたからには
+JP: ごあんしんください。
+CN: 当然可以
+CN: 我既然来了
+CN: 请放心
+
+# [0355] [ROM: 0x249FFF] [Bank: 0x92:0x1FFF] [CPU: 0x5FFF] [OrigLen: 11]
+JP: うむ……
+JP: すまない。
+CN: 嗯，谢了
+
+# [0356] [ROM: 0x24A00A] [Bank: 0x92:0x200A] [CPU: 0x600A] [OrigLen: 51]
+JP: そうじゃ　すみれのために
+JP: とっておきの　ぶき
+JP: 『アヒルちゃんのヤリ』を
+JP: ていげきに　とどけさせよう。
+CN: 为堇送上珍藏
+CN: 『小鸭长枪』，
+CN: 送到帝都
+
+# [0357] [ROM: 0x24A03D] [Bank: 0x92:0x203D] [CPU: 0x603D] [OrigLen: 53]
+JP: あ　アヒルちゃんですの？！
+JP: その……おじいさま
+JP: おきもちは　うれしいのですが
+JP: えんりょ　いたしますわ……
+CN: 小鸭枪？！
+CN: 爷爷的心意
+CN: 我很感激，
+CN: 还是推辞了
+
+# [0358] [ROM: 0x24A072] [Bank: 0x92:0x2072] [CPU: 0x6072] [OrigLen: 39]
+JP: そうか……
+JP: 『アヒルちゃんのたて』とか
+JP: ほかにも　いろいろ
+JP: あるのじゃが……
+CN: 这样……
+CN: 还有『小鸭盾』
+CN: 等好多呢
+
+# [0359] [ROM: 0x24A099] [Bank: 0x92:0x2099] [CPU: 0x6099] [OrigLen: 28]
+JP: そのきもちだけで
+JP: とても　うれしいですわ
+JP: おじいさま。
+CN: 心意我领了
+CN: 很高兴，爷爷
+
+# [0360] [ROM: 0x24A0B5] [Bank: 0x92:0x20B5] [CPU: 0x60B5] [OrigLen: 47]
+JP: そういうなら　しかたないな。
+JP: そちらの　わかいかた。
+JP: すみれを　よろしくおねがい
+JP: しますぞ。
+CN: 既然如此
+CN: 没办法。
+CN: 这位年轻人，
+CN: 堇拜托了
+
+# [0361] [ROM: 0x24A0E4] [Bank: 0x92:0x20E4] [CPU: 0x60E4] [OrigLen: 3]
+JP: はい
+CN: 是
+
+# [0362] [ROM: 0x24A0E7] [Bank: 0x92:0x20E7] [CPU: 0x60E7] [OrigLen: 4]
+JP: はい！
+CN: 是
+
+# [0363] [ROM: 0x24A0EB] [Bank: 0x92:0x20EB] [CPU: 0x60EB] [OrigLen: 13]
+JP: うん。よい　へんじじゃ。
+CN: 嗯，答得好
+
+# [0364] [ROM: 0x24A105] [Bank: 0x92:0x2105] [CPU: 0x6105] [OrigLen: 34]
+JP: どうした？
+JP: きんちょうしているのか？
+JP: ふぉふぉふぉ。
+JP: わかいの〜。
+CN: 怎么了？
+CN: 紧张吗？
+CN: 呵呵呵
+CN: 年轻人
+
+# [0365] [ROM: 0x24A127] [Bank: 0x92:0x2127] [CPU: 0x6127] [OrigLen: 23]
+JP: それでは　これは　わしからの
+JP: せんべつじゃ！
+CN: 这是饯别礼
+
+# [0366] [ROM: 0x24A13E] [Bank: 0x92:0x213E] [CPU: 0x613E] [OrigLen: 46]
+JP: すみれと　<NAME>は
+JP: すみれの　おじいさんの
+JP: まかふしぎな　ちからで
+JP: きりょくが　ぜんかいした。
+CN: 堇和<NAME>靠
+CN: 爷爷的
+CN: 神秘力量，
+CN: 气力全恢复
+
+# [0367] [ROM: 0x24A16C] [Bank: 0x92:0x216C] [CPU: 0x616C] [OrigLen: 21]
+JP: おじいさま……
+JP: ありがとう　ございます。
+CN: 老爷爷……
+CN: 谢谢。
+
+# [0368] [ROM: 0x24A181] [Bank: 0x92:0x2181] [CPU: 0x6181] [OrigLen: 17]
+JP: では　<NAME>さん。
+JP: まいりますわよ。
+CN: 那么<NAME>
+CN: 出发咯。
+
+# [0369] [ROM: 0x24A192] [Bank: 0x92:0x2192] [CPU: 0x6192] [OrigLen: 32]
+JP: <NAME>は
+JP: すみれの　おじいさん
+JP: かんざき　ただよし　を
+JP: たすけた。
+CN: <NAME>救出了
+CN: 堇的爷爷
+CN: 神崎正直。
+
+# [0370] [ROM: 0x24A1B2] [Bank: 0x92:0x21B2] [CPU: 0x61B2] [OrigLen: 8]
+JP: おとうさま！！
+CN: 父亲
+
+# [0371] [ROM: 0x24A1BA] [Bank: 0x92:0x21BA] [CPU: 0x61BA] [OrigLen: 7]
+JP: す　すみれ！
+CN: 堇！
+
+# [0372] [ROM: 0x24A1C1] [Bank: 0x92:0x21C1] [CPU: 0x61C1] [OrigLen: 17]
+JP: いったい　ここは
+JP: どこなんだい。
+CN: 这里是哪？
+
+# [0373] [ROM: 0x24A1D2] [Bank: 0x92:0x21D2] [CPU: 0x61D2] [OrigLen: 35]
+JP: ミカサきねんこうえんの
+JP: ちか　ふかくにある
+JP: 『せいまじょう』ですわ。
+CN: 三笠公园
+CN: 地下深处
+CN: 『圣魔城』
+
+# [0374] [ROM: 0x24A1F5] [Bank: 0x92:0x21F5] [CPU: 0x61F5] [OrigLen: 17]
+JP: そうか……
+JP: でも　いったいなぜ？
+CN: 这样……
+CN: 为何
+
+# [0375] [ROM: 0x24A206] [Bank: 0x92:0x2206] [CPU: 0x6206] [OrigLen: 17]
+JP: げんいんは
+JP: 『まじんき』ですわ。
+CN: 是魔神器
+
+# [0376] [ROM: 0x24A217] [Bank: 0x92:0x2217] [CPU: 0x6217] [OrigLen: 8]
+JP: そうなのか……
+CN: 这样啊
+
+# [0377] [ROM: 0x24A21F] [Bank: 0x92:0x221F] [CPU: 0x621F] [OrigLen: 14]
+JP: ところで
+JP: そちらのかたは？
+CN: 话说
+CN: 那位是？
+
+# [0378] [ROM: 0x24A22D] [Bank: 0x92:0x222D] [CPU: 0x622D] [OrigLen: 33]
+JP: こんかい　『まじんき』
+JP: そうさくの　めいをうけた
+JP: <NAME>さんですわ。
+CN: 奉命夺取
+CN: 魔神器的
+CN: <NAME>先生
+
+# [0379] [ROM: 0x24A24E] [Bank: 0x92:0x224E] [CPU: 0x624E] [OrigLen: 13]
+JP: はじめまして　<NAME>
+JP: です。
+CN: 初次见面
+CN: <NAME>。
+
+# [0380] [ROM: 0x24A25B] [Bank: 0x92:0x225B] [CPU: 0x625B] [OrigLen: 20]
+JP: キミの　のっているメカ
+JP: おもしろいね。
+CN: 你坐的机体
+CN: 很有趣
+
+# [0381] [ROM: 0x24A26F] [Bank: 0x92:0x226F] [CPU: 0x626F] [OrigLen: 31]
+JP: よかったら　わたしが
+JP: もうすこし　てをいれて
+JP: みたいんだが。
+CN: 我想帮你
+CN: 再改装一下
+
+# [0382] [ROM: 0x24A28E] [Bank: 0x92:0x228E] [CPU: 0x628E] [OrigLen: 40]
+JP: わたしは　かんざきじゅうこう
+JP: の　かいはつせきにんしゃ
+JP: かんざき　しげき　だ。
+CN: 我是神崎重工
+CN: 开发负责人
+CN: 神崎激。
+
+# [0383] [ROM: 0x24A2B6] [Bank: 0x92:0x22B6] [CPU: 0x62B6] [OrigLen: 8]
+JP: おねがいします
+CN: 拜托了
+
+# [0384] [ROM: 0x24A2BE] [Bank: 0x92:0x22BE] [CPU: 0x62BE] [OrigLen: 9]
+JP: おねがいします。
+CN: 拜托了。
+
+# [0385] [ROM: 0x24A2C7] [Bank: 0x92:0x22C7] [CPU: 0x62C7] [OrigLen: 15]
+JP: よし。
+JP: まかせておきたまえ。
+CN: 好。
+CN: 交给我。
+
+# [0386] [ROM: 0x24A2D6] [Bank: 0x92:0x22D6] [CPU: 0x62D6] [OrigLen: 45]
+JP: まずは
+JP: 『アヒルちゃんヘッド』を
+JP: とりつけて　くうきていこうを
+JP: へらし　スピードアップ。
+CN: 先装『小鸭头』
+CN: 减少空气阻力
+CN: 提升速度
+
+# [0387] [ROM: 0x24A303] [Bank: 0x92:0x2303] [CPU: 0x6303] [OrigLen: 47]
+JP: そしてつぎに
+JP: 『アヒルちゃんフィン』を
+JP: とりつけて　すいちゅうでの
+JP: すいしんりょくを…………
+CN: 然后装小鸭鳍
+CN: 提升水中的
+CN: 推进力……
+
+# [0388] [ROM: 0x24A332] [Bank: 0x92:0x2332] [CPU: 0x6332] [OrigLen: 53]
+JP: あの…おとうさま　おきもちは
+JP: とても　ありがたいのですが
+JP: わたくしたち　さきをいそいで
+JP: おりますので……
+CN: 父亲大人，
+CN: 心意我很感激
+CN: 可我们赶路
+CN: 要紧……
+
+# [0389] [ROM: 0x24A367] [Bank: 0x92:0x2367] [CPU: 0x6367] [OrigLen: 26]
+JP: む……そうかい？
+JP: それは　とても
+JP: ざんねんだな……
+CN: 嗯……
+CN: 真遗憾
+
+# [0390] [ROM: 0x24A381] [Bank: 0x92:0x2381] [CPU: 0x6381] [OrigLen: 50]
+JP: ほかにも
+JP: 『アヒルちゃんウイング』とか
+JP: いろいろ　あったんだけど……
+JP: いそいでるなら　しかたない。
+CN: 还有『小鸭翼』
+CN: 等等好多
+CN: 既然赶路
+CN: 就没办法
+
+# [0391] [ROM: 0x24A3BE] [Bank: 0x92:0x23BE] [CPU: 0x63BE] [OrigLen: 25]
+JP: なんだ……
+JP: いいのかい？
+JP: それは　ざんねんだな。
+CN: 怎么……
+CN: 不行吗？
+
+# [0392] [ROM: 0x24A3D7] [Bank: 0x92:0x23D7] [CPU: 0x63D7] [OrigLen: 28]
+JP: まあ　このさきも
+JP: むすめのことを　よろしく
+JP: たのむよ。
+CN: 今后女儿
+CN: 就拜托你了
+
+# [0393] [ROM: 0x24A3F3] [Bank: 0x92:0x23F3] [CPU: 0x63F3] [OrigLen: 14]
+JP: はい。
+JP: おまかせください。
+CN: 是。
+CN: 交给我。
+
+# [0394] [ROM: 0x24A401] [Bank: 0x92:0x2401] [CPU: 0x6401] [OrigLen: 28]
+JP: じゃあ　これは
+JP: おとうさんからの
+JP: あいの　パワーだよ。
+CN: 这是父亲给的
+CN: 爱之力
+
+# [0395] [ROM: 0x24A41D] [Bank: 0x92:0x241D] [CPU: 0x641D] [OrigLen: 37]
+JP: すみれと　<NAME>は
+JP: すみれのちちおやの　おかげで
+JP: きりょくが　ぜんかいした。
+CN: 堇与<NAME>靠
+CN: 父亲的功劳
+CN: 气力全恢复
+
+# [0396] [ROM: 0x24A442] [Bank: 0x92:0x2442] [CPU: 0x6442] [OrigLen: 14]
+JP: おとうさま
+JP: ありがとう……
+CN: 父亲，谢谢
+
+# [0397] [ROM: 0x24A450] [Bank: 0x92:0x2450] [CPU: 0x6450] [OrigLen: 17]
+JP: では　<NAME>さん。
+JP: まいりましょう。
+CN: 那么<NAME>
+CN: 走吧。
+
+# [0398] [ROM: 0x24A461] [Bank: 0x92:0x2461] [CPU: 0x6461] [OrigLen: 30]
+JP: <NAME>は
+JP: すみれの　ちちおや
+JP: かんざき　しげき　を
+JP: たすけた。
+CN: <NAME>救出了
+CN: 堇之父
+CN: 神崎激。
+
+# [0399] [ROM: 0x24A47F] [Bank: 0x92:0x247F] [CPU: 0x647F] [OrigLen: 6]
+JP: みやた！！
+CN: 宫田
+
+# [0400] [ROM: 0x24A485] [Bank: 0x92:0x2485] [CPU: 0x6485] [OrigLen: 16]
+JP: おお！
+JP: すみれおじょうさま！！
+CN: 哦，堇小姐
+
+# [0401] [ROM: 0x24A495] [Bank: 0x92:0x2495] [CPU: 0x6495] [OrigLen: 15]
+JP: みやた　ケガはありませんか？
+CN: 宫田你没受伤？
+
+# [0402] [ROM: 0x24A4A4] [Bank: 0x92:0x24A4] [CPU: 0x64A4] [OrigLen: 35]
+JP: はい　すみれおじょうさま。
+JP: みやたは　すこぶる
+JP: げんきでございます。
+CN: 是，堇小姐。
+CN: 宫田好得很
+
+# [0403] [ROM: 0x24A4C7] [Bank: 0x92:0x24C7] [CPU: 0x64C7] [OrigLen: 12]
+JP: そう　それはよかった。
+CN: 那就好
+
+# [0404] [ROM: 0x24A4D3] [Bank: 0x92:0x24D3] [CPU: 0x64D3] [OrigLen: 23]
+JP: ところで　ここは　どこなので
+JP: ございますか？
+CN: 话说这里
+CN: 是哪儿？
+
+# [0405] [ROM: 0x24A4EA] [Bank: 0x92:0x24EA] [CPU: 0x64EA] [OrigLen: 39]
+JP: ミカサきねんこうえんの
+JP: ちか　はるかふかく……
+JP: まかいへのいりぐち　ですわ。
+CN: 三笠公园
+CN: 极深处……
+CN: 魔界入口
+
+# [0406] [ROM: 0x24A511] [Bank: 0x92:0x2511] [CPU: 0x6511] [OrigLen: 33]
+JP: はーーー　そうですか。
+JP: それは　ずいぶんと
+JP: とおいところですな。
+CN: 原来如此。
+CN: 那地方真远
+CN: 啊。
+
+# [0407] [ROM: 0x24A532] [Bank: 0x92:0x2532] [CPU: 0x6532] [OrigLen: 36]
+JP: ところで　すみれおじょうさま
+JP: なにか　こまったことは
+JP: ございませんか？
+CN: 话说堇小姐
+CN: 有什么困扰
+CN: 吗？
+
+# [0408] [ROM: 0x24A556] [Bank: 0x92:0x2556] [CPU: 0x6556] [OrigLen: 28]
+JP: こまったこと……ですの？
+JP: <NAME>さん
+JP: なにか　ありますか？
+CN: 困扰？
+CN: <NAME>先生
+CN: 有什么吗？
+
+# [0409] [ROM: 0x24A572] [Bank: 0x92:0x2572] [CPU: 0x6572] [OrigLen: 12]
+JP: たいきゅうちをかいふく
+CN: 恢复体力
+
+# [0410] [ROM: 0x24A57E] [Bank: 0x92:0x257E] [CPU: 0x657E] [OrigLen: 10]
+JP: きりょくをかいふく
+CN: 恢复气力
+
+# [0411] [ROM: 0x24A588] [Bank: 0x92:0x2588] [CPU: 0x6588] [OrigLen: 24]
+JP: たいきゅうちが　かいふく
+JP: すればいいんですが。
+CN: 体力恢复就好
+
+# [0412] [ROM: 0x24A5A0] [Bank: 0x92:0x25A0] [CPU: 0x65A0] [OrigLen: 37]
+JP: でも　いくらみやたでも
+JP: こんなところでは
+JP: どうしようも
+JP: ありませんわね。
+CN: 可再怎么说
+CN: 在这地方
+CN: 也没办法
+
+# [0413] [ROM: 0x24A5C5] [Bank: 0x92:0x25C5] [CPU: 0x65C5] [OrigLen: 11]
+JP: しばらくおまちを……
+CN: 请稍等……
+
+# [0414] [ROM: 0x24A5D0] [Bank: 0x92:0x25D0] [CPU: 0x65D0] [OrigLen: 33]
+JP: おまたせしました。
+JP: たいきゅうちぜんかいアイテム
+JP: でございます。
+CN: 久等了。
+CN: 体力全恢复
+CN: 道具。
+
+# [0415] [ROM: 0x24A5F1] [Bank: 0x92:0x25F1] [CPU: 0x65F1] [OrigLen: 17]
+JP: さ　さすがは
+JP: みやたですわね……
+CN: 不愧是宫田
+
+# [0416] [ROM: 0x24A602] [Bank: 0x92:0x2602] [CPU: 0x6602] [OrigLen: 20]
+JP: <NAME>たちは
+JP: たいきゅうちがぜんかいした。
+CN: <NAME>们
+CN: 体力全恢复
+
+# [0417] [ROM: 0x24A616] [Bank: 0x92:0x2616] [CPU: 0x6616] [OrigLen: 22]
+JP: きりょくが　かいふく
+JP: すればいいんですが。
+CN: 气力恢复就好
+
+# [0418] [ROM: 0x24A62C] [Bank: 0x92:0x262C] [CPU: 0x662C] [OrigLen: 37]
+JP: でも　いくらみやたでも
+JP: こんなところでは
+JP: どうしようも
+JP: ありませんわね。
+CN: 可再怎么说
+CN: 在这地方
+CN: 也没办法
+
+# [0419] [ROM: 0x24A651] [Bank: 0x92:0x2651] [CPU: 0x6651] [OrigLen: 11]
+JP: しばらくおまちを……
+CN: 请稍等……
+
+# [0420] [ROM: 0x24A65C] [Bank: 0x92:0x265C] [CPU: 0x665C] [OrigLen: 31]
+JP: おまたせしました。
+JP: きりょくぜんかいアイテム
+JP: でございます。
+CN: 久等了。
+CN: 气力全恢复
+CN: 道具。
+
+# [0421] [ROM: 0x24A67B] [Bank: 0x92:0x267B] [CPU: 0x667B] [OrigLen: 17]
+JP: さ　さすがは
+JP: みやたですわね……
+CN: 不愧是宫田
+
+# [0422] [ROM: 0x24A68C] [Bank: 0x92:0x268C] [CPU: 0x668C] [OrigLen: 19]
+JP: <NAME>たちは
+JP: きりょくが　ぜんかいした。
+CN: <NAME>们
+CN: 气力全恢复
+
+# [0423] [ROM: 0x24A6AC] [Bank: 0x92:0x26AC] [CPU: 0x66AC] [OrigLen: 20]
+JP: いまのところ　なにも
+JP: ございませんわ。
+CN: 目前没有
+CN: 别的事。
+
+# [0424] [ROM: 0x24A6C0] [Bank: 0x92:0x26C0] [CPU: 0x66C0] [OrigLen: 13]
+JP: さようで　ございますか。
+CN: 这样啊。
+
+# [0425] [ROM: 0x24A6CD] [Bank: 0x92:0x26CD] [CPU: 0x66CD] [OrigLen: 38]
+JP: それでは　すみれおじょうさま
+JP: どうか　おからだを
+JP: おだいじにしてください。
+CN: 那堇小姐
+CN: 请务必
+CN: 保重身体
+
+# [0426] [ROM: 0x24A6F3] [Bank: 0x92:0x26F3] [CPU: 0x66F3] [OrigLen: 13]
+JP: わかりました。
+JP: みやた。
+CN: 知道了，宫田
+
+# [0427] [ROM: 0x24A700] [Bank: 0x92:0x2700] [CPU: 0x6700] [OrigLen: 14]
+JP: <NAME>さん。
+JP: まいりましょう。
+CN: <NAME>先生
+CN: 走吧。
+
+# [0428] [ROM: 0x24A70E] [Bank: 0x92:0x270E] [CPU: 0x670E] [OrigLen: 32]
+JP: <NAME>は
+JP: かんざきけの　しつじ
+JP: みやた　きょうせい　を
+JP: たすけた。
+CN: <NAME>救出了
+CN: 神崎家家臣
+CN: 宫田恭正。
+
+# [0429] [ROM: 0x24A72E] [Bank: 0x92:0x272E] [CPU: 0x672E] [OrigLen: 9]
+JP: マ……　ママ！！
+CN: 妈！！
+
+# [0430] [ROM: 0x24A737] [Bank: 0x92:0x2737] [CPU: 0x6737] [OrigLen: 7]
+JP: おりひめ！！
+CN: 织姬
+
+# [0431] [ROM: 0x24A73E] [Bank: 0x92:0x273E] [CPU: 0x673E] [OrigLen: 10]
+JP: ああ　おりひめ……
+CN: 啊，织姬
+
+# [0432] [ROM: 0x24A748] [Bank: 0x92:0x2748] [CPU: 0x6748] [OrigLen: 17]
+JP: ママ！
+JP: だいじょうぶでーすか！？
+CN: 妈妈没事吗
+
+# [0433] [ROM: 0x24A759] [Bank: 0x92:0x2759] [CPU: 0x6759] [OrigLen: 33]
+JP: ええ　おりひめ……
+JP: あなたの　かおをみたら
+JP: あんしんしました……
+CN: 嗯，织姬……
+CN: 见到你脸
+CN: 就安心了
+
+# [0434] [ROM: 0x24A77A] [Bank: 0x92:0x277A] [CPU: 0x677A] [OrigLen: 35]
+JP: わたしのママを　こんなめに
+JP: あわせるなんて
+JP: ゆるせませーーーん！！！
+CN: 让妈妈受这种罪
+CN: 绝不原谅！！
+
+# [0435] [ROM: 0x24A79D] [Bank: 0x92:0x279D] [CPU: 0x679D] [OrigLen: 22]
+JP: おりひめ
+JP: わたしは　だいじょうぶ
+JP: ですよ。
+CN: 织姬，我
+CN: 没事的
+CN: 哦。
+
+# [0436] [ROM: 0x24A7B3] [Bank: 0x92:0x27B3] [CPU: 0x67B3] [OrigLen: 21]
+JP: おりひめ……
+JP: そこのあなたも
+JP: こちらへ。
+CN: 织姬……
+CN: 你也过来
+
+# [0437] [ROM: 0x24A7C8] [Bank: 0x92:0x27C8] [CPU: 0x67C8] [OrigLen: 27]
+JP: おりひめは　ははのあいで
+JP: きりょくが
+JP: ぜんかいした。
+CN: 织姬靠母爱
+CN: 气力
+CN: 全恢复。
+
+# [0438] [ROM: 0x24A7E3] [Bank: 0x92:0x27E3] [CPU: 0x67E3] [OrigLen: 25]
+JP: <NAME>は　そのおこぼれで
+JP: きりょくが　ぜんかいした。
+CN: <NAME>沾光
+CN: 气力全恢复
+
+# [0439] [ROM: 0x24A7FC] [Bank: 0x92:0x27FC] [CPU: 0x67FC] [OrigLen: 17]
+JP: さあ　<NAME>さん
+JP: さきにいくでーす。
+CN: <NAME>先走咯
+
+# [0440] [ROM: 0x24A80D] [Bank: 0x92:0x280D] [CPU: 0x680D] [OrigLen: 33]
+JP: <NAME>は
+JP: おりひめの　ははおや
+JP: カリーノ<81>よソレッタ　を
+JP: たすけた。
+CN: <NAME>救出了
+CN: 织姬之母
+CN: 卡莉诺·索蕾塔
+
+# [0441] [ROM: 0x24A82E] [Bank: 0x92:0x282E] [CPU: 0x682E] [OrigLen: 17]
+JP: は……
+JP: はなこうじ　はくしゃく。
+CN: 花小路伯爵。
+
+# [0442] [ROM: 0x24A83F] [Bank: 0x92:0x283F] [CPU: 0x683F] [OrigLen: 12]
+JP: おや？
+JP: マリアくんか。
+CN: 玛丽亚？
+
+# [0443] [ROM: 0x24A84B] [Bank: 0x92:0x284B] [CPU: 0x684B] [OrigLen: 19]
+JP: はなこうじ　はくしゃくも
+JP: ここに……
+CN: 伯爵也在这
+
+# [0444] [ROM: 0x24A85E] [Bank: 0x92:0x285E] [CPU: 0x685E] [OrigLen: 43]
+JP: マリアくん　ここは
+JP: どこなんだ。
+JP: わたしには　なにがなんだか
+JP: さっぱりわからんのだ。
+CN: 玛丽亚君，这里
+CN: 是哪儿，我
+CN: 完全搞不懂
+
+# [0445] [ROM: 0x24A889] [Bank: 0x92:0x2889] [CPU: 0x6889] [OrigLen: 34]
+JP: ミカサきねんこうえんの
+JP: はるか　ちかにある
+JP: 『せいまじょう』です。
+CN: 三笠公园
+CN: 深处的
+CN: 『圣魔城』
+
+# [0446] [ROM: 0x24A8AB] [Bank: 0x92:0x28AB] [CPU: 0x68AB] [OrigLen: 17]
+JP: なに！
+JP: 『せいまじょう』だと！？
+CN: 圣魔城！？
+
+# [0447] [ROM: 0x24A8BC] [Bank: 0x92:0x28BC] [CPU: 0x68BC] [OrigLen: 40]
+JP: はい。『まじんき』が
+JP: げんいんで　ふしぎなことが
+JP: おこっている　ようなのです。
+CN: 是的。因魔神器
+CN: 发生了奇怪
+CN: 的事。
+
+# [0448] [ROM: 0x24A8E4] [Bank: 0x92:0x28E4] [CPU: 0x68E4] [OrigLen: 51]
+JP: わたしたちは　『まじんき』を
+JP: ねらう　まものをたいじ
+JP: しながら　『まじんき』を
+JP: さがしているのです。
+CN: 我们一边讨伐
+CN: 魔物，同时
+CN: 寻找魔神器
+
+# [0449] [ROM: 0x24A917] [Bank: 0x92:0x2917] [CPU: 0x6917] [OrigLen: 10]
+JP: そうだったのか……
+CN: 原来如此
+
+# [0450] [ROM: 0x24A921] [Bank: 0x92:0x2921] [CPU: 0x6921] [OrigLen: 19]
+JP: そうだ　マリアくん
+JP: これをあげよう。
+CN: 给你这个。
+
+# [0451] [ROM: 0x24A934] [Bank: 0x92:0x2934] [CPU: 0x6934] [OrigLen: 32]
+JP: わたしが　ひそかに
+JP: かいはつ　させた　
+JP: こうぶようの　ぶきだ。
+CN: 我悄悄开发的
+CN: 光武用
+CN: 武器。
+
+# [0452] [ROM: 0x24A954] [Bank: 0x92:0x2954] [CPU: 0x6954] [OrigLen: 15]
+JP: 『だんやく』を
+JP: てにいれた。
+CN: 『弹药』
+
+# [0453] [ROM: 0x24A963] [Bank: 0x92:0x2963] [CPU: 0x6963] [OrigLen: 22]
+JP: <NAME>は
+JP: 『パニックだん』のわざを
+JP: おぼえた！
+CN: <NAME>学会了
+CN: 『恐慌弹』技
+
+# [0454] [ROM: 0x24A979] [Bank: 0x92:0x2979] [CPU: 0x6979] [OrigLen: 23]
+JP: しかし
+JP: つかえるそうびを
+JP: もっていなかった。
+CN: 但没有
+CN: 可装备的
+
+# [0455] [ROM: 0x24A990] [Bank: 0x92:0x2990] [CPU: 0x6990] [OrigLen: 34]
+JP: 『パニックだん』は
+JP: 『てきだんじゅう』に
+JP: セットすることができる。
+CN: 『恐慌弹』可
+CN: 装备于
+CN: 『敌弹枪』
+
+# [0456] [ROM: 0x24A9B2] [Bank: 0x92:0x29B2] [CPU: 0x69B2] [OrigLen: 14]
+JP: では　<NAME>。
+JP: いきましょう。
+CN: 那么<NAME>
+CN: 走吧。
+
+# [0457] [ROM: 0x24A9C0] [Bank: 0x92:0x29C0] [CPU: 0x69C0] [OrigLen: 37]
+JP: <NAME>は
+JP: きぞくいんぎいん　はくしゃく
+JP: はなこうじ　ありつね　を
+JP: たすけた。
+CN: <NAME>救出了
+CN: 贵族议员伯爵
+CN: 花小路有恒。
+
+# [0458] [ROM: 0x24A9E5] [Bank: 0x92:0x29E5] [CPU: 0x69E5] [OrigLen: 17]
+JP: は……
+JP: はなこうじ　はくしゃく。
+CN: 花小路伯爵。
+
+# [0459] [ROM: 0x24A9F6] [Bank: 0x92:0x29F6] [CPU: 0x69F6] [OrigLen: 12]
+JP: おや？
+JP: マリアくんか。
+CN: 玛丽亚？
+
+# [0460] [ROM: 0x24AA02] [Bank: 0x92:0x2A02] [CPU: 0x6A02] [OrigLen: 19]
+JP: はなこうじ　はくしゃくも
+JP: ここに……
+CN: 伯爵也在这
+
+# [0461] [ROM: 0x24AA15] [Bank: 0x92:0x2A15] [CPU: 0x6A15] [OrigLen: 43]
+JP: マリアくん　ここは
+JP: どこなんだ。
+JP: わたしには　なにがなんだか
+JP: さっぱりわからんのだ。
+CN: 玛丽亚君，这里
+CN: 是哪儿，我
+CN: 完全搞不懂
+
+# [0462] [ROM: 0x24AA40] [Bank: 0x92:0x2A40] [CPU: 0x6A40] [OrigLen: 34]
+JP: ミカサきねんこうえんの
+JP: はるか　ちかにある
+JP: 『せいまじょう』です。
+CN: 三笠公园
+CN: 深处的
+CN: 『圣魔城』
+
+# [0463] [ROM: 0x24AA62] [Bank: 0x92:0x2A62] [CPU: 0x6A62] [OrigLen: 17]
+JP: なに！
+JP: 『せいまじょう』だと！？
+CN: 圣魔城！？
+
+# [0464] [ROM: 0x24AA73] [Bank: 0x92:0x2A73] [CPU: 0x6A73] [OrigLen: 40]
+JP: はい。『まじんき』が
+JP: げんいんで　ふしぎなことが
+JP: おこっている　ようなのです。
+CN: 是的。因魔神器
+CN: 发生了奇怪
+CN: 的事。
+
+# [0465] [ROM: 0x24AA9B] [Bank: 0x92:0x2A9B] [CPU: 0x6A9B] [OrigLen: 51]
+JP: わたしたちは　『まじんき』を
+JP: ねらう　まものをたいじ
+JP: しながら　『まじんき』を
+JP: さがしているのです。
+CN: 我们一边讨伐
+CN: 魔物，同时
+CN: 寻找魔神器
+
+# [0466] [ROM: 0x24AACE] [Bank: 0x92:0x2ACE] [CPU: 0x6ACE] [OrigLen: 10]
+JP: そうだったのか……
+CN: 原来如此
+
+# [0467] [ROM: 0x24AAD8] [Bank: 0x92:0x2AD8] [CPU: 0x6AD8] [OrigLen: 19]
+JP: そうだ　マリアくん
+JP: これをあげよう。
+CN: 给你这个。
+
+# [0468] [ROM: 0x24AAEB] [Bank: 0x92:0x2AEB] [CPU: 0x6AEB] [OrigLen: 32]
+JP: わたしが　ひそかに
+JP: かいはつ　させた　
+JP: こうぶようの　ぶきだ。
+CN: 我悄悄开发的
+CN: 光武用
+CN: 武器。
+
+# [0469] [ROM: 0x24AB0B] [Bank: 0x92:0x2B0B] [CPU: 0x6B0B] [OrigLen: 15]
+JP: 『だんやく』を
+JP: てにいれた。
+CN: 『弹药』
+
+# [0470] [ROM: 0x24AB1A] [Bank: 0x92:0x2B1A] [CPU: 0x6B1A] [OrigLen: 22]
+JP: <NAME>は
+JP: 『パニックだん』のわざを
+JP: おぼえた！
+CN: <NAME>学会了
+CN: 『恐慌弹』技
+
+# [0471] [ROM: 0x24AB30] [Bank: 0x92:0x2B30] [CPU: 0x6B30] [OrigLen: 23]
+JP: しかし
+JP: つかえるそうびを
+JP: もっていなかった。
+CN: 但没有
+CN: 可装备的
+
+# [0472] [ROM: 0x24AB47] [Bank: 0x92:0x2B47] [CPU: 0x6B47] [OrigLen: 34]
+JP: 『パニックだん』は
+JP: 『てきだんじゅう』に
+JP: セットすることができる。
+CN: 『恐慌弹』可
+CN: 装备于
+CN: 『敌弹枪』
+
+# [0473] [ROM: 0x24AB69] [Bank: 0x92:0x2B69] [CPU: 0x6B69] [OrigLen: 16]
+JP: では　<NAME>くん。
+JP: いきましょう。
+CN: <NAME>君，走吧
+
+# [0474] [ROM: 0x24AB79] [Bank: 0x92:0x2B79] [CPU: 0x6B79] [OrigLen: 37]
+JP: <NAME>は
+JP: きぞくいんぎいん　はくしゃく
+JP: はなこうじ　ありつね　を
+JP: たすけた。
+CN: <NAME>救出了
+CN: 贵族议员伯爵
+CN: 花小路有恒。
+
+# [0475] [ROM: 0x24AB9E] [Bank: 0x92:0x2B9E] [CPU: 0x6B9E] [OrigLen: 12]
+JP: だいじょうぶ　ですか？
+CN: 你没事吧？
+
+# [0476] [ROM: 0x24ABAA] [Bank: 0x92:0x2BAA] [CPU: 0x6BAA] [OrigLen: 7]
+JP: キミたちは？
+CN: 你们
+
+# [0477] [ROM: 0x24ABB1] [Bank: 0x92:0x2BB1] [CPU: 0x6BB1] [OrigLen: 33]
+JP: わたしたちは　こんかいの
+JP: じけんを　ちょうさしている
+JP: ものです。
+CN: 我们调查
+CN: 这次事件，
+CN: 而已。
+
+# [0478] [ROM: 0x24ABD2] [Bank: 0x92:0x2BD2] [CPU: 0x6BD2] [OrigLen: 39]
+JP: そして　あなたのように
+JP: ここに　つれてこられたひとを
+JP: たすけて　いるのです。
+CN: 还救像你这样
+CN: 被带到这里的
+CN: 人。
+
+# [0479] [ROM: 0x24ABF9] [Bank: 0x92:0x2BF9] [CPU: 0x6BF9] [OrigLen: 25]
+JP: おお！
+JP: たすけにきてくれたのか！！
+JP: ありがとう。
+CN: 哦！
+CN: 来救我的！！
+CN: 谢谢。
+
+# [0480] [ROM: 0x24AC12] [Bank: 0x92:0x2C12] [CPU: 0x6C12] [OrigLen: 47]
+JP: きをうしなって　きがついたら
+JP: こんなところにいるし
+JP: まものが　ウヨウヨだし
+JP: びっくりしたよ。
+CN: 醒来就在这
+CN: 地方，魔物
+CN: 到处乱窜
+
+# [0481] [ROM: 0x24AC41] [Bank: 0x92:0x2C41] [CPU: 0x6C41] [OrigLen: 34]
+JP: いや〜　いちじは　どうなる
+JP: ことかと　おもったが……
+JP: ありがとう。
+CN: 一开始还以为
+CN: 要完了……
+CN: 谢谢。
+
+# [0482] [ROM: 0x24AC63] [Bank: 0x92:0x2C63] [CPU: 0x6C63] [OrigLen: 19]
+JP: おれいに　コレを
+JP: さしあげましょう。
+CN: 作为谢礼
+CN: 送你这个
+
+# [0483] [ROM: 0x24AC76] [Bank: 0x92:0x2C76] [CPU: 0x6C76] [OrigLen: 18]
+JP: <NAME>は
+JP: 『だんやく』を
+JP: てにいれた。
+CN: <NAME>拿到了
+CN: 弹药。
+
+# [0484] [ROM: 0x24AC88] [Bank: 0x92:0x2C88] [CPU: 0x6C88] [OrigLen: 21]
+JP: <NAME>は
+JP: 『ぎんのたま』のわざを
+JP: おぼえた！
+CN: <NAME>学会了
+CN: 『银弹』技
+
+# [0485] [ROM: 0x24AC9D] [Bank: 0x92:0x2C9D] [CPU: 0x6C9D] [OrigLen: 31]
+JP: 『ぎんのたま』は
+JP: 『ハンドガン』に
+JP: セットすることができる。
+CN: 『银弹』可
+CN: 装备于
+CN: 『手枪』
+
+# [0486] [ROM: 0x24ACBC] [Bank: 0x92:0x2CBC] [CPU: 0x6CBC] [OrigLen: 42]
+JP: 『ぎんのたま』は
+JP: 『ハンドガン』と
+JP: 『ガトリングうで』に
+JP: セットすることができる。
+CN: 『银弹』可
+CN: 装于手枪
+CN: 和加特林臂
+
+# [0487] [ROM: 0x24ACE6] [Bank: 0x92:0x2CE6] [CPU: 0x6CE6] [OrigLen: 35]
+JP: <NAME>　は　
+JP: まきびしけの　とうしゅ
+JP: まきびし　ししゃく　を
+JP: たすけた。
+CN: <NAME>救出了
+CN: 卷菱流首领
+CN: 卷菱刺史。
+
+# [0488] [ROM: 0x24AD09] [Bank: 0x92:0x2D09] [CPU: 0x6D09] [OrigLen: 12]
+JP: だいじょうぶ　ですか？
+CN: 你没事吧？
+
+# [0489] [ROM: 0x24AD15] [Bank: 0x92:0x2D15] [CPU: 0x6D15] [OrigLen: 33]
+JP: おや？
+JP: あなたは　かんざきけの
+JP: すみれさんじゃ
+JP: ありませんか？！
+CN: 你不是
+CN: 神崎家的
+CN: 堇小姐？！
+
+# [0490] [ROM: 0x24AD36] [Bank: 0x92:0x2D36] [CPU: 0x6D36] [OrigLen: 26]
+JP: あら　まきびし　ししゃく。
+JP: おひさしぶりですわね。
+CN: 哎呀卷菱刺史
+CN: 久违了。
+
+# [0491] [ROM: 0x24AD50] [Bank: 0x92:0x2D50] [CPU: 0x6D50] [OrigLen: 31]
+JP: い　いったい
+JP: こんなところで
+JP: なにをして
+JP: おられるのですか？
+CN: 你到底
+CN: 在这种地方
+CN: 做什么？
+
+# [0492] [ROM: 0x24AD6F] [Bank: 0x92:0x2D6F] [CPU: 0x6D6F] [OrigLen: 43]
+JP: まぁ　そんなこまかいことは
+JP: ほっておいて
+JP: はやく　こんなところから
+JP: にげるのですわ。
+CN: 小事别管了
+CN: 快从这地方
+CN: 逃出去。
+
+# [0493] [ROM: 0x24AD9A] [Bank: 0x92:0x2D9A] [CPU: 0x6D9A] [OrigLen: 25]
+JP: おお。
+JP: たすかるのですか？
+JP: それは　ありがたい。
+CN: 哦，能救我？
+CN: 多谢了。
+
+# [0494] [ROM: 0x24ADB3] [Bank: 0x92:0x2DB3] [CPU: 0x6DB3] [OrigLen: 50]
+JP: きをうしなって　きがついたら
+JP: こんなところにいて
+JP: まものが　ウロウロしてるし
+JP: びっくりしましたよ。
+CN: 醒来就在这
+CN: 地方，魔物
+CN: 到处乱转，
+CN: 吓一跳。
+
+# [0495] [ROM: 0x24ADE5] [Bank: 0x92:0x2DE5] [CPU: 0x6DE5] [OrigLen: 48]
+JP: いや〜　いちじは　どうなる
+JP: ことかと　おもったが……
+JP: たすかりました。
+JP: ありがとうございます。
+CN: 一开始还以为
+CN: 要完了……
+CN: 得救了。
+CN: 谢谢。
+
+# [0496] [ROM: 0x24AE15] [Bank: 0x92:0x2E15] [CPU: 0x6E15] [OrigLen: 17]
+JP: すみれさん　これは
+JP: おれいです。
+CN: 堇小姐，这是
+
+# [0497] [ROM: 0x24AE26] [Bank: 0x92:0x2E26] [CPU: 0x6E26] [OrigLen: 18]
+JP: <NAME>は
+JP: 『だんやく』を
+JP: てにいれた。
+CN: <NAME>拿到了
+CN: 弹药。
+
+# [0498] [ROM: 0x24AE38] [Bank: 0x92:0x2E38] [CPU: 0x6E38] [OrigLen: 21]
+JP: <NAME>は
+JP: 『ぎんのたま』のわざを
+JP: おぼえた！
+CN: <NAME>学会了
+CN: 『银弹』技
+
+# [0499] [ROM: 0x24AE4D] [Bank: 0x92:0x2E4D] [CPU: 0x6E4D] [OrigLen: 31]
+JP: 『ぎんのたま』は
+JP: 『ハンドガン』に
+JP: セットすることができる。
+CN: 『银弹』可
+CN: 装备于
+CN: 『手枪』
+
+# [0500] [ROM: 0x24AE6C] [Bank: 0x92:0x2E6C] [CPU: 0x6E6C] [OrigLen: 42]
+JP: 『ぎんのたま』は
+JP: 『ハンドガン』と
+JP: 『ガトリングうで』に
+JP: セットすることができる。
+CN: 『银弹』可
+CN: 装于手枪
+CN: 和加特林臂
+
+# [0501] [ROM: 0x24AE96] [Bank: 0x92:0x2E96] [CPU: 0x6E96] [OrigLen: 37]
+JP: そうそう。
+JP: ぜひ　こんど　うちのむすこと
+JP: しょくじでも
+JP: おねがいします。
+CN: 对了对了。
+CN: 下次一定请
+CN: 我儿子吃饭。
+
+# [0502] [ROM: 0x24AEBB] [Bank: 0x92:0x2EBB] [CPU: 0x6EBB] [OrigLen: 35]
+JP: <NAME>　は　
+JP: まきびしけの　とうしゅ
+JP: まきびし　ししゃく　を
+JP: たすけた。
+CN: <NAME>救出了
+CN: 卷菱流首领
+CN: 卷菱刺史。
+
+# [0503] [ROM: 0x24AEDE] [Bank: 0x92:0x2EDE] [CPU: 0x6EDE] [OrigLen: 12]
+JP: だいじょうぶ　ですか？
+CN: 你没事吧？
+
+# [0504] [ROM: 0x24AEEA] [Bank: 0x92:0x2EEA] [CPU: 0x6EEA] [OrigLen: 7]
+JP: キミたちは？
+CN: 你们
+
+# [0505] [ROM: 0x24AEF1] [Bank: 0x92:0x2EF1] [CPU: 0x6EF1] [OrigLen: 32]
+JP: ボクたちは　こんかいの
+JP: じけんを　ちょうさしている
+JP: ものです。
+CN: 我们调查
+CN: 这次事件，
+CN: 而已。
+
+# [0506] [ROM: 0x24AF11] [Bank: 0x92:0x2F11] [CPU: 0x6F11] [OrigLen: 39]
+JP: そして　あなたのように
+JP: ここに　つれてこられたひとを
+JP: たすけて　いるのです。
+CN: 还救像你这样
+CN: 被带到这里的
+CN: 人。
+
+# [0507] [ROM: 0x24AF38] [Bank: 0x92:0x2F38] [CPU: 0x6F38] [OrigLen: 23]
+JP: おお！
+JP: たすけてくれるのか！！
+JP: ありがとう。
+CN: 哦！来救我？！
+CN: 谢谢。
+
+# [0508] [ROM: 0x24AF4F] [Bank: 0x92:0x2F4F] [CPU: 0x6F4F] [OrigLen: 47]
+JP: きをうしなって　きがついたら
+JP: こんなところにいるし
+JP: まものが　ウヨウヨだし
+JP: びっくりしたよ。
+CN: 醒来就在这
+CN: 地方，魔物
+CN: 到处乱窜
+
+# [0509] [ROM: 0x24AF7E] [Bank: 0x92:0x2F7E] [CPU: 0x6F7E] [OrigLen: 34]
+JP: いや〜　いちじは　どうなる
+JP: ことかと　おもったが……
+JP: ありがとう。
+CN: 一开始还以为
+CN: 要完了……
+CN: 谢谢。
+
+# [0510] [ROM: 0x24AFA0] [Bank: 0x92:0x2FA0] [CPU: 0x6FA0] [OrigLen: 19]
+JP: おれいに　コレを
+JP: さしあげましょう。
+CN: 作为谢礼
+CN: 送你这个
+
+# [0511] [ROM: 0x24AFB3] [Bank: 0x92:0x2FB3] [CPU: 0x6FB3] [OrigLen: 18]
+JP: <NAME>は
+JP: 『だんやく』を
+JP: てにいれた。
+CN: <NAME>拿到了
+CN: 弹药。
+
+# [0512] [ROM: 0x24AFC5] [Bank: 0x92:0x2FC5] [CPU: 0x6FC5] [OrigLen: 21]
+JP: <NAME>は
+JP: 『ぎんのたま』のわざを
+JP: おぼえた！
+CN: <NAME>学会了
+CN: 『银弹』技
+
+# [0513] [ROM: 0x24AFDA] [Bank: 0x92:0x2FDA] [CPU: 0x6FDA] [OrigLen: 31]
+JP: 『ぎんのたま』は
+JP: 『ハンドガン』に
+JP: セットすることができる。
+CN: 『银弹』可
+CN: 装备于
+CN: 『手枪』
+
+# [0514] [ROM: 0x24AFF9] [Bank: 0x92:0x2FF9] [CPU: 0x6FF9] [OrigLen: 42]
+JP: 『ぎんのたま』は
+JP: 『ハンドガン』と
+JP: 『ガトリングうで』に
+JP: セットすることができる。
+CN: 『银弹』可
+CN: 装于手枪
+CN: 和加特林臂
+
+# [0515] [ROM: 0x24B023] [Bank: 0x92:0x3023] [CPU: 0x7023] [OrigLen: 35]
+JP: <NAME>　は　
+JP: まきびしけの　とうしゅ
+JP: まきびし　ししゃく　を
+JP: たすけた。
+CN: <NAME>救出了
+CN: 卷菱流首领
+CN: 卷菱刺史。
+
+# [0516] [ROM: 0x24B046] [Bank: 0x92:0x3046] [CPU: 0x7046] [OrigLen: 12]
+JP: だいじょうぶ　ですか？
+CN: 你没事吧？
+
+# [0517] [ROM: 0x24B052] [Bank: 0x92:0x3052] [CPU: 0x7052] [OrigLen: 33]
+JP: おや？
+JP: あなたは　かんざきけの
+JP: すみれさんじゃ
+JP: ありませんか？！
+CN: 你不是
+CN: 神崎家的
+CN: 堇小姐？！
+
+# [0518] [ROM: 0x24B073] [Bank: 0x92:0x3073] [CPU: 0x7073] [OrigLen: 26]
+JP: あら　まきびし　ししゃく。
+JP: おひさしぶりですわね。
+CN: 哎呀卷菱刺史
+CN: 久违了。
+
+# [0519] [ROM: 0x24B08D] [Bank: 0x92:0x308D] [CPU: 0x708D] [OrigLen: 31]
+JP: い　いったい
+JP: こんなところで
+JP: なにをして
+JP: おられるのですか？
+CN: 你到底
+CN: 在这种地方
+CN: 做什么？
+
+# [0520] [ROM: 0x24B0AC] [Bank: 0x92:0x30AC] [CPU: 0x70AC] [OrigLen: 43]
+JP: まぁ　そんなこまかいことは
+JP: ほっておいて
+JP: はやく　こんなところから
+JP: にげるのですわ。
+CN: 小事别管了
+CN: 快从这地方
+CN: 逃出去。
+
+# [0521] [ROM: 0x24B0D7] [Bank: 0x92:0x30D7] [CPU: 0x70D7] [OrigLen: 25]
+JP: おお。
+JP: たすかるのですか？
+JP: それは　ありがたい。
+CN: 哦，能救我？
+CN: 多谢了。
+
+# [0522] [ROM: 0x24B0F0] [Bank: 0x92:0x30F0] [CPU: 0x70F0] [OrigLen: 50]
+JP: きをうしなって　きがついたら
+JP: こんなところにいて
+JP: まものが　ウロウロしてるし
+JP: びっくりしましたよ。
+CN: 醒来就在这
+CN: 地方，魔物
+CN: 到处乱转，
+CN: 吓一跳。
+
+# [0523] [ROM: 0x24B122] [Bank: 0x92:0x3122] [CPU: 0x7122] [OrigLen: 48]
+JP: いや〜　いちじは　どうなる
+JP: ことかと　おもったが……
+JP: たすかりました。
+JP: ありがとうございます。
+CN: 一开始还以为
+CN: 要完了……
+CN: 得救了。
+CN: 谢谢。
+
+# [0524] [ROM: 0x24B152] [Bank: 0x92:0x3152] [CPU: 0x7152] [OrigLen: 17]
+JP: すみれさん　これは
+JP: おれいです。
+CN: 堇小姐，这是
+
+# [0525] [ROM: 0x24B163] [Bank: 0x92:0x3163] [CPU: 0x7163] [OrigLen: 18]
+JP: <NAME>は
+JP: 『だんやく』を
+JP: てにいれた。
+CN: <NAME>拿到了
+CN: 弹药。
+
+# [0526] [ROM: 0x24B175] [Bank: 0x92:0x3175] [CPU: 0x7175] [OrigLen: 21]
+JP: <NAME>は
+JP: 『ぎんのたま』のわざを
+JP: おぼえた！
+CN: <NAME>学会了
+CN: 『银弹』技
+
+# [0527] [ROM: 0x24B18A] [Bank: 0x92:0x318A] [CPU: 0x718A] [OrigLen: 31]
+JP: 『ぎんのたま』は
+JP: 『ハンドガン』に
+JP: セットすることができる。
+CN: 『银弹』可
+CN: 装备于
+CN: 『手枪』
+
+# [0528] [ROM: 0x24B1A9] [Bank: 0x92:0x31A9] [CPU: 0x71A9] [OrigLen: 42]
+JP: 『ぎんのたま』は
+JP: 『ハンドガン』と
+JP: 『ガトリングうで』に
+JP: セットすることができる。
+CN: 『银弹』可
+CN: 装于手枪
+CN: 和加特林臂
+
+# [0529] [ROM: 0x24B1D3] [Bank: 0x92:0x31D3] [CPU: 0x71D3] [OrigLen: 37]
+JP: そうそう。
+JP: ぜひ　こんど　うちのむすこと
+JP: しょくじでも
+JP: おねがいします。
+CN: 对了对了。
+CN: 下次一定请
+CN: 我儿子吃饭。
+
+# [0530] [ROM: 0x24B1F8] [Bank: 0x92:0x31F8] [CPU: 0x71F8] [OrigLen: 35]
+JP: <NAME>　は　
+JP: まきびしけの　とうしゅ
+JP: まきびし　ししゃく　を
+JP: たすけた。
+CN: <NAME>救出了
+CN: 卷菱流首领
+CN: 卷菱刺史。
+
+# [0531] [ROM: 0x24B21B] [Bank: 0x92:0x321B] [CPU: 0x721B] [OrigLen: 34]
+JP: あっ！　だいじん！！
+JP: やまぐち　かいぐんだいじん
+JP: じゃないですか。
+CN: 啊！大臣！！
+CN: 山口海军大臣
+
+# [0532] [ROM: 0x24B23D] [Bank: 0x92:0x323D] [CPU: 0x723D] [OrigLen: 31]
+JP: おおがみくんか。
+JP: きっと　たすけにきて
+JP: くれるとおもったよ。
+CN: 大神君啊。
+CN: 你会来救我
+
+# [0533] [ROM: 0x24B25C] [Bank: 0x92:0x325C] [CPU: 0x725C] [OrigLen: 20]
+JP: おそくなって　すみません。
+JP: だいじん。
+CN: 来晚了，
+CN: 大臣。
+
+# [0534] [ROM: 0x24B270] [Bank: 0x92:0x3270] [CPU: 0x7270] [OrigLen: 40]
+JP: ところで　いったい
+JP: なにがどうして　わたしは
+JP: こんなところに
+JP: とばされたのだ？
+CN: 话说我到底
+CN: 为何会被
+CN: 飞到这地方？
+
+# [0535] [ROM: 0x24B298] [Bank: 0x92:0x3298] [CPU: 0x7298] [OrigLen: 37]
+JP: おそらく　ミカサにのこされた
+JP: 『まじんき』のえいきょう
+JP: ではないかと……
+CN: 恐怕是三笠上
+CN: 魔神器的
+CN: 影响……
+
+# [0536] [ROM: 0x24B2BD] [Bank: 0x92:0x32BD] [CPU: 0x72BD] [OrigLen: 27]
+JP: そうか…　『まじんき』か……
+JP: それは　たいへんだな。
+CN: 魔神器啊……
+CN: 真够呛。
+
+# [0537] [ROM: 0x24B2D8] [Bank: 0x92:0x32D8] [CPU: 0x72D8] [OrigLen: 35]
+JP: おおがみくん　そして
+JP: そちらの　しんじんくん
+JP: がんばってくれたまえ。
+CN: 大神君和
+CN: 那边的新人
+CN: 加油。
+
+# [0538] [ROM: 0x24B2FB] [Bank: 0x92:0x32FB] [CPU: 0x72FB] [OrigLen: 49]
+JP: やまぐち　だいじんに
+JP: はげまされた　おおがみと
+JP: <NAME>の　たいきゅうちと
+JP: きりょくが　ぜんかいした。
+CN: 受大臣鼓励的
+CN: 大神和<NAME>的
+CN: 体力与气力
+CN: 全恢复
+
+# [0539] [ROM: 0x24B32C] [Bank: 0x92:0x332C] [CPU: 0x732C] [OrigLen: 10]
+JP: では　たのんだぞ。
+CN: 拜托了。
+
+# [0540] [ROM: 0x24B336] [Bank: 0x92:0x3336] [CPU: 0x7336] [OrigLen: 38]
+JP: おおがみと　<NAME>　は　
+JP: かいぐんだいじん
+JP: やまぐち　かずとよ　を
+JP: たすけた。
+CN: 大神与<NAME>
+CN: 救出了海军大臣
+CN: 山口香豊。
+
+# [0541] [ROM: 0x24B35C] [Bank: 0x92:0x335C] [CPU: 0x735C] [OrigLen: 34]
+JP: あっ！　だいじん！！
+JP: やまぐち　かいぐんだいじん
+JP: じゃないですか。
+CN: 啊！大臣！！
+CN: 山口海军大臣
+
+# [0542] [ROM: 0x24B37E] [Bank: 0x92:0x337E] [CPU: 0x737E] [OrigLen: 30]
+JP: さくらくんか。
+JP: きっと　たすけにきて
+JP: くれるとおもったよ。
+CN: 樱君啊。
+CN: 你会来救我
+
+# [0543] [ROM: 0x24B39C] [Bank: 0x92:0x339C] [CPU: 0x739C] [OrigLen: 20]
+JP: おそくなって　すみません。
+JP: だいじん。
+CN: 来晚了，
+CN: 大臣。
+
+# [0544] [ROM: 0x24B3B0] [Bank: 0x92:0x33B0] [CPU: 0x73B0] [OrigLen: 40]
+JP: ところで　いったい
+JP: なにがどうして　わたしは
+JP: こんなところに
+JP: とばされたのだ？
+CN: 话说我到底
+CN: 为何会被
+CN: 飞到这地方？
+
+# [0545] [ROM: 0x24B3D8] [Bank: 0x92:0x33D8] [CPU: 0x73D8] [OrigLen: 37]
+JP: おそらく　ミカサにのこされた
+JP: 『まじんき』のえいきょう
+JP: ではないかと……
+CN: 恐怕是三笠上
+CN: 魔神器的
+CN: 影响……
+
+# [0546] [ROM: 0x24B3FD] [Bank: 0x92:0x33FD] [CPU: 0x73FD] [OrigLen: 27]
+JP: そうか…　『まじんき』か……
+JP: それは　たいへんだな。
+CN: 魔神器啊……
+CN: 真够呛。
+
+# [0547] [ROM: 0x24B418] [Bank: 0x92:0x3418] [CPU: 0x7418] [OrigLen: 34]
+JP: さくらくん　そして
+JP: そちらの　しんじんくん
+JP: がんばってくれたまえ。
+CN: 樱君和
+CN: 那边的新人
+CN: 加油。
+
+# [0548] [ROM: 0x24B43A] [Bank: 0x92:0x343A] [CPU: 0x743A] [OrigLen: 48]
+JP: やまぐち　だいじんに
+JP: はげまされた　さくらと
+JP: <NAME>の　たいきゅうちと
+JP: きりょくが　ぜんかいした。
+CN: 受大臣鼓励的
+CN: 樱与<NAME>的
+CN: 体力与气力
+CN: 全恢复
+
+# [0549] [ROM: 0x24B46A] [Bank: 0x92:0x346A] [CPU: 0x746A] [OrigLen: 10]
+JP: では　たのんだぞ。
+CN: 拜托了。
+
+# [0550] [ROM: 0x24B474] [Bank: 0x92:0x3474] [CPU: 0x7474] [OrigLen: 37]
+JP: さくらと　<NAME>　は　
+JP: かいぐんだいじん
+JP: やまぐち　かずとよ　を
+JP: たすけた。
+CN: 樱与<NAME>
+CN: 救出了海军大臣
+CN: 山口香豊。
+
+# [0551] [ROM: 0x24B499] [Bank: 0x92:0x3499] [CPU: 0x7499] [OrigLen: 32]
+JP: だいじん！！
+JP: やまぐち　かいぐんだいじん
+JP: じゃありませんか！？
+CN: 大臣！！
+CN: 山口海军大臣
+
+# [0552] [ROM: 0x24B4B9] [Bank: 0x92:0x34B9] [CPU: 0x74B9] [OrigLen: 30]
+JP: すみれくんか。
+JP: きっと　たすけにきて
+JP: くれるとおもったよ。
+CN: 堇君啊。
+CN: 你会来救我
+
+# [0553] [ROM: 0x24B4D7] [Bank: 0x92:0x34D7] [CPU: 0x74D7] [OrigLen: 24]
+JP: おそくなって
+JP: もうしわけありません
+JP: だいじん。
+CN: 来晚了，抱歉
+CN: 大臣。
+
+# [0554] [ROM: 0x24B4EF] [Bank: 0x92:0x34EF] [CPU: 0x74EF] [OrigLen: 40]
+JP: ところで　いったい
+JP: なにがどうして　わたしは
+JP: こんなところに
+JP: とばされたのだ？
+CN: 话说我到底
+CN: 为何会被
+CN: 飞到这地方？
+
+# [0555] [ROM: 0x24B517] [Bank: 0x92:0x3517] [CPU: 0x7517] [OrigLen: 37]
+JP: おそらく　ミカサにのこされた
+JP: 『まじんき』のえいきょう
+JP: ではないかと……
+CN: 恐怕是三笠上
+CN: 魔神器的
+CN: 影响……
+
+# [0556] [ROM: 0x24B53C] [Bank: 0x92:0x353C] [CPU: 0x753C] [OrigLen: 27]
+JP: そうか…　『まじんき』か……
+JP: それは　たいへんだな。
+CN: 魔神器啊……
+CN: 真够呛。
+
+# [0557] [ROM: 0x24B557] [Bank: 0x92:0x3557] [CPU: 0x7557] [OrigLen: 34]
+JP: すみれくん　そして
+JP: そちらの　しんじんくん
+JP: がんばってくれたまえ。
+CN: 堇君和
+CN: 那边的新人
+CN: 加油。
+
+# [0558] [ROM: 0x24B579] [Bank: 0x92:0x3579] [CPU: 0x7579] [OrigLen: 48]
+JP: やまぐち　だいじんに
+JP: はげまされた　すみれと
+JP: <NAME>の　たいきゅうちと
+JP: きりょくが　ぜんかいした。
+CN: 受大臣鼓励的
+CN: 堇与<NAME>的
+CN: 体力与气力
+CN: 全恢复
+
+# [0559] [ROM: 0x24B5A9] [Bank: 0x92:0x35A9] [CPU: 0x75A9] [OrigLen: 10]
+JP: では　たのんだぞ。
+CN: 拜托了。
+
+# [0560] [ROM: 0x24B5B3] [Bank: 0x92:0x35B3] [CPU: 0x75B3] [OrigLen: 37]
+JP: すみれと　<NAME>　は　
+JP: かいぐんだいじん
+JP: やまぐち　かずとよ　を
+JP: たすけた。
+CN: 堇与<NAME>
+CN: 救出了海军大臣
+CN: 山口香豊。
+
+# [0561] [ROM: 0x24B5D8] [Bank: 0x92:0x35D8] [CPU: 0x75D8] [OrigLen: 31]
+JP: だいじん！！
+JP: やまぐち　かいぐんだいじん！
+JP: ごぶじ　ですか？
+CN: 大臣！！
+CN: 您没事吧？
+
+# [0562] [ROM: 0x24B5F7] [Bank: 0x92:0x35F7] [CPU: 0x75F7] [OrigLen: 45]
+JP: マリアくんか。
+JP: きっと　たすけにきて
+JP: くれるとおもったよ。
+JP: わたしなら　だいじょうぶだ。
+CN: 玛丽亚君啊。
+CN: 你会来救我，
+CN: 我没事。
+
+# [0563] [ROM: 0x24B624] [Bank: 0x92:0x3624] [CPU: 0x7624] [OrigLen: 31]
+JP: きゅうじょが　おそくなって
+JP: もうしわけありません
+JP: だいじん。
+CN: 救援来迟，
+CN: 真抱歉，
+CN: 大臣。
+
+# [0564] [ROM: 0x24B643] [Bank: 0x92:0x3643] [CPU: 0x7643] [OrigLen: 40]
+JP: ところで　いったい
+JP: なにがどうして　わたしは
+JP: こんなところに
+JP: とばされたのだ？
+CN: 话说我到底
+CN: 为何会被
+CN: 飞到这地方？
+
+# [0565] [ROM: 0x24B66B] [Bank: 0x92:0x366B] [CPU: 0x766B] [OrigLen: 37]
+JP: おそらく　ミカサにのこされた
+JP: 『まじんき』のえいきょう
+JP: ではないかと……
+CN: 恐怕是三笠上
+CN: 魔神器的
+CN: 影响……
+
+# [0566] [ROM: 0x24B690] [Bank: 0x92:0x3690] [CPU: 0x7690] [OrigLen: 27]
+JP: そうか…　『まじんき』か……
+JP: それは　たいへんだな。
+CN: 魔神器啊……
+CN: 真够呛。
+
+# [0567] [ROM: 0x24B6AB] [Bank: 0x92:0x36AB] [CPU: 0x76AB] [OrigLen: 34]
+JP: マリアくん　そして
+JP: そちらの　しんじんくん
+JP: がんばってくれたまえ。
+CN: 玛丽亚君和
+CN: 那边的新人
+CN: 加油。
+
+# [0568] [ROM: 0x24B6CD] [Bank: 0x92:0x36CD] [CPU: 0x76CD] [OrigLen: 48]
+JP: やまぐち　だいじんに
+JP: はげまされた　マリアと
+JP: <NAME>の　たいきゅうちと
+JP: きりょくが　ぜんかいした。
+CN: 受大臣鼓励的
+CN: 玛丽亚与<NAME>
+CN: 体力与气力
+CN: 全恢复
+
+# [0569] [ROM: 0x24B6FD] [Bank: 0x92:0x36FD] [CPU: 0x76FD] [OrigLen: 10]
+JP: では　たのんだぞ。
+CN: 拜托了。
+
+# [0570] [ROM: 0x24B707] [Bank: 0x92:0x3707] [CPU: 0x7707] [OrigLen: 37]
+JP: マリアと　<NAME>　は　
+JP: かいぐんだいじん
+JP: やまぐち　かずとよ　を
+JP: たすけた。
+CN: 玛丽亚与<NAME>
+CN: 救出了海军大臣
+CN: 山口香豊。
+
+# [0571] [ROM: 0x24B72C] [Bank: 0x92:0x372C] [CPU: 0x772C] [OrigLen: 32]
+JP: あっ！　だいじん！！
+JP: やまぐちの　おじちゃん！
+JP: だいじょうぶ？
+CN: 啊！大臣！！
+CN: 山口叔叔！
+
+# [0572] [ROM: 0x24B74C] [Bank: 0x92:0x374C] [CPU: 0x774C] [OrigLen: 25]
+JP: おお　アイリスか。
+JP: わたしは　だいじょうぶだよ。
+CN: 哦，是爱丽丝。
+CN: 我没事。
+
+# [0573] [ROM: 0x24B765] [Bank: 0x92:0x3765] [CPU: 0x7765] [OrigLen: 40]
+JP: あーよかった。
+JP: やまぐちの　おじちゃんは
+JP: かいぐんの　だいじんさん
+JP: なんだよ。
+CN: 太好了。
+CN: 山口叔叔是
+CN: 海军大臣。
+
+# [0574] [ROM: 0x24B78D] [Bank: 0x92:0x378D] [CPU: 0x778D] [OrigLen: 40]
+JP: ところで　いったい
+JP: なにがどうして　わたしは
+JP: こんなところに
+JP: とばされたのだ？
+CN: 话说我到底
+CN: 为何会被
+CN: 飞到这地方？
+
+# [0575] [ROM: 0x24B7B5] [Bank: 0x92:0x37B5] [CPU: 0x77B5] [OrigLen: 28]
+JP: ミカサに　のこってた
+JP: 『まじんき』のせい
+JP: なんだって。
+CN: 三笠上残留
+CN: 魔神器害的
+
+# [0576] [ROM: 0x24B7D1] [Bank: 0x92:0x37D1] [CPU: 0x77D1] [OrigLen: 27]
+JP: そうか…　『まじんき』か……
+JP: それは　たいへんだな。
+CN: 魔神器啊……
+CN: 真够呛。
+
+# [0577] [ROM: 0x24B7EC] [Bank: 0x92:0x37EC] [CPU: 0x77EC] [OrigLen: 29]
+JP: アイリス　そして
+JP: そちらの　しんじんくん
+JP: がんばってな。
+CN: 爱丽丝和
+CN: 新人加油。
+
+# [0578] [ROM: 0x24B809] [Bank: 0x92:0x3809] [CPU: 0x7809] [OrigLen: 49]
+JP: やまぐち　だいじんに
+JP: はげまされた　アイリスと
+JP: <NAME>の　たいきゅうちと
+JP: きりょくが　ぜんかいした。
+CN: 受大臣鼓励的
+CN: 爱丽丝与<NAME>
+CN: 体力与气力
+CN: 全恢复
+
+# [0579] [ROM: 0x24B83A] [Bank: 0x92:0x383A] [CPU: 0x783A] [OrigLen: 10]
+JP: では　たのんだぞ。
+CN: 拜托了。
+
+# [0580] [ROM: 0x24B844] [Bank: 0x92:0x3844] [CPU: 0x7844] [OrigLen: 38]
+JP: アイリスと　<NAME>　は　
+JP: かいぐんだいじん
+JP: やまぐち　かずとよ　を
+JP: たすけた。
+CN: 爱丽丝与<NAME>
+CN: 救出了海军大臣
+CN: 山口香豊。
+
+# [0581] [ROM: 0x24B86A] [Bank: 0x92:0x386A] [CPU: 0x786A] [OrigLen: 35]
+JP: あっ！　だいじん！！
+JP: やまぐち　かいぐんだいじん
+JP: や　おまへんか！！
+CN: 啊！大臣！！
+CN: 山口海军大臣
+
+# [0582] [ROM: 0x24B88D] [Bank: 0x92:0x388D] [CPU: 0x788D] [OrigLen: 31]
+JP: こうらんくんか。
+JP: きっと　たすけにきて
+JP: くれるとおもったよ。
+CN: 红兰君啊。
+CN: 你会来救我
+
+# [0583] [ROM: 0x24B8AC] [Bank: 0x92:0x38AC] [CPU: 0x78AC] [OrigLen: 24]
+JP: おそくなって
+JP: すんまへんな〜。
+JP: だいじんはん。
+CN: 来晚了，抱歉
+CN: 大臣。
+
+# [0584] [ROM: 0x24B8C4] [Bank: 0x92:0x38C4] [CPU: 0x78C4] [OrigLen: 40]
+JP: ところで　いったい
+JP: なにがどうして　わたしは
+JP: こんなところに
+JP: とばされたのだ？
+CN: 话说我到底
+CN: 为何会被
+CN: 飞到这地方？
+
+# [0585] [ROM: 0x24B8EC] [Bank: 0x92:0x38EC] [CPU: 0x78EC] [OrigLen: 40]
+JP: おそらく　ミカサにのこされた
+JP: 『まじんき』のえいきょう
+JP: ちゃうか〜　ゆーことで
+CN: 恐怕是三笠上
+CN: 魔神器影响
+
+# [0586] [ROM: 0x24B914] [Bank: 0x92:0x3914] [CPU: 0x7914] [OrigLen: 27]
+JP: そうか…　『まじんき』か……
+JP: それは　たいへんだな。
+CN: 魔神器啊……
+CN: 真够呛。
+
+# [0587] [ROM: 0x24B92F] [Bank: 0x92:0x392F] [CPU: 0x792F] [OrigLen: 35]
+JP: こうらんくん　そして
+JP: そちらの　しんじんくん
+JP: がんばってくれたまえ。
+CN: 红兰君和
+CN: 那边的新人
+CN: 加油。
+
+# [0588] [ROM: 0x24B952] [Bank: 0x92:0x3952] [CPU: 0x7952] [OrigLen: 49]
+JP: やまぐち　だいじんに
+JP: はげまされた　こうらんと
+JP: <NAME>の　たいきゅうちと
+JP: きりょくが　ぜんかいした。
+CN: 受大臣鼓励的
+CN: 红兰与<NAME>
+CN: 体力与气力
+CN: 全恢复
+
+# [0589] [ROM: 0x24B983] [Bank: 0x92:0x3983] [CPU: 0x7983] [OrigLen: 10]
+JP: では　たのんだぞ。
+CN: 拜托了。
+
+# [0590] [ROM: 0x24B98D] [Bank: 0x92:0x398D] [CPU: 0x798D] [OrigLen: 38]
+JP: こうらんと　<NAME>　は　
+JP: かいぐんだいじん
+JP: やまぐち　かずとよ　を
+JP: たすけた。
+CN: 红兰与<NAME>
+CN: 救出了海军大臣
+CN: 山口香豊。
+
+# [0591] [ROM: 0x24B9B3] [Bank: 0x92:0x39B3] [CPU: 0x79B3] [OrigLen: 32]
+JP: あっ！　だいじん！！
+JP: やまぐち　かいぐんだいじん
+JP: じゃないか。
+CN: 啊！大臣！！
+CN: 海军大臣
+
+# [0592] [ROM: 0x24B9D3] [Bank: 0x92:0x39D3] [CPU: 0x79D3] [OrigLen: 26]
+JP: カンナくんか。
+JP: やっぱり　たすけにきて
+JP: くれたね。
+CN: 神奈君啊。
+CN: 果然来救我
+
+# [0593] [ROM: 0x24B9ED] [Bank: 0x92:0x39ED] [CPU: 0x79ED] [OrigLen: 19]
+JP: おそくなって　すまねぇな
+JP: だいじん。
+CN: 来晚了抱歉
+CN: 大臣
+
+# [0594] [ROM: 0x24BA00] [Bank: 0x92:0x3A00] [CPU: 0x7A00] [OrigLen: 40]
+JP: ところで　いったい
+JP: なにがどうして　わたしは
+JP: こんなところに
+JP: とばされたのだ？
+CN: 话说我到底
+CN: 为何会被
+CN: 飞到这地方？
+
+# [0595] [ROM: 0x24BA28] [Bank: 0x92:0x3A28] [CPU: 0x7A28] [OrigLen: 37]
+JP: おそらく　ミカサにのこされた
+JP: 『まじんき』のえいきょう
+JP: ではないかと……
+CN: 恐怕是三笠上
+CN: 魔神器的
+CN: 影响……
+
+# [0596] [ROM: 0x24BA4D] [Bank: 0x92:0x3A4D] [CPU: 0x7A4D] [OrigLen: 27]
+JP: そうか…　『まじんき』か……
+JP: それは　たいへんだな。
+CN: 魔神器啊……
+CN: 真够呛。
+
+# [0597] [ROM: 0x24BA68] [Bank: 0x92:0x3A68] [CPU: 0x7A68] [OrigLen: 34]
+JP: カンナくん　そして
+JP: そちらの　しんじんくん
+JP: がんばってくれたまえ。
+CN: 神奈君和
+CN: 那边的新人
+CN: 加油。
+
+# [0598] [ROM: 0x24BA8A] [Bank: 0x92:0x3A8A] [CPU: 0x7A8A] [OrigLen: 48]
+JP: やまぐち　だいじんに
+JP: はげまされた　カンナと
+JP: <NAME>の　たいきゅうちと
+JP: きりょくが　ぜんかいした。
+CN: 受大臣鼓励的
+CN: 神奈与<NAME>
+CN: 体力与气力
+CN: 全恢复
+
+# [0599] [ROM: 0x24BABA] [Bank: 0x92:0x3ABA] [CPU: 0x7ABA] [OrigLen: 10]
+JP: では　たのんだぞ。
+CN: 拜托了。
+
+# [0600] [ROM: 0x24BAC4] [Bank: 0x92:0x3AC4] [CPU: 0x7AC4] [OrigLen: 37]
+JP: カンナと　<NAME>　は　
+JP: かいぐんだいじん
+JP: やまぐち　かずとよ　を
+JP: たすけた。
+CN: 神奈与<NAME>
+CN: 救出了海军大臣
+CN: 山口香豊。
+
+# [0601] [ROM: 0x24BAE9] [Bank: 0x92:0x3AE9] [CPU: 0x7AE9] [OrigLen: 39]
+JP: <82>ー<82><88>！　だいじんさん！！
+JP: やまぐち　かいぐんだいじん
+JP: じゃないでーすか。
+CN: 哇啊！大臣！！
+CN: 山口海军大臣
+
+# [0602] [ROM: 0x24BB10] [Bank: 0x92:0x3B10] [CPU: 0x7B10] [OrigLen: 34]
+JP: おりひめくんか。
+JP: きっと　たすけにきて
+JP: くれると　おもっていたよ。
+CN: 织姬君啊。
+CN: 你会来救我
+
+# [0603] [ROM: 0x24BB32] [Bank: 0x92:0x3B32] [CPU: 0x7B32] [OrigLen: 26]
+JP: アイムソーリー
+JP: ヒゲソーリーでーす
+JP: だいじんさん。
+CN: 抱歉，胡子大人
+CN: 大臣。
+
+# [0604] [ROM: 0x24BB4C] [Bank: 0x92:0x3B4C] [CPU: 0x7B4C] [OrigLen: 40]
+JP: ところで　いったい
+JP: なにがどうして　わたしは
+JP: こんなところに
+JP: とばされたのだ？
+CN: 话说我到底
+CN: 为何会被
+CN: 飞到这地方？
+
+# [0605] [ROM: 0x24BB74] [Bank: 0x92:0x3B74] [CPU: 0x7B74] [OrigLen: 37]
+JP: おそらく　ミカサにのこされた
+JP: 『まじんき』のえいきょう
+JP: ではないかと……
+CN: 恐怕是三笠上
+CN: 魔神器的
+CN: 影响……
+
+# [0606] [ROM: 0x24BB99] [Bank: 0x92:0x3B99] [CPU: 0x7B99] [OrigLen: 27]
+JP: そうか…　『まじんき』か……
+JP: それは　たいへんだな。
+CN: 魔神器啊……
+CN: 真够呛。
+
+# [0607] [ROM: 0x24BBB4] [Bank: 0x92:0x3BB4] [CPU: 0x7BB4] [OrigLen: 35]
+JP: おりひめくん　そして
+JP: そちらの　しんじんくん
+JP: がんばってくれたまえ。
+CN: 织姬君和
+CN: 那边的新人
+CN: 加油。
+
+# [0608] [ROM: 0x24BBD7] [Bank: 0x92:0x3BD7] [CPU: 0x7BD7] [OrigLen: 49]
+JP: やまぐち　だいじんに
+JP: はげまされた　おりひめと
+JP: <NAME>の　たいきゅうちと
+JP: きりょくが　ぜんかいした。
+CN: 受大臣鼓励的
+CN: 织姬与<NAME>
+CN: 体力与气力
+CN: 全恢复
+
+# [0609] [ROM: 0x24BC08] [Bank: 0x92:0x3C08] [CPU: 0x7C08] [OrigLen: 10]
+JP: では　たのんだぞ。
+CN: 拜托了。
+
+# [0610] [ROM: 0x24BC12] [Bank: 0x92:0x3C12] [CPU: 0x7C12] [OrigLen: 38]
+JP: おりひめと　<NAME>　は　
+JP: かいぐんだいじん
+JP: やまぐち　かずとよ　を
+JP: たすけた。
+CN: 织姬与<NAME>
+CN: 救出了海军大臣
+CN: 山口香豊。
+
+# [0611] [ROM: 0x24BC38] [Bank: 0x92:0x3C38] [CPU: 0x7C38] [OrigLen: 30]
+JP: だいじん！！
+JP: やまぐち　かいぐんだいじん！
+JP: ごぶじですか？
+CN: 大臣！！
+CN: 您没事吧？
+
+# [0612] [ROM: 0x24BC56] [Bank: 0x92:0x3C56] [CPU: 0x7C56] [OrigLen: 24]
+JP: レニくんか。
+JP: やはり　たすけにきて
+JP: くれたね。
+CN: 蕾妮君啊。
+CN: 果然来救我
+
+# [0613] [ROM: 0x24BC6E] [Bank: 0x92:0x3C6E] [CPU: 0x7C6E] [OrigLen: 23]
+JP: きゅうじょがおくれて
+JP: すみません
+JP: だいじん。
+CN: 救援迟了，
+CN: 抱歉。
+
+# [0614] [ROM: 0x24BC85] [Bank: 0x92:0x3C85] [CPU: 0x7C85] [OrigLen: 40]
+JP: ところで　いったい
+JP: なにがどうして　わたしは
+JP: こんなところに
+JP: とばされたのだ？
+CN: 话说我到底
+CN: 为何会被
+CN: 飞到这地方？
+
+# [0615] [ROM: 0x24BCAD] [Bank: 0x92:0x3CAD] [CPU: 0x7CAD] [OrigLen: 37]
+JP: おそらく　ミカサにのこされた
+JP: 『まじんき』のえいきょう
+JP: ではないかと……
+CN: 恐怕是三笠上
+CN: 魔神器的
+CN: 影响……
+
+# [0616] [ROM: 0x24BCD2] [Bank: 0x92:0x3CD2] [CPU: 0x7CD2] [OrigLen: 27]
+JP: そうか…　『まじんき』か……
+JP: それは　たいへんだな。
+CN: 魔神器啊……
+CN: 真够呛。
+
+# [0617] [ROM: 0x24BCED] [Bank: 0x92:0x3CED] [CPU: 0x7CED] [OrigLen: 33]
+JP: レニくん　そして
+JP: そちらの　しんじんくん
+JP: がんばってくれたまえ。
+CN: 蕾妮君和
+CN: 那边的新人
+CN: 加油。
+
+# [0618] [ROM: 0x24BD0E] [Bank: 0x92:0x3D0E] [CPU: 0x7D0E] [OrigLen: 47]
+JP: やまぐち　だいじんに
+JP: はげまされた　レニと
+JP: <NAME>の　たいきゅうちと
+JP: きりょくが　ぜんかいした。
+CN: 受大臣鼓励的
+CN: 蕾妮与<NAME>
+CN: 体力与气力
+CN: 全恢复
+
+# [0619] [ROM: 0x24BD3D] [Bank: 0x92:0x3D3D] [CPU: 0x7D3D] [OrigLen: 10]
+JP: では　たのんだぞ。
+CN: 拜托了。
+
+# [0620] [ROM: 0x24BD47] [Bank: 0x92:0x3D47] [CPU: 0x7D47] [OrigLen: 36]
+JP: レニと　<NAME>　は　
+JP: かいぐんだいじん
+JP: やまぐち　かずとよ　を
+JP: たすけた。
+CN: 蕾妮与<NAME>
+CN: 救出了海军大臣
+CN: 山口香豊。
+
+# [0621] [ROM: 0x24BD6B] [Bank: 0x92:0x3D6B] [CPU: 0x7D6B] [OrigLen: 12]
+JP: だいじょうぶ　ですか？
+CN: 你没事吧？
+
+# [0622] [ROM: 0x24BD77] [Bank: 0x92:0x3D77] [CPU: 0x7D77] [OrigLen: 20]
+JP: おう！
+JP: いいところに
+JP: きたじゃねーか。
+CN: 哦！
+CN: 来得正好！
+
+# [0623] [ROM: 0x24BD8B] [Bank: 0x92:0x3D8B] [CPU: 0x7D8B] [OrigLen: 24]
+JP: おめーら　『かみしばい』を
+JP: ひろってねーかい？
+CN: 捡到我的纸戏
+CN: 了吗？
+
+# [0624] [ROM: 0x24BDA3] [Bank: 0x92:0x3DA3] [CPU: 0x7DA3] [OrigLen: 9]
+JP: 『かみしばい』？
+CN: 纸戏？
+
+# [0625] [ROM: 0x24BDAC] [Bank: 0x92:0x3DAC] [CPU: 0x7DAC] [OrigLen: 27]
+JP: ああ。
+JP: オレっちの　でぇーじな
+JP: しょうばいどうぐさ！
+CN: 啊，那是我
+CN: 重要道具
+
+# [0626] [ROM: 0x24BDC7] [Bank: 0x92:0x3DC7] [CPU: 0x7DC7] [OrigLen: 26]
+JP: すみません。
+JP: 『かみしばい』は
+JP: ひろっていません。
+CN: 抱歉。
+CN: 没捡到纸戏。
+
+# [0627] [ROM: 0x24BDE1] [Bank: 0x92:0x3DE1] [CPU: 0x7DE1] [OrigLen: 19]
+JP: そうか……
+JP: んじゃ　さがさなきゃな。
+CN: 这样啊，得找
+
+# [0628] [ROM: 0x24BDF4] [Bank: 0x92:0x3DF4] [CPU: 0x7DF4] [OrigLen: 32]
+JP: あっ　そうそう。
+JP: もしみつけたら　ここまで
+JP: もってきてくれよ。
+CN: 啊对了。
+CN: 找到就送来
+CN: 这里。
+
+# [0629] [ROM: 0x24BE14] [Bank: 0x92:0x3E14] [CPU: 0x7E14] [OrigLen: 32]
+JP: オレっちは　このへんを
+JP: さがしてるからよ。
+JP: じゃ　たのんだぜ！
+CN: 我在这一带
+CN: 找，拜托了
+
+# [0630] [ROM: 0x24BE34] [Bank: 0x92:0x3E34] [CPU: 0x7E34] [OrigLen: 37]
+JP: おう　おめーらか！
+JP: もしかして　『かみしばい』
+JP: をみっけてくれたのかい？
+CN: 哦，是你们！
+CN: 找到纸戏了？
+
+# [0631] [ROM: 0x24BE59] [Bank: 0x92:0x3E59] [CPU: 0x7E59] [OrigLen: 19]
+JP: すみません
+JP: まだみつからないんです。
+CN: 抱歉，
+CN: 还没找到。
+
+# [0632] [ROM: 0x24BE6C] [Bank: 0x92:0x3E6C] [CPU: 0x7E6C] [OrigLen: 26]
+JP: そうかい
+JP: それじゃあ　がんばって
+JP: さがさねーとな。
+CN: 这样啊，那
+CN: 得好好找了。
+
+# [0633] [ROM: 0x24BE86] [Bank: 0x92:0x3E86] [CPU: 0x7E86] [OrigLen: 29]
+JP: オレっちは　このへんを
+JP: さがしてるからよ。
+JP: たのんだぜ！
+CN: 我在这一带
+CN: 找，拜托了
+
+# [0634] [ROM: 0x24BEA3] [Bank: 0x92:0x3EA3] [CPU: 0x7EA3] [OrigLen: 13]
+JP: もしかして　コレですか？
+CN: 是这个吗？
+
+# [0635] [ROM: 0x24BEB0] [Bank: 0x92:0x3EB0] [CPU: 0x7EB0] [OrigLen: 17]
+JP: おおっ！
+JP: そうだよ　コレだよ〜！
+CN: 哦，就是它！
+
+# [0636] [ROM: 0x24BEC1] [Bank: 0x92:0x3EC1] [CPU: 0x7EC1] [OrigLen: 32]
+JP: たすかったよ〜。
+JP: コレがないと　かえれない
+JP: とこだったんだ〜。
+CN: 得救了～
+CN: 没它回不去～
+
+# [0637] [ROM: 0x24BEE1] [Bank: 0x92:0x3EE1] [CPU: 0x7EE1] [OrigLen: 31]
+JP: あっそうだ　これは
+JP: オレっちの　きもちだ。
+JP: うけとってくれ。
+CN: 对了，这是
+CN: 我的心意
+CN: 收下吧
+
+# [0638] [ROM: 0x24BF00] [Bank: 0x92:0x3F00] [CPU: 0x7F00] [OrigLen: 17]
+JP: <NAME>は
+JP: 『だんやく』を　もらった。
+CN: <NAME>拿到了
+CN: 弹药。
+
+# [0639] [ROM: 0x24BF11] [Bank: 0x92:0x3F11] [CPU: 0x7F11] [OrigLen: 23]
+JP: <NAME>　は
+JP: 『あらしのたま』のわざを
+JP: おぼえた！
+CN: <NAME>学会了
+CN: 『暴风弹』技
+
+# [0640] [ROM: 0x24BF28] [Bank: 0x92:0x3F28] [CPU: 0x7F28] [OrigLen: 32]
+JP: 『あらしのたま』は
+JP: 『ハンドガン』に
+JP: セットすることができる。
+CN: 『暴风弹』可
+CN: 装备于
+CN: 『手枪』
+
+# [0641] [ROM: 0x24BF48] [Bank: 0x92:0x3F48] [CPU: 0x7F48] [OrigLen: 43]
+JP: 『あらしのたま』は
+JP: 『ハンドガン』と
+JP: 『ガトリングうで』に
+JP: セットすることができる。
+CN: 『暴风弹』可
+CN: 装于手枪
+CN: 和加特林臂
+
+# [0642] [ROM: 0x24BF73] [Bank: 0x92:0x3F73] [CPU: 0x7F73] [OrigLen: 26]
+JP: <NAME>　は　
+JP: かみしばいやの
+JP: ちばすけ　を
+JP: たすけた。
+CN: <NAME>救出了
+CN: 纸戏师
+CN: 千叶助。
+
+# [0643] [ROM: 0x24BF8D] [Bank: 0x92:0x3F8D] [CPU: 0x7F8D] [OrigLen: 12]
+JP: だいじょうぶ　ですか？
+CN: 你没事吧？
+
+# [0644] [ROM: 0x24BF99] [Bank: 0x92:0x3F99] [CPU: 0x7F99] [OrigLen: 20]
+JP: おう！
+JP: いいところに
+JP: きたじゃねーか。
+CN: 哦！
+CN: 来得正好！
+
+# [0645] [ROM: 0x24BFAD] [Bank: 0x92:0x3FAD] [CPU: 0x7FAD] [OrigLen: 24]
+JP: おめーら　『かみしばい』を
+JP: ひろってねーかい？
+CN: 捡到我的纸戏
+CN: 了吗？
+
+# [0646] [ROM: 0x24BFC5] [Bank: 0x92:0x3FC5] [CPU: 0x7FC5] [OrigLen: 9]
+JP: 『かみしばい』？
+CN: 纸戏？
+
+# [0647] [ROM: 0x24BFCE] [Bank: 0x92:0x3FCE] [CPU: 0x7FCE] [OrigLen: 27]
+JP: ああ。
+JP: オレっちの　でぇーじな
+JP: しょうばいどうぐさ！
+CN: 啊，那是我
+CN: 重要道具
+

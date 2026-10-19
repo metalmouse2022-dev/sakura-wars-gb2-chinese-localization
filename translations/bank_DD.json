@@ -1,0 +1,26 @@
+[
+  {
+    "bank": "0xDD",
+    "offset": "0x37706C",
+    "bank_offset": "0x306C",
+    "format": "Shift-JIS",
+    "raw_hex": "788cf88cf89cf098f098f0",
+    "text": "x効効懺會會"
+  },
+  {
+    "bank": "0xDD",
+    "offset": "0x377A55",
+    "bank_offset": "0x3A55",
+    "format": "Shift-JIS",
+    "raw_hex": "90f0e082",
+    "text": "栓烽"
+  },
+  {
+    "bank": "0xDD",
+    "offset": "0x377CC9",
+    "bank_offset": "0x3CC9",
+    "format": "Shift-JIS",
+    "raw_hex": "96f1ee87",
+    "text": "約訒"
+  }
+]

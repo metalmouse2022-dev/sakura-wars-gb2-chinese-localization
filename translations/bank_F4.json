@@ -1,0 +1,10 @@
+[
+  {
+    "bank": "0xF4",
+    "offset": "0x3D351F",
+    "bank_offset": "0x351F",
+    "format": "Shift-JIS",
+    "raw_hex": "2be8fa0d2b",
+    "text": "+顫\r+"
+  }
+]

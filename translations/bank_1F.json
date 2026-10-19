@@ -1,0 +1,1298 @@
+[
+  {
+    "bank": "0x1F",
+    "offset": "0x07C78E",
+    "bank_offset": "0x078E",
+    "format": "Shift-JIS",
+    "raw_hex": "e0e7e07021",
+    "text": "珸瀾!"
+  },
+  {
+    "bank": "0x1F",
+    "offset": "0x07C7BF",
+    "bank_offset": "0x07BF",
+    "format": "Shift-JIS",
+    "raw_hex": "e0e7e07021",
+    "text": "珸瀾!"
+  },
+  {
+    "bank": "0x1F",
+    "offset": "0x07C97D",
+    "bank_offset": "0x097D",
+    "format": "Shift-JIS",
+    "raw_hex": "e0e7e07021",
+    "text": "珸瀾!"
+  },
+  {
+    "bank": "0x1F",
+    "offset": "0x07CAE4",
+    "bank_offset": "0x0AE4",
+    "format": "Shift-JIS",
+    "raw_hex": "e0e7e07021",
+    "text": "珸瀾!"
+  },
+  {
+    "bank": "0x1F",
+    "offset": "0x07CBCD",
+    "bank_offset": "0x0BCD",
+    "format": "Shift-JIS",
+    "raw_hex": "e0e7e07021",
+    "text": "珸瀾!"
+  },
+  {
+    "bank": "0x1F",
+    "offset": "0x07D2B5",
+    "bank_offset": "0x12B5",
+    "format": "Shift-JIS",
+    "raw_hex": "e0e7e07021",
+    "text": "珸瀾!"
+  },
+  {
+    "bank": "0x1F",
+    "offset": "0x07D6D1",
+    "bank_offset": "0x16D1",
+    "format": "Shift-JIS",
+    "raw_hex": "816982b182ea82c582cd0d814082d082aa82a282aa82c582c482b582dc82a4816381638163816a",
+    "text": "（これでは\r　ひがいがでてしまう………）"
+  },
+  {
+    "bank": "0x1F",
+    "offset": "0x07D749",
+    "bank_offset": "0x1749",
+    "format": "Shift-JIS",
+    "raw_hex": "82b582f182ae82a482b682b382ad82e70d82dc82a282e882dc82b78142",
+    "text": "しんぐうじさくら\rまいります。"
+  },
+  {
+    "bank": "0x1F",
+    "offset": "0x07D76E",
+    "bank_offset": "0x176E",
+    "format": "Shift-JIS",
+    "raw_hex": "0d82dc82a282e882dc82b782ed82e68142",
+    "text": "\rまいりますわよ。"
+  },
+  {
+    "bank": "0x1F",
+    "offset": "0x07D788",
+    "bank_offset": "0x1788",
+    "format": "Shift-JIS",
+    "raw_hex": "82a282ad82ed82e68142",
+    "text": "いくわよ。"
+  },
+  {
+    "bank": "0x1F",
+    "offset": "0x07D79E",
+    "bank_offset": "0x179E",
+    "format": "Shift-JIS",
+    "raw_hex": "82b682e1814082a282c182ad82e681608142",
+    "text": "じゃ　いっくよ～。"
+  },
+  {
+    "bank": "0x1F",
+    "offset": "0x07D7B8",
+    "bank_offset": "0x17B8",
+    "format": "Shift-JIS",
+    "raw_hex": "2882d982c8814082a282c182bf82e5814082a282ad82c581608142",
+    "text": "(ほな　いっちょ　いくで～。"
+  },
+  {
+    "bank": "0x1F",
+    "offset": "0x07D7DB",
+    "bank_offset": "0x17DB",
+    "format": "Shift-JIS",
+    "raw_hex": "3482e282c182c482e282e982ba8149",
+    "text": "4やってやるぜ！"
+  },
+  {
+    "bank": "0x1F",
+    "offset": "0x07D7F5",
+    "bank_offset": "0x17F5",
+    "format": "Shift-JIS",
+    "raw_hex": "4082a282ad82c5816082b78149",
+    "text": "@いくで～す！"
+  },
+  {
+    "bank": "0x1F",
+    "offset": "0x07D80A",
+    "bank_offset": "0x180A",
+    "format": "Shift-JIS",
+    "raw_hex": "4782a282ad82e68142",
+    "text": "Gいくよ。"
+  },
+  {
+    "bank": "0x1F",
+    "offset": "0x07D81B",
+    "bank_offset": "0x181B",
+    "format": "Shift-JIS",
+    "raw_hex": "4f82e682b5814082a282ad82bc8149",
+    "text": "Oよし　いくぞ！"
+  },
+  {
+    "bank": "0x1F",
+    "offset": "0x07D87C",
+    "bank_offset": "0x187C",
+    "format": "Shift-JIS",
+    "raw_hex": "82e282e882dc82b582bd82cb8149",
+    "text": "やりましたね！"
+  },
+  {
+    "bank": "0x1F",
+    "offset": "0x07D890",
+    "bank_offset": "0x1890",
+    "format": "Shift-JIS",
+    "raw_hex": "82c682a482ba82f182cc814082af82c182a9814082c582b782ed8142",
+    "text": "とうぜんの　けっか　ですわ。"
+  },
+  {
+    "bank": "0x1F",
+    "offset": "0x07D8B2",
+    "bank_offset": "0x18B2",
+    "format": "Shift-JIS",
+    "raw_hex": "82e682ad82e282c182bd82ed82cb8142",
+    "text": "よくやったわね。"
+  },
+  {
+    "bank": "0x1F",
+    "offset": "0x07D8C8",
+    "bank_offset": "0x18C8",
+    "format": "Shift-JIS",
+    "raw_hex": "82e282c182bd816081490d82ce82f182b4816082a281498149",
+    "text": "やった～！\rばんざ～い！！"
+  },
+  {
+    "bank": "0x1F",
+    "offset": "0x07D8E6",
+    "bank_offset": "0x18E6",
+    "format": "Shift-JIS",
+    "raw_hex": "2c82c782f182c782f1814082a282ad82c581608142",
+    "text": ",どんどん　いくで～。"
+  },
+  {
+    "bank": "0x1F",
+    "offset": "0x07D900",
+    "bank_offset": "0x1900",
+    "format": "Shift-JIS",
+    "raw_hex": "3282a082a282c482aa814082ed82e982a982c182bd82c88142",
+    "text": "2あいてが　わるかったな。"
+  },
+  {
+    "bank": "0x1F",
+    "offset": "0x07D91E",
+    "bank_offset": "0x191E",
+    "format": "Shift-JIS",
+    "raw_hex": "3b82dd82b282c682c8814082b582e582a482e882c5816082b78142",
+    "text": ";みごとな　しょうりで～す。"
+  },
+  {
+    "bank": "0x1F",
+    "offset": "0x07D93E",
+    "bank_offset": "0x193E",
+    "format": "Shift-JIS",
+    "raw_hex": "4482e682b58142",
+    "text": "Dよし。"
+  },
+  {
+    "bank": "0x1F",
+    "offset": "0x07D94A",
+    "bank_offset": "0x194A",
+    "format": "Shift-JIS",
+    "raw_hex": "4f82b182cc82bf82e582a482b582c5814082a282ad82bc8142",
+    "text": "Oこのちょうしで　いくぞ。"
+  },
+  {
+    "bank": "0x1F",
+    "offset": "0x07D97F",
+    "bank_offset": "0x197F",
+    "format": "Shift-JIS",
+    "raw_hex": "4f82b182a482d482cd0d82b782a282bf82e382a482c50d82bf82e582a482b682a982f10d82b182a482c782a482c582ab82c882a28142",
+    "text": "Oこうぶは\rすいちゅうで\rちょうじかん\rこうどうできない。"
+  },
+  {
+    "bank": "0x1F",
+    "offset": "0x07D9B7",
+    "bank_offset": "0x19B7",
+    "format": "Shift-JIS",
+    "raw_hex": "82b182b182cd814082b782ce82e282ad0d82b982f182c682a482f0814082a882ed82e782b982e682a48149",
+    "text": "ここは　すばやく\rせんとうを　おわらせよう！"
+  },
+  {
+    "bank": "0x1F",
+    "offset": "0x07D9E8",
+    "bank_offset": "0x19E8",
+    "format": "Shift-JIS",
+    "raw_hex": "82b182a482d482cd0d82dd82b882cc82c882a982c50d82c882aa82a282b682a982f10d82b182a482c782a482c582ab82dc82b982f18142",
+    "text": "こうぶは\rみずのなかで\rながいじかん\rこうどうできません。"
+  },
+  {
+    "bank": "0x1F",
+    "offset": "0x07DA21",
+    "bank_offset": "0x1A21",
+    "format": "Shift-JIS",
+    "raw_hex": "82a282bb82a282c5814082b982f182c682a482f00d82a882ed82e782b982dc82b582e582a48142",
+    "text": "いそいで　せんとうを\rおわらせましょう。"
+  },
+  {
+    "bank": "0x1F",
+    "offset": "0x07DA4D",
+    "bank_offset": "0x1A4D",
+    "format": "Shift-JIS",
+    "raw_hex": "212f6e0d82b182a482d482cd0d82dd82b882cc82c882a982b682e10d82c882aa82ad814082a482b282af82c882a282a982e782cb8142",
+    "text": "!/n\rこうぶは\rみずのなかじゃ\rながく　うごけないからね。"
+  },
+  {
+    "bank": "0x1F",
+    "offset": "0x07DA85",
+    "bank_offset": "0x1A85",
+    "format": "Shift-JIS",
+    "raw_hex": "82cd82e282ad814082b982f182f00d82b182ed82b582bf82e182a882a48149",
+    "text": "はやく　せんを\rこわしちゃおう！"
+  },
+  {
+    "bank": "0x1F",
+    "offset": "0x07DAA9",
+    "bank_offset": "0x1AA9",
+    "format": "Shift-JIS",
+    "raw_hex": "3482b182a482d482cd0d82b782a282bf82e382a482c50d82c882aa82ad814082a982c282c782a482c582ab82cb82a58142",
+    "text": "4こうぶは\rすいちゅうで\rながく　かつどうできねぇ。"
+  },
+  {
+    "bank": "0x1F",
+    "offset": "0x07DADC",
+    "bank_offset": "0x1ADC",
+    "format": "Shift-JIS",
+    "raw_hex": "82c682c182c682c60d82d482bf82cc82df82b582bf82dc82a882a482ba8149",
+    "text": "とっとと\rぶちのめしちまおうぜ！"
+  },
+  {
+    "bank": "0x1F",
+    "offset": "0x07DB28",
+    "bank_offset": "0x1B28",
+    "format": "Shift-JIS",
+    "raw_hex": "82a082ea814881488148",
+    "text": "あれ？？？"
+  },
+  {
+    "bank": "0x1F",
+    "offset": "0x07DB38",
+    "bank_offset": "0x1B38",
+    "format": "Shift-JIS",
+    "raw_hex": "83528345837d83898343835f815b0d817582de82c1814182de82cb82f1816381638163",
+    "text": "コウマライダー\r「むっ、むねん………"
+  },
+  {
+    "bank": "0x1F",
+    "offset": "0x07DB5F",
+    "bank_offset": "0x1B5F",
+    "format": "Shift-JIS",
+    "raw_hex": "7b82b182c682cb0d817583588365834c81a7",
+    "text": "{ことね\r「ステキ〒"
+  },
+  {
+    "bank": "0x1F",
+    "offset": "0x07DB76",
+    "bank_offset": "0x1B76",
+    "format": "Shift-JIS",
+    "raw_hex": "8f8353837e82cc837c834382b782c482cd835f838182be81608149",
+    "text": "純Sミのポイすてはダメだ～！"
+  },
+  {
+    "bank": "0x1F",
+    "offset": "0x07DBA3",
+    "bank_offset": "0x1BA3",
+    "format": "Shift-JIS",
+    "raw_hex": "83528382836882b182a482dc82cc814082be82f182dc82c282dc82cd0d82b182a482dc83558345838b835882f0814082e682d182e682b982e98149",
+    "text": "コモドこうまの　だんまつまは\rこうまザウルスを　よびよせる！"
+  },
+  {
+    "bank": "0x1F",
+    "offset": "0x07DC05",
+    "bank_offset": "0x1C05",
+    "format": "Shift-JIS",
+    "raw_hex": "8a837183878345834b814082cc814082a282a982e881638163",
+    "text": "潟qョウガ　の　いかり……"
+  },
+  {
+    "bank": "0x1F",
+    "offset": "0x07DC23",
+    "bank_offset": "0x1C23",
+    "format": "Shift-JIS",
+    "raw_hex": "8a837a836d8349814082cc814082a282a982e881638163",
+    "text": "潟zノオ　の　いかり……"
+  },
+  {
+    "bank": "0x1F",
+    "offset": "0x07DC3F",
+    "bank_offset": "0x1C3F",
+    "format": "Shift-JIS",
+    "raw_hex": "8a8343834a83598360814082cc814082a282a982e881638163",
+    "text": "潟Cカズチ　の　いかり……"
+  },
+  {
+    "bank": "0x1F",
+    "offset": "0x07DC7F",
+    "bank_offset": "0x1C7F",
+    "format": "Shift-JIS",
+    "raw_hex": "82cd82c882b582c9814082c882e782f182c881638163",
+    "text": "はなしに　ならんな……"
+  },
+  {
+    "bank": "0x1F",
+    "offset": "0x07DC9B",
+    "bank_offset": "0x1C9B",
+    "format": "Shift-JIS",
+    "raw_hex": "82df82b482ed82e882be81638163",
+    "text": "めざわりだ……"
+  },
+  {
+    "bank": "0x1F",
+    "offset": "0x07DCAF",
+    "bank_offset": "0x1CAF",
+    "format": "Shift-JIS",
+    "raw_hex": "82ab82a682a482b982eb8149",
+    "text": "きえうせろ！"
+  },
+  {
+    "bank": "0x1F",
+    "offset": "0x07DCC1",
+    "bank_offset": "0x1CC1",
+    "format": "Shift-JIS",
+    "raw_hex": "82de82e782d182c60d817582bd82b782af82c48160",
+    "text": "むらびと\r「たすけて～"
+  },
+  {
+    "bank": "0x1F",
+    "offset": "0x07DCDC",
+    "bank_offset": "0x1CDC",
+    "format": "Shift-JIS",
+    "raw_hex": "82de82e782d182c60d817582d082c682c582c882b58160",
+    "text": "むらびと\r「ひとでなし～"
+  },
+  {
+    "bank": "0x1F",
+    "offset": "0x07DCF8",
+    "bank_offset": "0x1CF8",
+    "format": "Shift-JIS",
+    "raw_hex": "6d82a982e282dc0d81758349838c82c982dc82a982b982eb8149",
+    "text": "mかやま\r「オレにまかせろ！"
+  },
+  {
+    "bank": "0x1F",
+    "offset": "0x07DD17",
+    "bank_offset": "0x1D17",
+    "format": "Shift-JIS",
+    "raw_hex": "6d82a982e282dc0d817582a082c682cd82bd82cc82de8149",
+    "text": "mかやま\r「あとはたのむ！"
+  },
+  {
+    "bank": "0x1F",
+    "offset": "0x07DD34",
+    "bank_offset": "0x1D34",
+    "format": "Shift-JIS",
+    "raw_hex": "7d82ad82e782a282c882b382a282c18149",
+    "text": "}くらいなさいっ！"
+  },
+  {
+    "bank": "0x1F",
+    "offset": "0x07DD5A",
+    "bank_offset": "0x1D5A",
+    "format": "Shift-JIS",
+    "raw_hex": "7d82a082dc82a282ed82cb82c18149",
+    "text": "}あまいわねっ！"
+  },
+  {
+    "bank": "0x1F",
+    "offset": "0x07DD6E",
+    "bank_offset": "0x1D6E",
+    "format": "Shift-JIS",
+    "raw_hex": "7d82e082a4814082a082d482c882a282ed82cb8149",
+    "text": "}もう　あぶないわね！"
+  },
+  {
+    "bank": "0x1F",
+    "offset": "0x07DD88",
+    "bank_offset": "0x1D88",
+    "format": "Shift-JIS",
+    "raw_hex": "7b82bf82e582c182c6814082c282a982ea82bf82e182c182bd82a982e70d82a982f182b982f182b582c682ad82ed82cb2f3281a72f33",
+    "text": "{ちょっと　つかれちゃったから\rかんせんしとくわね/2〒/3"
+  },
+  {
+    "bank": "0x1F",
+    "offset": "0x07DDC4",
+    "bank_offset": "0x1DC4",
+    "format": "Shift-JIS",
+    "raw_hex": "82bd82b782af82c481608149",
+    "text": "たすけて～！"
+  },
+  {
+    "bank": "0x1F",
+    "offset": "0x07DDE6",
+    "bank_offset": "0x1DE6",
+    "format": "Shift-JIS",
+    "raw_hex": "82b182ed82a282e681608149",
+    "text": "こわいよ～！"
+  },
+  {
+    "bank": "0x1F",
+    "offset": "0x07DDF8",
+    "bank_offset": "0x1DF8",
+    "format": "Shift-JIS",
+    "raw_hex": "82a882b682a282bf82e1816082f18149",
+    "text": "おじいちゃ～ん！"
+  },
+  {
+    "bank": "0x1F",
+    "offset": "0x07DE0E",
+    "bank_offset": "0x1E0E",
+    "format": "Shift-JIS",
+    "raw_hex": "82a682c18149814881408345835c814881488148",
+    "text": "えっ！？　ウソ？？？"
+  },
+  {
+    "bank": "0x1F",
+    "offset": "0x07DE27",
+    "bank_offset": "0x1E27",
+    "format": "Shift-JIS",
+    "raw_hex": "2f75814082cd0d82b182f182e782f182b582c482a282e98149",
+    "text": "/u　は\rこんらんしている！"
+  },
+  {
+    "bank": "0x1F",
+    "offset": "0x07DE46",
+    "bank_offset": "0x1E46",
+    "format": "Shift-JIS",
+    "raw_hex": "82b982c182a982ad82be82a982e70d82bd82bd82c182ab82e982ba81608149",
+    "text": "せっかくだから\rたたっきるぜ～！"
+  },
+  {
+    "bank": "0x1F",
+    "offset": "0x07DE6B",
+    "bank_offset": "0x1E6B",
+    "format": "Shift-JIS",
+    "raw_hex": "82ed82aa82af82f182c90d82ab82ea82ca82e082cc82c882b581638163",
+    "text": "わがけんに\rきれぬものなし……"
+  },
+  {
+    "bank": "0x1F",
+    "offset": "0x07DE8E",
+    "bank_offset": "0x1E8E",
+    "format": "Shift-JIS",
+    "raw_hex": "82b182a882e882c282af8149",
+    "text": "こおりつけ！"
+  },
+  {
+    "bank": "0x1F",
+    "offset": "0x07DEA0",
+    "bank_offset": "0x1EA0",
+    "format": "Shift-JIS",
+    "raw_hex": "82b182e782c1814082be82e782b582c882a282bc82c18149",
+    "text": "こらっ　だらしないぞっ！"
+  },
+  {
+    "bank": "0x1F",
+    "offset": "0x07DEBE",
+    "bank_offset": "0x1EBE",
+    "format": "Shift-JIS",
+    "raw_hex": "82ed82bd82ad82b582cc814082d982cc82a882cd0d82b682b282ad82cc82b282a482a98142",
+    "text": "わたくしの　ほのおは\rじごくのごうか。"
+  },
+  {
+    "bank": "0x1F",
+    "offset": "0x07DEE9",
+    "bank_offset": "0x1EE9",
+    "format": "Shift-JIS",
+    "raw_hex": "82a882dc82a682cc814082b582c982e482ad82b782aa82bd82f00d836f83628360838a814082a482c282b582be82b582c40d82e282e982f182be82a982e782c18149",
+    "text": "おまえの　しにゆくすがたを\rバッチリ　うつしだして\rやるんだからっ！"
+  },
+  {
+    "bank": "0x1F",
+    "offset": "0x07DF31",
+    "bank_offset": "0x1F31",
+    "format": "Shift-JIS",
+    "raw_hex": "82b782d782c4814082cd82cb82a982a682b582bf82e182c182bd82e80d82b782e982f182be82a982e782cb815b82c181498149",
+    "text": "すべて　はねかえしちゃったり\rするんだからねーっ！！"
+  },
+  {
+    "bank": "0x1F",
+    "offset": "0x07DF73",
+    "bank_offset": "0x1F73",
+    "format": "Shift-JIS",
+    "raw_hex": "82b582d182ea82c882b382a28149",
+    "text": "しびれなさい！"
+  },
+  {
+    "bank": "0x1F",
+    "offset": "0x07DF87",
+    "bank_offset": "0x1F87",
+    "format": "Shift-JIS",
+    "raw_hex": "82c582f182ab81408372838a8372838a8149",
+    "text": "でんき　ビリビリ！"
+  },
+  {
+    "bank": "0x1F",
+    "offset": "0x07DF9E",
+    "bank_offset": "0x1F9E",
+    "format": "Shift-JIS",
+    "raw_hex": "8a8349837d834782bd82bf82f00d8384837e82b982a982a282c90d82c282ea82c482a282c182c482e282e981638163",
+    "text": "潟Iマエたちを\rヤミせかいに\rつれていってやる……"
+  },
+  {
+    "bank": "0x1F",
+    "offset": "0x07DFD3",
+    "bank_offset": "0x1FD3",
+    "format": "Shift-JIS",
+    "raw_hex": "82bd82cc82b582dc82b982c482e082e782a882a481638163",
+    "text": "たのしませてもらおう……"
+  },
+  {
+    "bank": "0x1F",
+    "offset": "0x07DFF0",
+    "bank_offset": "0x1FF0",
+    "format": "Shift-JIS",
+    "raw_hex": "8f834a83458393835e815b82aa82b782ab81608149",
+    "text": "純Jウンターがすき～！"
+  },
+  {
+    "bank": "0x1F",
+    "offset": "0x07E00A",
+    "bank_offset": "0x200A",
+    "format": "Shift-JIS",
+    "raw_hex": "7d82a082c882bd82bd82bf81490d82ed82bd82b582f0814082dc82ab82bc82a682c90d82b582bf82e1835f838182e681498149",
+    "text": "}あなたたち！\rわたしを　まきぞえに\rしちゃダメよ！！"
+  },
+  {
+    "bank": "0x1F",
+    "offset": "0x07E041",
+    "bank_offset": "0x2041",
+    "format": "Shift-JIS",
+    "raw_hex": "82ed82bd82b582c9814082a082c482c882a282e682a482c90d82dc82e082cc82f0814082bd82a882b582c482ad82be82b382a281420d82ab82d182b582a282a982e082b582ea82c882a282af82c70d82aa82f182ce82c182c482ad82be82b382a282cb2f3281a72f33",
+    "text": "わたしに　あてないように\rまものを　たおしてください。\rきびしいかもしれないけど\rがんばってくださいね/2〒/3"
+  },
+  {
+    "bank": "0x1F",
+    "offset": "0x07E0AF",
+    "bank_offset": "0x20AF",
+    "format": "Shift-JIS",
+    "raw_hex": "7e82a082e782e282be814981480d82a282c182bf82e582a482e782aa0d82be82a282c882b582be82ed8743",
+    "text": "~あらやだ！？\rいっちょうらが\rだいなしだわ④"
+  },
+  {
+    "bank": "0x1F",
+    "offset": "0x07E0DF",
+    "bank_offset": "0x20DF",
+    "format": "Shift-JIS",
+    "raw_hex": "7e82a082e782e282be814981480d82dc82af82bf82e182c182bd82cc8148",
+    "text": "~あらやだ！？\rまけちゃったの？"
+  },
+  {
+    "bank": "0x1F",
+    "offset": "0x07E103",
+    "bank_offset": "0x2103",
+    "format": "Shift-JIS",
+    "raw_hex": "2f6e82b382f10d82aa82f182ce82c182c482ad82be82b382a28142",
+    "text": "/nさん\rがんばってください。"
+  },
+  {
+    "bank": "0x1F",
+    "offset": "0x07E123",
+    "bank_offset": "0x2123",
+    "format": "Shift-JIS",
+    "raw_hex": "2782bf82d1838d837b814082bd82cc82de82c581608149",
+    "text": "'ちびロボ　たのむで～！"
+  },
+  {
+    "bank": "0x1F",
+    "offset": "0x07E156",
+    "bank_offset": "0x2156",
+    "format": "Shift-JIS",
+    "raw_hex": "4f82ab82dd82cc82b182c682cd0d8349838c82aa82dc82e082e98149",
+    "text": "Oきみのことは\rオレがまもる！"
+  },
+  {
+    "bank": "0x1F",
+    "offset": "0x07E178",
+    "bank_offset": "0x2178",
+    "format": "Shift-JIS",
+    "raw_hex": "82cd82b682e182af82f182b982a2816381638163",
+    "text": "はじゃけんせい………"
+  },
+  {
+    "bank": "0x1F",
+    "offset": "0x07E18E",
+    "bank_offset": "0x218E",
+    "format": "Shift-JIS",
+    "raw_hex": "82a882a482a982de82b582e582a481498149",
+    "text": "おうかむしょう！！"
+  },
+  {
+    "bank": "0x1F",
+    "offset": "0x07E1A5",
+    "bank_offset": "0x21A5",
+    "format": "Shift-JIS",
+    "raw_hex": "0d82a982f182b482ab82d382a482b682f182e882e382a4816381638163",
+    "text": "\rかんざきふうじんりゅう………"
+  },
+  {
+    "bank": "0x1F",
+    "offset": "0x07E1C4",
+    "bank_offset": "0x21C4",
+    "format": "Shift-JIS",
+    "raw_hex": "82ea82f182b682e182ad82cc82dc82a281498149",
+    "text": "れんじゃくのまい！！"
+  },
+  {
+    "bank": "0x1F",
+    "offset": "0x07E1DE",
+    "bank_offset": "0x21DE",
+    "format": "Shift-JIS",
+    "raw_hex": "82a482f182df82a282f0814082c282a982b382c782e90d82b182ad82a282cc814082b582c982aa82dd816381638163",
+    "text": "うんめいを　つかさどる\rこくいの　しにがみ………"
+  },
+  {
+    "bank": "0x1F",
+    "offset": "0x07E20F",
+    "bank_offset": "0x220F",
+    "format": "Shift-JIS",
+    "raw_hex": "8373815b834a8394834083848145835f815b837d81498149",
+    "text": "ピーカヴァヤ・ダーマ！！"
+  },
+  {
+    "bank": "0x1F",
+    "offset": "0x07E22C",
+    "bank_offset": "0x222C",
+    "format": "Shift-JIS",
+    "raw_hex": "2182c582c482b182a2814082c582c482b182a20d82c582c482b1816082a28149",
+    "text": "!でてこい　でてこい\rでてこ～い！"
+  },
+  {
+    "bank": "0x1F",
+    "offset": "0x07E24E",
+    "bank_offset": "0x224E",
+    "format": "Shift-JIS",
+    "raw_hex": "8343838a835881408376836583420d8145835783838393837c815b838b8149",
+    "text": "イリス　プティ\r・ジャンポール！"
+  },
+  {
+    "bank": "0x1F",
+    "offset": "0x07E272",
+    "bank_offset": "0x2272",
+    "format": "Shift-JIS",
+    "raw_hex": "2f8345836082cc82cd82c282df82a282f00d82c882df82e982f182e282c882a282c58149",
+    "text": "/ウチのはつめいを\rなめるんやないで！"
+  },
+  {
+    "bank": "0x1F",
+    "offset": "0x07E298",
+    "bank_offset": "0x2298",
+    "format": "Shift-JIS",
+    "raw_hex": "82b682e182f182cf82a2838d837b81498149",
+    "text": "じゃんぱいロボ！！"
+  },
+  {
+    "bank": "0x1F",
+    "offset": "0x07E2B0",
+    "bank_offset": "0x22B0",
+    "format": "Shift-JIS",
+    "raw_hex": "3482a482c882ea814082a082bd82a282cc82b182d482b582e68149",
+    "text": "4うなれ　あたいのこぶしよ！"
+  },
+  {
+    "bank": "0x1F",
+    "offset": "0x07E2CD",
+    "bank_offset": "0x22CD",
+    "format": "Shift-JIS",
+    "raw_hex": "83548393836083938365839383568387834581498149",
+    "text": "サンチンテンショウ！！"
+  },
+  {
+    "bank": "0x1F",
+    "offset": "0x07E2E8",
+    "bank_offset": "0x22E8",
+    "format": "Shift-JIS",
+    "raw_hex": "4082a482bd82a6814082a482c282eb82a282e482ad0d82ab82b982c282c682c682e082c9816381638163",
+    "text": "@うたえ　うつろいゆく\rきせつとともに………"
+  },
+  {
+    "bank": "0x1F",
+    "offset": "0x07E314",
+    "bank_offset": "0x2314",
+    "format": "Shift-JIS",
+    "raw_hex": "834e834183628367838d81458358835e83578349815b836a81498149",
+    "text": "クアットロ・スタジオーニ！！"
+  },
+  {
+    "bank": "0x1F",
+    "offset": "0x07E335",
+    "bank_offset": "0x2335",
+    "format": "Shift-JIS",
+    "raw_hex": "47834783418358835e815b816381638163",
+    "text": "Gエアスター………"
+  },
+  {
+    "bank": "0x1F",
+    "offset": "0x07E348",
+    "bank_offset": "0x2348",
+    "format": "Shift-JIS",
+    "raw_hex": "835f835881458389834383938353838b836781498149",
+    "text": "ダス・ラインゴルト！！"
+  },
+  {
+    "bank": "0x1F",
+    "offset": "0x07E363",
+    "bank_offset": "0x2363",
+    "format": "Shift-JIS",
+    "raw_hex": "4f82eb82a482b182df82c182ab82e182ad816381638163",
+    "text": "Oろうこめっきゃく………"
+  },
+  {
+    "bank": "0x1F",
+    "offset": "0x07E37C",
+    "bank_offset": "0x237C",
+    "format": "Shift-JIS",
+    "raw_hex": "82c482f182bf82a282c182b581498149",
+    "text": "てんちいっし！！"
+  },
+  {
+    "bank": "0x1F",
+    "offset": "0x07E391",
+    "bank_offset": "0x2391",
+    "format": "Shift-JIS",
+    "raw_hex": "82a982ad82cc82a482b182c90d8177834b8367838a8393834f82a482c5817882aa0d82c682c782af82e782ea82dc82b582bd8142",
+    "text": "かくのうこに\r『ガトリングうで』が\rとどけられました。"
+  },
+  {
+    "bank": "0x1F",
+    "offset": "0x07E3C7",
+    "bank_offset": "0x23C7",
+    "format": "Shift-JIS",
+    "raw_hex": "817782b182a482d482a982a282bc82a4817882c50d82a482c582f0814082c282af82a982a682e982b182c682aa0d82c582ab82dc82b78142",
+    "text": "『こうぶかいぞう』で\rうでを　つけかえることが\rできます。"
+  },
+  {
+    "bank": "0x1F",
+    "offset": "0x07E404",
+    "bank_offset": "0x2404",
+    "format": "Shift-JIS",
+    "raw_hex": "82bb82a482b182c90d81778367815b838b836e8393837d815b817882aa0d82c682c782af82e782ea82dc82b582bd8142",
+    "text": "そうこに\r『トールハンマー』が\rとどけられました。"
+  },
+  {
+    "bank": "0x1F",
+    "offset": "0x07E439",
+    "bank_offset": "0x2439",
+    "format": "Shift-JIS",
+    "raw_hex": "82bb82a482b182c90d8177836f8343834c8393834f8341834e8358817882aa0d82c682c782af82e782ea82dc82b582bd8142",
+    "text": "そうこに\r『バイキングアクス』が\rとどけられました。"
+  },
+  {
+    "bank": "0x1F",
+    "offset": "0x07E470",
+    "bank_offset": "0x2470",
+    "format": "Shift-JIS",
+    "raw_hex": "82bb82a482b182c90d817782ab82e582be82a282af82f1817882aa0d82c682c782af82e782ea82dc82b582bd8142",
+    "text": "そうこに\r『きょだいけん』が\rとどけられました。"
+  },
+  {
+    "bank": "0x1F",
+    "offset": "0x07E4A3",
+    "bank_offset": "0x24A3",
+    "format": "Shift-JIS",
+    "raw_hex": "82a982ad82cc82a482b182c90d817783418343835b8393834e838983438367837b83668342817882aa0d82c682c782af82e782ea82dc82b582bd8142",
+    "text": "かくのうこに\r『アイゼンクライトボディ』が\rとどけられました。"
+  },
+  {
+    "bank": "0x1F",
+    "offset": "0x07E4E1",
+    "bank_offset": "0x24E1",
+    "format": "Shift-JIS",
+    "raw_hex": "817782b182a482d482a982a282bc82a4817882c50d837b8366834282f0814082c282af82a982a682e982b182c682aa0d82c582ab82dc82b78142",
+    "text": "『こうぶかいぞう』で\rボディを　つけかえることが\rできます。"
+  },
+  {
+    "bank": "0x1F",
+    "offset": "0x07E520",
+    "bank_offset": "0x2520",
+    "format": "Shift-JIS",
+    "raw_hex": "82bb82a482b182c90d817782a882a882bd82bf817882c60d81778356838b83588345835882cc8384838a817882c6",
+    "text": "そうこに\r『おおたち』と\r『シルスウスのヤリ』と"
+  },
+  {
+    "bank": "0x1F",
+    "offset": "0x07E550",
+    "bank_offset": "0x2550",
+    "format": "Shift-JIS",
+    "raw_hex": "8177836f8362834e8389815b817882aa0d82c682c782af82e782ea82dc82b582bd8142",
+    "text": "『バックラー』が\rとどけられました。"
+  },
+  {
+    "bank": "0x1F",
+    "offset": "0x07E578",
+    "bank_offset": "0x2578",
+    "format": "Shift-JIS",
+    "raw_hex": "82bb82a482b182c90d817782c882ac82c882bd817882c60d8177834b83938367838c83628367817882aa0d82c682c782af82e782ea82dc82b582bd8142",
+    "text": "そうこに\r『なぎなた』と\r『ガントレット』が\rとどけられました。"
+  },
+  {
+    "bank": "0x1F",
+    "offset": "0x07E5BA",
+    "bank_offset": "0x25BA",
+    "format": "Shift-JIS",
+    "raw_hex": "82bb82a482b182c90d817782c482ab82be82f182b682e382a4817882c60d817782ea82a282b182a482cc82bd82c4817882aa0d82c682c782af82e782ea82dc82b582bd8142",
+    "text": "そうこに\r『てきだんじゅう』と\r『れいこうのたて』が\rとどけられました。"
+  },
+  {
+    "bank": "0x1F",
+    "offset": "0x07E604",
+    "bank_offset": "0x2604",
+    "format": "Shift-JIS",
+    "raw_hex": "82bb82a482b182c90d8177835f8375838b838983938358817882aa0d82c682c782af82e782ea82dc82b582bd8142",
+    "text": "そうこに\r『ダブルランス』が\rとどけられました。"
+  },
+  {
+    "bank": "0x1F",
+    "offset": "0x07E637",
+    "bank_offset": "0x2637",
+    "format": "Shift-JIS",
+    "raw_hex": "82bb82a482b182c90d817782ad82a482aa82cc82b182c4817882aa0d82c682c782af82e782ea82dc82b582bd8142",
+    "text": "そうこに\r『くうがのこて』が\rとどけられました。"
+  },
+  {
+    "bank": "0x1F",
+    "offset": "0x07E66A",
+    "bank_offset": "0x266A",
+    "format": "Shift-JIS",
+    "raw_hex": "82bb82a482b182c90d81778370838b836083558393817882aa0d82c682c782af82e782ea82dc82b582bd8142",
+    "text": "そうこに\r『パルチザン』が\rとどけられました。"
+  },
+  {
+    "bank": "0x1F",
+    "offset": "0x07E69B",
+    "bank_offset": "0x269B",
+    "format": "Shift-JIS",
+    "raw_hex": "82a982ad82cc82a482b182c90d817782b182a482d48145835e8393834e837b83668342817882aa0d82c282a282a982b382ea82dc82b582bd8142",
+    "text": "かくのうこに\r『こうぶ・タンクボディ』が\rついかされました。"
+  },
+  {
+    "bank": "0x1F",
+    "offset": "0x07E6D7",
+    "bank_offset": "0x26D7",
+    "format": "Shift-JIS",
+    "raw_hex": "817782b182a482d482a982a282bc82a4817882c50d837b8366834282f0814082c282af82a982a682e982b182c682aa0d82c582ab82dc82b78142",
+    "text": "『こうぶかいぞう』で\rボディを　つけかえることが\rできます。"
+  },
+  {
+    "bank": "0x1F",
+    "offset": "0x07E716",
+    "bank_offset": "0x2716",
+    "format": "Shift-JIS",
+    "raw_hex": "82bb82a482b182c90d8177835f837d8358834a835882cc82bd82bf817882aa0d82c682c782af82e782ea82dc82b582bd8142",
+    "text": "そうこに\r『ダマスカスのたち』が\rとどけられました。"
+  },
+  {
+    "bank": "0x1F",
+    "offset": "0x07E74D",
+    "bank_offset": "0x274D",
+    "format": "Shift-JIS",
+    "raw_hex": "82a982ad82cc82a482b182c90d81778366834a82a482c5817882aa0d82c282a282a982b382ea82dc82b582bd8142",
+    "text": "かくのうこに\r『デカうで』が\rついかされました。"
+  },
+  {
+    "bank": "0x1F",
+    "offset": "0x07E77D",
+    "bank_offset": "0x277D",
+    "format": "Shift-JIS",
+    "raw_hex": "817782b182a482d482a982a282bc82a4817882c50d82a482c582f0814082c282af82a982a682e982b182c682aa0d82c582ab82dc82b78142",
+    "text": "『こうぶかいぞう』で\rうでを　つけかえることが\rできます。"
+  },
+  {
+    "bank": "0x1F",
+    "offset": "0x07E7BC",
+    "bank_offset": "0x27BC",
+    "format": "Shift-JIS",
+    "raw_hex": "2f6e82cd0d8177835a839383768345817882cc82ed82b482f00d82a882da82a682bd8149",
+    "text": "/nは\r『センプウ』のわざを\rおぼえた！"
+  },
+  {
+    "bank": "0x1F",
+    "offset": "0x07E7F9",
+    "bank_offset": "0x27F9",
+    "format": "Shift-JIS",
+    "raw_hex": "8177835a839383768345817882cd0d81778356838b83588345835882cc82bd82bf817882c60d817782ad82a482aa82cc82b182c4817882c90d835a8362836782b782e982b182c682aa82c582ab82e98142",
+    "text": "『センプウ』は\r『シルスウスのたち』と\r『くうがのこて』に\rセットすることができる。"
+  },
+  {
+    "bank": "0x1F",
+    "offset": "0x07E84F",
+    "bank_offset": "0x284F",
+    "format": "Shift-JIS",
+    "raw_hex": "8177835a839383768345817882cd0d817782ad82a482aa82cc82b182c4817882c90d835a8362836782b782e982b182c682aa82c582ab82e98142",
+    "text": "『センプウ』は\r『くうがのこて』に\rセットすることができる。"
+  },
+  {
+    "bank": "0x1F",
+    "offset": "0x07E88E",
+    "bank_offset": "0x288E",
+    "format": "Shift-JIS",
+    "raw_hex": "8177835a839383768345817882cd0d81778356838b83588345835882cc82bd82bf817882c90d835a8362836782b782e982b182c682aa82c582ab82e98142",
+    "text": "『センプウ』は\r『シルスウスのたち』に\rセットすることができる。"
+  },
+  {
+    "bank": "0x1F",
+    "offset": "0x07E8D3",
+    "bank_offset": "0x28D3",
+    "format": "Shift-JIS",
+    "raw_hex": "2f6e82cd0d8177836f834e83478393817882cc82ed82b482f00d82a882da82a682bd8149",
+    "text": "/nは\r『バクエン』のわざを\rおぼえた！"
+  },
+  {
+    "bank": "0x1F",
+    "offset": "0x07E902",
+    "bank_offset": "0x2902",
+    "format": "Shift-JIS",
+    "raw_hex": "8177836f834e83478393817882cd0d81778356838b83588345835882cc8384838a817882c90d835a8362836782b782e982b182c682aa82c582ab82e98142",
+    "text": "『バクエン』は\r『シルスウスのヤリ』に\rセットすることができる。"
+  },
+  {
+    "bank": "0x1F",
+    "offset": "0x07E947",
+    "bank_offset": "0x2947",
+    "format": "Shift-JIS",
+    "raw_hex": "2f6e82cd0d8177834b8393835a834c817882cc82ed82b482f00d82a882da82a682bd8149",
+    "text": "/nは\r『ガンセキ』のわざを\rおぼえた！"
+  },
+  {
+    "bank": "0x1F",
+    "offset": "0x07E984",
+    "bank_offset": "0x2984",
+    "format": "Shift-JIS",
+    "raw_hex": "8177834b8393835a834c817882cd0d817782ab82e582be82a282af82f1817882c60d8177834b83938367838c83628367817882c90d835a8362836782b782e982b182c682aa82c582ab82e98142",
+    "text": "『ガンセキ』は\r『きょだいけん』と\r『ガントレット』に\rセットすることができる。"
+  },
+  {
+    "bank": "0x1F",
+    "offset": "0x07E9D6",
+    "bank_offset": "0x29D6",
+    "format": "Shift-JIS",
+    "raw_hex": "8177834b8393835a834c817882cd0d8177834b83938367838c83628367817882c90d835a8362836782b782e982b182c682aa82c582ab82e98142",
+    "text": "『ガンセキ』は\r『ガントレット』に\rセットすることができる。"
+  },
+  {
+    "bank": "0x1F",
+    "offset": "0x07EA15",
+    "bank_offset": "0x2A15",
+    "format": "Shift-JIS",
+    "raw_hex": "8177834b8393835a834c817882cd0d817782ab82e582be82a282af82f1817882c90d835a8362836782b782e982b182c682aa82c582ab82e98142",
+    "text": "『ガンセキ』は\r『きょだいけん』に\rセットすることができる。"
+  },
+  {
+    "bank": "0x1F",
+    "offset": "0x07EA56",
+    "bank_offset": "0x2A56",
+    "format": "Shift-JIS",
+    "raw_hex": "2f6e82cd0d8177835a83938376834582dc82c282e8817882cc82ed82b482f00d82a882da82a682bd8149",
+    "text": "/nは\r『センプウまつり』のわざを\rおぼえた！"
+  },
+  {
+    "bank": "0x1F",
+    "offset": "0x07EAB5",
+    "bank_offset": "0x2AB5",
+    "format": "Shift-JIS",
+    "raw_hex": "8177835a83938376834582dc82c282e8817882cd0d81778356838b83588345835882cc82bd82bf817882c60d817782c882ac82c882bd817882c6",
+    "text": "『センプウまつり』は\r『シルスウスのたち』と\r『なぎなた』と"
+  },
+  {
+    "bank": "0x1F",
+    "offset": "0x07EAF1",
+    "bank_offset": "0x2AF1",
+    "format": "Shift-JIS",
+    "raw_hex": "817782ad82a482aa82cc82b182c4817882c90d835a8362836782b782e982b182c682aa82c582ab82e98142",
+    "text": "『くうがのこて』に\rセットすることができる。"
+  },
+  {
+    "bank": "0x1F",
+    "offset": "0x07EB21",
+    "bank_offset": "0x2B21",
+    "format": "Shift-JIS",
+    "raw_hex": "8177835a83938376834582dc82c282e8817882cd0d817782c882ac82c882bd817882c60d817782ad82a482aa82cc82b182c4817882c90d835a8362836782b782e982b182c682aa82c582ab82e98142",
+    "text": "『センプウまつり』は\r『なぎなた』と\r『くうがのこて』に\rセットすることができる。"
+  },
+  {
+    "bank": "0x1F",
+    "offset": "0x07EB75",
+    "bank_offset": "0x2B75",
+    "format": "Shift-JIS",
+    "raw_hex": "8177835a83938376834582dc82c282e8817882cd0d81778356838b83588345835882cc82bd82bf817882c60d817782ad82a482aa82cc82b182c4817882c90d835a8362836782b782e982b182c682aa82c582ab82e98142",
+    "text": "『センプウまつり』は\r『シルスウスのたち』と\r『くうがのこて』に\rセットすることができる。"
+  },
+  {
+    "bank": "0x1F",
+    "offset": "0x07EBD1",
+    "bank_offset": "0x2BD1",
+    "format": "Shift-JIS",
+    "raw_hex": "8177835a83938376834582dc82c282e8817882cd0d817782ad82a482aa82cc82b182c4817882c90d835a8362836782b782e982b182c682aa82c582ab82e98142",
+    "text": "『センプウまつり』は\r『くうがのこて』に\rセットすることができる。"
+  },
+  {
+    "bank": "0x1F",
+    "offset": "0x07EC16",
+    "bank_offset": "0x2C16",
+    "format": "Shift-JIS",
+    "raw_hex": "8177835a83938376834582dc82c282e8817882cd0d81778356838b83588345835882cc82bd82bf817882c60d817782c882ac82c882bd817882c90d835a8362836782b782e982b182c682aa82c582ab82e98142",
+    "text": "『センプウまつり』は\r『シルスウスのたち』と\r『なぎなた』に\rセットすることができる。"
+  },
+  {
+    "bank": "0x1F",
+    "offset": "0x07EC6E",
+    "bank_offset": "0x2C6E",
+    "format": "Shift-JIS",
+    "raw_hex": "8177835a83938376834582dc82c282e8817882cd0d817782c882ac82c882bd817882c90d835a8362836782b782e982b182c682aa82c582ab82e98142",
+    "text": "『センプウまつり』は\r『なぎなた』に\rセットすることができる。"
+  },
+  {
+    "bank": "0x1F",
+    "offset": "0x07ECAF",
+    "bank_offset": "0x2CAF",
+    "format": "Shift-JIS",
+    "raw_hex": "8177835a83938376834582dc82c282e8817882cd0d81778356838b83588345835882cc82bd82bf817882c90d835a8362836782b782e982b182c682aa82c582ab82e98142",
+    "text": "『センプウまつり』は\r『シルスウスのたち』に\rセットすることができる。"
+  },
+  {
+    "bank": "0x1F",
+    "offset": "0x07ECFA",
+    "bank_offset": "0x2CFA",
+    "format": "Shift-JIS",
+    "raw_hex": "2f6e82cd0d817783588343838a83858345817882cc82ed82b482f00d82a882da82a682bd8149",
+    "text": "/nは\r『スイリュウ』のわざを\rおぼえた！"
+  },
+  {
+    "bank": "0x1F",
+    "offset": "0x07ED2B",
+    "bank_offset": "0x2D2B",
+    "format": "Shift-JIS",
+    "raw_hex": "817783588343838a83858345817882cd0d8177835f837d8358834a835882cc82bd82bf817882c90d835a8362836782b782e982b182c682aa82c582ab82e98142",
+    "text": "『スイリュウ』は\r『ダマスカスのたち』に\rセットすることができる。"
+  },
+  {
+    "bank": "0x1F",
+    "offset": "0x07ED72",
+    "bank_offset": "0x2D72",
+    "format": "Shift-JIS",
+    "raw_hex": "2f6e82cd0d8177838983438351834c817882cc82ed82b482f00d82a882da82a682bd8149",
+    "text": "/nは\r『ライゲキ』のわざを\rおぼえた！"
+  },
+  {
+    "bank": "0x1F",
+    "offset": "0x07EDAF",
+    "bank_offset": "0x2DAF",
+    "format": "Shift-JIS",
+    "raw_hex": "8177838983438351834c817882cd0d8177835f8375838b838983938358817882c60d81778367815b838b836e8393837d815b817882c90d835a8362836782b782e982b182c682aa82c582ab82e98142",
+    "text": "『ライゲキ』は\r『ダブルランス』と\r『トールハンマー』に\rセットすることができる。"
+  },
+  {
+    "bank": "0x1F",
+    "offset": "0x07EE03",
+    "bank_offset": "0x2E03",
+    "format": "Shift-JIS",
+    "raw_hex": "8177838983438351834c817882cd0d81778367815b838b836e8393837d815b817882c90d835a8362836782b782e982b182c682aa82c582ab82e98142",
+    "text": "『ライゲキ』は\r『トールハンマー』に\rセットすることができる。"
+  },
+  {
+    "bank": "0x1F",
+    "offset": "0x07EE44",
+    "bank_offset": "0x2E44",
+    "format": "Shift-JIS",
+    "raw_hex": "8177838983438351834c817882cd0d8177835f8375838b838983938358817882c90d835a8362836782b782e982b182c682aa82c582ab82e98142",
+    "text": "『ライゲキ』は\r『ダブルランス』に\rセットすることができる。"
+  },
+  {
+    "bank": "0x1F",
+    "offset": "0x07EE85",
+    "bank_offset": "0x2E85",
+    "format": "Shift-JIS",
+    "raw_hex": "2f6e82cd0d8177838d8362834e83498393817882cc82ed82b482f00d82a882da82a682bd8149",
+    "text": "/nは\r『ロックオン』のわざを\rおぼえた！"
+  },
+  {
+    "bank": "0x1F",
+    "offset": "0x07EEB6",
+    "bank_offset": "0x2EB6",
+    "format": "Shift-JIS",
+    "raw_hex": "8177838d8362834e83498393817882cd0d817782c482ab82be82f182b682e382a4817882c90d835a8362836782b782e982b182c682aa82c582ab82e98142",
+    "text": "『ロックオン』は\r『てきだんじゅう』に\rセットすることができる。"
+  },
+  {
+    "bank": "0x1F",
+    "offset": "0x07EEFB",
+    "bank_offset": "0x2EFB",
+    "format": "Shift-JIS",
+    "raw_hex": "2f6e82cd0d8177836f838a83718389838a8393817882cc82ed82b482f00d82a882da82a682bd8149",
+    "text": "/nは\r『バリヒラリン』のわざを\rおぼえた！"
+  },
+  {
+    "bank": "0x1F",
+    "offset": "0x07EF2E",
+    "bank_offset": "0x2F2E",
+    "format": "Shift-JIS",
+    "raw_hex": "8177836f838a83718389838a8393817882cd0d8177835f837d8358834a835882cc82bd82bf817882c90d835a8362836782b782e982b182c682aa82c582ab82e98142",
+    "text": "『バリヒラリン』は\r『ダマスカスのたち』に\rセットすることができる。"
+  },
+  {
+    "bank": "0x1F",
+    "offset": "0x07EF77",
+    "bank_offset": "0x2F77",
+    "format": "Shift-JIS",
+    "raw_hex": "2f6e82cd0d8177836f834e8347839382dc82c282e8817882cc82ed82b482f00d82a882da82a682bd8149",
+    "text": "/nは\r『バクエンまつり』のわざを\rおぼえた！"
+  },
+  {
+    "bank": "0x1F",
+    "offset": "0x07EFBA",
+    "bank_offset": "0x2FBA",
+    "format": "Shift-JIS",
+    "raw_hex": "8177836f834e8347839382dc82c282e8817882cd0d817782c882ac82c882bd817882c60d81778356838b83588345835882cc8384838a817882c90d835a8362836782b782e982b182c682aa82c582ab82e98142",
+    "text": "『バクエンまつり』は\r『なぎなた』と\r『シルスウスのヤリ』に\rセットすることができる。"
+  },
+  {
+    "bank": "0x1F",
+    "offset": "0x07F012",
+    "bank_offset": "0x3012",
+    "format": "Shift-JIS",
+    "raw_hex": "8177836f834e8347839382dc82c282e8817882cd0d81778356838b83588345835882cc8384838a817882c90d835a8362836782b782e982b182c682aa82c582ab82e98142",
+    "text": "『バクエンまつり』は\r『シルスウスのヤリ』に\rセットすることができる。"
+  },
+  {
+    "bank": "0x1F",
+    "offset": "0x07F05B",
+    "bank_offset": "0x305B",
+    "format": "Shift-JIS",
+    "raw_hex": "8177836f834e8347839382dc82c282e8817882cd0d817782c882ac82c882bd817882c90d835a8362836782b782e982b182c682aa82c582ab82e98142",
+    "text": "『バクエンまつり』は\r『なぎなた』に\rセットすることができる。"
+  },
+  {
+    "bank": "0x1F",
+    "offset": "0x07F09E",
+    "bank_offset": "0x309E",
+    "format": "Shift-JIS",
+    "raw_hex": "2f6e82cd0d8177838983438351834c82dc82c282e8817882cc82ed82b482f00d82a882da82a682bd8149",
+    "text": "/nは\r『ライゲキまつり』のわざを\rおぼえた！"
+  },
+  {
+    "bank": "0x1F",
+    "offset": "0x07F0FD",
+    "bank_offset": "0x30FD",
+    "format": "Shift-JIS",
+    "raw_hex": "8177838983438351834c82dc82c282e8817882cd0d81778370838b836083558393817882c60d8177835f8375838b838983938358817882c6",
+    "text": "『ライゲキまつり』は\r『パルチザン』と\r『ダブルランス』と"
+  },
+  {
+    "bank": "0x1F",
+    "offset": "0x07F137",
+    "bank_offset": "0x3137",
+    "format": "Shift-JIS",
+    "raw_hex": "81778367815b838b836e8393837d815b817882c90d835a8362836782b782e982b182c682aa82c582ab82e98142",
+    "text": "『トールハンマー』に\rセットすることができる。"
+  },
+  {
+    "bank": "0x1F",
+    "offset": "0x07F169",
+    "bank_offset": "0x3169",
+    "format": "Shift-JIS",
+    "raw_hex": "8177838983438351834c82dc82c282e8817882cd0d8177835f8375838b838983938358817882c60d81778367815b838b836e8393837d815b817882c90d835a8362836782b782e982b182c682aa82c582ab82e98142",
+    "text": "『ライゲキまつり』は\r『ダブルランス』と\r『トールハンマー』に\rセットすることができる。"
+  },
+  {
+    "bank": "0x1F",
+    "offset": "0x07F1C3",
+    "bank_offset": "0x31C3",
+    "format": "Shift-JIS",
+    "raw_hex": "8177838983438351834c82dc82c282e8817882cd0d81778370838b836083558393817882c60d81778367815b838b836e8393837d815b817882c90d835a8362836782b782e982b182c682aa82c582ab82e98142",
+    "text": "『ライゲキまつり』は\r『パルチザン』と\r『トールハンマー』に\rセットすることができる。"
+  },
+  {
+    "bank": "0x1F",
+    "offset": "0x07F21B",
+    "bank_offset": "0x321B",
+    "format": "Shift-JIS",
+    "raw_hex": "8177838983438351834c82dc82c282e8817882cd0d81778367815b838b836e8393837d815b817882c90d835a8362836782b782e982b182c682aa82c582ab82e98142",
+    "text": "『ライゲキまつり』は\r『トールハンマー』に\rセットすることができる。"
+  },
+  {
+    "bank": "0x1F",
+    "offset": "0x07F262",
+    "bank_offset": "0x3262",
+    "format": "Shift-JIS",
+    "raw_hex": "8177838983438351834c82dc82c282e8817882cd0d81778370838b836083558393817882c60d8177835f8375838b838983938358817882c90d835a8362836782b782e982b182c682aa82c582ab82e98142",
+    "text": "『ライゲキまつり』は\r『パルチザン』と\r『ダブルランス』に\rセットすることができる。"
+  },
+  {
+    "bank": "0x1F",
+    "offset": "0x07F2B8",
+    "bank_offset": "0x32B8",
+    "format": "Shift-JIS",
+    "raw_hex": "8177838983438351834c82dc82c282e8817882cd0d8177835f8375838b838983938358817882c90d835a8362836782b782e982b182c682aa82c582ab82e98142",
+    "text": "『ライゲキまつり』は\r『ダブルランス』に\rセットすることができる。"
+  },
+  {
+    "bank": "0x1F",
+    "offset": "0x07F2FD",
+    "bank_offset": "0x32FD",
+    "format": "Shift-JIS",
+    "raw_hex": "8177838983438351834c82dc82c282e8817882cd0d81778370838b836083558393817882c90d835a8362836782b782e982b182c682aa82c582ab82e98142",
+    "text": "『ライゲキまつり』は\r『パルチザン』に\rセットすることができる。"
+  },
+  {
+    "bank": "0x1F",
+    "offset": "0x07F342",
+    "bank_offset": "0x3342",
+    "format": "Shift-JIS",
+    "raw_hex": "2f6e82cd0d8177837183878345834b817882cc82ed82b482f00d82a882da82a682bd8149",
+    "text": "/nは\r『ヒョウガ』のわざを\rおぼえた！"
+  },
+  {
+    "bank": "0x1F",
+    "offset": "0x07F371",
+    "bank_offset": "0x3371",
+    "format": "Shift-JIS",
+    "raw_hex": "8177837183878345834b817882cd0d8177836f8343834c8393834f8341834e8358817882c90d835a8362836782b782e982b182c682aa82c582ab82e98142",
+    "text": "『ヒョウガ』は\r『バイキングアクス』に\rセットすることができる。"
+  },
+  {
+    "bank": "0x1F",
+    "offset": "0x07F3B6",
+    "bank_offset": "0x33B6",
+    "format": "Shift-JIS",
+    "raw_hex": "2f6e82cd0d8177837183878345834b82dc82c282e8817882cc82ed82b482f00d82a882da82a682bd8149",
+    "text": "/nは\r『ヒョウガまつり』のわざを\rおぼえた！"
+  },
+  {
+    "bank": "0x1F",
+    "offset": "0x07F3F9",
+    "bank_offset": "0x33F9",
+    "format": "Shift-JIS",
+    "raw_hex": "8177837183878345834b82dc82c282e8817882cd0d81778370838b836083558393817882c60d8177836f8343834c8393834f8341834e8358817882c90d835a8362836782b782e982b182c682aa82c582ab82e98142",
+    "text": "『ヒョウガまつり』は\r『パルチザン』と\r『バイキングアクス』に\rセットすることができる。"
+  },
+  {
+    "bank": "0x1F",
+    "offset": "0x07F453",
+    "bank_offset": "0x3453",
+    "format": "Shift-JIS",
+    "raw_hex": "8177837183878345834b82dc82c282e8817882cd0d8177836f8343834c8393834f8341834e8358817882c90d835a8362836782b782e982b182c682aa82c582ab82e98142",
+    "text": "『ヒョウガまつり』は\r『バイキングアクス』に\rセットすることができる。"
+  },
+  {
+    "bank": "0x1F",
+    "offset": "0x07F49C",
+    "bank_offset": "0x349C",
+    "format": "Shift-JIS",
+    "raw_hex": "8177837183878345834b82dc82c282e8817882cd0d81778370838b836083558393817882c90d835a8362836782b782e982b182c682aa82c582ab82e98142",
+    "text": "『ヒョウガまつり』は\r『パルチザン』に\rセットすることができる。"
+  },
+  {
+    "bank": "0x1F",
+    "offset": "0x07F4DF",
+    "bank_offset": "0x34DF",
+    "format": "Shift-JIS",
+    "raw_hex": "82b582a982b50d82c282a982a682e982bb82a482d182f00d82e082c182c482a282c882a982c182bd8142",
+    "text": "しかし\rつかえるそうびを\rもっていなかった。"
+  }
+]

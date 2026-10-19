@@ -1,0 +1,82 @@
+[
+  {
+    "bank": "0x16",
+    "offset": "0x0596A9",
+    "bank_offset": "0x16A9",
+    "format": "Shift-JIS",
+    "raw_hex": "e0e7e07021",
+    "text": "珸瀾!"
+  },
+  {
+    "bank": "0x16",
+    "offset": "0x059721",
+    "bank_offset": "0x1721",
+    "format": "Shift-JIS",
+    "raw_hex": "83498376835683878393",
+    "text": "オプション"
+  },
+  {
+    "bank": "0x16",
+    "offset": "0x05972C",
+    "bank_offset": "0x172C",
+    "format": "Shift-JIS",
+    "raw_hex": "82ab82e582a482c282a4",
+    "text": "きょうつう"
+  },
+  {
+    "bank": "0x16",
+    "offset": "0x0597EF",
+    "bank_offset": "0x17EF",
+    "format": "Shift-JIS",
+    "raw_hex": "e0e7e07021",
+    "text": "珸瀾!"
+  },
+  {
+    "bank": "0x16",
+    "offset": "0x059C20",
+    "bank_offset": "0x1C20",
+    "format": "Shift-JIS",
+    "raw_hex": "e0e7e07021",
+    "text": "珸瀾!"
+  },
+  {
+    "bank": "0x16",
+    "offset": "0x059CCD",
+    "bank_offset": "0x1CCD",
+    "format": "Shift-JIS",
+    "raw_hex": "82cd82f182e682a482df82a282ea82a2",
+    "text": "はんようめいれい"
+  },
+  {
+    "bank": "0x16",
+    "offset": "0x059CEC",
+    "bank_offset": "0x1CEC",
+    "format": "Shift-JIS",
+    "raw_hex": "e0e7e07021",
+    "text": "珸瀾!"
+  },
+  {
+    "bank": "0x16",
+    "offset": "0x05A46D",
+    "bank_offset": "0x246D",
+    "format": "Shift-JIS",
+    "raw_hex": "e0e7e07021",
+    "text": "珸瀾!"
+  },
+  {
+    "bank": "0x16",
+    "offset": "0x05A52B",
+    "bank_offset": "0x252B",
+    "format": "Shift-JIS",
+    "raw_hex": "82cd82b882b7",
+    "text": "はずす"
+  },
+  {
+    "bank": "0x16",
+    "offset": "0x05A7C3",
+    "bank_offset": "0x27C3",
+    "format": "Shift-JIS",
+    "raw_hex": "e0e7e07021",
+    "text": "珸瀾!"
+  }
+]

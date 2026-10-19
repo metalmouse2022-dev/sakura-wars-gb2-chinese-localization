@@ -1,0 +1,18 @@
+[
+  {
+    "bank": "0xE4",
+    "offset": "0x391E3F",
+    "bank_offset": "0x1E3F",
+    "format": "Shift-JIS",
+    "raw_hex": "e4f8e089",
+    "text": "蓼煢"
+  },
+  {
+    "bank": "0xE4",
+    "offset": "0x39372D",
+    "bank_offset": "0x372D",
+    "format": "Shift-JIS",
+    "raw_hex": "8f909192939495969798",
+    "text": "署葬灯楓利"
+  }
+]

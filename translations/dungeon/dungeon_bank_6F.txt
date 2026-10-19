@@ -1,0 +1,4578 @@
+# 樱花大战GB2 汉化底稿: 地下城与出击剧情 (Bank 0x6F)
+# 本文件条目数: 675
+# 规则: 在 CN: 下方直接输入中文译文。换行为实际换行，保留 <NAME> 等控制标签。
+============================================================
+
+# [0001] [ROM: 0x1BC000] [Bank: 0x6F:0x0000] [CPU: 0x4000] [OrigLen: 11]
+JP: よし！
+JP: さいごは……
+CN: 好
+CN: 最后
+
+# [0002] [ROM: 0x1BC00B] [Bank: 0x6F:0x000B] [CPU: 0x400B] [OrigLen: 13]
+JP: 『まじんき<81>よけん』だ！
+CN: 剑·魔神器！
+
+# [0003] [ROM: 0x1BC018] [Bank: 0x6F:0x0018] [CPU: 0x4018] [OrigLen: 14]
+JP: よし！
+JP: ぜんぶ　おいたぞ。
+CN: 好
+CN: 全放好了
+
+# [0004] [ROM: 0x1BC026] [Bank: 0x6F:0x0026] [CPU: 0x4026] [OrigLen: 20]
+JP: ……！！
+JP: <NAME>さん！
+JP: ごらんになって！！
+CN: ！！
+CN: <NAME>！
+CN: 请看！！
+
+# [0005] [ROM: 0x1BC03A] [Bank: 0x6F:0x003A] [CPU: 0x403A] [OrigLen: 8]
+JP: すみれさん……
+CN: 堇……
+
+# [0006] [ROM: 0x1BC042] [Bank: 0x6F:0x0042] [CPU: 0x4042] [OrigLen: 17]
+JP: <NAME>さん
+JP: ついに　やりましたわね。
+CN: <NAME>
+CN: 终于成功了。
+
+# [0007] [ROM: 0x1BC053] [Bank: 0x6F:0x0053] [CPU: 0x4053] [OrigLen: 11]
+JP: はい！
+JP: …………でも
+CN: 是
+CN: 但……
+
+# [0008] [ROM: 0x1BC05E] [Bank: 0x6F:0x005E] [CPU: 0x405E] [OrigLen: 44]
+JP: 『まじんき』を
+JP: かいしゅうするだけの
+JP: にんむ　だったのに
+JP: こんなことに　なるなんて……
+CN: 只是回收
+CN: 魔神器
+CN: 的任务
+CN: 竟变成这样……
+
+# [0009] [ROM: 0x1BC08A] [Bank: 0x6F:0x008A] [CPU: 0x408A] [OrigLen: 44]
+JP: そうですわね……
+JP: まさか　ちじょうの　しはいを
+JP: たくらむものが　いたなんて…
+JP: …………
+CN: 是啊……
+CN: 没想到有人
+CN: 企图统治地上…
+CN: ……
+
+# [0010] [ROM: 0x1BC0B6] [Bank: 0x6F:0x00B6] [CPU: 0x40B6] [OrigLen: 32]
+JP: それにしても
+JP: <NAME>さんは
+JP: ほんとうに　よく
+JP: がんばりましたわよ。
+CN: 话说回来
+CN: <NAME>
+CN: 真的
+CN: 很努力了。
+
+# [0011] [ROM: 0x1BC0D6] [Bank: 0x6F:0x00D6] [CPU: 0x40D6] [OrigLen: 13]
+JP: ほめて　さしあげますわ。
+CN: 我夸夸你。
+
+# [0012] [ROM: 0x1BC0E3] [Bank: 0x6F:0x00E3] [CPU: 0x40E3] [OrigLen: 30]
+JP: さあ　『まじんき』を
+JP: もって　ていげきに
+JP: かえりますわよ！
+CN: 来 带着魔神器
+CN: 回帝击
+CN: 吧！
+
+# [0013] [ROM: 0x1BC101] [Bank: 0x6F:0x0101] [CPU: 0x4101] [OrigLen: 30]
+JP: にんむかんりょう！
+JP: <NAME>さん！
+JP: ていげきへ　かえりますわよ！
+CN: 任务完成！
+CN: <NAME>！
+CN: 回帝击吧！
+
+# [0014] [ROM: 0x1BC11F] [Bank: 0x6F:0x011F] [CPU: 0x411F] [OrigLen: 48]
+JP: いったい　なんですの
+JP: ここは……………………
+JP: じゃあくで　つよい
+JP: れいりょくを　かんじますわ。
+CN: 这里到底
+CN: 是什么地方……
+CN: 我感觉到
+CN: 强大邪恶灵力。
+
+# [0015] [ROM: 0x1BC14F] [Bank: 0x6F:0x014F] [CPU: 0x414F] [OrigLen: 24]
+JP: まるで　『まかい』という
+JP: かんじ　ですわね……
+CN: 简直像魔界
+CN: 的感觉呢……
+
+# [0016] [ROM: 0x1BC167] [Bank: 0x6F:0x0167] [CPU: 0x4167] [OrigLen: 44]
+JP: <NAME>さん
+JP: このさきにいる　まもの……
+JP: てごわそう　ですわよ。
+JP: きを　ひきしめてください。
+CN: <NAME>
+CN: 前面的魔物……
+CN: 好像很强
+CN: 请打起精神。
+
+# [0017] [ROM: 0x1BC193] [Bank: 0x6F:0x0193] [CPU: 0x4193] [OrigLen: 7]
+JP: りょうかい！
+CN: 明白！
+
+# [0018] [ROM: 0x1BC1A9] [Bank: 0x6F:0x01A9] [CPU: 0x41A9] [OrigLen: 15]
+JP: <NAME>さん
+JP: ボヤボヤなさらない！
+CN: <NAME>
+CN: 别磨蹭！
+
+# [0019] [ROM: 0x1BC1B8] [Bank: 0x6F:0x01B8] [CPU: 0x41B8] [OrigLen: 26]
+JP: そんなことでは　すぐに
+JP: やられて　しまいますわよ。
+CN: 这样下去
+CN: 马上会被打倒。
+
+# [0020] [ROM: 0x1BC1D2] [Bank: 0x6F:0x01D2] [CPU: 0x41D2] [OrigLen: 7]
+JP: りょうかい！
+CN: 明白！
+
+# [0021] [ROM: 0x1BC1D9] [Bank: 0x6F:0x01D9] [CPU: 0x41D9] [OrigLen: 28]
+JP: いいへんじですわ。
+JP: <NAME>さん。
+JP: では　まいりますわよ！！
+CN: 回答得好
+CN: <NAME>
+CN: 那么上了！！
+
+# [0022] [ROM: 0x1BC1F5] [Bank: 0x6F:0x01F5] [CPU: 0x41F5] [OrigLen: 11]
+JP: あっ！
+JP: すみれさん！
+CN: 啊
+CN: 堇！
+
+# [0023] [ROM: 0x1BC200] [Bank: 0x6F:0x0200] [CPU: 0x4200] [OrigLen: 16]
+JP: あら……
+JP: あの　まものは………
+CN: 哎呀
+CN: 那魔物…
+
+# [0024] [ROM: 0x1BC210] [Bank: 0x6F:0x0210] [CPU: 0x4210] [OrigLen: 14]
+JP: よお。
+JP: ひさしぶりだな〜。
+CN: 哟
+CN: 好久不见
+
+# [0025] [ROM: 0x1BC21E] [Bank: 0x6F:0x021E] [CPU: 0x421E] [OrigLen: 38]
+JP: おまえは　いちどたおした
+JP: 『けん』の『まじんき』を
+JP: まもっていた　まもの！
+CN: 你是被我打倒
+CN: 守护剑魔神器的
+CN: 魔物！
+
+# [0026] [ROM: 0x1BC244] [Bank: 0x6F:0x0244] [CPU: 0x4244] [OrigLen: 21]
+JP: あらららららら。
+JP: こっちにも　いますよ。
+CN: 哎呀呀呀
+CN: 这边也有哦
+
+# [0027] [ROM: 0x1BC259] [Bank: 0x6F:0x0259] [CPU: 0x4259] [OrigLen: 30]
+JP: おまえは
+JP: 『たま』の『まじんき』を
+JP: まもっていた　まもの！
+CN: 你是
+CN: 守护珠魔神器的
+CN: 魔物！
+
+# [0028] [ROM: 0x1BC277] [Bank: 0x6F:0x0277] [CPU: 0x4277] [OrigLen: 32]
+JP: こーーーっちにも
+JP: いちゃったり　なんか
+JP: するんだからねーーっ。
+CN: 这边也有
+CN: 哦真是的
+CN: 有哦～
+
+# [0029] [ROM: 0x1BC297] [Bank: 0x6F:0x0297] [CPU: 0x4297] [OrigLen: 31]
+JP: おまえは
+JP: 『かがみ』の『まじんき』を
+JP: まもっていた　まもの！
+CN: 你是
+CN: 守护镜魔神器的
+CN: 魔物！
+
+# [0030] [ROM: 0x1BC2B6] [Bank: 0x6F:0x02B6] [CPU: 0x42B6] [OrigLen: 34]
+JP: いちど　わたくしたちに
+JP: たおされた　ザコが
+JP: なんの　ようですの？！
+CN: 被我们打倒过的
+CN: 杂兵
+CN: 有何贵干？！
+
+# [0031] [ROM: 0x1BC2D8] [Bank: 0x6F:0x02D8] [CPU: 0x42D8] [OrigLen: 32]
+JP: ふふふ……
+JP: 『まじんき』を　かえして
+JP: もらおうと　おもってな。
+CN: 呵呵……
+CN: 想把魔神器
+CN: 拿回去。
+
+# [0032] [ROM: 0x1BC2F8] [Bank: 0x6F:0x02F8] [CPU: 0x42F8] [OrigLen: 9]
+JP: なんですって！！
+CN: 什么！！
+
+# [0033] [ROM: 0x1BC301] [Bank: 0x6F:0x0301] [CPU: 0x4301] [OrigLen: 26]
+JP: さあ……
+JP: 『まじんき』を　かえして
+JP: もらいますよ。
+CN: 来……
+CN: 把魔神器
+CN: 还回来。
+
+# [0034] [ROM: 0x1BC31B] [Bank: 0x6F:0x031B] [CPU: 0x431B] [OrigLen: 30]
+JP: こーーーんどは
+JP: まけなかったり
+JP: しちゃったりするんだから。
+CN: 这次可不会
+CN: 再输掉
+CN: 了哦。
+
+# [0035] [ROM: 0x1BC339] [Bank: 0x6F:0x0339] [CPU: 0x4339] [OrigLen: 38]
+JP: いちどたおした　おまえたちに
+JP: このわたくしが　まけるわけ
+JP: ございませんわ。
+CN: 对被打倒过的你们
+CN: 我神崎堇
+CN: 不可能输。
+
+# [0036] [ROM: 0x1BC35F] [Bank: 0x6F:0x035F] [CPU: 0x435F] [OrigLen: 8]
+JP: ねえ　<NAME>さん。
+CN: 我说<NAME>。
+
+# [0037] [ROM: 0x1BC367] [Bank: 0x6F:0x0367] [CPU: 0x4367] [OrigLen: 6]
+JP: まけません
+CN: 不输
+
+# [0038] [ROM: 0x1BC36D] [Bank: 0x6F:0x036D] [CPU: 0x436D] [OrigLen: 11]
+JP: ……てごわそうだ……
+CN: 很难缠
+
+# [0039] [ROM: 0x1BC378] [Bank: 0x6F:0x0378] [CPU: 0x4378] [OrigLen: 41]
+JP: もちろんです！
+JP: いちどたおした　あいてに
+JP: まけるわけには　いきません
+JP: からね！！
+CN: 当然！
+CN: 对被打倒过的对手
+CN: 绝不能输
+CN: 啊！！
+
+# [0040] [ROM: 0x1BC3A1] [Bank: 0x6F:0x03A1] [CPU: 0x43A1] [OrigLen: 26]
+JP: おっほほほほ。
+JP: なかなか　いいますわね
+JP: <NAME>さんも。
+CN: 哦呵呵呵
+CN: 真会说呢
+CN: <NAME>也是。
+
+# [0041] [ROM: 0x1BC3BB] [Bank: 0x6F:0x03BB] [CPU: 0x43BB] [OrigLen: 33]
+JP: いちど　たおしたとはいえ
+JP: ３たい　どうじだと
+JP: てごわそうだわ……
+CN: 虽说打倒过
+CN: 三体同时
+CN: 很难缠……
+
+# [0042] [ROM: 0x1BC3DC] [Bank: 0x6F:0x03DC] [CPU: 0x43DC] [OrigLen: 39]
+JP: <NAME>さん
+JP: だいじょうぶですわ。
+JP: この　わたくしが
+JP: いっしょに　いるのですから。
+CN: <NAME>
+CN: 没事的
+CN: 因为有我
+CN: 在你身边。
+
+# [0043] [ROM: 0x1BC403] [Bank: 0x6F:0x0403] [CPU: 0x4403] [OrigLen: 20]
+JP: さあ　おもいっきり
+JP: たたかいますわよ！
+CN: 来全力
+CN: 战斗吧！
+
+# [0044] [ROM: 0x1BC424] [Bank: 0x6F:0x0424] [CPU: 0x4424] [OrigLen: 33]
+JP: <NAME>さん！
+JP: いちどたおした　まものを
+JP: おそれて　どうするんですの！
+CN: <NAME>！
+CN: 怕被打倒过的魔物
+CN: 像什么话！
+
+# [0045] [ROM: 0x1BC445] [Bank: 0x6F:0x0445] [CPU: 0x4445] [OrigLen: 14]
+JP: ……まったく
+JP: なさけない！
+CN: 真没用！
+
+# [0046] [ROM: 0x1BC453] [Bank: 0x6F:0x0453] [CPU: 0x4453] [OrigLen: 30]
+JP: フフフフフ……
+JP: こんどの　オレたちは
+JP: ひとあじ　ちがうぜ。
+CN: 呵呵…
+CN: 这次的我们
+CN: 可不一样。
+
+# [0047] [ROM: 0x1BC471] [Bank: 0x6F:0x0471] [CPU: 0x4471] [OrigLen: 16]
+JP: いくぜ！
+JP: ３たい　がったいだ！
+CN: 上！
+CN: 三体合体！
+
+# [0048] [ROM: 0x1BC481] [Bank: 0x6F:0x0481] [CPU: 0x4481] [OrigLen: 14]
+JP: <NAME>さん！
+JP: まいりますわよ！
+CN: <NAME>！
+CN: 上了！
+
+# [0049] [ROM: 0x1BC48F] [Bank: 0x6F:0x048F] [CPU: 0x448F] [OrigLen: 36]
+JP: ぐおお……お……ま……
+JP: 『まかいのトビラ』が
+JP: かんぜんに　ひらけば……
+CN: 呜哦……
+CN: 魔界之门
+CN: 完全打开的话……
+
+# [0050] [ROM: 0x1BC4B3] [Bank: 0x6F:0x04B3] [CPU: 0x44B3] [OrigLen: 38]
+JP: 『トビラ』がひらけば
+JP: われわれは　なんどでも
+JP: よみがえってくるぞーー！！！
+CN: 门一开
+CN: 我们无论多少次
+CN: 都会复活！！
+
+# [0051] [ROM: 0x1BC4D9] [Bank: 0x6F:0x04D9] [CPU: 0x44D9] [OrigLen: 18]
+JP: <NAME>さん
+JP: よく　がんばりましたわね。
+CN: <NAME>
+CN: 真努力了呢。
+
+# [0052] [ROM: 0x1BC4EB] [Bank: 0x6F:0x04EB] [CPU: 0x44EB] [OrigLen: 29]
+JP: すみれさん……
+JP: 『まかいのトビラ』って
+JP: なんなのですか？
+CN: 堇小姐……
+CN: 魔界之门
+CN: 是什么？
+
+# [0053] [ROM: 0x1BC508] [Bank: 0x6F:0x0508] [CPU: 0x4508] [OrigLen: 26]
+JP: わかりませんわ……………
+JP: …………………でも………
+CN: 我不知道……
+CN: 但……
+
+# [0054] [ROM: 0x1BC522] [Bank: 0x6F:0x0522] [CPU: 0x4522] [OrigLen: 30]
+JP: なにか　わるいことが
+JP: おこっていることは
+JP: たしかですわね！
+CN: 肯定有坏事
+CN: 正在发生
+CN: 没错！
+
+# [0055] [ROM: 0x1BC540] [Bank: 0x6F:0x0540] [CPU: 0x4540] [OrigLen: 14]
+JP: いそぎますわよ！
+JP: <NAME>さん。
+CN: 快走吧！
+CN: <NAME>。
+
+# [0056] [ROM: 0x1BC54E] [Bank: 0x6F:0x054E] [CPU: 0x454E] [OrigLen: 23]
+JP: す……すみれさん！
+JP: あ……あれは　まさか……
+CN: 堇小姐！
+CN: 那是难道……
+
+# [0057] [ROM: 0x1BC565] [Bank: 0x6F:0x0565] [CPU: 0x4565] [OrigLen: 24]
+JP: あれが　『まかいのトビラ』
+JP: じゃ　ないですか？
+CN: 那就是魔界之门
+CN: 吧？
+
+# [0058] [ROM: 0x1BC57D] [Bank: 0x6F:0x057D] [CPU: 0x457D] [OrigLen: 25]
+JP: ええ……
+JP: きっと　そうに
+JP: ちがいありませんわ……
+CN: 嗯……
+CN: 一定
+CN: 没错……
+
+# [0059] [ROM: 0x1BC599] [Bank: 0x6F:0x0599] [CPU: 0x4599] [OrigLen: 35]
+JP: たいへんですわ！
+JP: あとすこしで　かんぜんに
+JP: ひらいてしまいますわ！！
+CN: 糟了！
+CN: 差一点就完全
+CN: 打开了！！
+
+# [0060] [ROM: 0x1BC5BC] [Bank: 0x6F:0x05BC] [CPU: 0x45BC] [OrigLen: 31]
+JP: どうにかして　はやく
+JP: トビラを　とじないと
+JP: いけませんわ！！
+CN: 得想办法快点
+CN: 把门关上
+CN: 才行！！
+
+# [0061] [ROM: 0x1BC5DB] [Bank: 0x6F:0x05DB] [CPU: 0x45DB] [OrigLen: 33]
+JP: すみれさん！
+JP: ここにある　だいざみたいな
+JP: ものは　もしかして……
+CN: 堇小姐！
+CN: 这里的台座
+CN: 难道是……
+
+# [0062] [ROM: 0x1BC5FC] [Bank: 0x6F:0x05FC] [CPU: 0x45FC] [OrigLen: 47]
+JP: ……これは　いかにも
+JP: 『まじんき<81>よけん』を
+JP: おいてくれと　いわんばかりの
+JP: だいざですわね。
+CN: 这简直
+CN: 在说快把剑·魔神器
+CN: 放上去的
+CN: 台座呢。
+
+# [0063] [ROM: 0x1BC62B] [Bank: 0x6F:0x062B] [CPU: 0x462B] [OrigLen: 13]
+JP: あちらは　どうでしょう？
+CN: 那边如何？
+
+# [0064] [ROM: 0x1BC638] [Bank: 0x6F:0x0638] [CPU: 0x4638] [OrigLen: 41]
+JP: こちらは　どうやら
+JP: 『まじんき<81>よたま』を
+JP: おくための　だいざの
+JP: ようですわね。
+CN: 这边看来
+CN: 是放珠·魔神器
+CN: 的台座
+CN: 呢。
+
+# [0065] [ROM: 0x1BC661] [Bank: 0x6F:0x0661] [CPU: 0x4661] [OrigLen: 22]
+JP: <NAME>さん。
+JP: むこうの　だいざは
+JP: どうですか？
+CN: <NAME>
+CN: 对面台座
+CN: 如何？
+
+# [0066] [ROM: 0x1BC677] [Bank: 0x6F:0x0677] [CPU: 0x4677] [OrigLen: 34]
+JP: こっちは……
+JP: 『まじんき<81>よかがみ』を
+JP: おく　だいざの　ようです。
+CN: 这边是…
+CN: 放镜·魔神器
+CN: 的台座。
+
+# [0067] [ROM: 0x1BC699] [Bank: 0x6F:0x0699] [CPU: 0x4699] [OrigLen: 16]
+JP: どういうこと
+JP: なんでしょう……
+CN: 怎么回事
+CN: 呢……
+
+# [0068] [ROM: 0x1BC6A9] [Bank: 0x6F:0x06A9] [CPU: 0x46A9] [OrigLen: 54]
+JP: おそらく……　『まじんき』が
+JP: この　『まかいのトビラ』の
+JP: カギになっている……
+JP: そんな　ところでしょう……
+CN: 恐怕……魔神器
+CN: 是这魔界之门的
+CN: 钥匙……
+CN: 大概如此……
+
+# [0069] [ROM: 0x1BC6DF] [Bank: 0x6F:0x06DF] [CPU: 0x46DF] [OrigLen: 47]
+JP: では　いっこくもはやく
+JP: 『まじんき』を　つかって
+JP: あの　トビラを　とじないと
+JP: いけませんね！
+CN: 那么赶快
+CN: 用魔神器
+CN: 关上那门
+CN: 才行！
+
+# [0070] [ROM: 0x1BC70E] [Bank: 0x6F:0x070E] [CPU: 0x470E] [OrigLen: 38]
+JP: そうですわね。
+JP: いそいで　だいざに
+JP: 『まじんき』を　おいて
+JP: いきますわよ。
+CN: 是啊。
+CN: 赶快把魔神器
+CN: 放上台座
+CN: 走吧。
+
+# [0071] [ROM: 0x1BC734] [Bank: 0x6F:0x0734] [CPU: 0x4734] [OrigLen: 12]
+JP: あっ！
+JP: いけませんわ！
+CN: 啊！
+CN: 不行！
+
+# [0072] [ROM: 0x1BC740] [Bank: 0x6F:0x0740] [CPU: 0x4740] [OrigLen: 42]
+JP: まにあわなかった
+JP: ようですわね……
+JP: トビラが　かんぜんに
+JP: ひらいてしまいましたわ。
+CN: 来不及了……
+CN: 呢……
+CN: 门已经完全
+CN: 打开了。
+
+# [0073] [ROM: 0x1BC76A] [Bank: 0x6F:0x076A] [CPU: 0x476A] [OrigLen: 38]
+JP: <NAME>さん！
+JP: きをつけなさい！
+JP: じゃあくな　れいりょくを
+JP: かんじますわ！！！
+CN: <NAME>！
+CN: 小心！
+CN: 我感觉到
+CN: 邪恶灵力！！！
+
+# [0074] [ROM: 0x1BC790] [Bank: 0x6F:0x0790] [CPU: 0x4790] [OrigLen: 24]
+JP: われの　めざめを
+JP: じゃまするものは
+JP: だれだ……
+CN: 妨碍我觉醒的
+CN: 是谁……
+
+# [0075] [ROM: 0x1BC7A8] [Bank: 0x6F:0x07A8] [CPU: 0x47A8] [OrigLen: 25]
+JP: わたしは
+JP: ていこくかげきだん<81>よはなぐみ
+JP: <NAME>！！
+CN: 我是
+CN: 帝国华击团·花组
+CN: <NAME>
+
+# [0076] [ROM: 0x1BC7C1] [Bank: 0x6F:0x07C1] [CPU: 0x47C1] [OrigLen: 11]
+JP: おまえは　なにもの！
+CN: 你是谁！
+
+# [0077] [ROM: 0x1BC7CC] [Bank: 0x6F:0x07CC] [CPU: 0x47CC] [OrigLen: 35]
+JP: われは　まかいおう……
+JP: ちのそこにて　ながくねむりし
+JP: まもののおう。
+CN: 我是魔王……
+CN: 长眠地底
+CN: 魔物之王。
+
+# [0078] [ROM: 0x1BC7EF] [Bank: 0x6F:0x07EF] [CPU: 0x47EF] [OrigLen: 29]
+JP: きょだいな　ちからにより
+JP: トビラが　ひらかれし
+JP: いま……
+CN: 巨大力量
+CN: 打开门
+CN: 现在……
+
+# [0079] [ROM: 0x1BC80C] [Bank: 0x6F:0x080C] [CPU: 0x480C] [OrigLen: 23]
+JP: われら　まものが
+JP: ちじょうを　しはいする……
+CN: 我们魔物
+CN: 统治地上……
+
+# [0080] [ROM: 0x1BC823] [Bank: 0x6F:0x0823] [CPU: 0x4823] [OrigLen: 37]
+JP: おまえも　まものとなり
+JP: われと　ともに　ちじょうを
+JP: はかいしつくさぬか？
+CN: 你也成为魔物
+CN: 与我一起
+CN: 毁灭地上吧？
+
+# [0081] [ROM: 0x1BC848] [Bank: 0x6F:0x0848] [CPU: 0x4848] [OrigLen: 8]
+JP: おもしろそうね
+CN: 有趣呢
+
+# [0082] [ROM: 0x1BC850] [Bank: 0x6F:0x0850] [CPU: 0x4850] [OrigLen: 9]
+JP: おことわりよ！！
+CN: 拒绝！！
+
+# [0083] [ROM: 0x1BC859] [Bank: 0x6F:0x0859] [CPU: 0x4859] [OrigLen: 9]
+JP: おもしろそうね！
+CN: 有趣呢！
+
+# [0084] [ROM: 0x1BC862] [Bank: 0x6F:0x0862] [CPU: 0x4862] [OrigLen: 25]
+JP: <NAME>さん！
+JP: なに　バカなこと
+JP: いってるんですの？！
+CN: <NAME>！
+CN: 说什么傻话
+CN: 呢？！
+
+# [0085] [ROM: 0x1BC87B] [Bank: 0x6F:0x087B] [CPU: 0x487B] [OrigLen: 36]
+JP: よーし！
+JP: わたしも　まものになって
+JP: せかいを　しはい
+JP: しちゃおっと！
+CN: 好！
+CN: 我也变成魔物
+CN: 统治世界
+CN: 吧！
+
+# [0086] [ROM: 0x1BC89F] [Bank: 0x6F:0x089F] [CPU: 0x489F] [OrigLen: 22]
+JP: フフフフフフ……
+JP: ならば　われのもとへ……
+CN: 呵呵……
+CN: 来我这里……
+
+# [0087] [ROM: 0x1BC8B5] [Bank: 0x6F:0x08B5] [CPU: 0x48B5] [OrigLen: 26]
+JP: せかいは　まかいおうと
+JP: <NAME>によって
+JP: ほろぼされた。
+CN: 世界被魔王
+CN: 和<NAME>
+CN: 毁灭了。
+
+# [0088] [ROM: 0x1BC8CF] [Bank: 0x6F:0x08CF] [CPU: 0x48CF] [OrigLen: 11]
+JP: ゲームオーバー
+CN: 游戏结束
+
+# [0089] [ROM: 0x1BC8E7] [Bank: 0x6F:0x08E7] [CPU: 0x48E7] [OrigLen: 17]
+JP: ちんもくは　どういの
+JP: しるし……
+CN: 沉默即同意
+CN: ……
+
+# [0090] [ROM: 0x1BC8F8] [Bank: 0x6F:0x08F8] [CPU: 0x48F8] [OrigLen: 18]
+JP: よろしい。
+JP: さあ　われのもとへ……
+CN: 很好
+CN: 来我这……
+
+# [0091] [ROM: 0x1BC90A] [Bank: 0x6F:0x090A] [CPU: 0x490A] [OrigLen: 26]
+JP: せかいは　まかいおうと
+JP: <NAME>によって
+JP: ほろぼされた。
+CN: 世界被魔王
+CN: 和<NAME>
+CN: 毁灭了。
+
+# [0092] [ROM: 0x1BC924] [Bank: 0x6F:0x0924] [CPU: 0x4924] [OrigLen: 11]
+JP: ゲームオーバー
+CN: 游戏结束
+
+# [0093] [ROM: 0x1BC92F] [Bank: 0x6F:0x092F] [CPU: 0x492F] [OrigLen: 9]
+JP: おことわりよ！！
+CN: 拒绝！！
+
+# [0094] [ROM: 0x1BC938] [Bank: 0x6F:0x0938] [CPU: 0x4938] [OrigLen: 31]
+JP: ちじょうを　はかいだなんて
+JP: そんなこと
+JP: させるもんですか！！
+CN: 毁灭地上
+CN: 这种事
+CN: 绝不允许！！
+
+# [0095] [ROM: 0x1BC957] [Bank: 0x6F:0x0957] [CPU: 0x4957] [OrigLen: 33]
+JP: そのとおりですわ！
+JP: ていとの　へいわを
+JP: まもるのが　わたくしたち
+CN: 说得对！
+CN: 守护帝都和平
+CN: 是我们
+
+# [0096] [ROM: 0x1BC978] [Bank: 0x6F:0x0978] [CPU: 0x4978] [OrigLen: 24]
+JP: ていこくかげきだんの
+JP: しめい　なのですから！！
+CN: 帝国华击团的
+CN: 使命！！
+
+# [0097] [ROM: 0x1BC990] [Bank: 0x6F:0x0990] [CPU: 0x4990] [OrigLen: 31]
+JP: フフフ……そうか
+JP: ざんねんだが　それならば
+JP: しかたがない……
+CN: 呵呵……
+CN: 很遗憾
+CN: 那没办法……
+
+# [0098] [ROM: 0x1BC9AF] [Bank: 0x6F:0x09AF] [CPU: 0x49AF] [OrigLen: 21]
+JP: おまえたちには
+JP: ここで　しんでもらう……
+CN: 你们就
+CN: 死在这吧……
+
+# [0099] [ROM: 0x1BC9C8] [Bank: 0x6F:0x09C8] [CPU: 0x49C8] [OrigLen: 7]
+JP: グォォォ……
+CN: 呜嗷
+
+# [0100] [ROM: 0x1BC9CF] [Bank: 0x6F:0x09CF] [CPU: 0x49CF] [OrigLen: 42]
+JP: す……　すごく………………
+JP: じゃあくで　つよい…………
+JP: れいりょくですわ……………
+CN: 好……好强……
+CN: 邪恶又强大……
+CN: 的灵力……
+
+# [0101] [ROM: 0x1BC9F9] [Bank: 0x6F:0x09F9] [CPU: 0x49F9] [OrigLen: 28]
+JP: フフ……おまえたち……
+JP: わが　しもべに
+JP: かなうかな……
+CN: 呵……
+CN: 能敌过
+CN: 我的仆人吗…
+
+# [0102] [ROM: 0x1BCA15] [Bank: 0x6F:0x0A15] [CPU: 0x4A15] [OrigLen: 46]
+JP: この　わたくしに　たおせぬ
+JP: まものなど　このよに
+JP: そんざいしませんわ！
+JP: ねっ！　<NAME>さん！！
+CN: 我打不倒的魔物
+CN: 这世上
+CN: 不存在！
+CN: 对吧<NAME>！！
+
+# [0103] [ROM: 0x1BCA43] [Bank: 0x6F:0x0A43] [CPU: 0x4A43] [OrigLen: 4]
+JP: はい！
+CN: 是
+
+# [0104] [ROM: 0x1BCA47] [Bank: 0x6F:0x0A47] [CPU: 0x4A47] [OrigLen: 45]
+JP: はい！　そのとおりです！
+JP: すみれさん！！
+JP: わたしたちの　チカラを
+JP: みせてやりましょう！！
+CN: 是！对！
+CN: 堇小姐！！
+CN: 展现我们的
+CN: 力量吧！！
+
+# [0105] [ROM: 0x1BCA74] [Bank: 0x6F:0x0A74] [CPU: 0x4A74] [OrigLen: 41]
+JP: もちろんですわ！
+JP: わたくしのチカラを
+JP: ぞんぶんに　みせつけて
+JP: さしあげますわ！！
+CN: 当然！
+CN: 我的力量
+CN: 尽情展现
+CN: 给你看！！
+
+# [0106] [ROM: 0x1BCA9D] [Bank: 0x6F:0x0A9D] [CPU: 0x4A9D] [OrigLen: 9]
+JP: いきますわよ！！
+CN: 上了！！
+
+# [0107] [ROM: 0x1BCAB5] [Bank: 0x6F:0x0AB5] [CPU: 0x4AB5] [OrigLen: 30]
+JP: <NAME>さん
+JP: いまさら　きんちょうなんて
+JP: だらしない　ですわよ。
+CN: <NAME>
+CN: 事到如今还紧张
+CN: 真没出息。
+
+# [0108] [ROM: 0x1BCAD3] [Bank: 0x6F:0x0AD3] [CPU: 0x4AD3] [OrigLen: 41]
+JP: この　かんざき　すみれが
+JP: いっしょに　いるのですよ。
+JP: もっと　リラックスなさい。
+CN: 神崎堇
+CN: 就在你身边
+CN: 放松点。
+
+# [0109] [ROM: 0x1BCAFC] [Bank: 0x6F:0x0AFC] [CPU: 0x4AFC] [OrigLen: 11]
+JP: さあ　いきますわよ！
+CN: 来吧上了！
+
+# [0110] [ROM: 0x1BCB07] [Bank: 0x6F:0x0B07] [CPU: 0x4B07] [OrigLen: 14]
+JP: グオァアァアァァァ〜〜！！
+CN: 嗷啊～～！！
+
+# [0111] [ROM: 0x1BCB15] [Bank: 0x6F:0x0B15] [CPU: 0x4B15] [OrigLen: 16]
+JP: やりましたね！
+JP: すみれさん！！
+CN: 干得好！
+CN: 堇！！
+
+# [0112] [ROM: 0x1BCB25] [Bank: 0x6F:0x0B25] [CPU: 0x4B25] [OrigLen: 18]
+JP: ええ　やりましたわね！
+JP: <NAME>さん！！
+CN: 嗯干得好！
+CN: <NAME>！！
+
+# [0113] [ROM: 0x1BCB37] [Bank: 0x6F:0x0B37] [CPU: 0x4B37] [OrigLen: 37]
+JP: まかいおう　とやら。
+JP: おまえの　てしたも
+JP: たいしたこと
+JP: ありませんわね。
+CN: 魔王
+CN: 你的手下也
+CN: 不过如此
+CN: 呢。
+
+# [0114] [ROM: 0x1BCB5C] [Bank: 0x6F:0x0B5C] [CPU: 0x4B5C] [OrigLen: 12]
+JP: フ……フハハハハハ！！
+CN: 哈哈哈！！
+
+# [0115] [ROM: 0x1BCB68] [Bank: 0x6F:0x0B68] [CPU: 0x4B68] [OrigLen: 18]
+JP: な……
+JP: なにが　おかしいのです！！
+CN: 什么
+CN: 好笑！！
+
+# [0116] [ROM: 0x1BCB7A] [Bank: 0x6F:0x0B7A] [CPU: 0x4B7A] [OrigLen: 22]
+JP: フハハハ……　なかなか
+JP: やるではないか……
+CN: 哈哈……
+CN: 还挺能干……
+
+# [0117] [ROM: 0x1BCB90] [Bank: 0x6F:0x0B90] [CPU: 0x4B90] [OrigLen: 41]
+JP: おまえたちを　たおし
+JP: まものにかえて
+JP: われの　あたらしい
+JP: しもべと　してやろう。
+CN: 打倒你们
+CN: 变成魔物
+CN: 成为我新的
+CN: 仆人吧。
+
+# [0118] [ROM: 0x1BCBB9] [Bank: 0x6F:0x0BB9] [CPU: 0x4BB9] [OrigLen: 11]
+JP: な　なんですって？！
+CN: 什么？！
+
+# [0119] [ROM: 0x1BCBC4] [Bank: 0x6F:0x0BC4] [CPU: 0x4BC4] [OrigLen: 14]
+JP: そんなことは　させないわ！
+CN: 休想得逞！
+
+# [0120] [ROM: 0x1BCBD2] [Bank: 0x6F:0x0BD2] [CPU: 0x4BD2] [OrigLen: 37]
+JP: そんなことは　させないわ！
+JP: やられるのは　おまえよ！！
+JP: まかいおう！！！
+CN: 休想！
+CN: 被打倒的是你！！
+CN: 魔王！！！
+
+# [0121] [ROM: 0x1BCBF7] [Bank: 0x6F:0x0BF7] [CPU: 0x4BF7] [OrigLen: 47]
+JP: そのとおりですわ！
+JP: おまえを　たおして
+JP: にどと　よみがえらないよう
+JP: ふういん　いたします！！
+CN: 说得对！
+CN: 打倒你
+CN: 让你不再复活
+CN: 封印你！！
+
+# [0122] [ROM: 0x1BCC35] [Bank: 0x6F:0x0C35] [CPU: 0x4C35] [OrigLen: 37]
+JP: そんなこと　させませんわ！
+JP: やられるのは　おまえです！
+JP: まかいおう！！！
+CN: 休想！
+CN: 被打倒的是你！
+CN: 魔王！！！
+
+# [0123] [ROM: 0x1BCC5A] [Bank: 0x6F:0x0C5A] [CPU: 0x4C5A] [OrigLen: 38]
+JP: おまえを　たおして
+JP: にどと　よみがえらないよう
+JP: ふういん　いたしますわ！！
+CN: 打倒你
+CN: 让你不再复活
+CN: 封印你！！
+
+# [0124] [ROM: 0x1BCC80] [Bank: 0x6F:0x0C80] [CPU: 0x4C80] [OrigLen: 15]
+JP: フフフ……
+JP: できるかな？……
+CN: 呵呵
+CN: 能行吗
+
+# [0125] [ROM: 0x1BCC8F] [Bank: 0x6F:0x0C8F] [CPU: 0x4C8F] [OrigLen: 14]
+JP: いきますわよ！
+JP: <NAME>さん！！
+CN: 上了！
+CN: <NAME>！！
+
+# [0126] [ROM: 0x1BCC9D] [Bank: 0x6F:0x0C9D] [CPU: 0x4C9D] [OrigLen: 60]
+JP: うおおおおおおおおおおおおお
+JP: おおおおおおおおおおおおおお
+JP: おおおおおおおおおおおおおお
+JP: おおおおおーーーーーーーっ！
+CN: 呜哦哦哦哦哦
+CN: 哦哦哦哦哦哦哦哦
+CN: 哦哦哦哦哦哦哦哦
+CN: 哦哦哦——！
+
+# [0127] [ROM: 0x1BCCD9] [Bank: 0x6F:0x0CD9] [CPU: 0x4CD9] [OrigLen: 39]
+JP: おぼえておれ……
+JP: われは　なんどでも
+JP: よみがえってくる……
+JP: ぐぅっ……！！！
+CN: 记住…
+CN: 我会无数次
+CN: 复活…
+CN: 唔…！！！
+
+# [0128] [ROM: 0x1BCD00] [Bank: 0x6F:0x0D00] [CPU: 0x4D00] [OrigLen: 26]
+JP: はあ……はあ……や……
+JP: やりましたね　すみれさん。
+CN: 哈……哈……
+CN: 干得好堇。
+
+# [0129] [ROM: 0x1BCD1A] [Bank: 0x6F:0x0D1A] [CPU: 0x4D1A] [OrigLen: 23]
+JP: <NAME>さん！
+JP: 『まじんき』を　はやく
+JP: だいざに！
+CN: <NAME>！
+CN: 魔神器快
+CN: 上台座！
+
+# [0130] [ROM: 0x1BCD31] [Bank: 0x6F:0x0D31] [CPU: 0x4D31] [OrigLen: 23]
+JP: あの　トビラを　えいえんに
+JP: とじるのです！！
+CN: 永远关上那门！！
+
+# [0131] [ROM: 0x1BCD48] [Bank: 0x6F:0x0D48] [CPU: 0x4D48] [OrigLen: 20]
+JP: まずは　『まじんき<81>よかがみ』
+JP: を……
+CN: 先放镜·魔神器
+CN: …
+
+# [0132] [ROM: 0x1BCD5C] [Bank: 0x6F:0x0D5C] [CPU: 0x4D5C] [OrigLen: 11]
+JP: よし！
+JP: つぎは……と
+CN: 好
+CN: 接下来
+
+# [0133] [ROM: 0x1BCD67] [Bank: 0x6F:0x0D67] [CPU: 0x4D67] [OrigLen: 19]
+JP: ここは　『まじんき<81>よたま』
+JP: ね……
+CN: 珠·魔神器
+CN: 呢
+
+# [0134] [ROM: 0x1BCD7A] [Bank: 0x6F:0x0D7A] [CPU: 0x4D7A] [OrigLen: 11]
+JP: よし！
+JP: さいごは……
+CN: 好
+CN: 最后
+
+# [0135] [ROM: 0x1BCD85] [Bank: 0x6F:0x0D85] [CPU: 0x4D85] [OrigLen: 13]
+JP: 『まじんき<81>よけん』よ！
+CN: 剑·魔神器！
+
+# [0136] [ROM: 0x1BCD92] [Bank: 0x6F:0x0D92] [CPU: 0x4D92] [OrigLen: 14]
+JP: よし！
+JP: ぜんぶ　おいたわ。
+CN: 好
+CN: 全放好了
+
+# [0137] [ROM: 0x1BCDA0] [Bank: 0x6F:0x0DA0] [CPU: 0x4DA0] [OrigLen: 20]
+JP: ……！！
+JP: <NAME>さん！
+JP: ごらんになって！！
+CN: ！！
+CN: <NAME>！
+CN: 请看！！
+
+# [0138] [ROM: 0x1BCDB4] [Bank: 0x6F:0x0DB4] [CPU: 0x4DB4] [OrigLen: 8]
+JP: すみれさん……
+CN: 堇……
+
+# [0139] [ROM: 0x1BCDBC] [Bank: 0x6F:0x0DBC] [CPU: 0x4DBC] [OrigLen: 17]
+JP: <NAME>さん
+JP: ついに　やりましたわね。
+CN: <NAME>
+CN: 终于成功了。
+
+# [0140] [ROM: 0x1BCDCD] [Bank: 0x6F:0x0DCD] [CPU: 0x4DCD] [OrigLen: 11]
+JP: はい！
+JP: …………でも
+CN: 是
+CN: 但……
+
+# [0141] [ROM: 0x1BCDD8] [Bank: 0x6F:0x0DD8] [CPU: 0x4DD8] [OrigLen: 44]
+JP: 『まじんき』を
+JP: かいしゅうするだけの
+JP: にんむ　だったのに
+JP: こんなことに　なるなんて……
+CN: 只是回收
+CN: 魔神器
+CN: 的任务
+CN: 竟变成这样……
+
+# [0142] [ROM: 0x1BCE04] [Bank: 0x6F:0x0E04] [CPU: 0x4E04] [OrigLen: 44]
+JP: そうですわね……
+JP: まさか　ちじょうの　しはいを
+JP: たくらむものが　いたなんて…
+JP: …………
+CN: 是啊……
+CN: 没想到有人
+CN: 企图统治地上…
+CN: ……
+
+# [0143] [ROM: 0x1BCE30] [Bank: 0x6F:0x0E30] [CPU: 0x4E30] [OrigLen: 32]
+JP: それにしても
+JP: <NAME>さんは
+JP: ほんとうに　よく
+JP: がんばりましたわよ。
+CN: 话说回来
+CN: <NAME>
+CN: 真的
+CN: 很努力了。
+
+# [0144] [ROM: 0x1BCE50] [Bank: 0x6F:0x0E50] [CPU: 0x4E50] [OrigLen: 13]
+JP: ほめて　さしあげますわ。
+CN: 我夸夸你。
+
+# [0145] [ROM: 0x1BCE5D] [Bank: 0x6F:0x0E5D] [CPU: 0x4E5D] [OrigLen: 30]
+JP: さあ　『まじんき』を
+JP: もって　ていげきに
+JP: かえりますわよ！
+CN: 来 带着魔神器
+CN: 回帝击
+CN: 吧！
+
+# [0146] [ROM: 0x1BCE7B] [Bank: 0x6F:0x0E7B] [CPU: 0x4E7B] [OrigLen: 30]
+JP: にんむかんりょう！
+JP: <NAME>さん！
+JP: ていげきへ　かえりますわよ！
+CN: 任务完成！
+CN: <NAME>！
+CN: 回帝击吧！
+
+# [0147] [ROM: 0x1BCE99] [Bank: 0x6F:0x0E99] [CPU: 0x4E99] [OrigLen: 41]
+JP: うわ……　なにここ……
+JP: わるいチカラが　あふれてるよ
+JP: なんか　きもちわるーい……
+CN: 哇……这里
+CN: 充满邪恶力量
+CN: 好恶心……
+
+# [0148] [ROM: 0x1BCEC2] [Bank: 0x6F:0x0EC2] [CPU: 0x4EC2] [OrigLen: 48]
+JP: こういうところを　『まかい』
+JP: って　いうのかな〜？
+JP: なんだか　つよい　まものが
+JP: でそうだよ……
+CN: 这种地方叫
+CN: 魔界吗～？
+CN: 好像有强魔物
+CN: 要出来……
+
+# [0149] [ROM: 0x1BCEF2] [Bank: 0x6F:0x0EF2] [CPU: 0x4EF2] [OrigLen: 16]
+JP: でも　がんばっていこうね
+JP: <NAME>。
+CN: 一起加油吧
+CN: <NAME>
+
+# [0150] [ROM: 0x1BCF02] [Bank: 0x6F:0x0F02] [CPU: 0x4F02] [OrigLen: 4]
+JP: うん！
+CN: 嗯
+
+# [0151] [ROM: 0x1BCF15] [Bank: 0x6F:0x0F15] [CPU: 0x4F15] [OrigLen: 16]
+JP: どうしたの？　<NAME>。
+JP: コワイの？
+CN: 怎么了<NAME>
+CN: 怕吗
+
+# [0152] [ROM: 0x1BCF25] [Bank: 0x6F:0x0F25] [CPU: 0x4F25] [OrigLen: 31]
+JP: アイリスも　こわいけど……
+JP: でも　がんばろうよ。
+JP: ねっ　<NAME>。
+CN: 爱丽丝怕…
+CN: 但加油吧
+CN: 对吧<NAME>。
+
+# [0153] [ROM: 0x1BCF44] [Bank: 0x6F:0x0F44] [CPU: 0x4F44] [OrigLen: 12]
+JP: うん！　がんばろう！！
+CN: 嗯加油！！
+
+# [0154] [ROM: 0x1BCF50] [Bank: 0x6F:0x0F50] [CPU: 0x4F50] [OrigLen: 21]
+JP: エヘヘ……
+JP: アイリスを　まもってね
+JP: <NAME>。
+CN: 嘿嘿
+CN: 保护爱丽丝
+CN: <NAME>
+
+# [0155] [ROM: 0x1BCF65] [Bank: 0x6F:0x0F65] [CPU: 0x4F65] [OrigLen: 10]
+JP: あっ！
+JP: アイリス！
+CN: 啊
+CN: 爱丽丝
+
+# [0156] [ROM: 0x1BCF6F] [Bank: 0x6F:0x0F6F] [CPU: 0x4F6F] [OrigLen: 12]
+JP: あっ！　まものだぁ！！
+CN: 啊魔物！！
+
+# [0157] [ROM: 0x1BCF7B] [Bank: 0x6F:0x0F7B] [CPU: 0x4F7B] [OrigLen: 14]
+JP: よお。
+JP: ひさしぶりだな〜。
+CN: 哟
+CN: 好久不见
+
+# [0158] [ROM: 0x1BCF89] [Bank: 0x6F:0x0F89] [CPU: 0x4F89] [OrigLen: 22]
+JP: ひさしぶり？
+JP: ……………………………………
+CN: 好久不见？
+CN: ……
+
+# [0159] [ROM: 0x1BCF9F] [Bank: 0x6F:0x0F9F] [CPU: 0x4F9F] [OrigLen: 30]
+JP: あっ！
+JP: 『けん』の『まじんき』に
+JP: くっついてた　まものだ！
+CN: 啊
+CN: 附着剑魔神器
+CN: 的魔物！
+
+# [0160] [ROM: 0x1BCFBD] [Bank: 0x6F:0x0FBD] [CPU: 0x4FBD] [OrigLen: 21]
+JP: あらららららら。
+JP: こっちにも　いますよ。
+CN: 哎呀呀呀
+CN: 这边也有哦
+
+# [0161] [ROM: 0x1BCFD2] [Bank: 0x6F:0x0FD2] [CPU: 0x4FD2] [OrigLen: 30]
+JP: ああっ！！
+JP: 『たま』の『まじんき』に
+JP: くっついてた　やつ！
+CN: 啊！
+CN: 附着珠魔神器
+CN: 的家伙！
+
+# [0162] [ROM: 0x1BCFF0] [Bank: 0x6F:0x0FF0] [CPU: 0x4FF0] [OrigLen: 32]
+JP: こーーーっちにも
+JP: いちゃったり　なんか
+JP: するんだからねーーっ。
+CN: 这边也有
+CN: 哦真是的
+CN: 有哦～
+
+# [0163] [ROM: 0x1BD010] [Bank: 0x6F:0x1010] [CPU: 0x5010] [OrigLen: 32]
+JP: ウソ！？
+JP: 『かがみ』の『まじんき』の
+JP: ときの　まものもいるの！
+CN: 骗人！
+CN: 镜魔神器时
+CN: 的魔物也在！
+
+# [0164] [ROM: 0x1BD030] [Bank: 0x6F:0x1030] [CPU: 0x5030] [OrigLen: 24]
+JP: いちど　やっつけたハズ
+JP: なのに！
+JP: どうして？！
+CN: 明明打倒过
+CN: 为什么？！
+
+# [0165] [ROM: 0x1BD048] [Bank: 0x6F:0x1048] [CPU: 0x5048] [OrigLen: 35]
+JP: 『まじんき』を
+JP: かえして　もらうため
+JP: じごくから
+JP: よみがえったのさ。
+CN: 为了拿回
+CN: 魔神器
+CN: 从地狱
+CN: 复活了。
+
+# [0166] [ROM: 0x1BD06B] [Bank: 0x6F:0x106B] [CPU: 0x506B] [OrigLen: 27]
+JP: エッ？！
+JP: じゃあ　オバケなんだ！！
+JP: どうしよう　<NAME>。
+CN: 咦！
+CN: 是鬼啊！！
+CN: 怎么办<NAME>
+
+# [0167] [ROM: 0x1BD086] [Bank: 0x6F:0x1086] [CPU: 0x5086] [OrigLen: 7]
+JP: たたかおう！
+CN: 战斗
+
+# [0168] [ROM: 0x1BD08D] [Bank: 0x6F:0x108D] [CPU: 0x508D] [OrigLen: 7]
+JP: にげようか？
+CN: 逃吗？
+
+# [0169] [ROM: 0x1BD0A1] [Bank: 0x6F:0x10A1] [CPU: 0x50A1] [OrigLen: 38]
+JP: オバケと　たたかうのは
+JP: イヤだけど……
+JP: 『まじんき』を
+JP: まもらなきゃ……
+CN: 不想和鬼打……
+CN: 但得保护
+CN: 魔神器……
+
+# [0170] [ROM: 0x1BD0C7] [Bank: 0x6F:0x10C7] [CPU: 0x50C7] [OrigLen: 24]
+JP: がんばって　あいつらを
+JP: やっつけちゃおう
+JP: <NAME>！
+CN: 加油打倒
+CN: 那些家伙
+CN: <NAME>！
+
+# [0171] [ROM: 0x1BD0DF] [Bank: 0x6F:0x10DF] [CPU: 0x50DF] [OrigLen: 41]
+JP: たたかおう　アイリス！
+JP: あいては　３たいも　いるけど
+JP: いちど　たおしたやつらだ。
+CN: 战斗！
+CN: 对手有三体
+CN: 但都打倒过。
+
+# [0172] [ROM: 0x1BD108] [Bank: 0x6F:0x1108] [CPU: 0x5108] [OrigLen: 21]
+JP: だいじょうぶ。
+JP: らくしょうで　かてるよ。
+CN: 没事
+CN: 轻松能赢。
+
+# [0173] [ROM: 0x1BD11D] [Bank: 0x6F:0x111D] [CPU: 0x511D] [OrigLen: 27]
+JP: うん　そうだね！
+JP: あんなまもの
+JP: やっつけちゃおう！！
+CN: 嗯对！
+CN: 那种魔物
+CN: 打倒吧！！
+
+# [0174] [ROM: 0x1BD138] [Bank: 0x6F:0x1138] [CPU: 0x5138] [OrigLen: 37]
+JP: にげようか　アイリス？
+JP: オバケと　たたかうのって
+JP: なんだか　こわいしね。
+CN: 要逃吗爱丽丝？
+CN: 和鬼战斗
+CN: 总觉得怕。
+
+# [0175] [ROM: 0x1BD15D] [Bank: 0x6F:0x115D] [CPU: 0x515D] [OrigLen: 14]
+JP: さんせーいの　はんたーい。
+CN: 赞成反对
+
+# [0176] [ROM: 0x1BD16B] [Bank: 0x6F:0x116B] [CPU: 0x516B] [OrigLen: 30]
+JP: 「さんせいの　はんたい」って
+JP: どういうことだ？　アイリス。
+CN: 赞成反对
+CN: 什么意思爱丽丝？
+
+# [0177] [ROM: 0x1BD189] [Bank: 0x6F:0x1189] [CPU: 0x5189] [OrigLen: 29]
+JP: オバケは　こわいから
+JP: アイリスも　にげたいんだけど
+JP: ……
+CN: 鬼很可怕
+CN: 爱丽丝也想逃
+CN: 但……
+
+# [0178] [ROM: 0x1BD1A6] [Bank: 0x6F:0x11A6] [CPU: 0x51A6] [OrigLen: 36]
+JP: でも……『まじんき』を
+JP: とられるわけには
+JP: いかないんだよ。
+JP: だから……
+CN: 但……魔神器
+CN: 不能
+CN: 被夺走
+CN: 所以……
+
+# [0179] [ROM: 0x1BD1CA] [Bank: 0x6F:0x11CA] [CPU: 0x51CA] [OrigLen: 26]
+JP: がんばって　あいつらを
+JP: やっつけちゃおう！
+JP: <NAME>！！
+CN: 加油打倒
+CN: 那些家伙！
+CN: <NAME>！！
+
+# [0180] [ROM: 0x1BD1E4] [Bank: 0x6F:0x11E4] [CPU: 0x51E4] [OrigLen: 26]
+JP: さあ……
+JP: 『まじんき』を　かえして
+JP: もらいますよ。
+CN: 来……
+CN: 把魔神器
+CN: 还回来。
+
+# [0181] [ROM: 0x1BD1FE] [Bank: 0x6F:0x11FE] [CPU: 0x51FE] [OrigLen: 30]
+JP: こーーーんどは
+JP: まけなかったり
+JP: しちゃったりするんだから。
+CN: 这次可不会
+CN: 再输掉
+CN: 了哦。
+
+# [0182] [ROM: 0x1BD21C] [Bank: 0x6F:0x121C] [CPU: 0x521C] [OrigLen: 33]
+JP: フフフフフ……
+JP: うまれかわった　オレたちは
+JP: ひとあじ　ちがうぜ。
+CN: 呵呵呵……
+CN: 重生的我们
+CN: 可不一样。
+
+# [0183] [ROM: 0x1BD23D] [Bank: 0x6F:0x123D] [CPU: 0x523D] [OrigLen: 16]
+JP: いくぞ！
+JP: ３たい　がったいだ！
+CN: 上！
+CN: 三体合体！
+
+# [0184] [ROM: 0x1BD24D] [Bank: 0x6F:0x124D] [CPU: 0x524D] [OrigLen: 9]
+JP: いくよ！　<NAME>！！
+CN: 上<NAME>！
+
+# [0185] [ROM: 0x1BD256] [Bank: 0x6F:0x1256] [CPU: 0x5256] [OrigLen: 36]
+JP: ぐおお……お……ま……
+JP: 『まかいのトビラ』が
+JP: かんぜんに　ひらけば……
+CN: 呜哦……
+CN: 魔界之门
+CN: 完全打开的话……
+
+# [0186] [ROM: 0x1BD27A] [Bank: 0x6F:0x127A] [CPU: 0x527A] [OrigLen: 38]
+JP: 『トビラ』がひらけば
+JP: われわれは　なんどでも
+JP: よみがえってくるぞーー！！！
+CN: 门一开
+CN: 我们无论多少次
+CN: 都会复活！！
+
+# [0187] [ROM: 0x1BD2A0] [Bank: 0x6F:0x12A0] [CPU: 0x52A0] [OrigLen: 9]
+JP: やったね　<NAME>！！
+CN: 赢了<NAME>！
+
+# [0188] [ROM: 0x1BD2A9] [Bank: 0x6F:0x12A9] [CPU: 0x52A9] [OrigLen: 27]
+JP: アイリス……
+JP: 『まかいのトビラ』って
+JP: なんなのかな？
+CN: 爱丽丝…
+CN: 魔界之门
+CN: 是什么？
+
+# [0189] [ROM: 0x1BD2C4] [Bank: 0x6F:0x12C4] [CPU: 0x52C4] [OrigLen: 21]
+JP: う〜ん……
+JP: アイリスにも　わかんないよ。
+CN: 嗯…
+CN: 爱丽丝也不懂
+
+# [0190] [ROM: 0x1BD2D9] [Bank: 0x6F:0x12D9] [CPU: 0x52D9] [OrigLen: 21]
+JP: でも　なんだか
+JP: いやな　よかんがするね。
+CN: 但总感觉
+CN: 不祥预感
+
+# [0191] [ROM: 0x1BD2EE] [Bank: 0x6F:0x12EE] [CPU: 0x52EE] [OrigLen: 10]
+JP: いそごう！
+JP: <NAME>！！
+CN: 快走
+CN: <NAME>
+
+# [0192] [ROM: 0x1BD2F8] [Bank: 0x6F:0x12F8] [CPU: 0x52F8] [OrigLen: 22]
+JP: ア……アイリス！
+JP: あ……あれは　まさか……
+CN: 爱丽丝！
+CN: 那是难道…
+
+# [0193] [ROM: 0x1BD30E] [Bank: 0x6F:0x130E] [CPU: 0x530E] [OrigLen: 23]
+JP: あれが　『まかいのトビラ』
+JP: じゃ　ないのか？
+CN: 那就是魔界之门
+CN: 吧？
+
+# [0194] [ROM: 0x1BD325] [Bank: 0x6F:0x1325] [CPU: 0x5325] [OrigLen: 14]
+JP: うん。
+JP: きっと　そうだよ。
+CN: 嗯
+CN: 一定是。
+
+# [0195] [ROM: 0x1BD336] [Bank: 0x6F:0x1336] [CPU: 0x5336] [OrigLen: 30]
+JP: あっ！
+JP: もうちょっとで
+JP: トビラが　ぜんぶ
+JP: ひらいちゃう！！
+CN: 啊
+CN: 差一点
+CN: 门全打开
+CN: 了！！
+
+# [0196] [ROM: 0x1BD354] [Bank: 0x6F:0x1354] [CPU: 0x5354] [OrigLen: 18]
+JP: はやく　トビラを
+JP: しめないと！！
+CN: 快关门！！
+
+# [0197] [ROM: 0x1BD366] [Bank: 0x6F:0x1366] [CPU: 0x5366] [OrigLen: 33]
+JP: ……アイリス
+JP: ここにある　だいざみたいな
+JP: ものは　もしかして……
+CN: ……爱丽丝
+CN: 这里的台座
+CN: 难道是……
+
+# [0198] [ROM: 0x1BD387] [Bank: 0x6F:0x1387] [CPU: 0x5387] [OrigLen: 30]
+JP: ……これは
+JP: 『まじんき<81>よけん』を
+JP: おく　だいみたいだね。
+CN: …这
+CN: 是放剑·魔神器的
+CN: 台座呢
+
+# [0199] [ROM: 0x1BD3A5] [Bank: 0x6F:0x13A5] [CPU: 0x53A5] [OrigLen: 15]
+JP: じゃあ
+JP: あっちは　どうかな？
+CN: 那
+CN: 那边如何？
+
+# [0200] [ROM: 0x1BD3B4] [Bank: 0x6F:0x13B4] [CPU: 0x53B4] [OrigLen: 26]
+JP: ここには
+JP: 『まじんき<81>よたま』を
+JP: おくみたいだよ。
+CN: 这里
+CN: 放珠<81>魔神器。
+
+# [0201] [ROM: 0x1BD3CE] [Bank: 0x6F:0x13CE] [CPU: 0x53CE] [OrigLen: 16]
+JP: <NAME>　むこうの
+JP: だいざを　みて。
+CN: <NAME>
+CN: 看对面台座。
+
+# [0202] [ROM: 0x1BD3DE] [Bank: 0x6F:0x13DE] [CPU: 0x53DE] [OrigLen: 34]
+JP: こっちは……
+JP: 『まじんき<81>よかがみ』を
+JP: おく　だいざの　ようだね。
+CN: 这边是…
+CN: 放镜·魔神器
+CN: 的台座。
+
+# [0203] [ROM: 0x1BD400] [Bank: 0x6F:0x1400] [CPU: 0x5400] [OrigLen: 35]
+JP: 『まじんき』を　このだいざの
+JP: うえにおくと　なにか
+JP: おこるのかな……
+CN: 把魔神器放上台座
+CN: 会发生
+CN: 什么吗……
+
+# [0204] [ROM: 0x1BD423] [Bank: 0x6F:0x1423] [CPU: 0x5423] [OrigLen: 47]
+JP: ………………………わかった！
+JP: 『まじんき』が
+JP: 『まかいのトビラ』の
+JP: カギに　なってるんだよ！
+CN: ……明白了！
+CN: 魔神器是
+CN: 魔界之门的
+CN: 钥匙！
+
+# [0205] [ROM: 0x1BD452] [Bank: 0x6F:0x1452] [CPU: 0x5452] [OrigLen: 37]
+JP: それなら　はやく
+JP: 『まじんき』を　つかって
+JP: あの　トビラを　とじないと！
+CN: 那就快
+CN: 用魔神器
+CN: 关上那门！
+
+# [0206] [ROM: 0x1BD477] [Bank: 0x6F:0x1477] [CPU: 0x5477] [OrigLen: 20]
+JP: うん！
+JP: はやく『まじんき』を
+JP: おこう！
+CN: 嗯
+CN: 快放魔神器
+CN: 吧
+
+# [0207] [ROM: 0x1BD48B] [Bank: 0x6F:0x148B] [CPU: 0x548B] [OrigLen: 4]
+JP: あっ！
+CN: 啊
+
+# [0208] [ROM: 0x1BD48F] [Bank: 0x6F:0x148F] [CPU: 0x548F] [OrigLen: 21]
+JP: トビラが　かんぜんに
+JP: ひらいちゃった！！
+CN: 门完全
+CN: 打开了！！
+
+# [0209] [ROM: 0x1BD4A4] [Bank: 0x6F:0x14A4] [CPU: 0x54A4] [OrigLen: 29]
+JP: <NAME>！　きをつけて！
+JP: わるい　れいりょくを
+JP: かんじるよ！！
+CN: <NAME>！小心
+CN: 有邪恶灵力！！
+
+# [0210] [ROM: 0x1BD4C1] [Bank: 0x6F:0x14C1] [CPU: 0x54C1] [OrigLen: 24]
+JP: われの　めざめを
+JP: じゃまするものは
+JP: だれだ……
+CN: 妨碍我觉醒的
+CN: 是谁……
+
+# [0211] [ROM: 0x1BD4D9] [Bank: 0x6F:0x14D9] [CPU: 0x54D9] [OrigLen: 24]
+JP: ボクは
+JP: ていこくかげきだん<81>よはなぐみ
+JP: <NAME>だ！
+CN: 我是
+CN: 帝国华击团·花组
+CN: <NAME>
+
+# [0212] [ROM: 0x1BD4F1] [Bank: 0x6F:0x14F1] [CPU: 0x54F1] [OrigLen: 12]
+JP: おまえは　なにものだ！
+CN: 你是谁！
+
+# [0213] [ROM: 0x1BD4FD] [Bank: 0x6F:0x14FD] [CPU: 0x54FD] [OrigLen: 35]
+JP: われは　まかいおう……
+JP: ちのそこにて　ながくねむりし
+JP: まもののおう。
+CN: 我是魔王……
+CN: 长眠地底
+CN: 魔物之王。
+
+# [0214] [ROM: 0x1BD520] [Bank: 0x6F:0x1520] [CPU: 0x5520] [OrigLen: 29]
+JP: きょだいな　ちからにより
+JP: トビラが　ひらかれし
+JP: いま……
+CN: 巨大力量
+CN: 打开门
+CN: 现在……
+
+# [0215] [ROM: 0x1BD53D] [Bank: 0x6F:0x153D] [CPU: 0x553D] [OrigLen: 23]
+JP: われら　まものが
+JP: ちじょうを　しはいする……
+CN: 我们魔物
+CN: 统治地上……
+
+# [0216] [ROM: 0x1BD554] [Bank: 0x6F:0x1554] [CPU: 0x5554] [OrigLen: 37]
+JP: おまえも　まものとなり
+JP: われと　ともに　ちじょうを
+JP: はかいしつくさぬか？
+CN: 你也成为魔物
+CN: 与我一起
+CN: 毁灭地上吧？
+
+# [0217] [ROM: 0x1BD579] [Bank: 0x6F:0x1579] [CPU: 0x5579] [OrigLen: 8]
+JP: おもしろそうだ
+CN: 有趣
+
+# [0218] [ROM: 0x1BD581] [Bank: 0x6F:0x1581] [CPU: 0x5581] [OrigLen: 11]
+JP: バカなことをいうな！
+CN: 别说傻话！
+
+# [0219] [ROM: 0x1BD58C] [Bank: 0x6F:0x158C] [CPU: 0x558C] [OrigLen: 10]
+JP: おもしろそうだな！
+CN: 有趣！
+
+# [0220] [ROM: 0x1BD596] [Bank: 0x6F:0x1596] [CPU: 0x5596] [OrigLen: 11]
+JP: <NAME>！
+JP: ほんきなの？！
+CN: <NAME>
+CN: 真的？！
+
+# [0221] [ROM: 0x1BD5A1] [Bank: 0x6F:0x15A1] [CPU: 0x55A1] [OrigLen: 31]
+JP: よし！
+JP: ボクも　まものになって
+JP: せかいを　しはいしてやる！
+CN: 好！
+CN: 我也变成魔物
+CN: 统治世界！
+
+# [0222] [ROM: 0x1BD5C0] [Bank: 0x6F:0x15C0] [CPU: 0x55C0] [OrigLen: 22]
+JP: フフフフフフ……
+JP: ならば　われのもとへ……
+CN: 呵呵……
+CN: 来我这里……
+
+# [0223] [ROM: 0x1BD5D6] [Bank: 0x6F:0x15D6] [CPU: 0x55D6] [OrigLen: 26]
+JP: せかいは　まかいおうと
+JP: <NAME>によって
+JP: ほろぼされた。
+CN: 世界被魔王
+CN: 和<NAME>
+CN: 毁灭了。
+
+# [0224] [ROM: 0x1BD5F0] [Bank: 0x6F:0x15F0] [CPU: 0x55F0] [OrigLen: 11]
+JP: ゲームオーバー
+CN: 游戏结束
+
+# [0225] [ROM: 0x1BD608] [Bank: 0x6F:0x1608] [CPU: 0x5608] [OrigLen: 17]
+JP: ちんもくは　どういの
+JP: しるし……
+CN: 沉默即同意
+CN: ……
+
+# [0226] [ROM: 0x1BD619] [Bank: 0x6F:0x1619] [CPU: 0x5619] [OrigLen: 18]
+JP: よろしい。
+JP: さあ　われのもとへ……
+CN: 很好
+CN: 来我这……
+
+# [0227] [ROM: 0x1BD62B] [Bank: 0x6F:0x162B] [CPU: 0x562B] [OrigLen: 26]
+JP: せかいは　まかいおうと
+JP: <NAME>によって
+JP: ほろぼされた。
+CN: 世界被魔王
+CN: 和<NAME>
+CN: 毁灭了。
+
+# [0228] [ROM: 0x1BD645] [Bank: 0x6F:0x1645] [CPU: 0x5645] [OrigLen: 11]
+JP: ゲームオーバー
+CN: 游戏结束
+
+# [0229] [ROM: 0x1BD650] [Bank: 0x6F:0x1650] [CPU: 0x5650] [OrigLen: 11]
+JP: バカなことをいうな！
+CN: 别说傻话！
+
+# [0230] [ROM: 0x1BD65B] [Bank: 0x6F:0x165B] [CPU: 0x565B] [OrigLen: 29]
+JP: ちじょうを　はかいだなんて
+JP: そんなこと　させるものか！！
+CN: 毁灭地上
+CN: 休想得逞！！
+
+# [0231] [ROM: 0x1BD678] [Bank: 0x6F:0x1678] [CPU: 0x5678] [OrigLen: 29]
+JP: そうだよ！
+JP: ていとの　へいわを
+JP: まもるのが　アイリスたち
+CN: 对！
+CN: 守护帝都和平
+CN: 是爱丽丝们
+
+# [0232] [ROM: 0x1BD695] [Bank: 0x6F:0x1695] [CPU: 0x5695] [OrigLen: 23]
+JP: ていこくかげきだんの
+JP: しめい　なんだから！！
+CN: 帝国华击团的
+CN: 使命！！
+
+# [0233] [ROM: 0x1BD6AC] [Bank: 0x6F:0x16AC] [CPU: 0x56AC] [OrigLen: 31]
+JP: フフフ……そうか
+JP: ざんねんだが　それならば
+JP: しかたがない……
+CN: 呵呵……
+CN: 很遗憾
+CN: 那没办法……
+
+# [0234] [ROM: 0x1BD6CB] [Bank: 0x6F:0x16CB] [CPU: 0x56CB] [OrigLen: 21]
+JP: おまえたちには
+JP: ここで　しんでもらう……
+CN: 你们就
+CN: 死在这吧……
+
+# [0235] [ROM: 0x1BD6E4] [Bank: 0x6F:0x16E4] [CPU: 0x56E4] [OrigLen: 7]
+JP: グォォォ……
+CN: 呜嗷
+
+# [0236] [ROM: 0x1BD6EB] [Bank: 0x6F:0x16EB] [CPU: 0x56EB] [OrigLen: 42]
+JP: す……　すごく………………
+JP: わるくて　つよい……………
+JP: れいりょくだよ………………
+CN: 好……好强……
+CN: 邪恶又强大……
+CN: 的灵力……
+
+# [0237] [ROM: 0x1BD715] [Bank: 0x6F:0x1715] [CPU: 0x5715] [OrigLen: 28]
+JP: フフ……おまえたち……
+JP: わが　しもべに
+JP: かなうかな……
+CN: 呵……
+CN: 能敌过
+CN: 我的仆人吗…
+
+# [0238] [ROM: 0x1BD731] [Bank: 0x6F:0x1731] [CPU: 0x5731] [OrigLen: 21]
+JP: アイリス　まけないもん！
+JP: ねっ！　<NAME>！！
+CN: 爱丽丝不输
+CN: <NAME>！！
+
+# [0239] [ROM: 0x1BD746] [Bank: 0x6F:0x1746] [CPU: 0x5746] [OrigLen: 8]
+JP: そのとおりだ！
+CN: 没错！
+
+# [0240] [ROM: 0x1BD74E] [Bank: 0x6F:0x174E] [CPU: 0x574E] [OrigLen: 34]
+JP: そのとおりだよ
+JP: アイリス！！
+JP: ボクたちの　チカラを
+JP: みせてやろう！
+CN: 对
+CN: 爱丽丝！！
+CN: 展现我们的
+CN: 力量吧！
+
+# [0241] [ROM: 0x1BD770] [Bank: 0x6F:0x1770] [CPU: 0x5770] [OrigLen: 7]
+JP: うん　<NAME>！！
+CN: 嗯<NAME>！
+
+# [0242] [ROM: 0x1BD777] [Bank: 0x6F:0x1777] [CPU: 0x5777] [OrigLen: 12]
+JP: じゃあ　いっくよ〜！！
+CN: 上吧～！！
+
+# [0243] [ROM: 0x1BD792] [Bank: 0x6F:0x1792] [CPU: 0x5792] [OrigLen: 21]
+JP: どうしたの？　<NAME>。
+JP: きんちょうしてるの？
+CN: 怎么了<NAME>
+CN: 紧张吗？
+
+# [0244] [ROM: 0x1BD7A7] [Bank: 0x6F:0x17A7] [CPU: 0x57A7] [OrigLen: 32]
+JP: だいじょうぶだよ。
+JP: いまの　<NAME>なら
+JP: あんなやつ　イチコロだよ。
+CN: 没事
+CN: 现在的<NAME>
+CN: 那种家伙一下搞定。
+
+# [0245] [ROM: 0x1BD7C7] [Bank: 0x6F:0x17C7] [CPU: 0x57C7] [OrigLen: 12]
+JP: じゃあ　いっくよ〜！！
+CN: 上吧～！！
+
+# [0246] [ROM: 0x1BD7D3] [Bank: 0x6F:0x17D3] [CPU: 0x57D3] [OrigLen: 14]
+JP: グオァアァアァァァ〜〜！！
+CN: 嗷啊～～！！
+
+# [0247] [ROM: 0x1BD7E1] [Bank: 0x6F:0x17E1] [CPU: 0x57E1] [OrigLen: 13]
+JP: やったぞ！　アイリス！！
+CN: 赢了爱丽丝！
+
+# [0248] [ROM: 0x1BD7EE] [Bank: 0x6F:0x17EE] [CPU: 0x57EE] [OrigLen: 13]
+JP: うん！　やったね
+JP: <NAME>！！
+CN: 嗯赢了
+CN: <NAME>！！
+
+# [0249] [ROM: 0x1BD7FB] [Bank: 0x6F:0x17FB] [CPU: 0x57FB] [OrigLen: 28]
+JP: まかいおう！
+JP: おまえの　てしたも
+JP: たいしたことないね。
+CN: 魔王
+CN: 你的手下也
+CN: 不过如此
+
+# [0250] [ROM: 0x1BD817] [Bank: 0x6F:0x1817] [CPU: 0x5817] [OrigLen: 12]
+JP: フ……フハハハハハ！！
+CN: 哈哈哈！！
+
+# [0251] [ROM: 0x1BD823] [Bank: 0x6F:0x1823] [CPU: 0x5823] [OrigLen: 13]
+JP: なにが　おかしいのっ！！
+CN: 什么好笑！！
+
+# [0252] [ROM: 0x1BD830] [Bank: 0x6F:0x1830] [CPU: 0x5830] [OrigLen: 22]
+JP: フハハハ……　なかなか
+JP: やるではないか……
+CN: 哈哈……
+CN: 还挺能干……
+
+# [0253] [ROM: 0x1BD846] [Bank: 0x6F:0x1846] [CPU: 0x5846] [OrigLen: 41]
+JP: おまえたちを　たおし
+JP: まものにかえて
+JP: われの　あたらしい
+JP: しもべと　してやろう。
+CN: 打倒你们
+CN: 变成魔物
+CN: 成为我新的
+CN: 仆人吧。
+
+# [0254] [ROM: 0x1BD86F] [Bank: 0x6F:0x186F] [CPU: 0x586F] [OrigLen: 6]
+JP: エエッ？！
+CN: 咦！
+
+# [0255] [ROM: 0x1BD875] [Bank: 0x6F:0x1875] [CPU: 0x5875] [OrigLen: 13]
+JP: そんなことは　させない！
+CN: 休想！
+
+# [0256] [ROM: 0x1BD882] [Bank: 0x6F:0x1882] [CPU: 0x5882] [OrigLen: 36]
+JP: そんなことは　させない！
+JP: やられるのは　おまえだ！！
+JP: まかいおう！！！
+CN: 休想！
+CN: 被打倒的是你！！
+CN: 魔王！！！
+
+# [0257] [ROM: 0x1BD8A6] [Bank: 0x6F:0x18A6] [CPU: 0x58A6] [OrigLen: 36]
+JP: そうだよ！
+JP: おまえを　たおして
+JP: ちゃんと　ふういん
+JP: しちゃうんだから！
+CN: 对！
+CN: 打倒你
+CN: 好好封印
+CN: 你！
+
+# [0258] [ROM: 0x1BD8D9] [Bank: 0x6F:0x18D9] [CPU: 0x58D9] [OrigLen: 17]
+JP: そんなことは
+JP: させないんだから！
+CN: 休想
+CN: 得逞！
+
+# [0259] [ROM: 0x1BD8EA] [Bank: 0x6F:0x18EA] [CPU: 0x58EA] [OrigLen: 30]
+JP: おまえを　たおして
+JP: ちゃんと　ふういん
+JP: しちゃうんだから！
+CN: 打倒你
+CN: 好好封印
+CN: 你！
+
+# [0260] [ROM: 0x1BD908] [Bank: 0x6F:0x1908] [CPU: 0x5908] [OrigLen: 15]
+JP: フフフ……
+JP: できるかな？……
+CN: 呵呵
+CN: 能行吗
+
+# [0261] [ROM: 0x1BD917] [Bank: 0x6F:0x1917] [CPU: 0x5917] [OrigLen: 11]
+JP: いっくよ〜！　<NAME>！！
+CN: 上吧～<NAME>！
+
+# [0262] [ROM: 0x1BD922] [Bank: 0x6F:0x1922] [CPU: 0x5922] [OrigLen: 60]
+JP: うおおおおおおおおおおおおお
+JP: おおおおおおおおおおおおおお
+JP: おおおおおおおおおおおおおお
+JP: おおおおおーーーーーーーっ！
+CN: 呜哦哦哦哦哦
+CN: 哦哦哦哦哦哦哦哦
+CN: 哦哦哦哦哦哦哦哦
+CN: 哦哦哦——！
+
+# [0263] [ROM: 0x1BD95E] [Bank: 0x6F:0x195E] [CPU: 0x595E] [OrigLen: 39]
+JP: おぼえておれ……
+JP: われは　なんどでも
+JP: よみがえってくる……
+JP: ぐぅっ……！！！
+CN: 记住…
+CN: 我会无数次
+CN: 复活…
+CN: 唔…！！！
+
+# [0264] [ROM: 0x1BD985] [Bank: 0x6F:0x1985] [CPU: 0x5985] [OrigLen: 23]
+JP: はあ……はあ……や……
+JP: やったね　アイリス。
+CN: 哈……哈…
+CN: 赢爱丽丝。
+
+# [0265] [ROM: 0x1BD99C] [Bank: 0x6F:0x199C] [CPU: 0x599C] [OrigLen: 27]
+JP: <NAME>！
+JP: はやく　『まじんき』を
+JP: だいのうえに　おいて！
+CN: <NAME>！
+CN: 快把魔神器
+CN: 放上台！
+
+# [0266] [ROM: 0x1BD9B7] [Bank: 0x6F:0x19B7] [CPU: 0x59B7] [OrigLen: 17]
+JP: あの　トビラを
+JP: とじちゃおう！！
+CN: 关上那门！！
+
+# [0267] [ROM: 0x1BD9C8] [Bank: 0x6F:0x19C8] [CPU: 0x59C8] [OrigLen: 20]
+JP: まずは　『まじんき<81>よかがみ』
+JP: を……
+CN: 先放镜·魔神器
+CN: …
+
+# [0268] [ROM: 0x1BD9DC] [Bank: 0x6F:0x19DC] [CPU: 0x59DC] [OrigLen: 11]
+JP: よし！
+JP: つぎは……と
+CN: 好
+CN: 接下来
+
+# [0269] [ROM: 0x1BD9E7] [Bank: 0x6F:0x19E7] [CPU: 0x59E7] [OrigLen: 20]
+JP: ここは　『まじんき<81>よたま』
+JP: だな……
+CN: 珠·魔神器
+CN: 吧…
+
+# [0270] [ROM: 0x1BD9FB] [Bank: 0x6F:0x19FB] [CPU: 0x59FB] [OrigLen: 11]
+JP: よし！
+JP: さいごは……
+CN: 好
+CN: 最后
+
+# [0271] [ROM: 0x1BDA06] [Bank: 0x6F:0x1A06] [CPU: 0x5A06] [OrigLen: 13]
+JP: 『まじんき<81>よけん』だ！
+CN: 剑·魔神器！
+
+# [0272] [ROM: 0x1BDA13] [Bank: 0x6F:0x1A13] [CPU: 0x5A13] [OrigLen: 14]
+JP: よし！
+JP: ぜんぶ　おいたぞ。
+CN: 好
+CN: 全放好了
+
+# [0273] [ROM: 0x1BDA21] [Bank: 0x6F:0x1A21] [CPU: 0x5A21] [OrigLen: 13]
+JP: ……！！
+JP: <NAME>！　みて！！
+CN: ！！
+CN: <NAME>看！！
+
+# [0274] [ROM: 0x1BDA2E] [Bank: 0x6F:0x1A2E] [CPU: 0x5A2E] [OrigLen: 7]
+JP: アイリス……
+CN: 爱丽丝
+
+# [0275] [ROM: 0x1BDA35] [Bank: 0x6F:0x1A35] [CPU: 0x5A35] [OrigLen: 8]
+JP: やったね　<NAME>。
+CN: 赢了<NAME>。
+
+# [0276] [ROM: 0x1BDA3D] [Bank: 0x6F:0x1A3D] [CPU: 0x5A3D] [OrigLen: 11]
+JP: うん！
+JP: …………でも
+CN: 嗯
+CN: 但…
+
+# [0277] [ROM: 0x1BDA48] [Bank: 0x6F:0x1A48] [CPU: 0x5A48] [OrigLen: 44]
+JP: 『まじんき』を
+JP: かいしゅうするだけの
+JP: にんむ　だったのに
+JP: こんなことに　なるなんて……
+CN: 只是回收
+CN: 魔神器
+CN: 的任务
+CN: 竟变成这样……
+
+# [0278] [ROM: 0x1BDA74] [Bank: 0x6F:0x1A74] [CPU: 0x5A74] [OrigLen: 25]
+JP: そうだね。
+JP: でも　たまには
+JP: こんなこともあるよ。
+CN: 是啊
+CN: 但偶尔
+CN: 也有这种事。
+
+# [0279] [ROM: 0x1BDA8D] [Bank: 0x6F:0x1A8D] [CPU: 0x5A8D] [OrigLen: 24]
+JP: それにしても
+JP: <NAME>は
+JP: ほんとうに　がんばったね。
+CN: 话说回来
+CN: <NAME>
+CN: 真的很努力。
+
+# [0280] [ROM: 0x1BDAA5] [Bank: 0x6F:0x1AA5] [CPU: 0x5AA5] [OrigLen: 9]
+JP: エライ！　<NAME>！！
+CN: 真棒<NAME>！
+
+# [0281] [ROM: 0x1BDAAE] [Bank: 0x6F:0x1AAE] [CPU: 0x5AAE] [OrigLen: 28]
+JP: さあ　『まじんき』を
+JP: もって　ていげきに
+JP: かえろう！！
+CN: 来 带着魔神器
+CN: 回帝击
+CN: 吧！
+
+# [0282] [ROM: 0x1BDACA] [Bank: 0x6F:0x1ACA] [CPU: 0x5ACA] [OrigLen: 27]
+JP: にんむ　しゅうりょう！
+JP: ていげきに　かえろう
+JP: <NAME>！！
+CN: 任务完成！
+CN: 回帝击吧
+CN: <NAME>！！
+
+# [0283] [ROM: 0x1BDAE5] [Bank: 0x6F:0x1AE5] [CPU: 0x5AE5] [OrigLen: 41]
+JP: うわ……　なにここ……
+JP: わるいチカラが　あふれてるよ
+JP: なんか　きもちわるーい……
+CN: 哇……这里
+CN: 充满邪恶力量
+CN: 好恶心……
+
+# [0284] [ROM: 0x1BDB0E] [Bank: 0x6F:0x1B0E] [CPU: 0x5B0E] [OrigLen: 48]
+JP: こういうところを　『まかい』
+JP: って　いうのかな〜？
+JP: なんだか　つよい　まものが
+JP: でそうだよ……
+CN: 这种地方叫
+CN: 魔界吗～？
+CN: 好像有强魔物
+CN: 要出来……
+
+# [0285] [ROM: 0x1BDB3E] [Bank: 0x6F:0x1B3E] [CPU: 0x5B3E] [OrigLen: 16]
+JP: でも　がんばっていこうね
+JP: <NAME>。
+CN: 一起加油吧
+CN: <NAME>
+
+# [0286] [ROM: 0x1BDB4E] [Bank: 0x6F:0x1B4E] [CPU: 0x5B4E] [OrigLen: 7]
+JP: もちろんよ。
+CN: 当然。
+
+# [0287] [ROM: 0x1BDB64] [Bank: 0x6F:0x1B64] [CPU: 0x5B64] [OrigLen: 16]
+JP: どうしたの？　<NAME>。
+JP: コワイの？
+CN: 怎么了<NAME>
+CN: 怕吗
+
+# [0288] [ROM: 0x1BDB74] [Bank: 0x6F:0x1B74] [CPU: 0x5B74] [OrigLen: 31]
+JP: アイリスも　こわいけど……
+JP: でも　がんばろうよ。
+JP: ねっ　<NAME>。
+CN: 爱丽丝怕…
+CN: 但加油吧
+CN: 对吧<NAME>。
+
+# [0289] [ROM: 0x1BDB93] [Bank: 0x6F:0x1B93] [CPU: 0x5B93] [OrigLen: 28]
+JP: もちろんよ。
+JP: いっしょに　がんばりましょう
+JP: アイリス。
+CN: 当然
+CN: 一起加油吧
+CN: 爱丽丝。
+
+# [0290] [ROM: 0x1BDBAF] [Bank: 0x6F:0x1BAF] [CPU: 0x5BAF] [OrigLen: 31]
+JP: うん！
+JP: いっしょに　がんばろう！！
+JP: じゃあ　いくよ！
+JP: <NAME>！！
+CN: 嗯
+CN: 一起加油！！
+CN: 上！
+CN: <NAME>！！
+
+# [0291] [ROM: 0x1BDBCE] [Bank: 0x6F:0x1BCE] [CPU: 0x5BCE] [OrigLen: 10]
+JP: あっ！
+JP: アイリス！
+CN: 啊
+CN: 爱丽丝
+
+# [0292] [ROM: 0x1BDBD8] [Bank: 0x6F:0x1BD8] [CPU: 0x5BD8] [OrigLen: 12]
+JP: あっ！　まものだぁ！！
+CN: 啊魔物！！
+
+# [0293] [ROM: 0x1BDBE4] [Bank: 0x6F:0x1BE4] [CPU: 0x5BE4] [OrigLen: 14]
+JP: よお。
+JP: ひさしぶりだな〜。
+CN: 哟
+CN: 好久不见
+
+# [0294] [ROM: 0x1BDBF2] [Bank: 0x6F:0x1BF2] [CPU: 0x5BF2] [OrigLen: 22]
+JP: ひさしぶり？
+JP: ……………………………………
+CN: 好久不见？
+CN: ……
+
+# [0295] [ROM: 0x1BDC08] [Bank: 0x6F:0x1C08] [CPU: 0x5C08] [OrigLen: 30]
+JP: あっ！
+JP: 『けん』の『まじんき』に
+JP: くっついてた　まものだ！
+CN: 啊
+CN: 附着剑魔神器
+CN: 的魔物！
+
+# [0296] [ROM: 0x1BDC26] [Bank: 0x6F:0x1C26] [CPU: 0x5C26] [OrigLen: 21]
+JP: あらららららら。
+JP: こっちにも　いますよ。
+CN: 哎呀呀呀
+CN: 这边也有哦
+
+# [0297] [ROM: 0x1BDC3B] [Bank: 0x6F:0x1C3B] [CPU: 0x5C3B] [OrigLen: 30]
+JP: ああっ！！
+JP: 『たま』の『まじんき』に
+JP: くっついてた　やつ！
+CN: 啊！
+CN: 附着珠魔神器
+CN: 的家伙！
+
+# [0298] [ROM: 0x1BDC59] [Bank: 0x6F:0x1C59] [CPU: 0x5C59] [OrigLen: 32]
+JP: こーーーっちにも
+JP: いちゃったり　なんか
+JP: するんだからねーーっ。
+CN: 这边也有
+CN: 哦真是的
+CN: 有哦～
+
+# [0299] [ROM: 0x1BDC79] [Bank: 0x6F:0x1C79] [CPU: 0x5C79] [OrigLen: 32]
+JP: ウソ！？
+JP: 『かがみ』の『まじんき』の
+JP: ときの　まものもいるの！
+CN: 骗人！
+CN: 镜魔神器时
+CN: 的魔物也在！
+
+# [0300] [ROM: 0x1BDC99] [Bank: 0x6F:0x1C99] [CPU: 0x5C99] [OrigLen: 24]
+JP: いちど　やっつけたハズ
+JP: なのに！
+JP: どうして？！
+CN: 明明打倒过
+CN: 为什么？！
+
+# [0301] [ROM: 0x1BDCB1] [Bank: 0x6F:0x1CB1] [CPU: 0x5CB1] [OrigLen: 37]
+JP: その『まじんき』を
+JP: かえして　もらうため
+JP: じごくから
+JP: よみがえったのさ。
+CN: 为了拿回
+CN: 那魔神器
+CN: 从地狱
+CN: 复活了。
+
+# [0302] [ROM: 0x1BDCD6] [Bank: 0x6F:0x1CD6] [CPU: 0x5CD6] [OrigLen: 27]
+JP: エッ？！
+JP: じゃあ　オバケなんだ！！
+JP: どうしよう　<NAME>。
+CN: 咦！
+CN: 是鬼啊！！
+CN: 怎么办<NAME>
+
+# [0303] [ROM: 0x1BDCF1] [Bank: 0x6F:0x1CF1] [CPU: 0x5CF1] [OrigLen: 10]
+JP: たたかいましょう！
+CN: 战斗吧！
+
+# [0304] [ROM: 0x1BDCFB] [Bank: 0x6F:0x1CFB] [CPU: 0x5CFB] [OrigLen: 10]
+JP: オバケって　こわい
+CN: 鬼真可怕
+
+# [0305] [ROM: 0x1BDD12] [Bank: 0x6F:0x1D12] [CPU: 0x5D12] [OrigLen: 38]
+JP: オバケと　たたかうのは
+JP: イヤだけど……
+JP: 『まじんき』を
+JP: まもらなきゃ……
+CN: 不想和鬼打……
+CN: 但得保护
+CN: 魔神器……
+
+# [0306] [ROM: 0x1BDD38] [Bank: 0x6F:0x1D38] [CPU: 0x5D38] [OrigLen: 24]
+JP: がんばって　あいつらを
+JP: やっつけちゃおう
+JP: <NAME>！
+CN: 加油打倒
+CN: 那些家伙
+CN: <NAME>！
+
+# [0307] [ROM: 0x1BDD50] [Bank: 0x6F:0x1D50] [CPU: 0x5D50] [OrigLen: 55]
+JP: たたかいましょう　アイリス！
+JP: あいては　３たいも　いるけど
+JP: いちど　たおしたやつら
+JP: だから　だいじょうぶよ！
+CN: 战斗吧爱丽丝！
+CN: 虽然对手有三体
+CN: 都是打倒过的
+CN: 所以没事！
+
+# [0308] [ROM: 0x1BDD87] [Bank: 0x6F:0x1D87] [CPU: 0x5D87] [OrigLen: 30]
+JP: わたしと　アイリスなら
+JP: きっと　かんたんに
+JP: たおせるわ！！
+CN: 我和爱丽丝
+CN: 一定轻松
+CN: 打倒！！
+
+# [0309] [ROM: 0x1BDDA5] [Bank: 0x6F:0x1DA5] [CPU: 0x5DA5] [OrigLen: 28]
+JP: うん　そうだね！
+JP: あんな　まもの
+JP: やっつけちゃおう！！
+CN: 嗯对！
+CN: 那种魔物
+CN: 打倒吧！！
+
+# [0310] [ROM: 0x1BDDC1] [Bank: 0x6F:0x1DC1] [CPU: 0x5DC1] [OrigLen: 43]
+JP: オバケ？
+JP: まものは　こわくないけど
+JP: オバケってきくと　なんだか
+JP: こわいわ　アイリス。
+CN: 鬼？
+CN: 魔物不怕
+CN: 但听到鬼
+CN: 总觉得怕爱丽丝。
+
+# [0311] [ROM: 0x1BDDEC] [Bank: 0x6F:0x1DEC] [CPU: 0x5DEC] [OrigLen: 18]
+JP: うん……
+JP: アイリスも　こわいよ……
+CN: 嗯…
+CN: 爱丽丝也怕
+
+# [0312] [ROM: 0x1BDDFE] [Bank: 0x6F:0x1DFE] [CPU: 0x5DFE] [OrigLen: 48]
+JP: でも………………………………
+JP: ………………『まじんき』を
+JP: とられるわけには
+JP: いかないのよね……
+CN: 但……
+CN: 魔神器
+CN: 不能被夺走
+CN: 啊……
+
+# [0313] [ROM: 0x1BDE2E] [Bank: 0x6F:0x1E2E] [CPU: 0x5E2E] [OrigLen: 24]
+JP: うん……　そうだよ。
+JP: オバケは　こわいけど……
+CN: 嗯……是啊
+CN: 鬼很可怕……
+
+# [0314] [ROM: 0x1BDE46] [Bank: 0x6F:0x1E46] [CPU: 0x5E46] [OrigLen: 26]
+JP: がんばって　あいつらを
+JP: やっつけちゃおう！
+JP: <NAME>！！
+CN: 加油打倒
+CN: 那些家伙！
+CN: <NAME>！！
+
+# [0315] [ROM: 0x1BDE60] [Bank: 0x6F:0x1E60] [CPU: 0x5E60] [OrigLen: 26]
+JP: さあ……
+JP: 『まじんき』を　かえして
+JP: もらいますよ。
+CN: 来……
+CN: 把魔神器
+CN: 还回来。
+
+# [0316] [ROM: 0x1BDE7A] [Bank: 0x6F:0x1E7A] [CPU: 0x5E7A] [OrigLen: 31]
+JP: こーーーんどは
+JP: まけなかったり
+JP: しちゃったり　するんだから。
+CN: 这次可不会
+CN: 再输掉
+CN: 了哦。
+
+# [0317] [ROM: 0x1BDE99] [Bank: 0x6F:0x1E99] [CPU: 0x5E99] [OrigLen: 33]
+JP: フフフフフ……
+JP: うまれかわった　オレたちは
+JP: ひとあじ　ちがうぜ。
+CN: 呵呵呵……
+CN: 重生的我们
+CN: 可不一样。
+
+# [0318] [ROM: 0x1BDEBA] [Bank: 0x6F:0x1EBA] [CPU: 0x5EBA] [OrigLen: 16]
+JP: いくぞ！
+JP: ３たい　がったいだ！
+CN: 上！
+CN: 三体合体！
+
+# [0319] [ROM: 0x1BDECA] [Bank: 0x6F:0x1ECA] [CPU: 0x5ECA] [OrigLen: 9]
+JP: いくよ！　<NAME>！！
+CN: 上<NAME>！
+
+# [0320] [ROM: 0x1BDED3] [Bank: 0x6F:0x1ED3] [CPU: 0x5ED3] [OrigLen: 36]
+JP: ぐおお……お……ま……
+JP: 『まかいのトビラ』が
+JP: かんぜんに　ひらけば……
+CN: 呜哦……
+CN: 魔界之门
+CN: 完全打开的话……
+
+# [0321] [ROM: 0x1BDEF7] [Bank: 0x6F:0x1EF7] [CPU: 0x5EF7] [OrigLen: 38]
+JP: 『トビラ』がひらけば
+JP: われわれは　なんどでも
+JP: よみがえってくるぞーー！！！
+CN: 门一开
+CN: 我们无论多少次
+CN: 都会复活！！
+
+# [0322] [ROM: 0x1BDF1D] [Bank: 0x6F:0x1F1D] [CPU: 0x5F1D] [OrigLen: 9]
+JP: やったね　<NAME>！！
+CN: 赢了<NAME>！
+
+# [0323] [ROM: 0x1BDF26] [Bank: 0x6F:0x1F26] [CPU: 0x5F26] [OrigLen: 28]
+JP: アイリス……
+JP: 『まかいのトビラ』って
+JP: なんなのかしら？
+CN: 爱丽丝…
+CN: 魔界之门
+CN: 是什么？
+
+# [0324] [ROM: 0x1BDF42] [Bank: 0x6F:0x1F42] [CPU: 0x5F42] [OrigLen: 21]
+JP: う〜ん……
+JP: アイリスにも　わかんないよ。
+CN: 嗯…
+CN: 爱丽丝也不懂
+
+# [0325] [ROM: 0x1BDF57] [Bank: 0x6F:0x1F57] [CPU: 0x5F57] [OrigLen: 21]
+JP: でも　なんだか
+JP: いやな　よかんがするね。
+CN: 但总感觉
+CN: 不祥预感
+
+# [0326] [ROM: 0x1BDF6C] [Bank: 0x6F:0x1F6C] [CPU: 0x5F6C] [OrigLen: 10]
+JP: いそごう！
+JP: <NAME>！！
+CN: 快走
+CN: <NAME>
+
+# [0327] [ROM: 0x1BDF76] [Bank: 0x6F:0x1F76] [CPU: 0x5F76] [OrigLen: 22]
+JP: ア……アイリス！
+JP: あ……あれは　まさか……
+CN: 爱丽丝！
+CN: 那是难道…
+
+# [0328] [ROM: 0x1BDF8C] [Bank: 0x6F:0x1F8C] [CPU: 0x5F8C] [OrigLen: 24]
+JP: あれが　『まかいのトビラ』
+JP: じゃ　ないかしら？
+CN: 那就是魔界之门
+CN: 吧？
+
+# [0329] [ROM: 0x1BDFA4] [Bank: 0x6F:0x1FA4] [CPU: 0x5FA4] [OrigLen: 14]
+JP: うん。
+JP: きっと　そうだよ。
+CN: 嗯
+CN: 一定是。
+
+# [0330] [ROM: 0x1BDFB5] [Bank: 0x6F:0x1FB5] [CPU: 0x5FB5] [OrigLen: 30]
+JP: あっ！
+JP: もうちょっとで
+JP: トビラが　ぜんぶ
+JP: ひらいちゃう！！
+CN: 啊
+CN: 差一点
+CN: 门全打开
+CN: 了！！
+
+# [0331] [ROM: 0x1BDFD3] [Bank: 0x6F:0x1FD3] [CPU: 0x5FD3] [OrigLen: 18]
+JP: はやく　トビラを
+JP: しめないと！！
+CN: 快关门！！
+
+# [0332] [ROM: 0x1BDFE5] [Bank: 0x6F:0x1FE5] [CPU: 0x5FE5] [OrigLen: 34]
+JP: ……アイリス
+JP: ここにある　だいざみたいな
+JP: ものは　もしかしたら……
+CN: ……爱丽丝
+CN: 这里的台座
+CN: 难道是……
+
+# [0333] [ROM: 0x1BE007] [Bank: 0x6F:0x2007] [CPU: 0x6007] [OrigLen: 30]
+JP: ……これは
+JP: 『まじんき<81>よけん』を
+JP: おく　だいみたいだね。
+CN: …这
+CN: 是放剑·魔神器的
+CN: 台座呢
+
+# [0334] [ROM: 0x1BE025] [Bank: 0x6F:0x2025] [CPU: 0x6025] [OrigLen: 15]
+JP: じゃあ
+JP: あっちは　どうかな？
+CN: 那
+CN: 那边如何？
+
+# [0335] [ROM: 0x1BE034] [Bank: 0x6F:0x2034] [CPU: 0x6034] [OrigLen: 26]
+JP: ここには
+JP: 『まじんき<81>よたま』を
+JP: おくみたいだよ。
+CN: 这里
+CN: 放珠<81>魔神器。
+
+# [0336] [ROM: 0x1BE04E] [Bank: 0x6F:0x204E] [CPU: 0x604E] [OrigLen: 16]
+JP: <NAME>　むこうの
+JP: だいざを　みて。
+CN: <NAME>
+CN: 看对面台座。
+
+# [0337] [ROM: 0x1BE05E] [Bank: 0x6F:0x205E] [CPU: 0x605E] [OrigLen: 33]
+JP: こっちは……
+JP: 『まじんき<81>よかがみ』を
+JP: おく　だいざの　ようね。
+CN: 这边是…
+CN: 放镜·魔神器
+CN: 的台座呢。
+
+# [0338] [ROM: 0x1BE07F] [Bank: 0x6F:0x207F] [CPU: 0x607F] [OrigLen: 36]
+JP: 『まじんき』を　このだいざの
+JP: うえにおくと　なにか
+JP: おこるのかしら……
+CN: 把魔神器放上台座
+CN: 会发生
+CN: 什么吗……
+
+# [0339] [ROM: 0x1BE0A3] [Bank: 0x6F:0x20A3] [CPU: 0x60A3] [OrigLen: 47]
+JP: ………………………わかった！
+JP: 『まじんき』が
+JP: 『まかいのトビラ』の
+JP: カギに　なってるんだよ！
+CN: ……明白了！
+CN: 魔神器是
+CN: 魔界之门的
+CN: 钥匙！
+
+# [0340] [ROM: 0x1BE0D2] [Bank: 0x6F:0x20D2] [CPU: 0x60D2] [OrigLen: 37]
+JP: それなら　はやく
+JP: 『まじんき』を　つかって
+JP: あの　トビラを　とじないと！
+CN: 那就快
+CN: 用魔神器
+CN: 关上那门！
+
+# [0341] [ROM: 0x1BE0F7] [Bank: 0x6F:0x20F7] [CPU: 0x60F7] [OrigLen: 20]
+JP: うん！
+JP: はやく『まじんき』を
+JP: おこう！
+CN: 嗯
+CN: 快放魔神器
+CN: 吧
+
+# [0342] [ROM: 0x1BE10B] [Bank: 0x6F:0x210B] [CPU: 0x610B] [OrigLen: 4]
+JP: あっ！
+CN: 啊
+
+# [0343] [ROM: 0x1BE10F] [Bank: 0x6F:0x210F] [CPU: 0x610F] [OrigLen: 21]
+JP: トビラが　かんぜんに
+JP: ひらいちゃった！！
+CN: 门完全
+CN: 打开了！！
+
+# [0344] [ROM: 0x1BE124] [Bank: 0x6F:0x2124] [CPU: 0x6124] [OrigLen: 29]
+JP: <NAME>！　きをつけて！
+JP: わるい　れいりょくを
+JP: かんじるよ！！
+CN: <NAME>！小心
+CN: 有邪恶灵力！！
+
+# [0345] [ROM: 0x1BE141] [Bank: 0x6F:0x2141] [CPU: 0x6141] [OrigLen: 24]
+JP: われの　めざめを
+JP: じゃまするものは
+JP: だれだ……
+CN: 妨碍我觉醒的
+CN: 是谁……
+
+# [0346] [ROM: 0x1BE159] [Bank: 0x6F:0x2159] [CPU: 0x6159] [OrigLen: 25]
+JP: わたしは
+JP: ていこくかげきだん<81>よはなぐみ
+JP: <NAME>！！
+CN: 我是
+CN: 帝国华击团·花组
+CN: <NAME>
+
+# [0347] [ROM: 0x1BE172] [Bank: 0x6F:0x2172] [CPU: 0x6172] [OrigLen: 11]
+JP: おまえは　なにもの！
+CN: 你是谁！
+
+# [0348] [ROM: 0x1BE17D] [Bank: 0x6F:0x217D] [CPU: 0x617D] [OrigLen: 35]
+JP: われは　まかいおう……
+JP: ちのそこにて　ながくねむりし
+JP: まもののおう。
+CN: 我是魔王……
+CN: 长眠地底
+CN: 魔物之王。
+
+# [0349] [ROM: 0x1BE1A0] [Bank: 0x6F:0x21A0] [CPU: 0x61A0] [OrigLen: 29]
+JP: きょだいな　ちからにより
+JP: トビラが　ひらかれし
+JP: いま……
+CN: 巨大力量
+CN: 打开门
+CN: 现在……
+
+# [0350] [ROM: 0x1BE1BD] [Bank: 0x6F:0x21BD] [CPU: 0x61BD] [OrigLen: 23]
+JP: われら　まものが
+JP: ちじょうを　しはいする……
+CN: 我们魔物
+CN: 统治地上……
+
+# [0351] [ROM: 0x1BE1D4] [Bank: 0x6F:0x21D4] [CPU: 0x61D4] [OrigLen: 37]
+JP: おまえも　まものとなり
+JP: われと　ともに　ちじょうを
+JP: はかいしつくさぬか？
+CN: 你也成为魔物
+CN: 与我一起
+CN: 毁灭地上吧？
+
+# [0352] [ROM: 0x1BE1F9] [Bank: 0x6F:0x21F9] [CPU: 0x61F9] [OrigLen: 8]
+JP: おもしろそうね
+CN: 有趣呢
+
+# [0353] [ROM: 0x1BE201] [Bank: 0x6F:0x2201] [CPU: 0x6201] [OrigLen: 9]
+JP: おことわりよ！！
+CN: 拒绝！！
+
+# [0354] [ROM: 0x1BE20A] [Bank: 0x6F:0x220A] [CPU: 0x620A] [OrigLen: 9]
+JP: おもしろそうね！
+CN: 有趣呢！
+
+# [0355] [ROM: 0x1BE213] [Bank: 0x6F:0x2213] [CPU: 0x6213] [OrigLen: 11]
+JP: <NAME>！
+JP: ほんきなの？！
+CN: <NAME>
+CN: 真的？！
+
+# [0356] [ROM: 0x1BE21E] [Bank: 0x6F:0x221E] [CPU: 0x621E] [OrigLen: 36]
+JP: よーし！
+JP: わたしも　まものになって
+JP: せかいを　しはい
+JP: しちゃおっと！
+CN: 好！
+CN: 我也变成魔物
+CN: 统治世界
+CN: 吧！
+
+# [0357] [ROM: 0x1BE242] [Bank: 0x6F:0x2242] [CPU: 0x6242] [OrigLen: 22]
+JP: フフフフフフ……
+JP: ならば　われのもとへ……
+CN: 呵呵……
+CN: 来我这里……
+
+# [0358] [ROM: 0x1BE258] [Bank: 0x6F:0x2258] [CPU: 0x6258] [OrigLen: 26]
+JP: せかいは　まかいおうと
+JP: <NAME>によって
+JP: ほろぼされた。
+CN: 世界被魔王
+CN: 和<NAME>
+CN: 毁灭了。
+
+# [0359] [ROM: 0x1BE272] [Bank: 0x6F:0x2272] [CPU: 0x6272] [OrigLen: 11]
+JP: ゲームオーバー
+CN: 游戏结束
+
+# [0360] [ROM: 0x1BE28A] [Bank: 0x6F:0x228A] [CPU: 0x628A] [OrigLen: 17]
+JP: ちんもくは　どういの
+JP: しるし……
+CN: 沉默即同意
+CN: ……
+
+# [0361] [ROM: 0x1BE29B] [Bank: 0x6F:0x229B] [CPU: 0x629B] [OrigLen: 18]
+JP: よろしい。
+JP: さあ　われのもとへ……
+CN: 很好
+CN: 来我这……
+
+# [0362] [ROM: 0x1BE2AD] [Bank: 0x6F:0x22AD] [CPU: 0x62AD] [OrigLen: 26]
+JP: せかいは　まかいおうと
+JP: <NAME>によって
+JP: ほろぼされた。
+CN: 世界被魔王
+CN: 和<NAME>
+CN: 毁灭了。
+
+# [0363] [ROM: 0x1BE2C7] [Bank: 0x6F:0x22C7] [CPU: 0x62C7] [OrigLen: 11]
+JP: ゲームオーバー
+CN: 游戏结束
+
+# [0364] [ROM: 0x1BE2D2] [Bank: 0x6F:0x22D2] [CPU: 0x62D2] [OrigLen: 9]
+JP: おことわりよ！！
+CN: 拒绝！！
+
+# [0365] [ROM: 0x1BE2DB] [Bank: 0x6F:0x22DB] [CPU: 0x62DB] [OrigLen: 31]
+JP: ちじょうを　はかいだなんて
+JP: そんなこと
+JP: させるもんですか！！
+CN: 毁灭地上
+CN: 这种事
+CN: 绝不允许！！
+
+# [0366] [ROM: 0x1BE2FA] [Bank: 0x6F:0x22FA] [CPU: 0x62FA] [OrigLen: 29]
+JP: そうだよ！
+JP: ていとの　へいわを
+JP: まもるのが　アイリスたち
+CN: 对！
+CN: 守护帝都和平
+CN: 是爱丽丝们
+
+# [0367] [ROM: 0x1BE317] [Bank: 0x6F:0x2317] [CPU: 0x6317] [OrigLen: 23]
+JP: ていこくかげきだんの
+JP: しめい　なんだから！！
+CN: 帝国华击团的
+CN: 使命！！
+
+# [0368] [ROM: 0x1BE32E] [Bank: 0x6F:0x232E] [CPU: 0x632E] [OrigLen: 31]
+JP: フフフ……そうか
+JP: ざんねんだが　それならば
+JP: しかたがない……
+CN: 呵呵……
+CN: 很遗憾
+CN: 那没办法……
+
+# [0369] [ROM: 0x1BE34D] [Bank: 0x6F:0x234D] [CPU: 0x634D] [OrigLen: 21]
+JP: おまえたちには
+JP: ここで　しんでもらう……
+CN: 你们就
+CN: 死在这吧……
+
+# [0370] [ROM: 0x1BE366] [Bank: 0x6F:0x2366] [CPU: 0x6366] [OrigLen: 7]
+JP: グォォォ……
+CN: 呜嗷
+
+# [0371] [ROM: 0x1BE36D] [Bank: 0x6F:0x236D] [CPU: 0x636D] [OrigLen: 42]
+JP: す……　すごく………………
+JP: わるくて　つよい……………
+JP: れいりょくだよ………………
+CN: 好……好强……
+CN: 邪恶又强大……
+CN: 的灵力……
+
+# [0372] [ROM: 0x1BE397] [Bank: 0x6F:0x2397] [CPU: 0x6397] [OrigLen: 28]
+JP: フフ……おまえたち……
+JP: わが　しもべに
+JP: かなうかな……
+CN: 呵……
+CN: 能敌过
+CN: 我的仆人吗…
+
+# [0373] [ROM: 0x1BE3B3] [Bank: 0x6F:0x23B3] [CPU: 0x63B3] [OrigLen: 21]
+JP: アイリス　まけないもん！
+JP: ねっ！　<NAME>！！
+CN: 爱丽丝不输
+CN: <NAME>！！
+
+# [0374] [ROM: 0x1BE3C8] [Bank: 0x6F:0x23C8] [CPU: 0x63C8] [OrigLen: 8]
+JP: そのとおりよ！
+CN: 没错！
+
+# [0375] [ROM: 0x1BE3D0] [Bank: 0x6F:0x23D0] [CPU: 0x63D0] [OrigLen: 37]
+JP: そのとおりよ
+JP: アイリス！！
+JP: わたしたちの　チカラを
+JP: みせてやりましょう！
+CN: 没错
+CN: 爱丽丝！！
+CN: 展现我们的
+CN: 力量吧！
+
+# [0376] [ROM: 0x1BE3F5] [Bank: 0x6F:0x23F5] [CPU: 0x63F5] [OrigLen: 7]
+JP: うん　<NAME>！！
+CN: 嗯<NAME>！
+
+# [0377] [ROM: 0x1BE3FC] [Bank: 0x6F:0x23FC] [CPU: 0x63FC] [OrigLen: 12]
+JP: じゃあ　いっくよ〜！！
+CN: 上吧～！！
+
+# [0378] [ROM: 0x1BE417] [Bank: 0x6F:0x2417] [CPU: 0x6417] [OrigLen: 21]
+JP: どうしたの？　<NAME>。
+JP: きんちょうしてるの？
+CN: 怎么了<NAME>
+CN: 紧张吗？
+
+# [0379] [ROM: 0x1BE42C] [Bank: 0x6F:0x242C] [CPU: 0x642C] [OrigLen: 32]
+JP: だいじょうぶだよ。
+JP: いまの　<NAME>なら
+JP: あんなやつ　イチコロだよ。
+CN: 没事
+CN: 现在的<NAME>
+CN: 那种家伙一下搞定。
+
+# [0380] [ROM: 0x1BE44C] [Bank: 0x6F:0x244C] [CPU: 0x644C] [OrigLen: 12]
+JP: じゃあ　いっくよ〜！！
+CN: 上吧～！！
+
+# [0381] [ROM: 0x1BE458] [Bank: 0x6F:0x2458] [CPU: 0x6458] [OrigLen: 14]
+JP: グオァアァアァァァ〜〜！！
+CN: 嗷啊～～！！
+
+# [0382] [ROM: 0x1BE466] [Bank: 0x6F:0x2466] [CPU: 0x6466] [OrigLen: 13]
+JP: やったわ！　アイリス！！
+CN: 赢了爱丽丝！
+
+# [0383] [ROM: 0x1BE473] [Bank: 0x6F:0x2473] [CPU: 0x6473] [OrigLen: 13]
+JP: うん！　やったね
+JP: <NAME>！！
+CN: 嗯赢了
+CN: <NAME>！！
+
+# [0384] [ROM: 0x1BE480] [Bank: 0x6F:0x2480] [CPU: 0x6480] [OrigLen: 28]
+JP: まかいおう！
+JP: おまえの　てしたも
+JP: たいしたことないね。
+CN: 魔王
+CN: 你的手下也
+CN: 不过如此
+
+# [0385] [ROM: 0x1BE49C] [Bank: 0x6F:0x249C] [CPU: 0x649C] [OrigLen: 12]
+JP: フ……フハハハハハ！！
+CN: 哈哈哈！！
+
+# [0386] [ROM: 0x1BE4A8] [Bank: 0x6F:0x24A8] [CPU: 0x64A8] [OrigLen: 13]
+JP: なにが　おかしいのっ！！
+CN: 什么好笑！！
+
+# [0387] [ROM: 0x1BE4B5] [Bank: 0x6F:0x24B5] [CPU: 0x64B5] [OrigLen: 22]
+JP: フハハハ……　なかなか
+JP: やるではないか……
+CN: 哈哈……
+CN: 还挺能干……
+
+# [0388] [ROM: 0x1BE4CB] [Bank: 0x6F:0x24CB] [CPU: 0x64CB] [OrigLen: 41]
+JP: おまえたちを　たおし
+JP: まものにかえて
+JP: われの　あたらしい
+JP: しもべと　してやろう。
+CN: 打倒你们
+CN: 变成魔物
+CN: 成为我新的
+CN: 仆人吧。
+
+# [0389] [ROM: 0x1BE4F4] [Bank: 0x6F:0x24F4] [CPU: 0x64F4] [OrigLen: 6]
+JP: エエッ？！
+CN: 咦！
+
+# [0390] [ROM: 0x1BE4FA] [Bank: 0x6F:0x24FA] [CPU: 0x64FA] [OrigLen: 14]
+JP: そんなことは　させないわ！
+CN: 休想得逞！
+
+# [0391] [ROM: 0x1BE508] [Bank: 0x6F:0x2508] [CPU: 0x6508] [OrigLen: 37]
+JP: そんなことは　させないわ！
+JP: やられるのは　おまえよ！！
+JP: まかいおう！！！
+CN: 休想！
+CN: 被打倒的是你！！
+CN: 魔王！！！
+
+# [0392] [ROM: 0x1BE52D] [Bank: 0x6F:0x252D] [CPU: 0x652D] [OrigLen: 36]
+JP: そうだよ！
+JP: おまえを　たおして
+JP: ちゃんと　ふういん
+JP: しちゃうんだから！
+CN: 对！
+CN: 打倒你
+CN: 好好封印
+CN: 你！
+
+# [0393] [ROM: 0x1BE560] [Bank: 0x6F:0x2560] [CPU: 0x6560] [OrigLen: 17]
+JP: そんなことは
+JP: させないんだから！
+CN: 休想
+CN: 得逞！
+
+# [0394] [ROM: 0x1BE571] [Bank: 0x6F:0x2571] [CPU: 0x6571] [OrigLen: 30]
+JP: おまえを　たおして
+JP: ちゃんと　ふういん
+JP: しちゃうんだから！
+CN: 打倒你
+CN: 好好封印
+CN: 你！
+
+# [0395] [ROM: 0x1BE58F] [Bank: 0x6F:0x258F] [CPU: 0x658F] [OrigLen: 15]
+JP: フフフ……
+JP: できるかな？……
+CN: 呵呵
+CN: 能行吗
+
+# [0396] [ROM: 0x1BE59E] [Bank: 0x6F:0x259E] [CPU: 0x659E] [OrigLen: 11]
+JP: いっくよ〜！　<NAME>！！
+CN: 上吧～<NAME>！
+
+# [0397] [ROM: 0x1BE5A9] [Bank: 0x6F:0x25A9] [CPU: 0x65A9] [OrigLen: 60]
+JP: うおおおおおおおおおおおおお
+JP: おおおおおおおおおおおおおお
+JP: おおおおおおおおおおおおおお
+JP: おおおおおーーーーーーーっ！
+CN: 呜哦哦哦哦哦
+CN: 哦哦哦哦哦哦哦哦
+CN: 哦哦哦哦哦哦哦哦
+CN: 哦哦哦——！
+
+# [0398] [ROM: 0x1BE5E5] [Bank: 0x6F:0x25E5] [CPU: 0x65E5] [OrigLen: 39]
+JP: おぼえておれ……
+JP: われは　なんどでも
+JP: よみがえってくる……
+JP: ぐぅっ……！！！
+CN: 记住…
+CN: 我会无数次
+CN: 复活…
+CN: 唔…！！！
+
+# [0399] [ROM: 0x1BE60C] [Bank: 0x6F:0x260C] [CPU: 0x660C] [OrigLen: 24]
+JP: はあ……はあ……や……
+JP: やったわね　アイリス。
+CN: 哈……哈…
+CN: 赢爱丽丝。
+
+# [0400] [ROM: 0x1BE624] [Bank: 0x6F:0x2624] [CPU: 0x6624] [OrigLen: 27]
+JP: <NAME>！
+JP: はやく　『まじんき』を
+JP: だいのうえに　おいて！
+CN: <NAME>！
+CN: 快把魔神器
+CN: 放上台！
+
+# [0401] [ROM: 0x1BE63F] [Bank: 0x6F:0x263F] [CPU: 0x663F] [OrigLen: 17]
+JP: あの　トビラを
+JP: とじちゃおう！！
+CN: 关上那门！！
+
+# [0402] [ROM: 0x1BE650] [Bank: 0x6F:0x2650] [CPU: 0x6650] [OrigLen: 20]
+JP: まずは　『まじんき<81>よかがみ』
+JP: を……
+CN: 先放镜·魔神器
+CN: …
+
+# [0403] [ROM: 0x1BE664] [Bank: 0x6F:0x2664] [CPU: 0x6664] [OrigLen: 11]
+JP: よし！
+JP: つぎは……と
+CN: 好
+CN: 接下来
+
+# [0404] [ROM: 0x1BE66F] [Bank: 0x6F:0x266F] [CPU: 0x666F] [OrigLen: 19]
+JP: ここは　『まじんき<81>よたま』
+JP: ね……
+CN: 珠·魔神器
+CN: 呢
+
+# [0405] [ROM: 0x1BE682] [Bank: 0x6F:0x2682] [CPU: 0x6682] [OrigLen: 11]
+JP: よし！
+JP: さいごは……
+CN: 好
+CN: 最后
+
+# [0406] [ROM: 0x1BE68D] [Bank: 0x6F:0x268D] [CPU: 0x668D] [OrigLen: 13]
+JP: 『まじんき<81>よけん』よ！
+CN: 剑·魔神器！
+
+# [0407] [ROM: 0x1BE69A] [Bank: 0x6F:0x269A] [CPU: 0x669A] [OrigLen: 14]
+JP: よし！
+JP: ぜんぶ　おいたわ。
+CN: 好
+CN: 全放好了
+
+# [0408] [ROM: 0x1BE6A8] [Bank: 0x6F:0x26A8] [CPU: 0x66A8] [OrigLen: 13]
+JP: ……！！
+JP: <NAME>！　みて！！
+CN: ！！
+CN: <NAME>看！！
+
+# [0409] [ROM: 0x1BE6B5] [Bank: 0x6F:0x26B5] [CPU: 0x66B5] [OrigLen: 7]
+JP: アイリス……
+CN: 爱丽丝
+
+# [0410] [ROM: 0x1BE6BC] [Bank: 0x6F:0x26BC] [CPU: 0x66BC] [OrigLen: 8]
+JP: やったね　<NAME>。
+CN: 赢了<NAME>。
+
+# [0411] [ROM: 0x1BE6C4] [Bank: 0x6F:0x26C4] [CPU: 0x66C4] [OrigLen: 11]
+JP: うん！
+JP: …………でも
+CN: 嗯
+CN: 但…
+
+# [0412] [ROM: 0x1BE6CF] [Bank: 0x6F:0x26CF] [CPU: 0x66CF] [OrigLen: 44]
+JP: 『まじんき』を
+JP: かいしゅうするだけの
+JP: にんむ　だったのに
+JP: こんなことに　なるなんて……
+CN: 只是回收
+CN: 魔神器
+CN: 的任务
+CN: 竟变成这样……
+
+# [0413] [ROM: 0x1BE6FB] [Bank: 0x6F:0x26FB] [CPU: 0x66FB] [OrigLen: 25]
+JP: そうだね。
+JP: でも　たまには
+JP: こんなこともあるよ。
+CN: 是啊
+CN: 但偶尔
+CN: 也有这种事。
+
+# [0414] [ROM: 0x1BE714] [Bank: 0x6F:0x2714] [CPU: 0x6714] [OrigLen: 24]
+JP: それにしても
+JP: <NAME>は
+JP: ほんとうに　がんばったね。
+CN: 话说回来
+CN: <NAME>
+CN: 真的很努力。
+
+# [0415] [ROM: 0x1BE72C] [Bank: 0x6F:0x272C] [CPU: 0x672C] [OrigLen: 9]
+JP: エライ！　<NAME>！！
+CN: 真棒<NAME>！
+
+# [0416] [ROM: 0x1BE735] [Bank: 0x6F:0x2735] [CPU: 0x6735] [OrigLen: 28]
+JP: さあ　『まじんき』を
+JP: もって　ていげきに
+JP: かえろう！！
+CN: 来 带着魔神器
+CN: 回帝击
+CN: 吧！
+
+# [0417] [ROM: 0x1BE751] [Bank: 0x6F:0x2751] [CPU: 0x6751] [OrigLen: 27]
+JP: にんむ　しゅうりょう！
+JP: ていげきに　かえろう
+JP: <NAME>！！
+CN: 任务完成！
+CN: 回帝击吧
+CN: <NAME>！！
+
+# [0418] [ROM: 0x1BE76C] [Bank: 0x6F:0x276C] [CPU: 0x676C] [OrigLen: 38]
+JP: なんだ　ここは……
+JP: すごく　じゃあくで　つよい
+JP: れいりょくを　かんじる……
+CN: 这里……
+CN: 非常强大
+CN: 邪恶灵力……
+
+# [0419] [ROM: 0x1BE792] [Bank: 0x6F:0x2792] [CPU: 0x6792] [OrigLen: 33]
+JP: イヤな　かんじがするぜ……
+JP: まさに　『まかい』って
+JP: かんじだな。
+CN: 感觉真糟……
+CN: 简直是魔界
+CN: 的感觉。
+
+# [0420] [ROM: 0x1BE7B3] [Bank: 0x6F:0x27B3] [CPU: 0x67B3] [OrigLen: 37]
+JP: <NAME>！
+JP: このさきにいる　まものは
+JP: てごわそうだぜ！
+JP: きあいを　いれろよ！！
+CN: <NAME>！
+CN: 前面的魔物
+CN: 很难缠！
+CN: 打起精神！！
+
+# [0421] [ROM: 0x1BE7D8] [Bank: 0x6F:0x27D8] [CPU: 0x67D8] [OrigLen: 7]
+JP: りょうかい！
+CN: 明白！
+
+# [0422] [ROM: 0x1BE7EE] [Bank: 0x6F:0x27EE] [CPU: 0x67EE] [OrigLen: 19]
+JP: ボケーッと
+JP: してんじゃねーよ
+JP: <NAME>！！
+CN: 别发呆
+CN: 啊
+CN: <NAME>！！
+
+# [0423] [ROM: 0x1BE801] [Bank: 0x6F:0x2801] [CPU: 0x6801] [OrigLen: 34]
+JP: きあいいれて　やらないと
+JP: かんたんに　やられるぜ！
+JP: わかったな！！
+CN: 打起精神
+CN: 会被打倒！
+CN: 明白吗！！
+
+# [0424] [ROM: 0x1BE823] [Bank: 0x6F:0x2823] [CPU: 0x6823] [OrigLen: 7]
+JP: りょうかい！
+CN: 明白！
+
+# [0425] [ROM: 0x1BE82A] [Bank: 0x6F:0x282A] [CPU: 0x682A] [OrigLen: 26]
+JP: きあい　じゅうぶんだな
+JP: <NAME>！！
+JP: じゃ　いくぜ！！！
+CN: 很有精神
+CN: <NAME>！！
+CN: 上！！
+
+# [0426] [ROM: 0x1BE844] [Bank: 0x6F:0x2844] [CPU: 0x6844] [OrigLen: 11]
+JP: あっ！
+JP: カンナさん！
+CN: 啊
+CN: 神奈！
+
+# [0427] [ROM: 0x1BE84F] [Bank: 0x6F:0x284F] [CPU: 0x684F] [OrigLen: 11]
+JP: あの　まものは………
+CN: 那魔物…
+
+# [0428] [ROM: 0x1BE85A] [Bank: 0x6F:0x285A] [CPU: 0x685A] [OrigLen: 14]
+JP: よお。
+JP: ひさしぶりだな〜。
+CN: 哟
+CN: 好久不见
+
+# [0429] [ROM: 0x1BE868] [Bank: 0x6F:0x2868] [CPU: 0x6868] [OrigLen: 31]
+JP: おまえは
+JP: 『けん』の『まじんき』を
+JP: まもっていた　まもの！
+CN: 你是
+CN: 守护剑魔神器
+CN: 的魔物！
+
+# [0430] [ROM: 0x1BE887] [Bank: 0x6F:0x2887] [CPU: 0x6887] [OrigLen: 21]
+JP: あらららららら。
+JP: こっちにも　いますよ。
+CN: 哎呀呀呀
+CN: 这边也有哦
+
+# [0431] [ROM: 0x1BE89C] [Bank: 0x6F:0x289C] [CPU: 0x689C] [OrigLen: 32]
+JP: なに……
+JP: 『たま』の『まじんき』を
+JP: まもっていた　まものか！
+CN: 什么……
+CN: 守护珠魔神器
+CN: 的魔物！
+
+# [0432] [ROM: 0x1BE8BC] [Bank: 0x6F:0x28BC] [CPU: 0x68BC] [OrigLen: 32]
+JP: こーーーっちにも
+JP: いちゃったり　なんか
+JP: するんだからねーーっ。
+CN: 这边也有
+CN: 哦真是的
+CN: 有哦～
+
+# [0433] [ROM: 0x1BE8DC] [Bank: 0x6F:0x28DC] [CPU: 0x68DC] [OrigLen: 37]
+JP: クソ！
+JP: 『かがみ』の『まじんき』を
+JP: まもっていた　ヤツまで
+JP: いるのか！
+CN: 可恶！
+CN: 连守护镜魔神器的
+CN: 家伙也
+CN: 在！
+
+# [0434] [ROM: 0x1BE901] [Bank: 0x6F:0x2901] [CPU: 0x6901] [OrigLen: 24]
+JP: いちど　あたいたちに
+JP: たおされたハズなのに！！
+CN: 明明被我们
+CN: 打倒过！！
+
+# [0435] [ROM: 0x1BE919] [Bank: 0x6F:0x2919] [CPU: 0x6919] [OrigLen: 29]
+JP: どうやら
+JP: この『まじんき』が
+JP: よっぽど　ほしいらしいな！
+CN: 看来
+CN: 他们很想要
+CN: 这魔神器！
+
+# [0436] [ROM: 0x1BE936] [Bank: 0x6F:0x2936] [CPU: 0x6936] [OrigLen: 7]
+JP: そのとおり！
+CN: 没错！
+
+# [0437] [ROM: 0x1BE93D] [Bank: 0x6F:0x293D] [CPU: 0x693D] [OrigLen: 21]
+JP: 『まじんき』を　かえして
+JP: もらいますよ。
+CN: 来…
+CN: 还回魔神器
+CN: 吧
+
+# [0438] [ROM: 0x1BE952] [Bank: 0x6F:0x2952] [CPU: 0x6952] [OrigLen: 30]
+JP: こーーーんどは
+JP: まけなかったり
+JP: しちゃったりするんだから。
+CN: 这次可不会
+CN: 再输掉
+CN: 了哦。
+
+# [0439] [ROM: 0x1BE970] [Bank: 0x6F:0x2970] [CPU: 0x6970] [OrigLen: 34]
+JP: いちど　たたかった
+JP: おまえたち　なんかに
+JP: まけるか！
+JP: なっ　<NAME>！！
+CN: 打过一次
+CN: 的你们
+CN: 我会输？
+CN: 对吧<NAME>
+
+# [0440] [ROM: 0x1BE992] [Bank: 0x6F:0x2992] [CPU: 0x6992] [OrigLen: 9]
+JP: もちろんですよ！
+CN: 当然！
+
+# [0441] [ROM: 0x1BE99B] [Bank: 0x6F:0x299B] [CPU: 0x699B] [OrigLen: 11]
+JP: ……てごわそうだ……
+CN: 很难缠
+
+# [0442] [ROM: 0x1BE9A6] [Bank: 0x6F:0x29A6] [CPU: 0x69A6] [OrigLen: 40]
+JP: もちろんですよ！
+JP: いちど　たおしたあいてに
+JP: まけるものか！
+JP: やっつけてやる！！
+CN: 当然！
+CN: 对打倒过的
+CN: 怎么会输！
+CN: 揍飞你！！
+
+# [0443] [ROM: 0x1BE9CE] [Bank: 0x6F:0x29CE] [CPU: 0x69CE] [OrigLen: 10]
+JP: そのいきだぜ　<NAME>。
+CN: 有气势<NAME>。
+
+# [0444] [ROM: 0x1BE9D8] [Bank: 0x6F:0x29D8] [CPU: 0x69D8] [OrigLen: 36]
+JP: いちど　たおしたとはいえ
+JP: あいてが　３たいもいると
+JP: てごわそうだぞ……
+CN: 虽说打倒过
+CN: 三体同时
+CN: 很难缠……
+
+# [0445] [ROM: 0x1BE9FC] [Bank: 0x6F:0x29FC] [CPU: 0x69FC] [OrigLen: 16]
+JP: なに　よわきに
+JP: なってんだよ。
+CN: 怎么
+CN: 泄气了。
+
+# [0446] [ROM: 0x1BEA0C] [Bank: 0x6F:0x2A0C] [CPU: 0x6A0C] [OrigLen: 26]
+JP: いちど　たおした　あいてだ。
+JP: ガンガン　いこうぜ！
+CN: 是打倒过的对手
+CN: 狠狠上！
+
+# [0447] [ROM: 0x1BEA33] [Bank: 0x6F:0x2A33] [CPU: 0x6A33] [OrigLen: 42]
+JP: ボサッとするな　<NAME>！
+JP: いちどたおした　あいて
+JP: とはいえ　ゆだんすると
+JP: やられるぜ！
+CN: 别发呆
+CN: 打倒过的
+CN: 大意会被
+CN: 打倒！
+
+# [0448] [ROM: 0x1BEA5D] [Bank: 0x6F:0x2A5D] [CPU: 0x6A5D] [OrigLen: 30]
+JP: フフフフフ……
+JP: こんどの　オレたちは
+JP: ひとあじ　ちがうぜ。
+CN: 呵呵…
+CN: 这次的我们
+CN: 可不一样。
+
+# [0449] [ROM: 0x1BEA7B] [Bank: 0x6F:0x2A7B] [CPU: 0x6A7B] [OrigLen: 20]
+JP: みて　おどろけ！
+JP: ３たい　がったいだ！
+CN: 看吧
+CN: 三体合体！
+
+# [0450] [ROM: 0x1BEA8F] [Bank: 0x6F:0x2A8F] [CPU: 0x6A8F] [OrigLen: 9]
+JP: いくぜ！　<NAME>！！
+CN: 上<NAME>！
+
+# [0451] [ROM: 0x1BEA98] [Bank: 0x6F:0x2A98] [CPU: 0x6A98] [OrigLen: 36]
+JP: ぐおお……お……ま……
+JP: 『まかいのトビラ』が
+JP: かんぜんに　ひらけば……
+CN: 呜哦……
+CN: 魔界之门
+CN: 完全打开的话……
+
+# [0452] [ROM: 0x1BEABC] [Bank: 0x6F:0x2ABC] [CPU: 0x6ABC] [OrigLen: 38]
+JP: 『トビラ』がひらけば
+JP: われわれは　なんどでも
+JP: よみがえってくるぞーー！！！
+CN: 门一开
+CN: 我们无论多少次
+CN: 都会复活！！
+
+# [0453] [ROM: 0x1BEAE2] [Bank: 0x6F:0x2AE2] [CPU: 0x6AE2] [OrigLen: 8]
+JP: やったな　<NAME>！
+CN: 赢了<NAME>！
+
+# [0454] [ROM: 0x1BEAEA] [Bank: 0x6F:0x2AEA] [CPU: 0x6AEA] [OrigLen: 29]
+JP: カンナさん……
+JP: 『まかいのトビラ』って
+JP: なんなのですか？
+CN: 神奈…
+CN: 魔界之门
+CN: 是什么？
+
+# [0455] [ROM: 0x1BEB07] [Bank: 0x6F:0x2B07] [CPU: 0x6B07] [OrigLen: 17]
+JP: なんだろうな……
+JP: わからない……
+CN: 什么…
+CN: 不知道
+
+# [0456] [ROM: 0x1BEB18] [Bank: 0x6F:0x2B18] [CPU: 0x6B18] [OrigLen: 27]
+JP: でも　なんだか
+JP: ヤバそうだ……ってことは
+JP: わかるぜ。
+CN: 但总感觉
+CN: 不妙……
+CN: 明白。
+
+# [0457] [ROM: 0x1BEB33] [Bank: 0x6F:0x2B33] [CPU: 0x6B33] [OrigLen: 10]
+JP: いそぐぞ！
+JP: <NAME>！！
+CN: 快走
+CN: <NAME>
+
+# [0458] [ROM: 0x1BEB3D] [Bank: 0x6F:0x2B3D] [CPU: 0x6B3D] [OrigLen: 23]
+JP: カ……カンナさん！
+JP: あ……あれは　まさか……
+CN: 神奈小姐！
+CN: 那是难道…
+
+# [0459] [ROM: 0x1BEB54] [Bank: 0x6F:0x2B54] [CPU: 0x6B54] [OrigLen: 24]
+JP: あれが　『まかいのトビラ』
+JP: じゃ　ないですか？
+CN: 那就是魔界之门
+CN: 吧？
+
+# [0460] [ROM: 0x1BEB6C] [Bank: 0x6F:0x2B6C] [CPU: 0x6B6C] [OrigLen: 12]
+JP: ああ……
+JP: そうだな……
+CN: 啊…
+CN: 是啊
+
+# [0461] [ROM: 0x1BEB7B] [Bank: 0x6F:0x2B7B] [CPU: 0x6B7B] [OrigLen: 28]
+JP: まずい！
+JP: あとすこしで　かんぜんに
+JP: ひらいちまうぜ！！
+CN: 糟了
+CN: 差一点
+CN: 全打开！！
+
+# [0462] [ROM: 0x1BEB97] [Bank: 0x6F:0x2B97] [CPU: 0x6B97] [OrigLen: 24]
+JP: なんとかして　はやく
+JP: トビラを　とじねえと！！
+CN: 想办法快点
+CN: 关门！！
+
+# [0463] [ROM: 0x1BEBAF] [Bank: 0x6F:0x2BAF] [CPU: 0x6BAF] [OrigLen: 33]
+JP: カンナさん。
+JP: ここにある　だいざみたいな
+JP: ものは　もしかして……
+CN: 神奈小姐。
+CN: 这里的台座
+CN: 难道是……
+
+# [0464] [ROM: 0x1BEBD0] [Bank: 0x6F:0x2BD0] [CPU: 0x6BD0] [OrigLen: 46]
+JP: ……これは　いかにも
+JP: 『まじんき<81>よけん』を
+JP: おいてくれと　いわんばかりの
+JP: だいざだな……
+CN: 这简直
+CN: 在说快把剑·魔神器
+CN: 放上去的
+CN: 台座呢。
+
+# [0465] [ROM: 0x1BEBFE] [Bank: 0x6F:0x2BFE] [CPU: 0x6BFE] [OrigLen: 10]
+JP: あっちは　どうだ？
+CN: 那边呢？
+
+# [0466] [ROM: 0x1BEC08] [Bank: 0x6F:0x2C08] [CPU: 0x6C08] [OrigLen: 38]
+JP: これは　どうやら
+JP: 『まじんき<81>よたま』を
+JP: おくための　だいざ
+JP: みたいだな。
+CN: 这看来
+CN: 是放珠·魔神器
+CN: 的台座
+CN: 呢。
+
+# [0467] [ROM: 0x1BEC2E] [Bank: 0x6F:0x2C2E] [CPU: 0x6C2E] [OrigLen: 22]
+JP: じゃあ
+JP: むこうの　だいざは
+JP: どうだ？　<NAME>。
+CN: 那
+CN: 对面台座
+CN: 如何<NAME>。
+
+# [0468] [ROM: 0x1BEC44] [Bank: 0x6F:0x2C44] [CPU: 0x6C44] [OrigLen: 34]
+JP: こっちは……
+JP: 『まじんき<81>よかがみ』を
+JP: おく　だいざの　ようです。
+CN: 这边是…
+CN: 放镜·魔神器
+CN: 的台座。
+
+# [0469] [ROM: 0x1BEC66] [Bank: 0x6F:0x2C66] [CPU: 0x6C66] [OrigLen: 16]
+JP: どういうこと
+JP: なんでしょう……
+CN: 怎么回事
+CN: 呢……
+
+# [0470] [ROM: 0x1BEC76] [Bank: 0x6F:0x2C76] [CPU: 0x6C76] [OrigLen: 45]
+JP: たぶん…　『まじんき』が
+JP: この　『まかいのトビラ』の
+JP: カギになってるんじゃ
+JP: ないかな……
+CN: 大概…魔神器
+CN: 是这魔界之门的
+CN: 钥匙吧
+CN: 大概……
+
+# [0471] [ROM: 0x1BECA3] [Bank: 0x6F:0x2CA3] [CPU: 0x6CA3] [OrigLen: 36]
+JP: じゃあ　はやく
+JP: 『まじんき』を　つかって
+JP: あの　トビラを　とじないと！
+CN: 那就快
+CN: 用魔神器
+CN: 关上那门！
+
+# [0472] [ROM: 0x1BECC7] [Bank: 0x6F:0x2CC7] [CPU: 0x6CC7] [OrigLen: 33]
+JP: そうだな！
+JP: いそいで　だいざに
+JP: 『まじんき』を
+JP: おいてみようぜ！
+CN: 是啊
+CN: 赶快把魔神器
+CN: 放上台座
+CN: 吧！
+
+# [0473] [ROM: 0x1BECE8] [Bank: 0x6F:0x2CE8] [CPU: 0x6CE8] [OrigLen: 10]
+JP: うっ！
+JP: まずい！！
+CN: 唔
+CN: 糟了！
+
+# [0474] [ROM: 0x1BECF2] [Bank: 0x6F:0x2CF2] [CPU: 0x6CF2] [OrigLen: 27]
+JP: しまった！
+JP: トビラが　かんぜんに
+JP: ひらいちまった！！
+CN: 糟了！
+CN: 门完全
+CN: 打开了！！
+
+# [0475] [ROM: 0x1BED0D] [Bank: 0x6F:0x2D0D] [CPU: 0x6D0D] [OrigLen: 30]
+JP: きをつけろ　<NAME>！
+JP: じゃあくな　れいりょくを
+JP: かんじるぜ！！
+CN: 小心<NAME>！
+CN: 我感觉到
+CN: 邪恶灵力！！
+
+# [0476] [ROM: 0x1BED2B] [Bank: 0x6F:0x2D2B] [CPU: 0x6D2B] [OrigLen: 24]
+JP: われの　めざめを
+JP: じゃまするものは
+JP: だれだ……
+CN: 妨碍我觉醒的
+CN: 是谁……
+
+# [0477] [ROM: 0x1BED43] [Bank: 0x6F:0x2D43] [CPU: 0x6D43] [OrigLen: 24]
+JP: ボクは
+JP: ていこくかげきだん<81>よはなぐみ
+JP: <NAME>だ！
+CN: 我是
+CN: 帝国华击团·花组
+CN: <NAME>
+
+# [0478] [ROM: 0x1BED5B] [Bank: 0x6F:0x2D5B] [CPU: 0x6D5B] [OrigLen: 12]
+JP: おまえは　なにものだ！
+CN: 你是谁！
+
+# [0479] [ROM: 0x1BED67] [Bank: 0x6F:0x2D67] [CPU: 0x6D67] [OrigLen: 35]
+JP: われは　まかいおう……
+JP: ちのそこにて　ながくねむりし
+JP: まもののおう。
+CN: 我是魔王……
+CN: 长眠地底
+CN: 魔物之王。
+
+# [0480] [ROM: 0x1BED8A] [Bank: 0x6F:0x2D8A] [CPU: 0x6D8A] [OrigLen: 29]
+JP: きょだいな　ちからにより
+JP: トビラが　ひらかれし
+JP: いま……
+CN: 巨大力量
+CN: 打开门
+CN: 现在……
+
+# [0481] [ROM: 0x1BEDA7] [Bank: 0x6F:0x2DA7] [CPU: 0x6DA7] [OrigLen: 23]
+JP: われら　まものが
+JP: ちじょうを　しはいする……
+CN: 我们魔物
+CN: 统治地上……
+
+# [0482] [ROM: 0x1BEDBE] [Bank: 0x6F:0x2DBE] [CPU: 0x6DBE] [OrigLen: 37]
+JP: おまえも　まものとなり
+JP: われと　ともに　ちじょうを
+JP: はかいしつくさぬか？
+CN: 你也成为魔物
+CN: 与我一起
+CN: 毁灭地上吧？
+
+# [0483] [ROM: 0x1BEDE3] [Bank: 0x6F:0x2DE3] [CPU: 0x6DE3] [OrigLen: 8]
+JP: おもしろそうだ
+CN: 有趣
+
+# [0484] [ROM: 0x1BEDEB] [Bank: 0x6F:0x2DEB] [CPU: 0x6DEB] [OrigLen: 11]
+JP: バカなことをいうな！
+CN: 别说傻话！
+
+# [0485] [ROM: 0x1BEDF6] [Bank: 0x6F:0x2DF6] [CPU: 0x6DF6] [OrigLen: 10]
+JP: おもしろそうだな！
+CN: 有趣！
+
+# [0486] [ROM: 0x1BEE00] [Bank: 0x6F:0x2E00] [CPU: 0x6E00] [OrigLen: 26]
+JP: な！　なに　バカなこと
+JP: いってんだよ！！
+JP: <NAME>！！！
+CN: 什！
+CN: 说傻话！！
+CN: <NAME>！！！
+
+# [0487] [ROM: 0x1BEE1A] [Bank: 0x6F:0x2E1A] [CPU: 0x6E1A] [OrigLen: 31]
+JP: よし！
+JP: ボクも　まものになって
+JP: せかいを　しはいしてやる！
+CN: 好！
+CN: 我也变成魔物
+CN: 统治世界！
+
+# [0488] [ROM: 0x1BEE39] [Bank: 0x6F:0x2E39] [CPU: 0x6E39] [OrigLen: 22]
+JP: フフフフフフ……
+JP: ならば　われのもとへ……
+CN: 呵呵……
+CN: 来我这里……
+
+# [0489] [ROM: 0x1BEE4F] [Bank: 0x6F:0x2E4F] [CPU: 0x6E4F] [OrigLen: 26]
+JP: せかいは　まかいおうと
+JP: <NAME>によって
+JP: ほろぼされた。
+CN: 世界被魔王
+CN: 和<NAME>
+CN: 毁灭了。
+
+# [0490] [ROM: 0x1BEE69] [Bank: 0x6F:0x2E69] [CPU: 0x6E69] [OrigLen: 11]
+JP: ゲームオーバー
+CN: 游戏结束
+
+# [0491] [ROM: 0x1BEE81] [Bank: 0x6F:0x2E81] [CPU: 0x6E81] [OrigLen: 17]
+JP: ちんもくは　どういの
+JP: しるし……
+CN: 沉默即同意
+CN: ……
+
+# [0492] [ROM: 0x1BEE92] [Bank: 0x6F:0x2E92] [CPU: 0x6E92] [OrigLen: 18]
+JP: よろしい。
+JP: さあ　われのもとへ……
+CN: 很好
+CN: 来我这……
+
+# [0493] [ROM: 0x1BEEA4] [Bank: 0x6F:0x2EA4] [CPU: 0x6EA4] [OrigLen: 26]
+JP: せかいは　まかいおうと
+JP: <NAME>によって
+JP: ほろぼされた。
+CN: 世界被魔王
+CN: 和<NAME>
+CN: 毁灭了。
+
+# [0494] [ROM: 0x1BEEBE] [Bank: 0x6F:0x2EBE] [CPU: 0x6EBE] [OrigLen: 11]
+JP: ゲームオーバー
+CN: 游戏结束
+
+# [0495] [ROM: 0x1BEEC9] [Bank: 0x6F:0x2EC9] [CPU: 0x6EC9] [OrigLen: 11]
+JP: バカなことをいうな！
+CN: 别说傻话！
+
+# [0496] [ROM: 0x1BEED4] [Bank: 0x6F:0x2ED4] [CPU: 0x6ED4] [OrigLen: 29]
+JP: ちじょうを　はかいだなんて
+JP: そんなこと　させるものか！！
+CN: 毁灭地上
+CN: 休想得逞！！
+
+# [0497] [ROM: 0x1BEEF1] [Bank: 0x6F:0x2EF1] [CPU: 0x6EF1] [OrigLen: 30]
+JP: そのとおりだ！
+JP: ていとの　へいわを
+JP: まもるのが　あたいたち
+CN: 没错！
+CN: 守护帝都和平
+CN: 是我们
+
+# [0498] [ROM: 0x1BEF0F] [Bank: 0x6F:0x2F0F] [CPU: 0x6F0F] [OrigLen: 21]
+JP: ていこくかげきだんの
+JP: しめい　なんだ！！
+CN: 华击团的
+CN: 使命！！
+
+# [0499] [ROM: 0x1BEF24] [Bank: 0x6F:0x2F24] [CPU: 0x6F24] [OrigLen: 31]
+JP: フフフ……そうか
+JP: ざんねんだが　それならば
+JP: しかたがない……
+CN: 呵呵……
+CN: 很遗憾
+CN: 那没办法……
+
+# [0500] [ROM: 0x1BEF43] [Bank: 0x6F:0x2F43] [CPU: 0x6F43] [OrigLen: 21]
+JP: おまえたちには
+JP: ここで　しんでもらう……
+CN: 你们就
+CN: 死在这吧……
+
+# [0501] [ROM: 0x1BEF5C] [Bank: 0x6F:0x2F5C] [CPU: 0x6F5C] [OrigLen: 7]
+JP: グォォォ……
+CN: 呜嗷
+
+# [0502] [ROM: 0x1BEF63] [Bank: 0x6F:0x2F63] [CPU: 0x6F63] [OrigLen: 42]
+JP: な……　なんだ………………
+JP: ものすごく　じゃあくで……
+JP: つよい　れいりょくだぜ……
+CN: 什么……
+CN: 非常邪恶
+CN: 又强的灵力……
+
+# [0503] [ROM: 0x1BEF8D] [Bank: 0x6F:0x2F8D] [CPU: 0x6F8D] [OrigLen: 28]
+JP: フフ……おまえたち……
+JP: わが　しもべに
+JP: かなうかな……
+CN: 呵……
+CN: 能敌过
+CN: 我的仆人吗…
+
+# [0504] [ROM: 0x1BEFA9] [Bank: 0x6F:0x2FA9] [CPU: 0x6FA9] [OrigLen: 30]
+JP: 「かなうかな？」だと……
+JP: バカにするなよ！
+JP: なっ！　<NAME>！！
+CN: 能敌过？
+CN: 别小看人！
+CN: 对吧<NAME>！！
+
+# [0505] [ROM: 0x1BEFC7] [Bank: 0x6F:0x2FC7] [CPU: 0x6FC7] [OrigLen: 4]
+JP: はい！
+CN: 是
+
+# [0506] [ROM: 0x1BEFCB] [Bank: 0x6F:0x2FCB] [CPU: 0x6FCB] [OrigLen: 48]
+JP: はい！　どんなに　つよい
+JP: てきでも　ボクたち
+JP: ていこくかげきだんは
+JP: ぜったいに　まけません！！
+CN: 是！无论多强
+CN: 的敌人
+CN: 帝国华击团
+CN: 绝不输！！
+
+# [0507] [ROM: 0x1BEFFB] [Bank: 0x6F:0x2FFB] [CPU: 0x6FFB] [OrigLen: 21]
+JP: よくいった！！
+JP: そのとおりだぜ！
+JP: <NAME>！！
+CN: 好！！
+CN: 没错！
+CN: <NAME>！！
+
+# [0508] [ROM: 0x1BF010] [Bank: 0x6F:0x3010] [CPU: 0x7010] [OrigLen: 10]
+JP: かくごしやがれ！！
+CN: 觉悟！！
+
+# [0509] [ROM: 0x1BF029] [Bank: 0x6F:0x3029] [CPU: 0x7029] [OrigLen: 17]
+JP: おいおい　<NAME>。
+JP: ビビッてんのか？
+CN: 喂<NAME>
+CN: 怕了吗？
+
+# [0510] [ROM: 0x1BF03A] [Bank: 0x6F:0x303A] [CPU: 0x703A] [OrigLen: 43]
+JP: だいじょうぶだぜ。
+JP: いまの　おまえなら
+JP: あんな　まもの
+JP: らくしょうで　たおせるって。
+CN: 没事
+CN: 现在的你
+CN: 那种魔物
+CN: 轻松打倒。
+
+# [0511] [ROM: 0x1BF065] [Bank: 0x6F:0x3065] [CPU: 0x7065] [OrigLen: 9]
+JP: いくぜ！　<NAME>！！
+CN: 上<NAME>！
+
+# [0512] [ROM: 0x1BF06E] [Bank: 0x6F:0x306E] [CPU: 0x706E] [OrigLen: 14]
+JP: グオァアァアァァァ〜〜！！
+CN: 嗷啊～～！！
+
+# [0513] [ROM: 0x1BF07C] [Bank: 0x6F:0x307C] [CPU: 0x707C] [OrigLen: 16]
+JP: やりましたね！
+JP: カンナさん！！
+CN: 干得好
+CN: 神奈！
+
+# [0514] [ROM: 0x1BF08C] [Bank: 0x6F:0x308C] [CPU: 0x708C] [OrigLen: 13]
+JP: ああ　やったな！
+JP: <NAME>！！
+CN: 赢了！
+CN: <NAME>！
+
+# [0515] [ROM: 0x1BF099] [Bank: 0x6F:0x3099] [CPU: 0x7099] [OrigLen: 31]
+JP: やい　まかいおう！
+JP: おまえの　てしたも
+JP: たいしたことねーな。
+CN: 喂魔王！
+CN: 你的手下也
+CN: 不怎么样。
+
+# [0516] [ROM: 0x1BF0B8] [Bank: 0x6F:0x30B8] [CPU: 0x70B8] [OrigLen: 12]
+JP: フ……フハハハハハ！！
+CN: 哈哈哈！！
+
+# [0517] [ROM: 0x1BF0C4] [Bank: 0x6F:0x30C4] [CPU: 0x70C4] [OrigLen: 15]
+JP: な……
+JP: なにが　おかしい！！
+CN: 什么好笑！！
+
+# [0518] [ROM: 0x1BF0D3] [Bank: 0x6F:0x30D3] [CPU: 0x70D3] [OrigLen: 22]
+JP: フハハハ……　なかなか
+JP: やるではないか……
+CN: 哈哈……
+CN: 还挺能干……
+
+# [0519] [ROM: 0x1BF0E9] [Bank: 0x6F:0x30E9] [CPU: 0x70E9] [OrigLen: 41]
+JP: おまえたちを　たおし
+JP: まものにかえて
+JP: われの　あたらしい
+JP: しもべと　してやろう。
+CN: 打倒你们
+CN: 变成魔物
+CN: 成为我新的
+CN: 仆人吧。
+
+# [0520] [ROM: 0x1BF112] [Bank: 0x6F:0x3112] [CPU: 0x7112] [OrigLen: 9]
+JP: な　なんだと？！
+CN: 什么？！
+
+# [0521] [ROM: 0x1BF11B] [Bank: 0x6F:0x311B] [CPU: 0x711B] [OrigLen: 13]
+JP: そんなことは　させない！
+CN: 休想得逞！
+
+# [0522] [ROM: 0x1BF128] [Bank: 0x6F:0x3128] [CPU: 0x7128] [OrigLen: 36]
+JP: そんなことは　させない！
+JP: やられるのは　おまえだ！！
+JP: まかいおう！！！
+CN: 休想！
+CN: 被打倒的是你！！
+CN: 魔王！！！
+
+# [0523] [ROM: 0x1BF14C] [Bank: 0x6F:0x314C] [CPU: 0x714C] [OrigLen: 43]
+JP: そのとおりだ！
+JP: おまえを　たおして
+JP: にどと　よみがえらないよう
+JP: ふういんしてやる！！
+CN: 没错！
+CN: 打倒你
+CN: 让你不再复活
+CN: 封印你！！
+
+# [0524] [ROM: 0x1BF186] [Bank: 0x6F:0x3186] [CPU: 0x7186] [OrigLen: 36]
+JP: そんなことは　させない！
+JP: やられるのは　おまえだ！！
+JP: まかいおう！！！
+CN: 休想！
+CN: 被打倒的是你！！
+CN: 魔王！！！
+
+# [0525] [ROM: 0x1BF1AA] [Bank: 0x6F:0x31AA] [CPU: 0x71AA] [OrigLen: 34]
+JP: おまえを　たおし
+JP: にどと　よみがえらないよう
+JP: ふういんしてやる！！
+CN: 打倒你
+CN: 让你不再复活
+CN: 封印你！！
+
+# [0526] [ROM: 0x1BF1CC] [Bank: 0x6F:0x31CC] [CPU: 0x71CC] [OrigLen: 15]
+JP: フフフ……
+JP: できるかな？……
+CN: 呵呵
+CN: 能行吗
+
+# [0527] [ROM: 0x1BF1DB] [Bank: 0x6F:0x31DB] [CPU: 0x71DB] [OrigLen: 9]
+JP: いくぜ！
+JP: <NAME>！！
+CN: 上<NAME>！
+
+# [0528] [ROM: 0x1BF1E4] [Bank: 0x6F:0x31E4] [CPU: 0x71E4] [OrigLen: 60]
+JP: うおおおおおおおおおおおおお
+JP: おおおおおおおおおおおおおお
+JP: おおおおおおおおおおおおおお
+JP: おおおおおーーーーーーーっ！
+CN: 呜哦哦哦哦哦
+CN: 哦哦哦哦哦哦哦哦
+CN: 哦哦哦哦哦哦哦哦
+CN: 哦哦哦——！
+
+# [0529] [ROM: 0x1BF220] [Bank: 0x6F:0x3220] [CPU: 0x7220] [OrigLen: 39]
+JP: おぼえておれ……
+JP: われは　なんどでも
+JP: よみがえってくる……
+JP: ぐぅっ……！！！
+CN: 记住…
+CN: 我会无数次
+CN: 复活…
+CN: 唔…！！！
+
+# [0530] [ROM: 0x1BF247] [Bank: 0x6F:0x3247] [CPU: 0x7247] [OrigLen: 26]
+JP: はあ……はあ……や……
+JP: やりましたね　カンナさん。
+CN: 哈……哈……
+CN: 干得好神奈。
+
+# [0531] [ROM: 0x1BF261] [Bank: 0x6F:0x3261] [CPU: 0x7261] [OrigLen: 29]
+JP: <NAME>！
+JP: はやく　『まじんき』を
+JP: だいざに　おいていくんだ！
+CN: <NAME>！
+CN: 快把魔神器
+CN: 放上台座！
+
+# [0532] [ROM: 0x1BF27E] [Bank: 0x6F:0x327E] [CPU: 0x727E] [OrigLen: 29]
+JP: あの　トビラを
+JP: にどと　ひらかないように
+JP: とじてしまえ！
+CN: 把那门
+CN: 永远别再打开
+CN: 关上！
+
+# [0533] [ROM: 0x1BF29B] [Bank: 0x6F:0x329B] [CPU: 0x729B] [OrigLen: 20]
+JP: まずは　『まじんき<81>よかがみ』
+JP: を……
+CN: 先放镜·魔神器
+CN: …
+
+# [0534] [ROM: 0x1BF2AF] [Bank: 0x6F:0x32AF] [CPU: 0x72AF] [OrigLen: 11]
+JP: よし！
+JP: つぎは……と
+CN: 好
+CN: 接下来
+
+# [0535] [ROM: 0x1BF2BA] [Bank: 0x6F:0x32BA] [CPU: 0x72BA] [OrigLen: 20]
+JP: ここは　『まじんき<81>よたま』
+JP: だな……
+CN: 珠·魔神器
+CN: 吧…
+
+# [0536] [ROM: 0x1BF2CE] [Bank: 0x6F:0x32CE] [CPU: 0x72CE] [OrigLen: 11]
+JP: よし！
+JP: さいごは……
+CN: 好
+CN: 最后
+
+# [0537] [ROM: 0x1BF2D9] [Bank: 0x6F:0x32D9] [CPU: 0x72D9] [OrigLen: 13]
+JP: 『まじんき<81>よけん』だ！
+CN: 剑·魔神器！
+
+# [0538] [ROM: 0x1BF2E6] [Bank: 0x6F:0x32E6] [CPU: 0x72E6] [OrigLen: 14]
+JP: よし！
+JP: ぜんぶ　おいたぞ。
+CN: 好
+CN: 全放好了
+
+# [0539] [ROM: 0x1BF2F4] [Bank: 0x6F:0x32F4] [CPU: 0x72F4] [OrigLen: 13]
+JP: ……！！
+JP: みろ！　<NAME>！！
+CN: ！！
+CN: 看<NAME>！！
+
+# [0540] [ROM: 0x1BF301] [Bank: 0x6F:0x3301] [CPU: 0x7301] [OrigLen: 8]
+JP: カンナさん……
+CN: 神奈…
+
+# [0541] [ROM: 0x1BF309] [Bank: 0x6F:0x3309] [CPU: 0x7309] [OrigLen: 12]
+JP: ついに　やったな
+JP: <NAME>。
+CN: 成功了
+CN: <NAME>
+
+# [0542] [ROM: 0x1BF315] [Bank: 0x6F:0x3315] [CPU: 0x7315] [OrigLen: 11]
+JP: はい！
+JP: …………でも
+CN: 是
+CN: 但…
+
+# [0543] [ROM: 0x1BF320] [Bank: 0x6F:0x3320] [CPU: 0x7320] [OrigLen: 44]
+JP: 『まじんき』を
+JP: かいしゅうするだけの
+JP: にんむ　だったのに
+JP: こんなことに　なるなんて……
+CN: 只是回收
+CN: 魔神器
+CN: 的任务
+CN: 竟变成这样……
+
+# [0544] [ROM: 0x1BF34C] [Bank: 0x6F:0x334C] [CPU: 0x734C] [OrigLen: 48]
+JP: そうだな……
+JP: まさか　ちじょうの　しはいを
+JP: たくらむやつが　ミカサの
+JP: ちかに　いたなんてな……
+CN: 是啊……
+CN: 没想到有人
+CN: 在三笠地下
+CN: 企图统治地上……
+
+# [0545] [ROM: 0x1BF37C] [Bank: 0x6F:0x337C] [CPU: 0x737C] [OrigLen: 27]
+JP: それにしても
+JP: <NAME>は
+JP: ほんとうに　よく
+JP: がんばったな。
+CN: 话说回来
+CN: <NAME>
+CN: 真的
+CN: 很努力。
+
+# [0546] [ROM: 0x1BF397] [Bank: 0x6F:0x3397] [CPU: 0x7397] [OrigLen: 27]
+JP: こころから　れいを
+JP: いわせてもらうぜ。
+JP: サンキュー。
+CN: 衷心道谢
+CN: 谢了。
+
+# [0547] [ROM: 0x1BF3B2] [Bank: 0x6F:0x33B2] [CPU: 0x73B2] [OrigLen: 29]
+JP: さあ　『まじんき』を
+JP: もって　ていげきに
+JP: かえろうぜ！！
+CN: 来 带着魔神器
+CN: 回帝击
+CN: 吧！！
+
+# [0548] [ROM: 0x1BF3CF] [Bank: 0x6F:0x33CF] [CPU: 0x73CF] [OrigLen: 26]
+JP: にんむかんりょう！
+JP: ていげきに　きかんだ！
+JP: <NAME>！！
+CN: 任务完成！
+CN: 回帝击！
+CN: <NAME>！！
+
+# [0549] [ROM: 0x1BF3E9] [Bank: 0x6F:0x33E9] [CPU: 0x73E9] [OrigLen: 38]
+JP: なんだ　ここは……
+JP: すごく　じゃあくで　つよい
+JP: れいりょくを　かんじる……
+CN: 这里……
+CN: 非常强大
+CN: 邪恶灵力……
+
+# [0550] [ROM: 0x1BF40F] [Bank: 0x6F:0x340F] [CPU: 0x740F] [OrigLen: 33]
+JP: イヤな　かんじがするぜ……
+JP: まさに　『まかい』って
+JP: かんじだな。
+CN: 感觉真糟……
+CN: 简直是魔界
+CN: 的感觉。
+
+# [0551] [ROM: 0x1BF430] [Bank: 0x6F:0x3430] [CPU: 0x7430] [OrigLen: 37]
+JP: <NAME>！
+JP: このさきにいる　まものは
+JP: てごわそうだぜ！
+JP: きあいを　いれろよ！！
+CN: <NAME>！
+CN: 前面的魔物
+CN: 很难缠！
+CN: 打起精神！！
+
+# [0552] [ROM: 0x1BF455] [Bank: 0x6F:0x3455] [CPU: 0x7455] [OrigLen: 7]
+JP: りょうかい！
+CN: 明白！
+
+# [0553] [ROM: 0x1BF46B] [Bank: 0x6F:0x346B] [CPU: 0x746B] [OrigLen: 14]
+JP: ボンヤリしてるなよ
+JP: <NAME>！！
+CN: 别发呆
+CN: <NAME>！！
+
+# [0554] [ROM: 0x1BF479] [Bank: 0x6F:0x3479] [CPU: 0x7479] [OrigLen: 34]
+JP: きあいいれて　やらないと
+JP: かんたんに　やられるぜ！
+JP: わかったな！！
+CN: 打起精神
+CN: 会被打倒！
+CN: 明白吗！！
+
+# [0555] [ROM: 0x1BF49B] [Bank: 0x6F:0x349B] [CPU: 0x749B] [OrigLen: 7]
+JP: りょうかい！
+CN: 明白！
+
+# [0556] [ROM: 0x1BF4A2] [Bank: 0x6F:0x34A2] [CPU: 0x74A2] [OrigLen: 26]
+JP: きあい　じゅうぶんだな
+JP: <NAME>！！
+JP: じゃ　いくぜ！！！
+CN: 很有精神
+CN: <NAME>！！
+CN: 上！！
+
+# [0557] [ROM: 0x1BF4BC] [Bank: 0x6F:0x34BC] [CPU: 0x74BC] [OrigLen: 11]
+JP: あっ！
+JP: カンナさん！
+CN: 啊
+CN: 神奈！
+
+# [0558] [ROM: 0x1BF4C7] [Bank: 0x6F:0x34C7] [CPU: 0x74C7] [OrigLen: 11]
+JP: あの　まものは………
+CN: 那魔物…
+
+# [0559] [ROM: 0x1BF4D2] [Bank: 0x6F:0x34D2] [CPU: 0x74D2] [OrigLen: 14]
+JP: よお。
+JP: ひさしぶりだな〜。
+CN: 哟
+CN: 好久不见
+
+# [0560] [ROM: 0x1BF4E0] [Bank: 0x6F:0x34E0] [CPU: 0x74E0] [OrigLen: 31]
+JP: おまえは
+JP: 『けん』の『まじんき』を
+JP: まもっていた　まもの！
+CN: 你是
+CN: 守护剑魔神器
+CN: 的魔物！
+
+# [0561] [ROM: 0x1BF4FF] [Bank: 0x6F:0x34FF] [CPU: 0x74FF] [OrigLen: 21]
+JP: あらららららら。
+JP: こっちにも　いますよ。
+CN: 哎呀呀呀
+CN: 这边也有哦
+
+# [0562] [ROM: 0x1BF514] [Bank: 0x6F:0x3514] [CPU: 0x7514] [OrigLen: 32]
+JP: なに……
+JP: 『たま』の『まじんき』を
+JP: まもっていた　まものか！
+CN: 什么……
+CN: 守护珠魔神器
+CN: 的魔物！
+
+# [0563] [ROM: 0x1BF534] [Bank: 0x6F:0x3534] [CPU: 0x7534] [OrigLen: 32]
+JP: こーーーっちにも
+JP: いちゃったり　なんか
+JP: するんだからねーーっ。
+CN: 这边也有
+CN: 哦真是的
+CN: 有哦～
+
+# [0564] [ROM: 0x1BF554] [Bank: 0x6F:0x3554] [CPU: 0x7554] [OrigLen: 37]
+JP: クソ！
+JP: 『かがみ』の『まじんき』を
+JP: まもっていた　ヤツまで
+JP: いるのか！
+CN: 可恶！
+CN: 连守护镜魔神器的
+CN: 家伙也
+CN: 在！
+
+# [0565] [ROM: 0x1BF579] [Bank: 0x6F:0x3579] [CPU: 0x7579] [OrigLen: 24]
+JP: いちど　あたいたちに
+JP: たおされたハズなのに！！
+CN: 明明被我们
+CN: 打倒过！！
+
+# [0566] [ROM: 0x1BF591] [Bank: 0x6F:0x3591] [CPU: 0x7591] [OrigLen: 29]
+JP: どうやら
+JP: この『まじんき』が
+JP: よっぽど　ほしいらしいな！
+CN: 看来
+CN: 他们很想要
+CN: 这魔神器！
+
+# [0567] [ROM: 0x1BF5AE] [Bank: 0x6F:0x35AE] [CPU: 0x75AE] [OrigLen: 7]
+JP: そのとおり！
+CN: 没错！
+
+# [0568] [ROM: 0x1BF5B5] [Bank: 0x6F:0x35B5] [CPU: 0x75B5] [OrigLen: 21]
+JP: 『まじんき』を　かえして
+JP: もらいますよ。
+CN: 来…
+CN: 还回魔神器
+CN: 吧
+
+# [0569] [ROM: 0x1BF5CA] [Bank: 0x6F:0x35CA] [CPU: 0x75CA] [OrigLen: 30]
+JP: こーーーんどは
+JP: まけなかったり
+JP: しちゃったりするんだから。
+CN: 这次可不会
+CN: 再输掉
+CN: 了哦。
+
+# [0570] [ROM: 0x1BF5E8] [Bank: 0x6F:0x35E8] [CPU: 0x75E8] [OrigLen: 34]
+JP: いちど　たたかった
+JP: おまえたち　なんかに
+JP: まけるか！
+JP: なっ　<NAME>！！
+CN: 打过一次
+CN: 的你们
+CN: 我会输？
+CN: 对吧<NAME>
+
+# [0571] [ROM: 0x1BF60A] [Bank: 0x6F:0x360A] [CPU: 0x760A] [OrigLen: 8]
+JP: もちろんです！
+CN: 当然！
+
+# [0572] [ROM: 0x1BF612] [Bank: 0x6F:0x3612] [CPU: 0x7612] [OrigLen: 12]
+JP: ……てごわそうだわ……
+CN: 很难缠
+
+# [0573] [ROM: 0x1BF61E] [Bank: 0x6F:0x361E] [CPU: 0x761E] [OrigLen: 31]
+JP: もちろんです！
+JP: いちど　たおしたあいてに
+JP: まけるものですか！
+CN: 当然！
+CN: 对打倒过的
+CN: 怎么会输！
+
+# [0574] [ROM: 0x1BF63D] [Bank: 0x6F:0x363D] [CPU: 0x763D] [OrigLen: 10]
+JP: そのいきだぜ　<NAME>。
+CN: 有气势<NAME>。
+
+# [0575] [ROM: 0x1BF647] [Bank: 0x6F:0x3647] [CPU: 0x7647] [OrigLen: 36]
+JP: いちど　たおしたとはいえ
+JP: あいてが　３たいもいると
+JP: てごわそうだわ……
+CN: 虽说打倒过
+CN: 三体同时
+CN: 很难缠……
+
+# [0576] [ROM: 0x1BF66B] [Bank: 0x6F:0x366B] [CPU: 0x766B] [OrigLen: 16]
+JP: なに　よわきに
+JP: なってんだよ。
+CN: 怎么
+CN: 泄气了。
+
+# [0577] [ROM: 0x1BF67B] [Bank: 0x6F:0x367B] [CPU: 0x767B] [OrigLen: 26]
+JP: いちど　たおした　あいてだ。
+JP: ガンガン　いこうぜ！
+CN: 是打倒过的对手
+CN: 狠狠上！
+
+# [0578] [ROM: 0x1BF6A2] [Bank: 0x6F:0x36A2] [CPU: 0x76A2] [OrigLen: 42]
+JP: ボサッとするな　<NAME>！
+JP: いちどたおした　あいて
+JP: とはいえ　ゆだんすると
+JP: やられるぜ！
+CN: 别发呆
+CN: 打倒过的
+CN: 大意会被
+CN: 打倒！
+
+# [0579] [ROM: 0x1BF6CC] [Bank: 0x6F:0x36CC] [CPU: 0x76CC] [OrigLen: 30]
+JP: フフフフフ……
+JP: こんどの　オレたちは
+JP: ひとあじ　ちがうぜ。
+CN: 呵呵…
+CN: 这次的我们
+CN: 可不一样。
+
+# [0580] [ROM: 0x1BF6EA] [Bank: 0x6F:0x36EA] [CPU: 0x76EA] [OrigLen: 20]
+JP: みて　おどろけ！
+JP: ３たい　がったいだ！
+CN: 看吧
+CN: 三体合体！
+
+# [0581] [ROM: 0x1BF6FE] [Bank: 0x6F:0x36FE] [CPU: 0x76FE] [OrigLen: 9]
+JP: いくぜ！　<NAME>！！
+CN: 上<NAME>！
+
+# [0582] [ROM: 0x1BF707] [Bank: 0x6F:0x3707] [CPU: 0x7707] [OrigLen: 36]
+JP: ぐおお……お……ま……
+JP: 『まかいのトビラ』が
+JP: かんぜんに　ひらけば……
+CN: 呜哦……
+CN: 魔界之门
+CN: 完全打开的话……
+
+# [0583] [ROM: 0x1BF72B] [Bank: 0x6F:0x372B] [CPU: 0x772B] [OrigLen: 38]
+JP: 『トビラ』がひらけば
+JP: われわれは　なんどでも
+JP: よみがえってくるぞーー！！！
+CN: 门一开
+CN: 我们无论多少次
+CN: 都会复活！！
+
+# [0584] [ROM: 0x1BF751] [Bank: 0x6F:0x3751] [CPU: 0x7751] [OrigLen: 8]
+JP: やったな　<NAME>！
+CN: 赢了<NAME>！
+
+# [0585] [ROM: 0x1BF759] [Bank: 0x6F:0x3759] [CPU: 0x7759] [OrigLen: 29]
+JP: カンナさん……
+JP: 『まかいのトビラ』って
+JP: なんなのですか？
+CN: 神奈…
+CN: 魔界之门
+CN: 是什么？
+
+# [0586] [ROM: 0x1BF776] [Bank: 0x6F:0x3776] [CPU: 0x7776] [OrigLen: 17]
+JP: なんだろうな……
+JP: わからない……
+CN: 什么…
+CN: 不知道
+
+# [0587] [ROM: 0x1BF787] [Bank: 0x6F:0x3787] [CPU: 0x7787] [OrigLen: 27]
+JP: でも　なんだか
+JP: ヤバそうだ……ってことは
+JP: わかるぜ。
+CN: 但总感觉
+CN: 不妙……
+CN: 明白。
+
+# [0588] [ROM: 0x1BF7A2] [Bank: 0x6F:0x37A2] [CPU: 0x77A2] [OrigLen: 10]
+JP: いそぐぞ！
+JP: <NAME>！！
+CN: 快走
+CN: <NAME>
+
+# [0589] [ROM: 0x1BF7AC] [Bank: 0x6F:0x37AC] [CPU: 0x77AC] [OrigLen: 23]
+JP: カ……カンナさん！
+JP: あ……あれは　まさか……
+CN: 神奈小姐！
+CN: 那是难道…
+
+# [0590] [ROM: 0x1BF7C3] [Bank: 0x6F:0x37C3] [CPU: 0x77C3] [OrigLen: 24]
+JP: あれが　『まかいのトビラ』
+JP: じゃ　ないですか？
+CN: 那就是魔界之门
+CN: 吧？
+
+# [0591] [ROM: 0x1BF7DB] [Bank: 0x6F:0x37DB] [CPU: 0x77DB] [OrigLen: 12]
+JP: ああ……
+JP: そうだな……
+CN: 啊…
+CN: 是啊
+
+# [0592] [ROM: 0x1BF7EA] [Bank: 0x6F:0x37EA] [CPU: 0x77EA] [OrigLen: 28]
+JP: まずい！
+JP: あとすこしで　かんぜんに
+JP: ひらいちまうぜ！！
+CN: 糟了
+CN: 差一点
+CN: 全打开！！
+
+# [0593] [ROM: 0x1BF806] [Bank: 0x6F:0x3806] [CPU: 0x7806] [OrigLen: 24]
+JP: なんとかして　はやく
+JP: トビラを　とじねえと！！
+CN: 想办法快点
+CN: 关门！！
+
+# [0594] [ROM: 0x1BF81E] [Bank: 0x6F:0x381E] [CPU: 0x781E] [OrigLen: 33]
+JP: カンナさん。
+JP: ここにある　だいざみたいな
+JP: ものは　もしかして……
+CN: 神奈小姐。
+CN: 这里的台座
+CN: 难道是……
+
+# [0595] [ROM: 0x1BF83F] [Bank: 0x6F:0x383F] [CPU: 0x783F] [OrigLen: 46]
+JP: ……これは　いかにも
+JP: 『まじんき<81>よけん』を
+JP: おいてくれと　いわんばかりの
+JP: だいざだな……
+CN: 这简直
+CN: 在说快把剑·魔神器
+CN: 放上去的
+CN: 台座呢。
+
+# [0596] [ROM: 0x1BF86D] [Bank: 0x6F:0x386D] [CPU: 0x786D] [OrigLen: 10]
+JP: あっちは　どうだ？
+CN: 那边呢？
+
+# [0597] [ROM: 0x1BF877] [Bank: 0x6F:0x3877] [CPU: 0x7877] [OrigLen: 38]
+JP: これは　どうやら
+JP: 『まじんき<81>よたま』を
+JP: おくための　だいざ
+JP: みたいだな。
+CN: 这看来
+CN: 是放珠·魔神器
+CN: 的台座
+CN: 呢。
+
+# [0598] [ROM: 0x1BF89D] [Bank: 0x6F:0x389D] [CPU: 0x789D] [OrigLen: 22]
+JP: じゃあ
+JP: むこうの　だいざは
+JP: どうだ？　<NAME>。
+CN: 那
+CN: 对面台座
+CN: 如何<NAME>。
+
+# [0599] [ROM: 0x1BF8B3] [Bank: 0x6F:0x38B3] [CPU: 0x78B3] [OrigLen: 34]
+JP: こっちは……
+JP: 『まじんき<81>よかがみ』を
+JP: おく　だいざの　ようです。
+CN: 这边是…
+CN: 放镜·魔神器
+CN: 的台座。
+
+# [0600] [ROM: 0x1BF8D5] [Bank: 0x6F:0x38D5] [CPU: 0x78D5] [OrigLen: 16]
+JP: どういうこと
+JP: なんでしょう……
+CN: 怎么回事
+CN: 呢……
+
+# [0601] [ROM: 0x1BF8E5] [Bank: 0x6F:0x38E5] [CPU: 0x78E5] [OrigLen: 45]
+JP: たぶん…　『まじんき』が
+JP: この　『まかいのトビラ』の
+JP: カギになってるんじゃ
+JP: ないかな……
+CN: 大概…魔神器
+CN: 是这魔界之门的
+CN: 钥匙吧
+CN: 大概……
+
+# [0602] [ROM: 0x1BF912] [Bank: 0x6F:0x3912] [CPU: 0x7912] [OrigLen: 47]
+JP: では　いっこくもはやく
+JP: 『まじんき』を　つかって
+JP: あの　トビラを　とじないと
+JP: いけませんね！
+CN: 那么赶快
+CN: 用魔神器
+CN: 关上那门
+CN: 才行！
+
+# [0603] [ROM: 0x1BF941] [Bank: 0x6F:0x3941] [CPU: 0x7941] [OrigLen: 33]
+JP: そうだな！
+JP: いそいで　だいざに
+JP: 『まじんき』を
+JP: おいてみようぜ！
+CN: 是啊
+CN: 赶快把魔神器
+CN: 放上台座
+CN: 吧！
+
+# [0604] [ROM: 0x1BF962] [Bank: 0x6F:0x3962] [CPU: 0x7962] [OrigLen: 10]
+JP: うっ！
+JP: まずい！！
+CN: 唔
+CN: 糟了！
+
+# [0605] [ROM: 0x1BF96C] [Bank: 0x6F:0x396C] [CPU: 0x796C] [OrigLen: 27]
+JP: しまった！
+JP: トビラが　かんぜんに
+JP: ひらいちまった！！
+CN: 糟了！
+CN: 门完全
+CN: 打开了！！
+
+# [0606] [ROM: 0x1BF987] [Bank: 0x6F:0x3987] [CPU: 0x7987] [OrigLen: 30]
+JP: きをつけろ　<NAME>！
+JP: じゃあくな　れいりょくを
+JP: かんじるぜ！！
+CN: 小心<NAME>！
+CN: 我感觉到
+CN: 邪恶灵力！！
+
+# [0607] [ROM: 0x1BF9A5] [Bank: 0x6F:0x39A5] [CPU: 0x79A5] [OrigLen: 24]
+JP: われの　めざめを
+JP: じゃまするものは
+JP: だれだ……
+CN: 妨碍我觉醒的
+CN: 是谁……
+
+# [0608] [ROM: 0x1BF9BD] [Bank: 0x6F:0x39BD] [CPU: 0x79BD] [OrigLen: 25]
+JP: わたしは
+JP: ていこくかげきだん<81>よはなぐみ
+JP: <NAME>！！
+CN: 我是
+CN: 帝国华击团·花组
+CN: <NAME>
+
+# [0609] [ROM: 0x1BF9D6] [Bank: 0x6F:0x39D6] [CPU: 0x79D6] [OrigLen: 11]
+JP: おまえは　なにもの！
+CN: 你是谁！
+
+# [0610] [ROM: 0x1BF9E1] [Bank: 0x6F:0x39E1] [CPU: 0x79E1] [OrigLen: 35]
+JP: われは　まかいおう……
+JP: ちのそこにて　ながくねむりし
+JP: まもののおう。
+CN: 我是魔王……
+CN: 长眠地底
+CN: 魔物之王。
+
+# [0611] [ROM: 0x1BFA04] [Bank: 0x6F:0x3A04] [CPU: 0x7A04] [OrigLen: 29]
+JP: きょだいな　ちからにより
+JP: トビラが　ひらかれし
+JP: いま……
+CN: 巨大力量
+CN: 打开门
+CN: 现在……
+
+# [0612] [ROM: 0x1BFA21] [Bank: 0x6F:0x3A21] [CPU: 0x7A21] [OrigLen: 23]
+JP: われら　まものが
+JP: ちじょうを　しはいする……
+CN: 我们魔物
+CN: 统治地上……
+
+# [0613] [ROM: 0x1BFA38] [Bank: 0x6F:0x3A38] [CPU: 0x7A38] [OrigLen: 37]
+JP: おまえも　まものとなり
+JP: われと　ともに　ちじょうを
+JP: はかいしつくさぬか？
+CN: 你也成为魔物
+CN: 与我一起
+CN: 毁灭地上吧？
+
+# [0614] [ROM: 0x1BFA5D] [Bank: 0x6F:0x3A5D] [CPU: 0x7A5D] [OrigLen: 8]
+JP: おもしろそうね
+CN: 有趣呢
+
+# [0615] [ROM: 0x1BFA65] [Bank: 0x6F:0x3A65] [CPU: 0x7A65] [OrigLen: 9]
+JP: おことわりよ！！
+CN: 拒绝！！
+
+# [0616] [ROM: 0x1BFA6E] [Bank: 0x6F:0x3A6E] [CPU: 0x7A6E] [OrigLen: 9]
+JP: おもしろそうね！
+CN: 有趣呢！
+
+# [0617] [ROM: 0x1BFA77] [Bank: 0x6F:0x3A77] [CPU: 0x7A77] [OrigLen: 26]
+JP: な！　なに　バカなこと
+JP: いってんだよ！！
+JP: <NAME>！！！
+CN: 什！
+CN: 说傻话！！
+CN: <NAME>！！！
+
+# [0618] [ROM: 0x1BFA91] [Bank: 0x6F:0x3A91] [CPU: 0x7A91] [OrigLen: 36]
+JP: よーし！
+JP: わたしも　まものになって
+JP: せかいを　しはい
+JP: しちゃおっと！
+CN: 好！
+CN: 我也变成魔物
+CN: 统治世界
+CN: 吧！
+
+# [0619] [ROM: 0x1BFAB5] [Bank: 0x6F:0x3AB5] [CPU: 0x7AB5] [OrigLen: 22]
+JP: フフフフフフ……
+JP: ならば　われのもとへ……
+CN: 呵呵……
+CN: 来我这里……
+
+# [0620] [ROM: 0x1BFACB] [Bank: 0x6F:0x3ACB] [CPU: 0x7ACB] [OrigLen: 26]
+JP: せかいは　まかいおうと
+JP: <NAME>によって
+JP: ほろぼされた。
+CN: 世界被魔王
+CN: 和<NAME>
+CN: 毁灭了。
+
+# [0621] [ROM: 0x1BFAE5] [Bank: 0x6F:0x3AE5] [CPU: 0x7AE5] [OrigLen: 11]
+JP: ゲームオーバー
+CN: 游戏结束
+
+# [0622] [ROM: 0x1BFAFD] [Bank: 0x6F:0x3AFD] [CPU: 0x7AFD] [OrigLen: 17]
+JP: ちんもくは　どういの
+JP: しるし……
+CN: 沉默即同意
+CN: ……
+
+# [0623] [ROM: 0x1BFB0E] [Bank: 0x6F:0x3B0E] [CPU: 0x7B0E] [OrigLen: 18]
+JP: よろしい。
+JP: さあ　われのもとへ……
+CN: 很好
+CN: 来我这……
+
+# [0624] [ROM: 0x1BFB20] [Bank: 0x6F:0x3B20] [CPU: 0x7B20] [OrigLen: 26]
+JP: せかいは　まかいおうと
+JP: <NAME>によって
+JP: ほろぼされた。
+CN: 世界被魔王
+CN: 和<NAME>
+CN: 毁灭了。
+
+# [0625] [ROM: 0x1BFB3A] [Bank: 0x6F:0x3B3A] [CPU: 0x7B3A] [OrigLen: 11]
+JP: ゲームオーバー
+CN: 游戏结束
+
+# [0626] [ROM: 0x1BFB45] [Bank: 0x6F:0x3B45] [CPU: 0x7B45] [OrigLen: 9]
+JP: おことわりよ！！
+CN: 拒绝！！
+
+# [0627] [ROM: 0x1BFB4E] [Bank: 0x6F:0x3B4E] [CPU: 0x7B4E] [OrigLen: 31]
+JP: ちじょうを　はかいだなんて
+JP: そんなこと
+JP: させるもんですか！！
+CN: 毁灭地上
+CN: 这种事
+CN: 绝不允许！！
+
+# [0628] [ROM: 0x1BFB6D] [Bank: 0x6F:0x3B6D] [CPU: 0x7B6D] [OrigLen: 30]
+JP: そのとおりだ！
+JP: ていとの　へいわを
+JP: まもるのが　あたいたち
+CN: 没错！
+CN: 守护帝都和平
+CN: 是我们
+
+# [0629] [ROM: 0x1BFB8B] [Bank: 0x6F:0x3B8B] [CPU: 0x7B8B] [OrigLen: 21]
+JP: ていこくかげきだんの
+JP: しめい　なんだ！！
+CN: 华击团的
+CN: 使命！！
+
+# [0630] [ROM: 0x1BFBA0] [Bank: 0x6F:0x3BA0] [CPU: 0x7BA0] [OrigLen: 31]
+JP: フフフ……そうか
+JP: ざんねんだが　それならば
+JP: しかたがない……
+CN: 呵呵……
+CN: 很遗憾
+CN: 那没办法……
+
+# [0631] [ROM: 0x1BFBBF] [Bank: 0x6F:0x3BBF] [CPU: 0x7BBF] [OrigLen: 21]
+JP: おまえたちには
+JP: ここで　しんでもらう……
+CN: 你们就
+CN: 死在这吧……
+
+# [0632] [ROM: 0x1BFBD8] [Bank: 0x6F:0x3BD8] [CPU: 0x7BD8] [OrigLen: 7]
+JP: グォォォ……
+CN: 呜嗷
+
+# [0633] [ROM: 0x1BFBDF] [Bank: 0x6F:0x3BDF] [CPU: 0x7BDF] [OrigLen: 42]
+JP: な……　なんだ………………
+JP: ものすごく　じゃあくで……
+JP: つよい　れいりょくだぜ……
+CN: 什么……
+CN: 非常邪恶
+CN: 又强的灵力……
+
+# [0634] [ROM: 0x1BFC09] [Bank: 0x6F:0x3C09] [CPU: 0x7C09] [OrigLen: 28]
+JP: フフ……おまえたち……
+JP: わが　しもべに
+JP: かなうかな……
+CN: 呵……
+CN: 能敌过
+CN: 我的仆人吗…
+
+# [0635] [ROM: 0x1BFC25] [Bank: 0x6F:0x3C25] [CPU: 0x7C25] [OrigLen: 30]
+JP: 「かなうかな？」だと……
+JP: バカにするなよ！
+JP: なっ！　<NAME>！！
+CN: 能敌过？
+CN: 别小看人！
+CN: 对吧<NAME>！！
+
+# [0636] [ROM: 0x1BFC43] [Bank: 0x6F:0x3C43] [CPU: 0x7C43] [OrigLen: 4]
+JP: はい！
+CN: 是
+
+# [0637] [ROM: 0x1BFC47] [Bank: 0x6F:0x3C47] [CPU: 0x7C47] [OrigLen: 49]
+JP: はい！　どんなに　つよい
+JP: てきでも　わたしたち
+JP: ていこくかげきだんは
+JP: ぜったいに　まけません！！
+CN: 是！无论多强
+CN: 的敌人
+CN: 帝国华击团
+CN: 绝不输！！
+
+# [0638] [ROM: 0x1BFC78] [Bank: 0x6F:0x3C78] [CPU: 0x7C78] [OrigLen: 21]
+JP: よくいった！！
+JP: そのとおりだぜ！
+JP: <NAME>！！
+CN: 好！！
+CN: 没错！
+CN: <NAME>！！
+
+# [0639] [ROM: 0x1BFC8D] [Bank: 0x6F:0x3C8D] [CPU: 0x7C8D] [OrigLen: 10]
+JP: かくごしやがれ！！
+CN: 觉悟！！
+
+# [0640] [ROM: 0x1BFCA6] [Bank: 0x6F:0x3CA6] [CPU: 0x7CA6] [OrigLen: 17]
+JP: おいおい　<NAME>。
+JP: ビビッてんのか？
+CN: 喂<NAME>
+CN: 怕了吗？
+
+# [0641] [ROM: 0x1BFCB7] [Bank: 0x6F:0x3CB7] [CPU: 0x7CB7] [OrigLen: 43]
+JP: だいじょうぶだぜ。
+JP: いまの　おまえなら
+JP: あんな　まもの
+JP: らくしょうで　たおせるって。
+CN: 没事
+CN: 现在的你
+CN: 那种魔物
+CN: 轻松打倒。
+
+# [0642] [ROM: 0x1BFCE2] [Bank: 0x6F:0x3CE2] [CPU: 0x7CE2] [OrigLen: 9]
+JP: いくぜ！　<NAME>！！
+CN: 上<NAME>！
+
+# [0643] [ROM: 0x1BFCEB] [Bank: 0x6F:0x3CEB] [CPU: 0x7CEB] [OrigLen: 14]
+JP: グオァアァアァァァ〜〜！！
+CN: 嗷啊～～！！
+
+# [0644] [ROM: 0x1BFCF9] [Bank: 0x6F:0x3CF9] [CPU: 0x7CF9] [OrigLen: 16]
+JP: やりましたね！
+JP: カンナさん！！
+CN: 干得好
+CN: 神奈！
+
+# [0645] [ROM: 0x1BFD09] [Bank: 0x6F:0x3D09] [CPU: 0x7D09] [OrigLen: 13]
+JP: ああ　やったな！
+JP: <NAME>！！
+CN: 赢了！
+CN: <NAME>！
+
+# [0646] [ROM: 0x1BFD16] [Bank: 0x6F:0x3D16] [CPU: 0x7D16] [OrigLen: 31]
+JP: やい　まかいおう！
+JP: おまえの　てしたも
+JP: たいしたことねーな。
+CN: 喂魔王！
+CN: 你的手下也
+CN: 不怎么样。
+
+# [0647] [ROM: 0x1BFD35] [Bank: 0x6F:0x3D35] [CPU: 0x7D35] [OrigLen: 12]
+JP: フ……フハハハハハ！！
+CN: 哈哈哈！！
+
+# [0648] [ROM: 0x1BFD41] [Bank: 0x6F:0x3D41] [CPU: 0x7D41] [OrigLen: 15]
+JP: な……
+JP: なにが　おかしい！！
+CN: 什么好笑！！
+
+# [0649] [ROM: 0x1BFD50] [Bank: 0x6F:0x3D50] [CPU: 0x7D50] [OrigLen: 22]
+JP: フハハハ……　なかなか
+JP: やるではないか……
+CN: 哈哈……
+CN: 还挺能干……
+
+# [0650] [ROM: 0x1BFD66] [Bank: 0x6F:0x3D66] [CPU: 0x7D66] [OrigLen: 41]
+JP: おまえたちを　たおし
+JP: まものにかえて
+JP: われの　あたらしい
+JP: しもべと　してやろう。
+CN: 打倒你们
+CN: 变成魔物
+CN: 成为我新的
+CN: 仆人吧。
+
+# [0651] [ROM: 0x1BFD8F] [Bank: 0x6F:0x3D8F] [CPU: 0x7D8F] [OrigLen: 9]
+JP: な　なんだと？！
+CN: 什么？！
+
+# [0652] [ROM: 0x1BFD98] [Bank: 0x6F:0x3D98] [CPU: 0x7D98] [OrigLen: 14]
+JP: そんなことは　させないわ！
+CN: 休想得逞！
+
+# [0653] [ROM: 0x1BFDA6] [Bank: 0x6F:0x3DA6] [CPU: 0x7DA6] [OrigLen: 37]
+JP: そんなことは　させないわ！
+JP: やられるのは　おまえよ！！
+JP: まかいおう！！！
+CN: 休想！
+CN: 被打倒的是你！！
+CN: 魔王！！！
+
+# [0654] [ROM: 0x1BFDCB] [Bank: 0x6F:0x3DCB] [CPU: 0x7DCB] [OrigLen: 43]
+JP: そのとおりだ！
+JP: おまえを　たおして
+JP: にどと　よみがえらないよう
+JP: ふういんしてやる！！
+CN: 没错！
+CN: 打倒你
+CN: 让你不再复活
+CN: 封印你！！
+
+# [0655] [ROM: 0x1BFE05] [Bank: 0x6F:0x3E05] [CPU: 0x7E05] [OrigLen: 36]
+JP: そんなことは　させない！
+JP: やられるのは　おまえだ！！
+JP: まかいおう！！！
+CN: 休想！
+CN: 被打倒的是你！！
+CN: 魔王！！！
+
+# [0656] [ROM: 0x1BFE29] [Bank: 0x6F:0x3E29] [CPU: 0x7E29] [OrigLen: 34]
+JP: おまえを　たおし
+JP: にどと　よみがえらないよう
+JP: ふういんしてやる！！
+CN: 打倒你
+CN: 让你不再复活
+CN: 封印你！！
+
+# [0657] [ROM: 0x1BFE4B] [Bank: 0x6F:0x3E4B] [CPU: 0x7E4B] [OrigLen: 15]
+JP: フフフ……
+JP: できるかな？……
+CN: 呵呵
+CN: 能行吗
+
+# [0658] [ROM: 0x1BFE5A] [Bank: 0x6F:0x3E5A] [CPU: 0x7E5A] [OrigLen: 9]
+JP: いくぜ！
+JP: <NAME>！！
+CN: 上<NAME>！
+
+# [0659] [ROM: 0x1BFE63] [Bank: 0x6F:0x3E63] [CPU: 0x7E63] [OrigLen: 60]
+JP: うおおおおおおおおおおおおお
+JP: おおおおおおおおおおおおおお
+JP: おおおおおおおおおおおおおお
+JP: おおおおおーーーーーーーっ！
+CN: 呜哦哦哦哦哦
+CN: 哦哦哦哦哦哦哦哦
+CN: 哦哦哦哦哦哦哦哦
+CN: 哦哦哦——！
+
+# [0660] [ROM: 0x1BFE9F] [Bank: 0x6F:0x3E9F] [CPU: 0x7E9F] [OrigLen: 39]
+JP: おぼえておれ……
+JP: われは　なんどでも
+JP: よみがえってくる……
+JP: ぐぅっ……！！！
+CN: 记住…
+CN: 我会无数次
+CN: 复活…
+CN: 唔…！！！
+
+# [0661] [ROM: 0x1BFEC6] [Bank: 0x6F:0x3EC6] [CPU: 0x7EC6] [OrigLen: 26]
+JP: はあ……はあ……や……
+JP: やりましたね　カンナさん。
+CN: 哈……哈……
+CN: 干得好神奈。
+
+# [0662] [ROM: 0x1BFEE0] [Bank: 0x6F:0x3EE0] [CPU: 0x7EE0] [OrigLen: 29]
+JP: <NAME>！
+JP: はやく　『まじんき』を
+JP: だいざに　おいていくんだ！
+CN: <NAME>！
+CN: 快把魔神器
+CN: 放上台座！
+
+# [0663] [ROM: 0x1BFEFD] [Bank: 0x6F:0x3EFD] [CPU: 0x7EFD] [OrigLen: 29]
+JP: あの　トビラを
+JP: にどと　ひらかないように
+JP: とじてしまえ！
+CN: 把那门
+CN: 永远别再打开
+CN: 关上！
+
+# [0664] [ROM: 0x1BFF1A] [Bank: 0x6F:0x3F1A] [CPU: 0x7F1A] [OrigLen: 20]
+JP: まずは　『まじんき<81>よかがみ』
+JP: を……
+CN: 先放镜·魔神器
+CN: …
+
+# [0665] [ROM: 0x1BFF2E] [Bank: 0x6F:0x3F2E] [CPU: 0x7F2E] [OrigLen: 11]
+JP: よし！
+JP: つぎは……と
+CN: 好
+CN: 接下来
+
+# [0666] [ROM: 0x1BFF39] [Bank: 0x6F:0x3F39] [CPU: 0x7F39] [OrigLen: 19]
+JP: ここは　『まじんき<81>よたま』
+JP: ね……
+CN: 珠·魔神器
+CN: 呢
+
+# [0667] [ROM: 0x1BFF4C] [Bank: 0x6F:0x3F4C] [CPU: 0x7F4C] [OrigLen: 11]
+JP: よし！
+JP: さいごは……
+CN: 好
+CN: 最后
+
+# [0668] [ROM: 0x1BFF57] [Bank: 0x6F:0x3F57] [CPU: 0x7F57] [OrigLen: 13]
+JP: 『まじんき<81>よけん』よ！
+CN: 剑·魔神器！
+
+# [0669] [ROM: 0x1BFF64] [Bank: 0x6F:0x3F64] [CPU: 0x7F64] [OrigLen: 14]
+JP: よし！
+JP: ぜんぶ　おいたわ。
+CN: 好
+CN: 全放好了
+
+# [0670] [ROM: 0x1BFF72] [Bank: 0x6F:0x3F72] [CPU: 0x7F72] [OrigLen: 13]
+JP: ……！！
+JP: みろ！　<NAME>！！
+CN: ！！
+CN: 看<NAME>！！
+
+# [0671] [ROM: 0x1BFF7F] [Bank: 0x6F:0x3F7F] [CPU: 0x7F7F] [OrigLen: 8]
+JP: カンナさん……
+CN: 神奈…
+
+# [0672] [ROM: 0x1BFF87] [Bank: 0x6F:0x3F87] [CPU: 0x7F87] [OrigLen: 12]
+JP: ついに　やったな
+JP: <NAME>。
+CN: 成功了
+CN: <NAME>
+
+# [0673] [ROM: 0x1BFF93] [Bank: 0x6F:0x3F93] [CPU: 0x7F93] [OrigLen: 11]
+JP: はい！
+JP: …………でも
+CN: 是
+CN: 但…
+
+# [0674] [ROM: 0x1BFF9E] [Bank: 0x6F:0x3F9E] [CPU: 0x7F9E] [OrigLen: 44]
+JP: 『まじんき』を
+JP: かいしゅうするだけの
+JP: にんむ　だったのに
+JP: こんなことに　なるなんて……
+CN: 只是回收
+CN: 魔神器
+CN: 的任务
+CN: 竟变成这样……
+
+# [0675] [ROM: 0x1BFFCA] [Bank: 0x6F:0x3FCA] [CPU: 0x7FCA] [OrigLen: 48]
+JP: そうだな……
+JP: まさか　ちじょうの　しはいを
+JP: たくらむやつが　ミカサの
+JP: ちかに　いたなんてな……
+CN: 是啊……
+CN: 没想到有人
+CN: 在三笠地下
+CN: 企图统治地上……

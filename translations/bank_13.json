@@ -1,0 +1,90 @@
+[
+  {
+    "bank": "0x13",
+    "offset": "0x04D2A7",
+    "bank_offset": "0x12A7",
+    "format": "Shift-JIS",
+    "raw_hex": "528376838c815b8384815b",
+    "text": "Rプレーヤー"
+  },
+  {
+    "bank": "0x13",
+    "offset": "0x04D2B3",
+    "bank_offset": "0x12B3",
+    "format": "Shift-JIS",
+    "raw_hex": "82b382ad82e7",
+    "text": "さくら"
+  },
+  {
+    "bank": "0x13",
+    "offset": "0x04D2BA",
+    "bank_offset": "0x12BA",
+    "format": "Shift-JIS",
+    "raw_hex": "82b782dd82ea",
+    "text": "すみれ"
+  },
+  {
+    "bank": "0x13",
+    "offset": "0x04D2C1",
+    "bank_offset": "0x12C1",
+    "format": "Shift-JIS",
+    "raw_hex": "837d838a8341",
+    "text": "マリア"
+  },
+  {
+    "bank": "0x13",
+    "offset": "0x04D2C8",
+    "bank_offset": "0x12C8",
+    "format": "Shift-JIS",
+    "raw_hex": "83418343838a8358",
+    "text": "アイリス"
+  },
+  {
+    "bank": "0x13",
+    "offset": "0x04D2D1",
+    "bank_offset": "0x12D1",
+    "format": "Shift-JIS",
+    "raw_hex": "82b182a482e782f1",
+    "text": "こうらん"
+  },
+  {
+    "bank": "0x13",
+    "offset": "0x04D2DA",
+    "bank_offset": "0x12DA",
+    "format": "Shift-JIS",
+    "raw_hex": "834a83938369",
+    "text": "カンナ"
+  },
+  {
+    "bank": "0x13",
+    "offset": "0x04D2E1",
+    "bank_offset": "0x12E1",
+    "format": "Shift-JIS",
+    "raw_hex": "82a882e882d082df",
+    "text": "おりひめ"
+  },
+  {
+    "bank": "0x13",
+    "offset": "0x04D2EA",
+    "bank_offset": "0x12EA",
+    "format": "Shift-JIS",
+    "raw_hex": "838c836a",
+    "text": "レニ"
+  },
+  {
+    "bank": "0x13",
+    "offset": "0x04D2EF",
+    "bank_offset": "0x12EF",
+    "format": "Shift-JIS",
+    "raw_hex": "82a882a882aa82dd",
+    "text": "おおがみ"
+  },
+  {
+    "bank": "0x13",
+    "offset": "0x04D2F8",
+    "bank_offset": "0x12F8",
+    "format": "Shift-JIS",
+    "raw_hex": "82a982e282dc",
+    "text": "かやま"
+  }
+]

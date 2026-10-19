@@ -1,0 +1,34 @@
+[
+  {
+    "bank": "0x10",
+    "offset": "0x040694",
+    "bank_offset": "0x0694",
+    "format": "Shift-JIS",
+    "raw_hex": "8f9f97988ff08c8f81460d82c482ab82f0814082ba82f182df82c282b382b982e6",
+    "text": "勝利条件：\rてきを　ぜんめつさせよ"
+  },
+  {
+    "bank": "0x10",
+    "offset": "0x0406B6",
+    "bank_offset": "0x06B6",
+    "format": "Shift-JIS",
+    "raw_hex": "8f9f97988ff08c8f81460d837b835882f0814082bd82a882b9",
+    "text": "勝利条件：\rボスを　たおせ"
+  },
+  {
+    "bank": "0x10",
+    "offset": "0x0408FB",
+    "bank_offset": "0x08FB",
+    "format": "Shift-JIS",
+    "raw_hex": "728b728e72",
+    "text": "r脚屍"
+  },
+  {
+    "bank": "0x10",
+    "offset": "0x04163A",
+    "bank_offset": "0x163A",
+    "format": "Shift-JIS",
+    "raw_hex": "e0aae0a9e0a8212d",
+    "text": "爼爻爲!-"
+  }
+]

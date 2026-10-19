@@ -1,0 +1,26 @@
+[
+  {
+    "bank": "0x7E",
+    "offset": "0x1FB8DD",
+    "bank_offset": "0x38DD",
+    "format": "Shift-JIS",
+    "raw_hex": "3233e2a1",
+    "text": "23筍"
+  },
+  {
+    "bank": "0x7E",
+    "offset": "0x1FB9C4",
+    "bank_offset": "0x39C4",
+    "format": "Shift-JIS",
+    "raw_hex": "7131e1a1",
+    "text": "q1癸"
+  },
+  {
+    "bank": "0x7E",
+    "offset": "0x1FBA05",
+    "bank_offset": "0x3A05",
+    "format": "Shift-JIS",
+    "raw_hex": "2430e5a1",
+    "text": "$0蝪"
+  }
+]

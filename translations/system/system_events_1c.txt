@@ -1,0 +1,797 @@
+# 樱花大战GB2 汉化底稿: 日常系统对话与分支 B (Bank 0x1C)
+# 本文件条目数: 198
+# 规则: 在 CN: 下方直接输入中文译文。请保留 <XX> 控制标签与换行。
+============================================================
+
+# [0001] [ROM: 0x0705FA] [Bank: 0x1C:0x05FA]
+JP: ぼうぎょ　　　　
+CN: 防御　　　　　　
+
+# [0002] [ROM: 0x070628] [Bank: 0x1C:0x0628]
+JP: つかう　　　　　
+CN: 使用　　　　　　
+
+# [0003] [ROM: 0x070656] [Bank: 0x1C:0x0656]
+JP: さくせん　　　　
+CN: 作戰　　　　　　
+
+# [0004] [ROM: 0x070684] [Bank: 0x1C:0x0684]
+JP: てったい　　　　
+CN: 撤退　　　　　　
+
+# [0005] [ROM: 0x0706B2] [Bank: 0x1C:0x06B2]
+JP: カウンター　　　
+CN: 反撃　　　　　　
+
+# [0006] [ROM: 0x0706E0] [Bank: 0x1C:0x06E0]
+JP: はんしゃ　　　　
+CN: 反射　　　　　　
+
+# [0007] [ROM: 0x07070E] [Bank: 0x1C:0x070E]
+JP: こうどうじゅんび
+CN: 行動准備
+
+# [0008] [ROM: 0x07073C] [Bank: 0x1C:0x073C]
+JP: そうび　　　　　
+CN: 装備　　　　　　
+
+# [0009] [ROM: 0x07076A] [Bank: 0x1C:0x076A]
+JP: うける　　　　　
+CN: 承受　　　　　　
+
+# [0010] [ROM: 0x070798] [Bank: 0x1C:0x0798]
+JP: こうどうふのう　
+CN: 無法行動　　　　
+
+# [0011] [ROM: 0x0707C6] [Bank: 0x1C:0x07C6]
+JP: ふっかつ　　　　
+CN: 復活　　　　　　
+
+# [0012] [ROM: 0x0707F4] [Bank: 0x1C:0x07F4]
+JP: しょうもう　　　
+CN: 消耗　　　　　　
+
+# [0013] [ROM: 0x070822] [Bank: 0x1C:0x0822]
+JP: かいふく　　　　
+CN: 回復　　　　　　
+
+# [0014] [ROM: 0x070850] [Bank: 0x1C:0x0850]
+JP: ふういん　　　　
+CN: 封印　　　　　　
+
+# [0015] [ROM: 0x07087E] [Bank: 0x1C:0x087E]
+JP: こんらん　　　　
+CN: 混乱　　　　　　
+
+# [0016] [ROM: 0x0708AC] [Bank: 0x1C:0x08AC]
+JP: きる　　　　　　
+CN: 斬　　　　　　　
+
+# [0017] [ROM: 0x0708DA] [Bank: 0x1C:0x08DA]
+JP: つく　　　　　　
+CN: 突　　　　　　　
+
+# [0018] [ROM: 0x070908] [Bank: 0x1C:0x0908]
+JP: いあいぎり　　　
+CN: 居合斬　　　　　
+
+# [0019] [ROM: 0x070936] [Bank: 0x1C:0x0936]
+JP: センプウ　　　　
+CN: 旋風　　　　　　
+
+# [0020] [ROM: 0x070964] [Bank: 0x1C:0x0964]
+JP: センプウまつり　
+CN: 旋風祭　　　　　
+
+# [0021] [ROM: 0x070992] [Bank: 0x1C:0x0992]
+JP: ヒラリン　　　　
+CN: 閃身　　　　　　
+
+# [0022] [ROM: 0x0709C0] [Bank: 0x1C:0x09C0]
+JP: きる　　　　　　
+CN: 斬　　　　　　　
+
+# [0023] [ROM: 0x0709EE] [Bank: 0x1C:0x09EE]
+JP: つく　　　　　　
+CN: 突　　　　　　　
+
+# [0024] [ROM: 0x070A1C] [Bank: 0x1C:0x0A1C]
+JP: いあいぎり　　　
+CN: 居合斬　　　　　
+
+# [0025] [ROM: 0x070A4A] [Bank: 0x1C:0x0A4A]
+JP: にとうりゅう　　
+CN: 二刀流　　　　　
+
+# [0026] [ROM: 0x070A78] [Bank: 0x1C:0x0A78]
+JP: スイリュウ　　　
+CN: 水流　　　　　　
+
+# [0027] [ROM: 0x070AA6] [Bank: 0x1C:0x0AA6]
+JP: スイリュウまつり
+CN: 水流祭
+
+# [0028] [ROM: 0x070AD4] [Bank: 0x1C:0x0AD4]
+JP: バリヒラリン　　
+CN: 強化閃身　　　　
+
+# [0029] [ROM: 0x070B02] [Bank: 0x1C:0x0B02]
+JP: きる　　　　　　
+CN: 斬　　　　　　　
+
+# [0030] [ROM: 0x070B30] [Bank: 0x1C:0x0B30]
+JP: なぎはらう　　　
+CN: 横掃　　　　　　
+
+# [0031] [ROM: 0x070B5E] [Bank: 0x1C:0x0B5E]
+JP: いあいぎり　　　
+CN: 居合斬　　　　　
+
+# [0032] [ROM: 0x070B8C] [Bank: 0x1C:0x0B8C]
+JP: なますぎり　　　
+CN: 斜斬　　　　　　
+
+# [0033] [ROM: 0x070BBA] [Bank: 0x1C:0x0BBA]
+JP: スイリュウまつり
+CN: 水流祭
+
+# [0034] [ROM: 0x070BE8] [Bank: 0x1C:0x0BE8]
+JP: ガッツン　　　　
+CN: 猛撞　　　　　　
+
+# [0035] [ROM: 0x070C16] [Bank: 0x1C:0x0C16]
+JP: きる　　　　　　
+CN: 斬　　　　　　　
+
+# [0036] [ROM: 0x070C44] [Bank: 0x1C:0x0C44]
+JP: なぎはらう　　　
+CN: 横掃　　　　　　
+
+# [0037] [ROM: 0x070C72] [Bank: 0x1C:0x0C72]
+JP: かばう　　　　　
+CN: 掩護　　　　　　
+
+# [0038] [ROM: 0x070CA0] [Bank: 0x1C:0x0CA0]
+JP: ガンセキ　　　　
+CN: 岩石　　　　　　
+
+# [0039] [ROM: 0x070CCE] [Bank: 0x1C:0x0CCE]
+JP: ガンセキまつり　
+CN: 岩石祭　　　　　
+
+# [0040] [ROM: 0x070CFC] [Bank: 0x1C:0x0CFC]
+JP: バリガッツン　　
+CN: 強化猛撞　　　　
+
+# [0041] [ROM: 0x070D2A] [Bank: 0x1C:0x0D2A]
+JP: きる　　　　　　
+CN: 斬　　　　　　　
+
+# [0042] [ROM: 0x070D58] [Bank: 0x1C:0x0D58]
+JP: つきさす　　　　
+CN: 突刺　　　　　　
+
+# [0043] [ROM: 0x070D86] [Bank: 0x1C:0x0D86]
+JP: みだれづき　　　
+CN: 乱刺　　　　　　
+
+# [0044] [ROM: 0x070DB4] [Bank: 0x1C:0x0DB4]
+JP: かいてんぎり　　
+CN: 旋轉斬　　　　　
+
+# [0045] [ROM: 0x070DE2] [Bank: 0x1C:0x0DE2]
+JP: つきはなす　　　
+CN: 突放　　　　　　
+
+# [0046] [ROM: 0x070E10] [Bank: 0x1C:0x0E10]
+JP: センプウまつり　
+CN: 旋風祭　　　　　
+
+# [0047] [ROM: 0x070E3E] [Bank: 0x1C:0x0E3E]
+JP: バクエンまつり　
+CN: 爆炎祭　　　　　
+
+# [0048] [ROM: 0x070E6C] [Bank: 0x1C:0x0E6C]
+JP: スバヤン　　　　
+CN: 迅捷　　　　　　
+
+# [0049] [ROM: 0x070E9A] [Bank: 0x1C:0x0E9A]
+JP: きる　　　　　　
+CN: 斬　　　　　　　
+
+# [0050] [ROM: 0x070EC8] [Bank: 0x1C:0x0EC8]
+JP: つきさす　　　　
+CN: 突刺　　　　　　
+
+# [0051] [ROM: 0x070EF6] [Bank: 0x1C:0x0EF6]
+JP: みだれづき　　　
+CN: 乱刺　　　　　　
+
+# [0052] [ROM: 0x070F24] [Bank: 0x1C:0x0F24]
+JP: かいてんぎり　　
+CN: 旋轉斬　　　　　
+
+# [0053] [ROM: 0x070F52] [Bank: 0x1C:0x0F52]
+JP: ひきよせる　　　
+CN: 吸引　　　　　　
+
+# [0054] [ROM: 0x070F80] [Bank: 0x1C:0x0F80]
+JP: ライゲキまつり　
+CN: 雷撃祭　　　　　
+
+# [0055] [ROM: 0x070FAE] [Bank: 0x1C:0x0FAE]
+JP: ヒョウガまつり　
+CN: 冰河祭　　　　　
+
+# [0056] [ROM: 0x070FDC] [Bank: 0x1C:0x0FDC]
+JP: つく　　　　　　
+CN: 突　　　　　　　
+
+# [0057] [ROM: 0x07100A] [Bank: 0x1C:0x100A]
+JP: ふりおろす　　　
+CN: 振下　　　　　　
+
+# [0058] [ROM: 0x071038] [Bank: 0x1C:0x1038]
+JP: みだれづき　　　
+CN: 乱刺　　　　　　
+
+# [0059] [ROM: 0x071066] [Bank: 0x1C:0x1066]
+JP: ドリルランス　　
+CN: 鑽頭銃　　　　　
+
+# [0060] [ROM: 0x071094] [Bank: 0x1C:0x1094]
+JP: かげしばり　　　
+CN: 影縛　　　　　　
+
+# [0061] [ROM: 0x0710C2] [Bank: 0x1C:0x10C2]
+JP: バクエン　　　　
+CN: 爆炎　　　　　　
+
+# [0062] [ROM: 0x0710F0] [Bank: 0x1C:0x10F0]
+JP: バクエンまつり　
+CN: 爆炎祭　　　　　
+
+# [0063] [ROM: 0x07111E] [Bank: 0x1C:0x111E]
+JP: スバヤン　　　　
+CN: 迅捷　　　　　　
+
+# [0064] [ROM: 0x07114C] [Bank: 0x1C:0x114C]
+JP: つく　　　　　　
+CN: 突　　　　　　　
+
+# [0065] [ROM: 0x07117A] [Bank: 0x1C:0x117A]
+JP: ふりおろす　　　
+CN: 振下　　　　　　
+
+# [0066] [ROM: 0x0711A8] [Bank: 0x1C:0x11A8]
+JP: みだれづき　　　
+CN: 乱刺　　　　　　
+
+# [0067] [ROM: 0x0711D6] [Bank: 0x1C:0x11D6]
+JP: ひきよせる　　　
+CN: 吸引　　　　　　
+
+# [0068] [ROM: 0x071204] [Bank: 0x1C:0x1204]
+JP: ライゲキ　　　　
+CN: 雷撃　　　　　　
+
+# [0069] [ROM: 0x071232] [Bank: 0x1C:0x1232]
+JP: ライゲキまつり　
+CN: 雷撃祭　　　　　
+
+# [0070] [ROM: 0x071260] [Bank: 0x1C:0x1260]
+JP: バリスバヤン　　
+CN: 強化迅捷　　　　
+
+# [0071] [ROM: 0x07128E] [Bank: 0x1C:0x128E]
+JP: うちつける　　　
+CN: 打撃　　　　　　
+
+# [0072] [ROM: 0x0712BC] [Bank: 0x1C:0x12BC]
+JP: ピコポンハンマー
+CN: 敲敲錘
+
+# [0073] [ROM: 0x0712EA] [Bank: 0x1C:0x12EA]
+JP: ライゲキ　　　　
+CN: 雷撃　　　　　　
+
+# [0074] [ROM: 0x071318] [Bank: 0x1C:0x1318]
+JP: ライゲキまつり　
+CN: 雷撃祭　　　　　
+
+# [0075] [ROM: 0x071346] [Bank: 0x1C:0x1346]
+JP: バリガッツン　　
+CN: 強化猛撞　　　　
+
+# [0076] [ROM: 0x071374] [Bank: 0x1C:0x1374]
+JP: きる　　　　　　
+CN: 斬　　　　　　　
+
+# [0077] [ROM: 0x0713A2] [Bank: 0x1C:0x13A2]
+JP: ふりまわす　　　
+CN: 揮舞　　　　　　
+
+# [0078] [ROM: 0x0713D0] [Bank: 0x1C:0x13D0]
+JP: なげる　　　　　
+CN: 投擲　　　　　　
+
+# [0079] [ROM: 0x0713FE] [Bank: 0x1C:0x13FE]
+JP: ヒョウガ　　　　
+CN: 冰河　　　　　　
+
+# [0080] [ROM: 0x07142C] [Bank: 0x1C:0x142C]
+JP: ヒョウガまつり　
+CN: 冰河祭　　　　　
+
+# [0081] [ROM: 0x07145A] [Bank: 0x1C:0x145A]
+JP: うつ　　　　　　
+CN: 射撃　　　　　　
+
+# [0082] [ROM: 0x071488] [Bank: 0x1C:0x1488]
+JP: ちょうだん　　　
+CN: 長距彈　　　　　
+
+# [0083] [ROM: 0x0714B6] [Bank: 0x1C:0x14B6]
+JP: あらしのたま　　
+CN: 暴風彈　　　　　
+
+# [0084] [ROM: 0x0714E4] [Bank: 0x1C:0x14E4]
+JP: こおりのたま　　
+CN: 冰彈　　　　　　
+
+# [0085] [ROM: 0x071512] [Bank: 0x1C:0x1512]
+JP: ほのおのたま　　
+CN: 火炎彈　　　　　
+
+# [0086] [ROM: 0x071540] [Bank: 0x1C:0x1540]
+JP: だいちのたま　　
+CN: 大地彈　　　　　
+
+# [0087] [ROM: 0x07156E] [Bank: 0x1C:0x156E]
+JP: ぎんのたま　　　
+CN: 銀彈　　　　　　
+
+# [0088] [ROM: 0x07159C] [Bank: 0x1C:0x159C]
+JP: ほしゅうだん　　
+CN: 修復彈　　　　　
+
+# [0089] [ROM: 0x0715CA] [Bank: 0x1C:0x15CA]
+JP: うつ　　　　　　
+CN: 射撃　　　　　　
+
+# [0090] [ROM: 0x0715F8] [Bank: 0x1C:0x15F8]
+JP: さくれつだん　　
+CN: 炸裂彈　　　　　
+
+# [0091] [ROM: 0x071626] [Bank: 0x1C:0x1626]
+JP: せんこうだん　　
+CN: 閃光彈　　　　　
+
+# [0092] [ROM: 0x071654] [Bank: 0x1C:0x1654]
+JP: パニックだん　　
+CN: 恐慌彈　　　　　
+
+# [0093] [ROM: 0x071682] [Bank: 0x1C:0x1682]
+JP: ロックオン　　　
+CN: 鎖定　　　　　　
+
+# [0094] [ROM: 0x0716B0] [Bank: 0x1C:0x16B0]
+JP: デコイ　　　　　
+CN: 誘餌　　　　　　
+
+# [0095] [ROM: 0x0716DE] [Bank: 0x1C:0x16DE]
+JP: ほしゅうだん　　
+CN: 修復彈　　　　　
+
+# [0096] [ROM: 0x07170C] [Bank: 0x1C:0x170C]
+JP: パンチ　　　　　
+CN: 拳撃　　　　　　
+
+# [0097] [ROM: 0x07173A] [Bank: 0x1C:0x173A]
+JP: マッハパンチ　　
+CN: 馬赫拳　　　　　
+
+# [0098] [ROM: 0x071768] [Bank: 0x1C:0x1768]
+JP: いわくだき　　　
+CN: 碎岩　　　　　　
+
+# [0099] [ROM: 0x071796] [Bank: 0x1C:0x1796]
+JP: めくらまし　　　
+CN: 眩目　　　　　　
+
+# [0100] [ROM: 0x0717C4] [Bank: 0x1C:0x17C4]
+JP: ガンセキ　　　　
+CN: 岩石　　　　　　
+
+# [0101] [ROM: 0x0717F2] [Bank: 0x1C:0x17F2]
+JP: ガンセキまつり　
+CN: 岩石祭　　　　　
+
+# [0102] [ROM: 0x071820] [Bank: 0x1C:0x1820]
+JP: カウンター　　　
+CN: 反撃　　　　　　
+
+# [0103] [ROM: 0x07184E] [Bank: 0x1C:0x184E]
+JP: パンチ　　　　　
+CN: 拳撃　　　　　　
+
+# [0104] [ROM: 0x07187C] [Bank: 0x1C:0x187C]
+JP: ピストンパンチ　
+CN: 活塞拳　　　　　
+
+# [0105] [ROM: 0x0718AA] [Bank: 0x1C:0x18AA]
+JP: ふきとばす　　　
+CN: 吹飛　　　　　　
+
+# [0106] [ROM: 0x0718D8] [Bank: 0x1C:0x18D8]
+JP: センプウ　　　　
+CN: 旋風　　　　　　
+
+# [0107] [ROM: 0x071906] [Bank: 0x1C:0x1906]
+JP: センプウまつり　
+CN: 旋風祭　　　　　
+
+# [0108] [ROM: 0x071934] [Bank: 0x1C:0x1934]
+JP: バリスバヤン　　
+CN: 強化迅捷　　　　
+
+# [0109] [ROM: 0x071962] [Bank: 0x1C:0x1962]
+JP: たてぼうぎょ　　
+CN: 盾防　　　　　　
+
+# [0110] [ROM: 0x071990] [Bank: 0x1C:0x1990]
+JP: うける　　　　　
+CN: 承受　　　　　　
+
+# [0111] [ROM: 0x0719BE] [Bank: 0x1C:0x19BE]
+JP: てっぺきぼうぎょ
+CN: 鐵壁防御
+
+# [0112] [ROM: 0x0719EC] [Bank: 0x1C:0x19EC]
+JP: バリアーマン　　
+CN: 強化鎧甲　　　　
+
+# [0113] [ROM: 0x071A1A] [Bank: 0x1C:0x1A1A]
+JP: たてぼうぎょ　　
+CN: 盾防　　　　　　
+
+# [0114] [ROM: 0x071A48] [Bank: 0x1C:0x1A48]
+JP: かばう　　　　　
+CN: 掩護　　　　　　
+
+# [0115] [ROM: 0x071A76] [Bank: 0x1C:0x1A76]
+JP: てっぺきぼうぎょ
+CN: 鐵壁防御
+
+# [0116] [ROM: 0x071AA4] [Bank: 0x1C:0x1AA4]
+JP: れいりょくがえし
+CN: 靈力反彈
+
+# [0117] [ROM: 0x071AD2] [Bank: 0x1C:0x1AD2]
+JP: バリアーマン　　
+CN: 強化鎧甲　　　　
+
+# [0118] [ROM: 0x071B00] [Bank: 0x1C:0x1B00]
+JP: バルカン　　　　
+CN: 火神炮　　　　　
+
+# [0119] [ROM: 0x071B2E] [Bank: 0x1C:0x1B2E]
+JP: かいふく　　　　
+CN: 回復　　　　　　
+
+# [0120] [ROM: 0x071B5C] [Bank: 0x1C:0x1B5C]
+JP: ランチャー　　　
+CN: 發射器　　　　　
+
+# [0121] [ROM: 0x071B8A] [Bank: 0x1C:0x1B8A]
+JP: ８０ｍｍほう　　
+CN: ８０ｍｍ炮　　　
+
+# [0122] [ROM: 0x071BB8] [Bank: 0x1C:0x1BB8]
+JP: ねっせんほう　　
+CN: 熱線炮　　　　　
+
+# [0123] [ROM: 0x071BE6] [Bank: 0x1C:0x1BE6]
+JP: パンチ　　　　　
+CN: 拳撃　　　　　　
+
+# [0124] [ROM: 0x071C14] [Bank: 0x1C:0x1C14]
+JP: パンチ　　　　　
+CN: 拳撃　　　　　　
+
+# [0125] [ROM: 0x071C42] [Bank: 0x1C:0x1C42]
+JP: パンチ　　　　　
+CN: 拳撃　　　　　　
+
+# [0126] [ROM: 0x071C70] [Bank: 0x1C:0x1C70]
+JP: パンチ　　　　　
+CN: 拳撃　　　　　　
+
+# [0127] [ROM: 0x071C9E] [Bank: 0x1C:0x1C9E]
+JP: パンチ　　　　　
+CN: 拳撃　　　　　　
+
+# [0128] [ROM: 0x071CCC] [Bank: 0x1C:0x1CCC]
+JP: のびパンチ　　　
+CN: 伸縮拳　　　　　
+
+# [0129] [ROM: 0x071CFA] [Bank: 0x1C:0x1CFA]
+JP: のびチョップ　　
+CN: 伸縮手刀　　　　
+
+# [0130] [ROM: 0x071D28] [Bank: 0x1C:0x1D28]
+JP: のびドロー　　　
+CN: 伸縮勾撃　　　　
+
+# [0131] [ROM: 0x071D46] [Bank: 0x1C:0x1D46]
+JP: 末亡>
+CN: 
+
+# [0132] [ROM: 0x071D56] [Bank: 0x1C:0x1D56]
+JP: うつ　　　　　　
+CN: 射撃　　　　　　
+
+# [0133] [ROM: 0x071D84] [Bank: 0x1C:0x1D84]
+JP: れんしゃ　　　　
+CN: 連射　　　　　　
+
+# [0134] [ROM: 0x071DB2] [Bank: 0x1C:0x1DB2]
+JP: あらしのたま　　
+CN: 暴風彈　　　　　
+
+# [0135] [ROM: 0x071DE0] [Bank: 0x1C:0x1DE0]
+JP: こおりのたま　　
+CN: 冰彈　　　　　　
+
+# [0136] [ROM: 0x071E0E] [Bank: 0x1C:0x1E0E]
+JP: ほのおのたま　　
+CN: 火炎彈　　　　　
+
+# [0137] [ROM: 0x071E3C] [Bank: 0x1C:0x1E3C]
+JP: だいちのたま　　
+CN: 大地彈　　　　　
+
+# [0138] [ROM: 0x071E6A] [Bank: 0x1C:0x1E6A]
+JP: ぎんのたま　　　
+CN: 銀彈　　　　　　
+
+# [0139] [ROM: 0x071E98] [Bank: 0x1C:0x1E98]
+JP: えんまくだん　　
+CN: 烟幕彈　　　　　
+
+# [0140] [ROM: 0x071EC6] [Bank: 0x1C:0x1EC6]
+JP: パンチ　　　　　
+CN: 拳撃　　　　　　
+
+# [0141] [ROM: 0x071EF4] [Bank: 0x1C:0x1EF4]
+JP: でこピン　　　　
+CN: 彈額頭　　　　　
+
+# [0142] [ROM: 0x071F22] [Bank: 0x1C:0x1F22]
+JP: いわくだき　　　
+CN: 碎岩　　　　　　
+
+# [0143] [ROM: 0x071F50] [Bank: 0x1C:0x1F50]
+JP: デコイ　　　　　
+CN: 誘餌　　　　　　
+
+# [0144] [ROM: 0x071F7E] [Bank: 0x1C:0x1F7E]
+JP: カウンター　　　
+CN: 反撃　　　　　　
+
+# [0145] [ROM: 0x071FDA] [Bank: 0x1C:0x1FDA]
+JP: ぼうぎょ　　　　
+CN: 防御　　　　　　
+
+# [0146] [ROM: 0x072008] [Bank: 0x1C:0x2008]
+JP: つかう　　　　　
+CN: 使用　　　　　　
+
+# [0147] [ROM: 0x072036] [Bank: 0x1C:0x2036]
+JP: さくせん　　　　
+CN: 作戰　　　　　　
+
+# [0148] [ROM: 0x072064] [Bank: 0x1C:0x2064]
+JP: てったい　　　　
+CN: 撤退　　　　　　
+
+# [0149] [ROM: 0x072092] [Bank: 0x1C:0x2092]
+JP: カウンター　　　
+CN: 反撃　　　　　　
+
+# [0150] [ROM: 0x0720C0] [Bank: 0x1C:0x20C0]
+JP: はんしゃ　　　　
+CN: 反射　　　　　　
+
+# [0151] [ROM: 0x07228C] [Bank: 0x1C:0x228C]
+JP: かいふく　　　　
+CN: 回復　　　　　　
+
+# [0152] [ROM: 0x0722BA] [Bank: 0x1C:0x22BA]
+JP: きる　　　　　　
+CN: 斬　　　　　　　
+
+# [0153] [ROM: 0x0722E8] [Bank: 0x1C:0x22E8]
+JP: つく　　　　　　
+CN: 突　　　　　　　
+
+# [0154] [ROM: 0x072316] [Bank: 0x1C:0x2316]
+JP: いあいぎり　　　
+CN: 居合斬　　　　　
+
+# [0155] [ROM: 0x072344] [Bank: 0x1C:0x2344]
+JP: ひっさつ　　　　
+CN: 必殺　　　　　　
+
+# [0156] [ROM: 0x072372] [Bank: 0x1C:0x2372]
+JP: はげます　　　　
+CN: 鼓舞　　　　　　
+
+# [0157] [ROM: 0x0723A0] [Bank: 0x1C:0x23A0]
+JP: いのる　　　　　
+CN: 祈祷　　　　　　
+
+# [0158] [ROM: 0x07242A] [Bank: 0x1C:0x242A]
+JP: きる　　　　　　
+CN: 斬　　　　　　　
+
+# [0159] [ROM: 0x072458] [Bank: 0x1C:0x2458]
+JP: つきさす　　　　
+CN: 突刺　　　　　　
+
+# [0160] [ROM: 0x072486] [Bank: 0x1C:0x2486]
+JP: みだれづき　　　
+CN: 乱刺　　　　　　
+
+# [0161] [ROM: 0x0724B4] [Bank: 0x1C:0x24B4]
+JP: ひっさつ　　　　
+CN: 必殺　　　　　　
+
+# [0162] [ROM: 0x0724E2] [Bank: 0x1C:0x24E2]
+JP: かれいなステップ
+CN: 華麗歩法
+
+# [0163] [ROM: 0x072510] [Bank: 0x1C:0x2510]
+JP: やせガマン　　　
+CN: 硬挺　　　　　　
+
+# [0164] [ROM: 0x07259A] [Bank: 0x1C:0x259A]
+JP: うつ　　　　　　
+CN: 射撃　　　　　　
+
+# [0165] [ROM: 0x0725C8] [Bank: 0x1C:0x25C8]
+JP: かんつうだん　　
+CN: 貫通彈　　　　　
+
+# [0166] [ROM: 0x0725F6] [Bank: 0x1C:0x25F6]
+JP: らんしゃ　　　　
+CN: 乱射　　　　　　
+
+# [0167] [ROM: 0x072624] [Bank: 0x1C:0x2624]
+JP: ひっさつ　　　　
+CN: 必殺　　　　　　
+
+# [0168] [ROM: 0x072652] [Bank: 0x1C:0x2652]
+JP: ロックオン　　　
+CN: 鎖定　　　　　　
+
+# [0169] [ROM: 0x07270A] [Bank: 0x1C:0x270A]
+JP: えいっ　　　　　
+CN: 看招　　　　　　
+
+# [0170] [ROM: 0x072738] [Bank: 0x1C:0x2738]
+JP: え～いっ　　　　
+CN: 看招～　　　　　
+
+# [0171] [ROM: 0x072766] [Bank: 0x1C:0x2766]
+JP: ビカーッ　　　　
+CN: 閃～　　　　　　
+
+# [0172] [ROM: 0x0727C2] [Bank: 0x1C:0x27C2]
+JP: いたいのとんでけ
+CN: 痛痛飛走
+
+# [0173] [ROM: 0x0727F0] [Bank: 0x1C:0x27F0]
+JP: じゃんぽ～る　　
+CN: 跳跳～　　　　　
+
+# [0174] [ROM: 0x07287A] [Bank: 0x1C:0x287A]
+JP: ハリセン　　　　
+CN: 折扇　　　　　　
+
+# [0175] [ROM: 0x0728A8] [Bank: 0x1C:0x28A8]
+JP: バルカン　　　　
+CN: 火神炮　　　　　
+
+# [0176] [ROM: 0x0728D6] [Bank: 0x1C:0x28D6]
+JP: はくげきほう　　
+CN: 迫撃炮　　　　　
+
+# [0177] [ROM: 0x072904] [Bank: 0x1C:0x2904]
+JP: ひっさつ　　　　
+CN: 必殺　　　　　　
+
+# [0178] [ROM: 0x072932] [Bank: 0x1C:0x2932]
+JP: ちびロボ　　　　
+CN: 迷汝機器人　　　
+
+# [0179] [ROM: 0x072960] [Bank: 0x1C:0x2960]
+JP: じこしゅうふく　
+CN: 自我修復　　　　
+
+# [0180] [ROM: 0x0729EA] [Bank: 0x1C:0x29EA]
+JP: せいけん　　　　
+CN: 正拳　　　　　　
+
+# [0181] [ROM: 0x072A18] [Bank: 0x1C:0x2A18]
+JP: けり　　　　　　
+CN: 蹴　　　　　　　
+
+# [0182] [ROM: 0x072A46] [Bank: 0x1C:0x2A46]
+JP: らんだ　　　　　
+CN: 乱打　　　　　　
+
+# [0183] [ROM: 0x072A74] [Bank: 0x1C:0x2A74]
+JP: ひっさつ　　　　
+CN: 必殺　　　　　　
+
+# [0184] [ROM: 0x072AA2] [Bank: 0x1C:0x2AA2]
+JP: きあい　　　　　
+CN: 気合　　　　　　
+
+# [0185] [ROM: 0x072B5A] [Bank: 0x1C:0x2B5A]
+JP: ビンタ　　　　　
+CN: 耳光　　　　　　
+
+# [0186] [ROM: 0x072B88] [Bank: 0x1C:0x2B88]
+JP: しゅうちゅう　　
+CN: 集中　　　　　　
+
+# [0187] [ROM: 0x072BB6] [Bank: 0x1C:0x2BB6]
+JP: かくさん　　　　
+CN: 擴散　　　　　　
+
+# [0188] [ROM: 0x072BE4] [Bank: 0x1C:0x2BE4]
+JP: ひっさつ　　　　
+CN: 必殺　　　　　　
+
+# [0189] [ROM: 0x072C12] [Bank: 0x1C:0x2C12]
+JP: メンタルブースト
+CN: 精神強化
+
+# [0190] [ROM: 0x072CCA] [Bank: 0x1C:0x2CCA]
+JP: つく　　　　　　
+CN: 突　　　　　　　
+
+# [0191] [ROM: 0x072CF8] [Bank: 0x1C:0x2CF8]
+JP: ふりおろす　　　
+CN: 振下　　　　　　
+
+# [0192] [ROM: 0x072D26] [Bank: 0x1C:0x2D26]
+JP: みだれづき　　　
+CN: 乱刺　　　　　　
+
+# [0193] [ROM: 0x072D54] [Bank: 0x1C:0x2D54]
+JP: ひっさつ　　　　
+CN: 必殺　　　　　　
+
+# [0194] [ROM: 0x072D82] [Bank: 0x1C:0x2D82]
+JP: モビルブースト　
+CN: 機動強化　　　　
+
+# [0195] [ROM: 0x072E3A] [Bank: 0x1C:0x2E3A]
+JP: きる　　　　　　
+CN: 斬　　　　　　　
+
+# [0196] [ROM: 0x072E68] [Bank: 0x1C:0x2E68]
+JP: つく　　　　　　
+CN: 突　　　　　　　
+
+# [0197] [ROM: 0x072E96] [Bank: 0x1C:0x2E96]
+JP: ひっさつ　　　　
+CN: 必殺　　　　　　
+
+# [0198] [ROM: 0x072EF2] [Bank: 0x1C:0x2EF2]
+JP: かばう　　　　　
+CN: 掩護　　　　　　
+

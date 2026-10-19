@@ -1,0 +1,890 @@
+[
+  {
+    "bank": "0xBF",
+    "offset": "0x2FCAEC",
+    "bank_offset": "0x0AEC",
+    "format": "Shift-JIS",
+    "raw_hex": "8f709f6f",
+    "text": "術殪"
+  },
+  {
+    "bank": "0xBF",
+    "offset": "0x2FCB7C",
+    "bank_offset": "0x0B7C",
+    "format": "Shift-JIS",
+    "raw_hex": "8f709f6f",
+    "text": "術殪"
+  },
+  {
+    "bank": "0xBF",
+    "offset": "0x2FE951",
+    "bank_offset": "0x2951",
+    "format": "Shift-JIS",
+    "raw_hex": "82a082b582aa82e982ed82ab82b6",
+    "text": "あしがるわきじ"
+  },
+  {
+    "bank": "0xBF",
+    "offset": "0x2FE960",
+    "bank_offset": "0x2960",
+    "format": "Shift-JIS",
+    "raw_hex": "82b182a482dc82c182bf",
+    "text": "こうまっち"
+  },
+  {
+    "bank": "0xBF",
+    "offset": "0x2FE96B",
+    "bank_offset": "0x296B",
+    "format": "Shift-JIS",
+    "raw_hex": "82b182a882e8",
+    "text": "こおり"
+  },
+  {
+    "bank": "0xBF",
+    "offset": "0x2FE972",
+    "bank_offset": "0x2972",
+    "format": "Shift-JIS",
+    "raw_hex": "82b682e582a482ab82d982a4",
+    "text": "じょうきほう"
+  },
+  {
+    "bank": "0xBF",
+    "offset": "0x2FE97F",
+    "bank_offset": "0x297F",
+    "format": "Shift-JIS",
+    "raw_hex": "82b182a482dc836e834b815b",
+    "text": "こうまハガー"
+  },
+  {
+    "bank": "0xBF",
+    "offset": "0x2FE98C",
+    "bank_offset": "0x298C",
+    "format": "Shift-JIS",
+    "raw_hex": "8358836d815b82ed82ab82b6",
+    "text": "スノーわきじ"
+  },
+  {
+    "bank": "0xBF",
+    "offset": "0x2FE999",
+    "bank_offset": "0x2999",
+    "format": "Shift-JIS",
+    "raw_hex": "834e838a834982f1836c82f1",
+    "text": "クリオんネん"
+  },
+  {
+    "bank": "0xBF",
+    "offset": "0x2FE9A6",
+    "bank_offset": "0x29A6",
+    "format": "Shift-JIS",
+    "raw_hex": "83688389838082a982f1",
+    "text": "ドラムかん"
+  },
+  {
+    "bank": "0xBF",
+    "offset": "0x2FE9B1",
+    "bank_offset": "0x29B1",
+    "format": "Shift-JIS",
+    "raw_hex": "82ed82ab82b6837483408343835e815b",
+    "text": "わきじファイター"
+  },
+  {
+    "bank": "0xBF",
+    "offset": "0x2FE9C2",
+    "bank_offset": "0x29C2",
+    "format": "Shift-JIS",
+    "raw_hex": "82a982dc82a282bd82bf",
+    "text": "かまいたち"
+  },
+  {
+    "bank": "0xBF",
+    "offset": "0x2FE9CD",
+    "bank_offset": "0x29CD",
+    "format": "Shift-JIS",
+    "raw_hex": "838f834c82bf82e182f1",
+    "text": "ワキちゃん"
+  },
+  {
+    "bank": "0xBF",
+    "offset": "0x2FE9D8",
+    "bank_offset": "0x29D8",
+    "format": "Shift-JIS",
+    "raw_hex": "8350839383498345",
+    "text": "ケンオウ"
+  },
+  {
+    "bank": "0xBF",
+    "offset": "0x2FE9E1",
+    "bank_offset": "0x29E1",
+    "format": "Shift-JIS",
+    "raw_hex": "82b182a482dc",
+    "text": "こうま"
+  },
+  {
+    "bank": "0xBF",
+    "offset": "0x2FE9E8",
+    "bank_offset": "0x29E8",
+    "format": "Shift-JIS",
+    "raw_hex": "82b182a482dc836e838a8350815b8393",
+    "text": "こうまハリケーン"
+  },
+  {
+    "bank": "0xBF",
+    "offset": "0x2FE9F9",
+    "bank_offset": "0x29F9",
+    "format": "Shift-JIS",
+    "raw_hex": "82b182cc82a682ed82ab82b6",
+    "text": "このえわきじ"
+  },
+  {
+    "bank": "0xBF",
+    "offset": "0x2FEA06",
+    "bank_offset": "0x2A06",
+    "format": "Shift-JIS",
+    "raw_hex": "82d082c882ed82ed82ab82b6",
+    "text": "ひなわわきじ"
+  },
+  {
+    "bank": "0xBF",
+    "offset": "0x2FEA13",
+    "bank_offset": "0x2A13",
+    "format": "Shift-JIS",
+    "raw_hex": "8341815b837d815b836882ed82ab82b6",
+    "text": "アーマードわきじ"
+  },
+  {
+    "bank": "0xBF",
+    "offset": "0x2FEA24",
+    "bank_offset": "0x2A24",
+    "format": "Shift-JIS",
+    "raw_hex": "82e482ab82a882c682b1",
+    "text": "ゆきおとこ"
+  },
+  {
+    "bank": "0xBF",
+    "offset": "0x2FEA2F",
+    "bank_offset": "0x2A2F",
+    "format": "Shift-JIS",
+    "raw_hex": "82a882a882c382c282ed82ab82b6",
+    "text": "おおづつわきじ"
+  },
+  {
+    "bank": "0xBF",
+    "offset": "0x2FEA3E",
+    "bank_offset": "0x2A3E",
+    "format": "Shift-JIS",
+    "raw_hex": "82b182a482dc83748342836283568385",
+    "text": "こうまフィッシュ"
+  },
+  {
+    "bank": "0xBF",
+    "offset": "0x2FEA4F",
+    "bank_offset": "0x2A4F",
+    "format": "Shift-JIS",
+    "raw_hex": "82b182a482dc834c838383938354815b",
+    "text": "こうまキャンサー"
+  },
+  {
+    "bank": "0xBF",
+    "offset": "0x2FEA60",
+    "bank_offset": "0x2A60",
+    "format": "Shift-JIS",
+    "raw_hex": "834a8393834b838b815b82b182a482dc",
+    "text": "カンガルーこうま"
+  },
+  {
+    "bank": "0xBF",
+    "offset": "0x2FEA71",
+    "bank_offset": "0x2A71",
+    "format": "Shift-JIS",
+    "raw_hex": "82c682c282b082ab814982ed82ab82b6",
+    "text": "とつげき！わきじ"
+  },
+  {
+    "bank": "0xBF",
+    "offset": "0x2FEA82",
+    "bank_offset": "0x2A82",
+    "format": "Shift-JIS",
+    "raw_hex": "82ed82ab82b6837d838a8369815b",
+    "text": "わきじマリナー"
+  },
+  {
+    "bank": "0xBF",
+    "offset": "0x2FEA91",
+    "bank_offset": "0x2A91",
+    "format": "Shift-JIS",
+    "raw_hex": "82ed82ab82b6837b834e8354815b",
+    "text": "わきじボクサー"
+  },
+  {
+    "bank": "0xBF",
+    "offset": "0x2FEAA0",
+    "bank_offset": "0x2AA0",
+    "format": "Shift-JIS",
+    "raw_hex": "82ed82ab82b6837d838a8369815b",
+    "text": "わきじマリナー"
+  },
+  {
+    "bank": "0xBF",
+    "offset": "0x2FEAAF",
+    "bank_offset": "0x2AAF",
+    "format": "Shift-JIS",
+    "raw_hex": "82b182a482dc83898343835f815b",
+    "text": "こうまライダー"
+  },
+  {
+    "bank": "0xBF",
+    "offset": "0x2FEABE",
+    "bank_offset": "0x2ABE",
+    "format": "Shift-JIS",
+    "raw_hex": "82b182a482ab82c782a482ed82ab82b6",
+    "text": "こうきどうわきじ"
+  },
+  {
+    "bank": "0xBF",
+    "offset": "0x2FEACF",
+    "bank_offset": "0x2ACF",
+    "format": "Shift-JIS",
+    "raw_hex": "82b182a482dc83898343835f815b",
+    "text": "こうまライダー"
+  },
+  {
+    "bank": "0xBF",
+    "offset": "0x2FEADE",
+    "bank_offset": "0x2ADE",
+    "format": "Shift-JIS",
+    "raw_hex": "82ed82ab82b6",
+    "text": "わきじ"
+  },
+  {
+    "bank": "0xBF",
+    "offset": "0x2FEAE5",
+    "bank_offset": "0x2AE5",
+    "format": "Shift-JIS",
+    "raw_hex": "8377837282ed82ab82b6",
+    "text": "ヘビわきじ"
+  },
+  {
+    "bank": "0xBF",
+    "offset": "0x2FEAF0",
+    "bank_offset": "0x2AF0",
+    "format": "Shift-JIS",
+    "raw_hex": "82a982dc82a282bd82bf",
+    "text": "かまいたち"
+  },
+  {
+    "bank": "0xBF",
+    "offset": "0x2FEAFB",
+    "bank_offset": "0x2AFB",
+    "format": "Shift-JIS",
+    "raw_hex": "8358834a838b838c83628368",
+    "text": "スカルレッド"
+  },
+  {
+    "bank": "0xBF",
+    "offset": "0x2FEB08",
+    "bank_offset": "0x2B08",
+    "format": "Shift-JIS",
+    "raw_hex": "82d982cc82a882cc82b182a482dc",
+    "text": "ほのおのこうま"
+  },
+  {
+    "bank": "0xBF",
+    "offset": "0x2FEB17",
+    "bank_offset": "0x2B17",
+    "format": "Shift-JIS",
+    "raw_hex": "836e8393835e815b82ed82ab82b6",
+    "text": "ハンターわきじ"
+  },
+  {
+    "bank": "0xBF",
+    "offset": "0x2FEB26",
+    "bank_offset": "0x2B26",
+    "format": "Shift-JIS",
+    "raw_hex": "82e782a282b082ab82d982a4",
+    "text": "らいげきほう"
+  },
+  {
+    "bank": "0xBF",
+    "offset": "0x2FEB33",
+    "bank_offset": "0x2B33",
+    "format": "Shift-JIS",
+    "raw_hex": "82ed82ab82b68360838383938376",
+    "text": "わきじチャンプ"
+  },
+  {
+    "bank": "0xBF",
+    "offset": "0x2FEB42",
+    "bank_offset": "0x2B42",
+    "format": "Shift-JIS",
+    "raw_hex": "82b682b282ad82cc82ce82f182af82f1",
+    "text": "じごくのばんけん"
+  },
+  {
+    "bank": "0xBF",
+    "offset": "0x2FEB53",
+    "bank_offset": "0x2B53",
+    "format": "Shift-JIS",
+    "raw_hex": "82cb82c182af82c282ed82ab82b6",
+    "text": "ねっけつわきじ"
+  },
+  {
+    "bank": "0xBF",
+    "offset": "0x2FEB62",
+    "bank_offset": "0x2B62",
+    "format": "Shift-JIS",
+    "raw_hex": "82a282ed",
+    "text": "いわ"
+  },
+  {
+    "bank": "0xBF",
+    "offset": "0x2FEB67",
+    "bank_offset": "0x2B67",
+    "format": "Shift-JIS",
+    "raw_hex": "82b182a482dc",
+    "text": "こうま"
+  },
+  {
+    "bank": "0xBF",
+    "offset": "0x2FEB6E",
+    "bank_offset": "0x2B6E",
+    "format": "Shift-JIS",
+    "raw_hex": "82ed82ab82b6834c8383836d8393",
+    "text": "わきじキャノン"
+  },
+  {
+    "bank": "0xBF",
+    "offset": "0x2FEB7D",
+    "bank_offset": "0x2B7D",
+    "format": "Shift-JIS",
+    "raw_hex": "82ed82ab82b6",
+    "text": "わきじ"
+  },
+  {
+    "bank": "0xBF",
+    "offset": "0x2FEB84",
+    "bank_offset": "0x2B84",
+    "format": "Shift-JIS",
+    "raw_hex": "836a8383839382b182a482dc",
+    "text": "ニャンこうま"
+  },
+  {
+    "bank": "0xBF",
+    "offset": "0x2FEB91",
+    "bank_offset": "0x2B91",
+    "format": "Shift-JIS",
+    "raw_hex": "83828393836f8393",
+    "text": "モンバン"
+  },
+  {
+    "bank": "0xBF",
+    "offset": "0x2FEB9A",
+    "bank_offset": "0x2B9A",
+    "format": "Shift-JIS",
+    "raw_hex": "82b182a482dc82d982a4",
+    "text": "こうまほう"
+  },
+  {
+    "bank": "0xBF",
+    "offset": "0x2FEBA5",
+    "bank_offset": "0x2BA5",
+    "format": "Shift-JIS",
+    "raw_hex": "835e837d83498345",
+    "text": "タマオウ"
+  },
+  {
+    "bank": "0xBF",
+    "offset": "0x2FEBAE",
+    "bank_offset": "0x2BAE",
+    "format": "Shift-JIS",
+    "raw_hex": "82d982cc82a8",
+    "text": "ほのお"
+  },
+  {
+    "bank": "0xBF",
+    "offset": "0x2FEBB5",
+    "bank_offset": "0x2BB5",
+    "format": "Shift-JIS",
+    "raw_hex": "82d982cc82a8",
+    "text": "ほのお"
+  },
+  {
+    "bank": "0xBF",
+    "offset": "0x2FEBBC",
+    "bank_offset": "0x2BBC",
+    "format": "Shift-JIS",
+    "raw_hex": "82dc82c782a482dd82c882e782a2",
+    "text": "まどうみならい"
+  },
+  {
+    "bank": "0xBF",
+    "offset": "0x2FEBCB",
+    "bank_offset": "0x2BCB",
+    "format": "Shift-JIS",
+    "raw_hex": "83688389838082a982f1",
+    "text": "ドラムかん"
+  },
+  {
+    "bank": "0xBF",
+    "offset": "0x2FEBD6",
+    "bank_offset": "0x2BD6",
+    "format": "Shift-JIS",
+    "raw_hex": "82b982f1",
+    "text": "せん"
+  },
+  {
+    "bank": "0xBF",
+    "offset": "0x2FEBDB",
+    "bank_offset": "0x2BDB",
+    "format": "Shift-JIS",
+    "raw_hex": "82dc82c782a482ed82ab82b6",
+    "text": "まどうわきじ"
+  },
+  {
+    "bank": "0xBF",
+    "offset": "0x2FEBE8",
+    "bank_offset": "0x2BE8",
+    "format": "Shift-JIS",
+    "raw_hex": "82b182a482dc83898343835f815b",
+    "text": "こうまライダー"
+  },
+  {
+    "bank": "0xBF",
+    "offset": "0x2FEBF7",
+    "bank_offset": "0x2BF7",
+    "format": "Shift-JIS",
+    "raw_hex": "82ed82ab82b6834c838783938356815b",
+    "text": "わきじキョンシー"
+  },
+  {
+    "bank": "0xBF",
+    "offset": "0x2FEC08",
+    "bank_offset": "0x2C08",
+    "format": "Shift-JIS",
+    "raw_hex": "835d8393837282ed82ab82b6",
+    "text": "ゾンビわきじ"
+  },
+  {
+    "bank": "0xBF",
+    "offset": "0x2FEC15",
+    "bank_offset": "0x2C15",
+    "format": "Shift-JIS",
+    "raw_hex": "82a282ed",
+    "text": "いわ"
+  },
+  {
+    "bank": "0xBF",
+    "offset": "0x2FEC1A",
+    "bank_offset": "0x2C1A",
+    "format": "Shift-JIS",
+    "raw_hex": "8345835482b182a482dc",
+    "text": "ウサこうま"
+  },
+  {
+    "bank": "0xBF",
+    "offset": "0x2FEC25",
+    "bank_offset": "0x2C25",
+    "format": "Shift-JIS",
+    "raw_hex": "8358834a838b8375838b815b",
+    "text": "スカルブルー"
+  },
+  {
+    "bank": "0xBF",
+    "offset": "0x2FEC32",
+    "bank_offset": "0x2C32",
+    "format": "Shift-JIS",
+    "raw_hex": "835781458345815b8359",
+    "text": "ジ・ウーズ"
+  },
+  {
+    "bank": "0xBF",
+    "offset": "0x2FEC3D",
+    "bank_offset": "0x2C3D",
+    "format": "Shift-JIS",
+    "raw_hex": "82c782ad82c782ad82b182a482dc",
+    "text": "どくどくこうま"
+  },
+  {
+    "bank": "0xBF",
+    "offset": "0x2FEC4C",
+    "bank_offset": "0x2C4C",
+    "format": "Shift-JIS",
+    "raw_hex": "82b182a482dc837d8343837d8343",
+    "text": "こうまマイマイ"
+  },
+  {
+    "bank": "0xBF",
+    "offset": "0x2FEC5B",
+    "bank_offset": "0x2C5B",
+    "format": "Shift-JIS",
+    "raw_hex": "836c834e838d837d83938354815b",
+    "text": "ネクロマンサー"
+  },
+  {
+    "bank": "0xBF",
+    "offset": "0x2FEC6A",
+    "bank_offset": "0x2C6A",
+    "format": "Shift-JIS",
+    "raw_hex": "82b182a482dc8358835e83608385815b",
+    "text": "こうまスタチュー"
+  },
+  {
+    "bank": "0xBF",
+    "offset": "0x2FEC7B",
+    "bank_offset": "0x2C7B",
+    "format": "Shift-JIS",
+    "raw_hex": "82b182a482dc8358835e83608385815b",
+    "text": "こうまスタチュー"
+  },
+  {
+    "bank": "0xBF",
+    "offset": "0x2FEC8C",
+    "bank_offset": "0x2C8C",
+    "format": "Shift-JIS",
+    "raw_hex": "82b182a482dc8358835e83608385815b",
+    "text": "こうまスタチュー"
+  },
+  {
+    "bank": "0xBF",
+    "offset": "0x2FEC9D",
+    "bank_offset": "0x2C9D",
+    "format": "Shift-JIS",
+    "raw_hex": "82b182a482dc8358835e83608385815b",
+    "text": "こうまスタチュー"
+  },
+  {
+    "bank": "0xBF",
+    "offset": "0x2FECAE",
+    "bank_offset": "0x2CAE",
+    "format": "Shift-JIS",
+    "raw_hex": "82ed82ab82b68376838a815b83588367",
+    "text": "わきじプリースト"
+  },
+  {
+    "bank": "0xBF",
+    "offset": "0x2FECBF",
+    "bank_offset": "0x2CBF",
+    "format": "Shift-JIS",
+    "raw_hex": "82ed82ab82b6834c8383836d8393",
+    "text": "わきじキャノン"
+  },
+  {
+    "bank": "0xBF",
+    "offset": "0x2FECCE",
+    "bank_offset": "0x2CCE",
+    "format": "Shift-JIS",
+    "raw_hex": "82ca82a6",
+    "text": "ぬえ"
+  },
+  {
+    "bank": "0xBF",
+    "offset": "0x2FECD3",
+    "bank_offset": "0x2CD3",
+    "format": "Shift-JIS",
+    "raw_hex": "82ab82e582a482a982b182a482dc",
+    "text": "きょうかこうま"
+  },
+  {
+    "bank": "0xBF",
+    "offset": "0x2FECE2",
+    "bank_offset": "0x2CE2",
+    "format": "Shift-JIS",
+    "raw_hex": "82e782a282a482f1",
+    "text": "らいうん"
+  },
+  {
+    "bank": "0xBF",
+    "offset": "0x2FECEB",
+    "bank_offset": "0x2CEB",
+    "format": "Shift-JIS",
+    "raw_hex": "82c582f182b082ab837d8358834e",
+    "text": "でんげきマスク"
+  },
+  {
+    "bank": "0xBF",
+    "offset": "0x2FECFA",
+    "bank_offset": "0x2CFA",
+    "format": "Shift-JIS",
+    "raw_hex": "83738389836a834182b182a482dc",
+    "text": "ピラニアこうま"
+  },
+  {
+    "bank": "0xBF",
+    "offset": "0x2FED09",
+    "bank_offset": "0x2D09",
+    "format": "Shift-JIS",
+    "raw_hex": "834a834b837e83498345",
+    "text": "カガミオウ"
+  },
+  {
+    "bank": "0xBF",
+    "offset": "0x2FED14",
+    "bank_offset": "0x2D14",
+    "format": "Shift-JIS",
+    "raw_hex": "8343838b834a83898343835f815b",
+    "text": "イルカライダー"
+  },
+  {
+    "bank": "0xBF",
+    "offset": "0x2FED23",
+    "bank_offset": "0x2D23",
+    "format": "Shift-JIS",
+    "raw_hex": "82ac82e582e782a282ed82ab82b6",
+    "text": "ぎょらいわきじ"
+  },
+  {
+    "bank": "0xBF",
+    "offset": "0x2FED32",
+    "bank_offset": "0x2D32",
+    "format": "Shift-JIS",
+    "raw_hex": "82c582f182b082ab837d8358834e",
+    "text": "でんげきマスク"
+  },
+  {
+    "bank": "0xBF",
+    "offset": "0x2FED41",
+    "bank_offset": "0x2D41",
+    "format": "Shift-JIS",
+    "raw_hex": "834f838983628376838b82ed82ab82b6",
+    "text": "グラップルわきじ"
+  },
+  {
+    "bank": "0xBF",
+    "offset": "0x2FED52",
+    "bank_offset": "0x2D52",
+    "format": "Shift-JIS",
+    "raw_hex": "82ed82ab83708389836683428393",
+    "text": "わきパラディン"
+  },
+  {
+    "bank": "0xBF",
+    "offset": "0x2FED61",
+    "bank_offset": "0x2D61",
+    "format": "Shift-JIS",
+    "raw_hex": "82ed82ab83728356838783628376",
+    "text": "わきビショップ"
+  },
+  {
+    "bank": "0xBF",
+    "offset": "0x2FED70",
+    "bank_offset": "0x2D70",
+    "format": "Shift-JIS",
+    "raw_hex": "82ed82ab82b6834c8383836d8393",
+    "text": "わきじキャノン"
+  },
+  {
+    "bank": "0xBF",
+    "offset": "0x2FED7F",
+    "bank_offset": "0x2D7F",
+    "format": "Shift-JIS",
+    "raw_hex": "8353838b8353837a815b8393",
+    "text": "ゴルゴホーン"
+  },
+  {
+    "bank": "0xBF",
+    "offset": "0x2FED8C",
+    "bank_offset": "0x2D8C",
+    "format": "Shift-JIS",
+    "raw_hex": "82b182a482dc834583428393834f",
+    "text": "こうまウィング"
+  },
+  {
+    "bank": "0xBF",
+    "offset": "0x2FED9B",
+    "bank_offset": "0x2D9B",
+    "format": "Shift-JIS",
+    "raw_hex": "8375834c837e82c882a282ed",
+    "text": "ブキミないわ"
+  },
+  {
+    "bank": "0xBF",
+    "offset": "0x2FEDA8",
+    "bank_offset": "0x2DA8",
+    "format": "Shift-JIS",
+    "raw_hex": "83528382836882b182a482dc",
+    "text": "コモドこうま"
+  },
+  {
+    "bank": "0xBF",
+    "offset": "0x2FEDB5",
+    "bank_offset": "0x2DB5",
+    "format": "Shift-JIS",
+    "raw_hex": "82b182a482dc83558345838b8358",
+    "text": "こうまザウルス"
+  },
+  {
+    "bank": "0xBF",
+    "offset": "0x2FEDC4",
+    "bank_offset": "0x2DC4",
+    "format": "Shift-JIS",
+    "raw_hex": "834b815b836882b182a482dc",
+    "text": "ガードこうま"
+  },
+  {
+    "bank": "0xBF",
+    "offset": "0x2FEDD1",
+    "bank_offset": "0x2DD1",
+    "format": "Shift-JIS",
+    "raw_hex": "8384837e825282b682e382a482b5",
+    "text": "ヤミ３じゅうし"
+  },
+  {
+    "bank": "0xBF",
+    "offset": "0x2FEDE0",
+    "bank_offset": "0x2DE0",
+    "format": "Shift-JIS",
+    "raw_hex": "837e834d83458366",
+    "text": "ミギウデ"
+  },
+  {
+    "bank": "0xBF",
+    "offset": "0x2FEDE9",
+    "bank_offset": "0x2DE9",
+    "format": "Shift-JIS",
+    "raw_hex": "82dc82a982a282a882a4",
+    "text": "まかいおう"
+  },
+  {
+    "bank": "0xBF",
+    "offset": "0x2FEDF4",
+    "bank_offset": "0x2DF4",
+    "format": "Shift-JIS",
+    "raw_hex": "82b182a482dc",
+    "text": "こうま"
+  },
+  {
+    "bank": "0xBF",
+    "offset": "0x2FEDFB",
+    "bank_offset": "0x2DFB",
+    "format": "Shift-JIS",
+    "raw_hex": "82b182a482dc",
+    "text": "こうま"
+  },
+  {
+    "bank": "0xBF",
+    "offset": "0x2FEE02",
+    "bank_offset": "0x2E02",
+    "format": "Shift-JIS",
+    "raw_hex": "82b182a482dc",
+    "text": "こうま"
+  },
+  {
+    "bank": "0xBF",
+    "offset": "0x2FEE09",
+    "bank_offset": "0x2E09",
+    "format": "Shift-JIS",
+    "raw_hex": "82b182a482dc",
+    "text": "こうま"
+  },
+  {
+    "bank": "0xBF",
+    "offset": "0x2FEE10",
+    "bank_offset": "0x2E10",
+    "format": "Shift-JIS",
+    "raw_hex": "82de82e782d182c6",
+    "text": "むらびと"
+  },
+  {
+    "bank": "0xBF",
+    "offset": "0x2FEE19",
+    "bank_offset": "0x2E19",
+    "format": "Shift-JIS",
+    "raw_hex": "82a982e282dc",
+    "text": "かやま"
+  },
+  {
+    "bank": "0xBF",
+    "offset": "0x2FEE20",
+    "bank_offset": "0x2E20",
+    "format": "Shift-JIS",
+    "raw_hex": "83688389838082a982f1",
+    "text": "ドラムかん"
+  },
+  {
+    "bank": "0xBF",
+    "offset": "0x2FEE2B",
+    "bank_offset": "0x2E2B",
+    "format": "Shift-JIS",
+    "raw_hex": "82b682e582a482ab8358835e83938368",
+    "text": "じょうきスタンド"
+  },
+  {
+    "bank": "0xBF",
+    "offset": "0x2FEE3C",
+    "bank_offset": "0x2E3C",
+    "format": "Shift-JIS",
+    "raw_hex": "82b682e582a482ab8358835e83938368",
+    "text": "じょうきスタンド"
+  },
+  {
+    "bank": "0xBF",
+    "offset": "0x2FEE4D",
+    "bank_offset": "0x2E4D",
+    "format": "Shift-JIS",
+    "raw_hex": "82b182c682cb",
+    "text": "ことね"
+  },
+  {
+    "bank": "0xBF",
+    "offset": "0x2FEE54",
+    "bank_offset": "0x2E54",
+    "format": "Shift-JIS",
+    "raw_hex": "82d382ad82be8140837e834c",
+    "text": "ふくだ　ミキ"
+  },
+  {
+    "bank": "0xBF",
+    "offset": "0x2FEE61",
+    "bank_offset": "0x2E61",
+    "format": "Shift-JIS",
+    "raw_hex": "82bf82d1838d837b",
+    "text": "ちびロボ"
+  },
+  {
+    "bank": "0xBF",
+    "offset": "0x2FEE6A",
+    "bank_offset": "0x2E6A",
+    "format": "Shift-JIS",
+    "raw_hex": "82bf82d1838d837b",
+    "text": "ちびロボ"
+  },
+  {
+    "bank": "0xBF",
+    "offset": "0x2FEE73",
+    "bank_offset": "0x2E73",
+    "format": "Shift-JIS",
+    "raw_hex": "82bf82d1838d837b",
+    "text": "ちびロボ"
+  },
+  {
+    "bank": "0xBF",
+    "offset": "0x2FEE7C",
+    "bank_offset": "0x2E7C",
+    "format": "Shift-JIS",
+    "raw_hex": "82bf82d1838d837b",
+    "text": "ちびロボ"
+  },
+  {
+    "bank": "0xBF",
+    "offset": "0x2FEE85",
+    "bank_offset": "0x2E85",
+    "format": "Shift-JIS",
+    "raw_hex": "836683528343",
+    "text": "デコイ"
+  },
+  {
+    "bank": "0xBF",
+    "offset": "0x2FEE8C",
+    "bank_offset": "0x2E8C",
+    "format": "Shift-JIS",
+    "raw_hex": "836683528343",
+    "text": "デコイ"
+  },
+  {
+    "bank": "0xBF",
+    "offset": "0x2FEE93",
+    "bank_offset": "0x2E93",
+    "format": "Shift-JIS",
+    "raw_hex": "836683528343",
+    "text": "デコイ"
+  }
+]

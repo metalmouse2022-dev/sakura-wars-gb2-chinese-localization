@@ -1,0 +1,42 @@
+[
+  {
+    "bank": "0x26",
+    "offset": "0x099269",
+    "bank_offset": "0x1269",
+    "format": "Shift-JIS",
+    "raw_hex": "9f518e80",
+    "text": "櫺死"
+  },
+  {
+    "bank": "0x26",
+    "offset": "0x099359",
+    "bank_offset": "0x1359",
+    "format": "Shift-JIS",
+    "raw_hex": "9f518e80",
+    "text": "櫺死"
+  },
+  {
+    "bank": "0x26",
+    "offset": "0x099449",
+    "bank_offset": "0x1449",
+    "format": "Shift-JIS",
+    "raw_hex": "9f518e80",
+    "text": "櫺死"
+  },
+  {
+    "bank": "0x26",
+    "offset": "0x099629",
+    "bank_offset": "0x1629",
+    "format": "Shift-JIS",
+    "raw_hex": "9f518e80",
+    "text": "櫺死"
+  },
+  {
+    "bank": "0x26",
+    "offset": "0x09B464",
+    "bank_offset": "0x3464",
+    "format": "Shift-JIS",
+    "raw_hex": "8d8ce5c471",
+    "text": "轟蠧q"
+  }
+]

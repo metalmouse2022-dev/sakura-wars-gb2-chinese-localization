@@ -1,0 +1,42 @@
+[
+  {
+    "bank": "0xE8",
+    "offset": "0x3A0476",
+    "bank_offset": "0x0476",
+    "format": "Shift-JIS",
+    "raw_hex": "e080e08d",
+    "text": "烙熏"
+  },
+  {
+    "bank": "0xE8",
+    "offset": "0x3A132F",
+    "bank_offset": "0x132F",
+    "format": "Shift-JIS",
+    "raw_hex": "e3fc9ce060",
+    "text": "腋憫`"
+  },
+  {
+    "bank": "0xE8",
+    "offset": "0x3A180E",
+    "bank_offset": "0x180E",
+    "format": "Shift-JIS",
+    "raw_hex": "20e0838381",
+    "text": " 焜メ"
+  },
+  {
+    "bank": "0xE8",
+    "offset": "0x3A22AC",
+    "bank_offset": "0x22AC",
+    "format": "Shift-JIS",
+    "raw_hex": "89909aa18160",
+    "text": "艶圍～"
+  },
+  {
+    "bank": "0xE8",
+    "offset": "0x3A2901",
+    "bank_offset": "0x2901",
+    "format": "Shift-JIS",
+    "raw_hex": "82df88b820",
+    "text": "め虻 "
+  }
+]

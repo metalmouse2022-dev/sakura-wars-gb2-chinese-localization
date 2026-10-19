@@ -1,0 +1,50 @@
+[
+  {
+    "bank": "0xEA",
+    "offset": "0x3A9C3F",
+    "bank_offset": "0x1C3F",
+    "format": "Shift-JIS",
+    "raw_hex": "5e609c81",
+    "text": "^`怐"
+  },
+  {
+    "bank": "0xEA",
+    "offset": "0x3AA284",
+    "bank_offset": "0x2284",
+    "format": "Shift-JIS",
+    "raw_hex": "9f40425f4f",
+    "text": "檗B_O"
+  },
+  {
+    "bank": "0xEA",
+    "offset": "0x3AA695",
+    "bank_offset": "0x2695",
+    "format": "Shift-JIS",
+    "raw_hex": "3e20e086",
+    "text": "> 煕"
+  },
+  {
+    "bank": "0xEA",
+    "offset": "0x3AB8FA",
+    "bank_offset": "0x38FA",
+    "format": "Shift-JIS",
+    "raw_hex": "20e08f3f4e",
+    "text": " 熄?N"
+  },
+  {
+    "bank": "0xEA",
+    "offset": "0x3ABDA2",
+    "bank_offset": "0x3DA2",
+    "format": "Shift-JIS",
+    "raw_hex": "e050706024",
+    "text": "澑p`$"
+  },
+  {
+    "bank": "0xEA",
+    "offset": "0x3ABE40",
+    "bank_offset": "0x3E40",
+    "format": "Shift-JIS",
+    "raw_hex": "e050706024",
+    "text": "澑p`$"
+  }
+]

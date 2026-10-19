@@ -1,0 +1,26 @@
+[
+  {
+    "bank": "0xDF",
+    "offset": "0x37C6E9",
+    "bank_offset": "0x06E9",
+    "format": "Shift-JIS",
+    "raw_hex": "9ee69afc8c7070",
+    "text": "樊奩継p"
+  },
+  {
+    "bank": "0xDF",
+    "offset": "0x37D0B7",
+    "bank_offset": "0x10B7",
+    "format": "Shift-JIS",
+    "raw_hex": "e0d08380",
+    "text": "獎ム"
+  },
+  {
+    "bank": "0xDF",
+    "offset": "0x37D5FD",
+    "bank_offset": "0x15FD",
+    "format": "Shift-JIS",
+    "raw_hex": "e3e1edecee71",
+    "text": "聶澈緖"
+  }
+]

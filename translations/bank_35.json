@@ -1,0 +1,138 @@
+[
+  {
+    "bank": "0x35",
+    "offset": "0x0D4268",
+    "bank_offset": "0x0268",
+    "format": "Shift-JIS",
+    "raw_hex": "e0e7e0703e",
+    "text": "珸瀾>"
+  },
+  {
+    "bank": "0x35",
+    "offset": "0x0D42A5",
+    "bank_offset": "0x02A5",
+    "format": "Shift-JIS",
+    "raw_hex": "e0e7e0703e",
+    "text": "珸瀾>"
+  },
+  {
+    "bank": "0x35",
+    "offset": "0x0D42EC",
+    "bank_offset": "0x02EC",
+    "format": "Shift-JIS",
+    "raw_hex": "e0e7e0703e",
+    "text": "珸瀾>"
+  },
+  {
+    "bank": "0x35",
+    "offset": "0x0D432A",
+    "bank_offset": "0x032A",
+    "format": "Shift-JIS",
+    "raw_hex": "e0e7e0703e",
+    "text": "珸瀾>"
+  },
+  {
+    "bank": "0x35",
+    "offset": "0x0D4A11",
+    "bank_offset": "0x0A11",
+    "format": "Shift-JIS",
+    "raw_hex": "e5fa8dbc21",
+    "text": "褝詐!"
+  },
+  {
+    "bank": "0x35",
+    "offset": "0x0D6838",
+    "bank_offset": "0x2838",
+    "format": "Shift-JIS",
+    "raw_hex": "e0e7e07021",
+    "text": "珸瀾!"
+  },
+  {
+    "bank": "0x35",
+    "offset": "0x0D6890",
+    "bank_offset": "0x2890",
+    "format": "Shift-JIS",
+    "raw_hex": "688e67977089f1909490a78cc082a082e80d82cc89f1959c81420d8e6782a482c6825089f195aa8fc194ef0d82b582dc82b78142",
+    "text": "h使用回数制限あり\rの回復。\r使うと１回分消費\rします。"
+  },
+  {
+    "bank": "0x35",
+    "offset": "0x0D68C5",
+    "bank_offset": "0x28C5",
+    "format": "Shift-JIS",
+    "raw_hex": "95908aed82c9919594f582b382ea82bd0d89f1959c8b5a82f08e67977081420d8e6782a482c6826c826f82aa8fc194ef0d82b582dc82b78142",
+    "text": "武器に装備された\r回復技を使用。\r使うとＭＰが消費\rします。"
+  },
+  {
+    "bank": "0x35",
+    "offset": "0x0D68FF",
+    "bank_offset": "0x28FF",
+    "format": "Shift-JIS",
+    "raw_hex": "83418343838a835882be82af82cc954b0d8e458b5a8142",
+    "text": "アイリスだけの必\r殺技。"
+  },
+  {
+    "bank": "0x35",
+    "offset": "0x0D691C",
+    "bank_offset": "0x291C",
+    "format": "Shift-JIS",
+    "raw_hex": "e0e7e07021",
+    "text": "珸瀾!"
+  },
+  {
+    "bank": "0x35",
+    "offset": "0x0D69B0",
+    "bank_offset": "0x29B0",
+    "format": "Shift-JIS",
+    "raw_hex": "82a982a282d382ad0d",
+    "text": "かいふく\r"
+  },
+  {
+    "bank": "0x35",
+    "offset": "0x0D69BA",
+    "bank_offset": "0x29BA",
+    "format": "Shift-JIS",
+    "raw_hex": "82ed82b482c582a982a282d382ad0d",
+    "text": "わざでかいふく\r"
+  },
+  {
+    "bank": "0x35",
+    "offset": "0x0D69CA",
+    "bank_offset": "0x29CA",
+    "format": "Shift-JIS",
+    "raw_hex": "87548145837d838a8388836c836283670d",
+    "text": "Ⅰ・マリヨネット\r"
+  },
+  {
+    "bank": "0x35",
+    "offset": "0x0D69EE",
+    "bank_offset": "0x29EE",
+    "format": "Shift-JIS",
+    "raw_hex": "814081408fc194ef826c826f824f82570d",
+    "text": "　　消費ＭＰ０８\r"
+  },
+  {
+    "bank": "0x35",
+    "offset": "0x0D6A05",
+    "bank_offset": "0x2A05",
+    "format": "Shift-JIS",
+    "raw_hex": "e0e7e07021",
+    "text": "珸瀾!"
+  },
+  {
+    "bank": "0x35",
+    "offset": "0x0D6ACB",
+    "bank_offset": "0x2ACB",
+    "format": "Shift-JIS",
+    "raw_hex": "82be82ea82c982c282a982a481480d",
+    "text": "だれにつかう？\r"
+  },
+  {
+    "bank": "0x35",
+    "offset": "0x0D6C4A",
+    "bank_offset": "0x2C4A",
+    "format": "Shift-JIS",
+    "raw_hex": "82c882c982e0814081408140814081400d82a882ab82c882a982c182bd814281400d814081408140814081408140814081400d81408140814081408140814081408140",
+    "text": "なにも　　　　　\rおきなかった。　\r　　　　　　　　\r　　　　　　　　"
+  }
+]

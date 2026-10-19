@@ -1,0 +1,42 @@
+[
+  {
+    "bank": "0x31",
+    "offset": "0x0C4050",
+    "bank_offset": "0x0050",
+    "format": "Shift-JIS",
+    "raw_hex": "e0e7e07021",
+    "text": "珸瀾!"
+  },
+  {
+    "bank": "0x31",
+    "offset": "0x0C409B",
+    "bank_offset": "0x009B",
+    "format": "Shift-JIS",
+    "raw_hex": "81aa814683518362836781408140814081408358835e815b836781468374838b834a83890d81a8814692e98c808381836a8385815b8140835a838c834e83678146826f82728264826b0d81a981468272826d826383658358836781408260837b835e839381468261826e827781400d81ab81468349815b8376836a8393834f81408261837b835e83938146",
+    "text": "↑：ゲット　　　　スタート：フルカラ\r→：帝劇メニュー　セレクト：ＰＳＥＬ\r←：ＳＮＤテスト　Ａボタン：ＢＯＸ　\r↓：オープニング　Ｂボタン："
+  },
+  {
+    "bank": "0x31",
+    "offset": "0x0C7252",
+    "bank_offset": "0x3252",
+    "format": "Shift-JIS",
+    "raw_hex": "e0e7e0703e",
+    "text": "珸瀾>"
+  },
+  {
+    "bank": "0x31",
+    "offset": "0x0C790C",
+    "bank_offset": "0x390C",
+    "format": "Shift-JIS",
+    "raw_hex": "e0e7e0703e",
+    "text": "珸瀾>"
+  },
+  {
+    "bank": "0x31",
+    "offset": "0x0C792E",
+    "bank_offset": "0x392E",
+    "format": "Shift-JIS",
+    "raw_hex": "e0e7e07021",
+    "text": "珸瀾!"
+  }
+]

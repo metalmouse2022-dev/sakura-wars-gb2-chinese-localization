@@ -1,0 +1,82 @@
+[
+  {
+    "bank": "0xFA",
+    "offset": "0x3E8C2A",
+    "bank_offset": "0x0C2A",
+    "format": "Shift-JIS",
+    "raw_hex": "3048607890a82c",
+    "text": "0H`x勢,"
+  },
+  {
+    "bank": "0xFA",
+    "offset": "0x3E93F8",
+    "bank_offset": "0x13F8",
+    "format": "Shift-JIS",
+    "raw_hex": "3750e6b770",
+    "text": "7P豺p"
+  },
+  {
+    "bank": "0xFA",
+    "offset": "0x3E9423",
+    "bank_offset": "0x1423",
+    "format": "Shift-JIS",
+    "raw_hex": "3731e6b750",
+    "text": "71豺P"
+  },
+  {
+    "bank": "0xFA",
+    "offset": "0x3E9436",
+    "bank_offset": "0x1436",
+    "format": "Shift-JIS",
+    "raw_hex": "3770e6b750",
+    "text": "7p豺P"
+  },
+  {
+    "bank": "0xFA",
+    "offset": "0x3E98BE",
+    "bank_offset": "0x18BE",
+    "format": "Shift-JIS",
+    "raw_hex": "2251e66250",
+    "text": "\"Q訝P"
+  },
+  {
+    "bank": "0xFA",
+    "offset": "0x3E98E7",
+    "bank_offset": "0x18E7",
+    "format": "Shift-JIS",
+    "raw_hex": "2231e66230",
+    "text": "\"1訝0"
+  },
+  {
+    "bank": "0xFA",
+    "offset": "0x3E9958",
+    "bank_offset": "0x1958",
+    "format": "Shift-JIS",
+    "raw_hex": "22535351e66250",
+    "text": "\"SSQ訝P"
+  },
+  {
+    "bank": "0xFA",
+    "offset": "0x3E9973",
+    "bank_offset": "0x1973",
+    "format": "Shift-JIS",
+    "raw_hex": "51e66250",
+    "text": "Q訝P"
+  },
+  {
+    "bank": "0xFA",
+    "offset": "0x3E999B",
+    "bank_offset": "0x199B",
+    "format": "Shift-JIS",
+    "raw_hex": "2231e66230",
+    "text": "\"1訝0"
+  },
+  {
+    "bank": "0xFA",
+    "offset": "0x3E9A19",
+    "bank_offset": "0x1A19",
+    "format": "Shift-JIS",
+    "raw_hex": "51e66250",
+    "text": "Q訝P"
+  }
+]

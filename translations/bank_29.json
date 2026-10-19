@@ -1,0 +1,58 @@
+[
+  {
+    "bank": "0x29",
+    "offset": "0x0A4057",
+    "bank_offset": "0x0057",
+    "format": "Shift-JIS",
+    "raw_hex": "90e0e0e060e0e0",
+    "text": "説珥`珥"
+  },
+  {
+    "bank": "0x29",
+    "offset": "0x0A4155",
+    "bank_offset": "0x0155",
+    "format": "Shift-JIS",
+    "raw_hex": "e0d490e0e0e060e0e0",
+    "text": "獪説珥`珥"
+  },
+  {
+    "bank": "0x29",
+    "offset": "0x0A4257",
+    "bank_offset": "0x0257",
+    "format": "Shift-JIS",
+    "raw_hex": "90e0e0e060e0e0",
+    "text": "説珥`珥"
+  },
+  {
+    "bank": "0x29",
+    "offset": "0x0A6472",
+    "bank_offset": "0x2472",
+    "format": "Shift-JIS",
+    "raw_hex": "9f9f9090909090909090",
+    "text": "沺瑞瑞瑞瑞"
+  },
+  {
+    "bank": "0x29",
+    "offset": "0x0A6627",
+    "bank_offset": "0x2627",
+    "format": "Shift-JIS",
+    "raw_hex": "e09fe063",
+    "text": "燹瀋"
+  },
+  {
+    "bank": "0x29",
+    "offset": "0x0A6ABC",
+    "bank_offset": "0x2ABC",
+    "format": "Shift-JIS",
+    "raw_hex": "98f8e0e0",
+    "text": "傀珥"
+  },
+  {
+    "bank": "0x29",
+    "offset": "0x0A6B7C",
+    "bank_offset": "0x2B7C",
+    "format": "Shift-JIS",
+    "raw_hex": "98f8e0e0",
+    "text": "傀珥"
+  }
+]

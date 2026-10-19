@@ -1,0 +1,50 @@
+[
+  {
+    "bank": "0xD3",
+    "offset": "0x34C8E9",
+    "bank_offset": "0x08E9",
+    "format": "Shift-JIS",
+    "raw_hex": "3838816e5e",
+    "text": "88］^"
+  },
+  {
+    "bank": "0xD3",
+    "offset": "0x34D2D7",
+    "bank_offset": "0x12D7",
+    "format": "Shift-JIS",
+    "raw_hex": "40609b97",
+    "text": "@`尢"
+  },
+  {
+    "bank": "0xD3",
+    "offset": "0x34D3D4",
+    "bank_offset": "0x13D4",
+    "format": "Shift-JIS",
+    "raw_hex": "7c8382788786",
+    "text": "|モx㊥"
+  },
+  {
+    "bank": "0xD3",
+    "offset": "0x34EF0E",
+    "bank_offset": "0x2F0E",
+    "format": "Shift-JIS",
+    "raw_hex": "68e8807c63",
+    "text": "h閠|c"
+  },
+  {
+    "bank": "0xD3",
+    "offset": "0x34F81E",
+    "bank_offset": "0x381E",
+    "format": "Shift-JIS",
+    "raw_hex": "77708f8b",
+    "text": "wp暑"
+  },
+  {
+    "bank": "0xD3",
+    "offset": "0x34FD5A",
+    "bank_offset": "0x3D5A",
+    "format": "Shift-JIS",
+    "raw_hex": "20974020",
+    "text": " 諭 "
+  }
+]

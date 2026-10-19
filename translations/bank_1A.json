@@ -1,0 +1,50 @@
+[
+  {
+    "bank": "0x1A",
+    "offset": "0x0680ED",
+    "bank_offset": "0x00ED",
+    "format": "Shift-JIS",
+    "raw_hex": "2ae5d526",
+    "text": "*袗&"
+  },
+  {
+    "bank": "0x1A",
+    "offset": "0x068199",
+    "bank_offset": "0x0199",
+    "format": "Shift-JIS",
+    "raw_hex": "2ae5d526",
+    "text": "*袗&"
+  },
+  {
+    "bank": "0x1A",
+    "offset": "0x068388",
+    "bank_offset": "0x0388",
+    "format": "Shift-JIS",
+    "raw_hex": "9f442a5f2a577e21",
+    "text": "櫂*_*W~!"
+  },
+  {
+    "bank": "0x1A",
+    "offset": "0x06AF15",
+    "bank_offset": "0x2F15",
+    "format": "Shift-JIS",
+    "raw_hex": "e0e7e0702a5f2a577e21",
+    "text": "珸瀾*_*W~!"
+  },
+  {
+    "bank": "0x1A",
+    "offset": "0x06AF53",
+    "bank_offset": "0x2F53",
+    "format": "Shift-JIS",
+    "raw_hex": "e0e7e0702323232a5f2a577e21",
+    "text": "珸瀾###*_*W~!"
+  },
+  {
+    "bank": "0x1A",
+    "offset": "0x06B46B",
+    "bank_offset": "0x346B",
+    "format": "Shift-JIS",
+    "raw_hex": "e5cd27743e",
+    "text": "袁't>"
+  }
+]

@@ -1,0 +1,98 @@
+[
+  {
+    "bank": "0x77",
+    "offset": "0x1DC45B",
+    "bank_offset": "0x045B",
+    "format": "Shift-JIS",
+    "raw_hex": "7b42817b",
+    "text": "{B＋"
+  },
+  {
+    "bank": "0x77",
+    "offset": "0x1DC464",
+    "bank_offset": "0x0464",
+    "format": "Shift-JIS",
+    "raw_hex": "7b42817b",
+    "text": "{B＋"
+  },
+  {
+    "bank": "0x77",
+    "offset": "0x1DC47F",
+    "bank_offset": "0x047F",
+    "format": "Shift-JIS",
+    "raw_hex": "7b42817b",
+    "text": "{B＋"
+  },
+  {
+    "bank": "0x77",
+    "offset": "0x1DC894",
+    "bank_offset": "0x0894",
+    "format": "Shift-JIS",
+    "raw_hex": "3f404f8150",
+    "text": "?@O￣"
+  },
+  {
+    "bank": "0x77",
+    "offset": "0x1DD09E",
+    "bank_offset": "0x109E",
+    "format": "Shift-JIS",
+    "raw_hex": "6f2f6f2f816f",
+    "text": "o/o/｛"
+  },
+  {
+    "bank": "0x77",
+    "offset": "0x1DD0B6",
+    "bank_offset": "0x10B6",
+    "format": "Shift-JIS",
+    "raw_hex": "5f6f2f816f",
+    "text": "_o/｛"
+  },
+  {
+    "bank": "0x77",
+    "offset": "0x1DF26F",
+    "bank_offset": "0x326F",
+    "format": "Shift-JIS",
+    "raw_hex": "3d0d3fe180",
+    "text": "=\r?痼"
+  },
+  {
+    "bank": "0x77",
+    "offset": "0x1DF7A3",
+    "bank_offset": "0x37A3",
+    "format": "Shift-JIS",
+    "raw_hex": "565e969e64",
+    "text": "V^満d"
+  },
+  {
+    "bank": "0x77",
+    "offset": "0x1DF7D3",
+    "bank_offset": "0x37D3",
+    "format": "Shift-JIS",
+    "raw_hex": "94b56a7a697927",
+    "text": "鳩jziy'"
+  },
+  {
+    "bank": "0x77",
+    "offset": "0x1DF807",
+    "bank_offset": "0x3807",
+    "format": "Shift-JIS",
+    "raw_hex": "565e969e64",
+    "text": "V^満d"
+  },
+  {
+    "bank": "0x77",
+    "offset": "0x1DF837",
+    "bank_offset": "0x3837",
+    "format": "Shift-JIS",
+    "raw_hex": "94b56a7a697927",
+    "text": "鳩jziy'"
+  },
+  {
+    "bank": "0x77",
+    "offset": "0x1DFC93",
+    "bank_offset": "0x3C93",
+    "format": "Shift-JIS",
+    "raw_hex": "0d8fcf5f",
+    "text": "\r粧_"
+  }
+]

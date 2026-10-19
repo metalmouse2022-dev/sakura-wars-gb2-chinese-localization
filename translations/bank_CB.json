@@ -1,0 +1,42 @@
+[
+  {
+    "bank": "0xCB",
+    "offset": "0x32CA71",
+    "bank_offset": "0x0A71",
+    "format": "Shift-JIS",
+    "raw_hex": "e980e180",
+    "text": "騾痼"
+  },
+  {
+    "bank": "0xCB",
+    "offset": "0x32EC25",
+    "bank_offset": "0x2C25",
+    "format": "Shift-JIS",
+    "raw_hex": "e7c581608a70",
+    "text": "酣～角"
+  },
+  {
+    "bank": "0xCB",
+    "offset": "0x32F283",
+    "bank_offset": "0x3283",
+    "format": "Shift-JIS",
+    "raw_hex": "9b808a86",
+    "text": "它恰"
+  },
+  {
+    "bank": "0xCB",
+    "offset": "0x32F4C1",
+    "bank_offset": "0x34C1",
+    "format": "Shift-JIS",
+    "raw_hex": "9e4e8c9c",
+    "text": "朦懸"
+  },
+  {
+    "bank": "0xCB",
+    "offset": "0x32F7D2",
+    "bank_offset": "0x37D2",
+    "format": "Shift-JIS",
+    "raw_hex": "909f919f99919591959195917d",
+    "text": "澄臓剔舞舞舞}"
+  }
+]

@@ -1,0 +1,914 @@
+[
+  {
+    "bank": "0x32",
+    "offset": "0x0C8029",
+    "bank_offset": "0x0029",
+    "format": "Shift-JIS",
+    "raw_hex": "e0e7e07021",
+    "text": "珸瀾!"
+  },
+  {
+    "bank": "0x32",
+    "offset": "0x0C8491",
+    "bank_offset": "0x0491",
+    "format": "Shift-JIS",
+    "raw_hex": "e0e7e07021",
+    "text": "珸瀾!"
+  },
+  {
+    "bank": "0x32",
+    "offset": "0x0C8506",
+    "bank_offset": "0x0506",
+    "format": "Shift-JIS",
+    "raw_hex": "e0e7e07021",
+    "text": "珸瀾!"
+  },
+  {
+    "bank": "0x32",
+    "offset": "0x0C85CF",
+    "bank_offset": "0x05CF",
+    "format": "Shift-JIS",
+    "raw_hex": "e0e7e07021",
+    "text": "珸瀾!"
+  },
+  {
+    "bank": "0x32",
+    "offset": "0x0C8729",
+    "bank_offset": "0x0729",
+    "format": "Shift-JIS",
+    "raw_hex": "4929493449414982bd82a982e782ce82b182cc834a834d",
+    "text": "I)I4IAIたからばこのカギ"
+  },
+  {
+    "bank": "0x32",
+    "offset": "0x0C8741",
+    "bank_offset": "0x0741",
+    "format": "Shift-JIS",
+    "raw_hex": "82c282a482b182a483708358",
+    "text": "つうこうパス"
+  },
+  {
+    "bank": "0x32",
+    "offset": "0x0C874E",
+    "bank_offset": "0x074E",
+    "format": "Shift-JIS",
+    "raw_hex": "83548354",
+    "text": "ササ"
+  },
+  {
+    "bank": "0x32",
+    "offset": "0x0C8753",
+    "bank_offset": "0x0753",
+    "format": "Shift-JIS",
+    "raw_hex": "82bd82f182e082cc",
+    "text": "たんもの"
+  },
+  {
+    "bank": "0x32",
+    "offset": "0x0C875C",
+    "bank_offset": "0x075C",
+    "format": "Shift-JIS",
+    "raw_hex": "837e834a835482cc834a834d",
+    "text": "ミカサのカギ"
+  },
+  {
+    "bank": "0x32",
+    "offset": "0x0C8769",
+    "bank_offset": "0x0769",
+    "format": "Shift-JIS",
+    "raw_hex": "82a982dd82b582ce82a2",
+    "text": "かみしばい"
+  },
+  {
+    "bank": "0x32",
+    "offset": "0x0C8774",
+    "bank_offset": "0x0774",
+    "format": "Shift-JIS",
+    "raw_hex": "834a8393836982cc83818382",
+    "text": "カンナのメモ"
+  },
+  {
+    "bank": "0x32",
+    "offset": "0x0C8781",
+    "bank_offset": "0x0781",
+    "format": "Shift-JIS",
+    "raw_hex": "8341834e834183898393834f",
+    "text": "アクアラング"
+  },
+  {
+    "bank": "0x32",
+    "offset": "0x0C878E",
+    "bank_offset": "0x078E",
+    "format": "Shift-JIS",
+    "raw_hex": "8343838c836f",
+    "text": "イレバ"
+  },
+  {
+    "bank": "0x32",
+    "offset": "0x0C8795",
+    "bank_offset": "0x0795",
+    "format": "Shift-JIS",
+    "raw_hex": "834a83818389",
+    "text": "カメラ"
+  },
+  {
+    "bank": "0x32",
+    "offset": "0x0C879C",
+    "bank_offset": "0x079C",
+    "format": "Shift-JIS",
+    "raw_hex": "82cd82c882d1835a83628367",
+    "text": "はなびセット"
+  },
+  {
+    "bank": "0x32",
+    "offset": "0x0C87A9",
+    "bank_offset": "0x07A9",
+    "format": "Shift-JIS",
+    "raw_hex": "82de82b582a982b2",
+    "text": "むしかご"
+  },
+  {
+    "bank": "0x32",
+    "offset": "0x0C87B2",
+    "bank_offset": "0x07B2",
+    "format": "Shift-JIS",
+    "raw_hex": "82a982ab82b282a882e8837d83568393",
+    "text": "かきごおりマシン"
+  },
+  {
+    "bank": "0x32",
+    "offset": "0x0C87C3",
+    "bank_offset": "0x07C3",
+    "format": "Shift-JIS",
+    "raw_hex": "83588343834a",
+    "text": "スイカ"
+  },
+  {
+    "bank": "0x32",
+    "offset": "0x0C87CA",
+    "bank_offset": "0x07CA",
+    "format": "Shift-JIS",
+    "raw_hex": "8372815b8360837b815b838b",
+    "text": "ビーチボール"
+  },
+  {
+    "bank": "0x32",
+    "offset": "0x0C87D7",
+    "bank_offset": "0x07D7",
+    "format": "Shift-JIS",
+    "raw_hex": "8354835e839382cc82a882ab82e082cc",
+    "text": "サタンのおきもの"
+  },
+  {
+    "bank": "0x32",
+    "offset": "0x0C87E8",
+    "bank_offset": "0x07E8",
+    "format": "Shift-JIS",
+    "raw_hex": "82b582eb82a28374839383688356",
+    "text": "しろいフンドシ"
+  },
+  {
+    "bank": "0x32",
+    "offset": "0x0C87F7",
+    "bank_offset": "0x07F7",
+    "format": "Shift-JIS",
+    "raw_hex": "83778341815b838f8362834e8358",
+    "text": "ヘアーワックス"
+  },
+  {
+    "bank": "0x32",
+    "offset": "0x0C8806",
+    "bank_offset": "0x0806",
+    "format": "Shift-JIS",
+    "raw_hex": "82a082a982a2838a837b8393",
+    "text": "あかいリボン"
+  },
+  {
+    "bank": "0x32",
+    "offset": "0x0C8813",
+    "bank_offset": "0x0813",
+    "format": "Shift-JIS",
+    "raw_hex": "83738393834e82cc82da82ad82c682a4",
+    "text": "ピンクのぼくとう"
+  },
+  {
+    "bank": "0x32",
+    "offset": "0x0C8824",
+    "bank_offset": "0x0824",
+    "format": "Shift-JIS",
+    "raw_hex": "83658342815b834a83628376",
+    "text": "ティーカップ"
+  },
+  {
+    "bank": "0x32",
+    "offset": "0x0C8831",
+    "bank_offset": "0x0831",
+    "format": "Shift-JIS",
+    "raw_hex": "82de82e782b382ab82cc835a83938358",
+    "text": "むらさきのセンス"
+  },
+  {
+    "bank": "0x32",
+    "offset": "0x0C8842",
+    "bank_offset": "0x0842",
+    "format": "Shift-JIS",
+    "raw_hex": "8352815b8371815b834a83628376",
+    "text": "コーヒーカップ"
+  },
+  {
+    "bank": "0x32",
+    "offset": "0x0C8851",
+    "bank_offset": "0x0851",
+    "format": "Shift-JIS",
+    "raw_hex": "82d482a082c282a282d982f1",
+    "text": "ぶあついほん"
+  },
+  {
+    "bank": "0x32",
+    "offset": "0x0C885E",
+    "bank_offset": "0x085E",
+    "format": "Shift-JIS",
+    "raw_hex": "82ca82a282ae82e982dd",
+    "text": "ぬいぐるみ"
+  },
+  {
+    "bank": "0x32",
+    "offset": "0x0C8869",
+    "bank_offset": "0x0869",
+    "format": "Shift-JIS",
+    "raw_hex": "82a982ed82a282a28345834c838f",
+    "text": "かわいいウキワ"
+  },
+  {
+    "bank": "0x32",
+    "offset": "0x0C8878",
+    "bank_offset": "0x0878",
+    "format": "Shift-JIS",
+    "raw_hex": "82dc82e982a28381834b836c",
+    "text": "まるいメガネ"
+  },
+  {
+    "bank": "0x32",
+    "offset": "0x0C8885",
+    "bank_offset": "0x0885",
+    "format": "Shift-JIS",
+    "raw_hex": "82a882a882ab82c8835883708369",
+    "text": "おおきなスパナ"
+  },
+  {
+    "bank": "0x32",
+    "offset": "0x0C8894",
+    "bank_offset": "0x0894",
+    "format": "Shift-JIS",
+    "raw_hex": "82dc82da82eb82b582cc82a982ed82e7",
+    "text": "まぼろしのかわら"
+  },
+  {
+    "bank": "0x32",
+    "offset": "0x0C88A5",
+    "bank_offset": "0x08A5",
+    "format": "Shift-JIS",
+    "raw_hex": "8366834a82a282bf82e182ed82f1",
+    "text": "デカいちゃわん"
+  },
+  {
+    "bank": "0x32",
+    "offset": "0x0C88B4",
+    "bank_offset": "0x08B4",
+    "format": "Shift-JIS",
+    "raw_hex": "82b182c682ed82b482b682c482f1",
+    "text": "ことわざじてん"
+  },
+  {
+    "bank": "0x32",
+    "offset": "0x0C88C3",
+    "bank_offset": "0x08C3",
+    "format": "Shift-JIS",
+    "raw_hex": "835683878370839382cc82aa82ad82d3",
+    "text": "ショパンのがくふ"
+  },
+  {
+    "bank": "0x32",
+    "offset": "0x0C88D4",
+    "bank_offset": "0x08D4",
+    "format": "Shift-JIS",
+    "raw_hex": "8343836b82cc82a882e082bf82e1",
+    "text": "イヌのおもちゃ"
+  },
+  {
+    "bank": "0x32",
+    "offset": "0x0C88E3",
+    "bank_offset": "0x08E3",
+    "format": "Shift-JIS",
+    "raw_hex": "82a482bf82e382a482cc82d982f1",
+    "text": "うちゅうのほん"
+  },
+  {
+    "bank": "0x32",
+    "offset": "0x0C88F2",
+    "bank_offset": "0x08F2",
+    "format": "Shift-JIS",
+    "raw_hex": "82ad82bf82d782c9",
+    "text": "くちべに"
+  },
+  {
+    "bank": "0x32",
+    "offset": "0x0C88FB",
+    "bank_offset": "0x08FB",
+    "format": "Shift-JIS",
+    "raw_hex": "82b582eb82a2834d835e815b",
+    "text": "しろいギター"
+  },
+  {
+    "bank": "0x32",
+    "offset": "0x0C8908",
+    "bank_offset": "0x0908",
+    "format": "Shift-JIS",
+    "raw_hex": "835283938370834e8367",
+    "text": "コンパクト"
+  },
+  {
+    "bank": "0x32",
+    "offset": "0x0C8913",
+    "bank_offset": "0x0913",
+    "format": "Shift-JIS",
+    "raw_hex": "82b982c182af82a282b8",
+    "text": "せっけいず"
+  },
+  {
+    "bank": "0x32",
+    "offset": "0x0C891E",
+    "bank_offset": "0x091E",
+    "format": "Shift-JIS",
+    "raw_hex": "8345815b836382b182a4",
+    "text": "ウーツこう"
+  },
+  {
+    "bank": "0x32",
+    "offset": "0x0C8929",
+    "bank_offset": "0x0929",
+    "format": "Shift-JIS",
+    "raw_hex": "834c8383835e83738389",
+    "text": "キャタピラ"
+  },
+  {
+    "bank": "0x32",
+    "offset": "0x0C8934",
+    "bank_offset": "0x0934",
+    "format": "Shift-JIS",
+    "raw_hex": "8375838d837d834383688250",
+    "text": "ブロマイド１"
+  },
+  {
+    "bank": "0x32",
+    "offset": "0x0C8941",
+    "bank_offset": "0x0941",
+    "format": "Shift-JIS",
+    "raw_hex": "8375838d837d834383688251",
+    "text": "ブロマイド２"
+  },
+  {
+    "bank": "0x32",
+    "offset": "0x0C89A1",
+    "bank_offset": "0x09A1",
+    "format": "Shift-JIS",
+    "raw_hex": "4f82bd82a982e782ce82b182f0814082a082af82e982bd82df82cc834a834d",
+    "text": "Oたからばこを　あけるためのカギ"
+  },
+  {
+    "bank": "0x32",
+    "offset": "0x0C89C1",
+    "bank_offset": "0x09C1",
+    "format": "Shift-JIS",
+    "raw_hex": "837e834a835482c882a282cc814082b682e382a482e682a482c80d83678372838982f082a082af82e982bd82df82c90d82d082c282e682a482c883708358",
+    "text": "ミカサないの　じゅうような\rトビラをあけるために\rひつようなパス"
+  },
+  {
+    "bank": "0x32",
+    "offset": "0x0C8A00",
+    "bank_offset": "0x0A00",
+    "format": "Shift-JIS",
+    "raw_hex": "8354835482cc82cd814082cd0d83708393835f82cc82b182a482d482c2",
+    "text": "ササのは　は\rパンダのこうぶつ"
+  },
+  {
+    "bank": "0x32",
+    "offset": "0x0C8A1E",
+    "bank_offset": "0x0A1E",
+    "format": "Shift-JIS",
+    "raw_hex": "82a082b482e282a982c8814082a282eb82a082a282cc0d82bd82f182e082cc",
+    "text": "あざやかな　いろあいの\rたんもの"
+  },
+  {
+    "bank": "0x32",
+    "offset": "0x0C8A3E",
+    "bank_offset": "0x0A3E",
+    "format": "Shift-JIS",
+    "raw_hex": "837e834a835482cc837d8358835e815b834c815b",
+    "text": "ミカサのマスターキー"
+  },
+  {
+    "bank": "0x32",
+    "offset": "0x0C8A53",
+    "bank_offset": "0x0A53",
+    "format": "Shift-JIS",
+    "raw_hex": "817582a882a482b282f182c482f182ae817682c682a982a282c482a082e90d82b182ea82f082e682df82ce814082b182c782e082bd82bf82c90d82be82a282c982f182ab",
+    "text": "「おうごんてんぐ」とかいてある\rこれをよめば　こどもたちに\rだいにんき"
+  },
+  {
+    "bank": "0x32",
+    "offset": "0x0C8A98",
+    "bank_offset": "0x0A98",
+    "format": "Shift-JIS",
+    "raw_hex": "834a8393836982aa82a882a282c482a282c182bd838183820d8175825382d982a082aa82c182c48140825182d982b382aa82e90d8140825282db82a082aa82c182c48140825082db82b382aa82e90d8140825182d982a082aa82e98176",
+    "text": "カンナがおいていったメモ\r「４ほあがって　２ほさがる\r　３ぽあがって　１ぽさがる\r　２ほあがる」"
+  },
+  {
+    "bank": "0x32",
+    "offset": "0x0C8AF6",
+    "bank_offset": "0x0AF6",
+    "format": "Shift-JIS",
+    "raw_hex": "82dd82b882cc82c882a982c582e0814082a282ab82aa82c582ab82e90d82ab82a982a20d82a882b382a982c882c6814082c682e082be82bf82c982c882eb82a4",
+    "text": "みずのなかでも　いきができる\rきかい\rおさかなと　ともだちになろう"
+  },
+  {
+    "bank": "0x32",
+    "offset": "0x0C8B37",
+    "bank_offset": "0x0B37",
+    "format": "Shift-JIS",
+    "raw_hex": "817782e682b582cc8140834a836c817882cc8343838c836f",
+    "text": "『よしの　カネ』のイレバ"
+  },
+  {
+    "bank": "0x32",
+    "offset": "0x0C8B50",
+    "bank_offset": "0x0B50",
+    "format": "Shift-JIS",
+    "raw_hex": "82b382a282b582f182b582ab82cc834a83818389",
+    "text": "さいしんしきのカメラ"
+  },
+  {
+    "bank": "0x32",
+    "offset": "0x0C8B65",
+    "bank_offset": "0x0B65",
+    "format": "Shift-JIS",
+    "raw_hex": "82c882c282cc82d382a482d482c282b50d82d082c682c982de82af82c482cd814082a282af82dc82b982f1",
+    "text": "なつのふうぶつし\rひとにむけては　いけません"
+  },
+  {
+    "bank": "0x32",
+    "offset": "0x0C8B91",
+    "bank_offset": "0x0B91",
+    "format": "Shift-JIS",
+    "raw_hex": "82c882a982c982cd814082a482b282df82ad0d82ad82eb82a2834a835182aa81638163",
+    "text": "なかには　うごめく\rくろいカゲが……"
+  },
+  {
+    "bank": "0x32",
+    "offset": "0x0C8BB5",
+    "bank_offset": "0x0BB5",
+    "format": "Shift-JIS",
+    "raw_hex": "83798393834d839382cc82a982bd82bf82f082b582bd0d82a982ab82b282a882e8814082b982a282bc82a482ab",
+    "text": "ペンギンのかたちをした\rかきごおり　せいぞうき"
+  },
+  {
+    "bank": "0x32",
+    "offset": "0x0C8BE3",
+    "bank_offset": "0x0BE3",
+    "format": "Shift-JIS",
+    "raw_hex": "82a082dc82ad82c4814082a882a282b582a283588343834a",
+    "text": "あまくて　おいしいスイカ"
+  },
+  {
+    "bank": "0x32",
+    "offset": "0x0C8BFC",
+    "bank_offset": "0x0BFC",
+    "format": "Shift-JIS",
+    "raw_hex": "834a83898374838b82c8814082a282eb82cc82c282a282bd0d8372815b8360837b815b838b",
+    "text": "カラフルな　いろのついた\rビーチボール"
+  },
+  {
+    "bank": "0x32",
+    "offset": "0x0C8C22",
+    "bank_offset": "0x0C22",
+    "format": "Shift-JIS",
+    "raw_hex": "82d082aa82b582cc82c682a482cc814082dc82b682f182bc82a482aa0d82e082c182c482a282bd814082d482ab82dd82c882a882ab82e082cc",
+    "text": "ひがしのとうの　まじんぞうが\rもっていた　ぶきみなおきもの"
+  },
+  {
+    "bank": "0x32",
+    "offset": "0x0C8C5C",
+    "bank_offset": "0x0C5C",
+    "format": "Shift-JIS",
+    "raw_hex": "82c682c482e0814082c882aa82a28374839383688356",
+    "text": "とても　ながいフンドシ"
+  },
+  {
+    "bank": "0x32",
+    "offset": "0x0C8C73",
+    "bank_offset": "0x0C73",
+    "format": "Shift-JIS",
+    "raw_hex": "8343834a835882a882c682b182cc814082dd82be82b582c882dd",
+    "text": "イカスおとこの　みだしなみ"
+  },
+  {
+    "bank": "0x32",
+    "offset": "0x0C8C8E",
+    "bank_offset": "0x0C8E",
+    "format": "Shift-JIS",
+    "raw_hex": "82dc82c182a982c8814082a982ed82a282a2838a837b8393",
+    "text": "まっかな　かわいいリボン"
+  },
+  {
+    "bank": "0x32",
+    "offset": "0x0C8CA7",
+    "bank_offset": "0x0CA7",
+    "format": "Shift-JIS",
+    "raw_hex": "83738393834e82a282eb82f082b582bd0d82a982ed82c182bd814082da82ad82c682a4",
+    "text": "ピンクいろをした\rかわった　ぼくとう"
+  },
+  {
+    "bank": "0x32",
+    "offset": "0x0C8CCB",
+    "bank_offset": "0x0CCB",
+    "format": "Shift-JIS",
+    "raw_hex": "82b682e582a482d082f182c88140836683558343839382cc0d83658342815b834a83628376",
+    "text": "じょうひんな　デザインの\rティーカップ"
+  },
+  {
+    "bank": "0x32",
+    "offset": "0x0C8CF1",
+    "bank_offset": "0x0CF1",
+    "format": "Shift-JIS",
+    "raw_hex": "82c682c482e0814082bd82a982bb82a482c8835a839383580d82b182a482ab82c8814082a982a882e882aa82b782e9",
+    "text": "とても　たかそうなセンス\rこうきな　かおりがする"
+  },
+  {
+    "bank": "0x32",
+    "offset": "0x0C8D21",
+    "bank_offset": "0x0D21",
+    "format": "Shift-JIS",
+    "raw_hex": "82bd82be82cc81408352815b8371815b834a83628376",
+    "text": "ただの　コーヒーカップ"
+  },
+  {
+    "bank": "0x32",
+    "offset": "0x0C8D38",
+    "bank_offset": "0x0D38",
+    "format": "Shift-JIS",
+    "raw_hex": "82b682b582e5814082d982c782e082a082e9814082d482a082c282a282d982f1",
+    "text": "じしょ　ほどもある　ぶあついほん"
+  },
+  {
+    "bank": "0x32",
+    "offset": "0x0C8D59",
+    "bank_offset": "0x0D59",
+    "format": "Shift-JIS",
+    "raw_hex": "83498354838b82cc82ca82a282ae82e982dd",
+    "text": "オサルのぬいぐるみ"
+  },
+  {
+    "bank": "0x32",
+    "offset": "0x0C8D6C",
+    "bank_offset": "0x0D6C",
+    "format": "Shift-JIS",
+    "raw_hex": "82cd82ad82bf82e582a482aa82e782cc814082a982ed82a282a28345834c838f",
+    "text": "はくちょうがらの　かわいいウキワ"
+  },
+  {
+    "bank": "0x32",
+    "offset": "0x0C8D8D",
+    "bank_offset": "0x0D8D",
+    "format": "Shift-JIS",
+    "raw_hex": "82bf82b982a282c482ab82c8814082dc82e982a28381834b836c",
+    "text": "ちせいてきな　まるいメガネ"
+  },
+  {
+    "bank": "0x32",
+    "offset": "0x0C8DA8",
+    "bank_offset": "0x0DA8",
+    "format": "Shift-JIS",
+    "raw_hex": "82c282a482b682e582a482cc82e082cc82e682e80d82d382bd82dc82ed82e882cd814082a882a882ab82a20d82c682ad82bf82e382a482cc835883708369",
+    "text": "つうじょうのものより\rふたまわりは　おおきい\rとくちゅうのスパナ"
+  },
+  {
+    "bank": "0x32",
+    "offset": "0x0C8DE7",
+    "bank_offset": "0x0DE7",
+    "format": "Shift-JIS",
+    "raw_hex": "82b782b182b582ad82e782a282cc814082b582e582a482b082ab82c582cd0d8372834e82c682e082b582c882a2814082aa82f182b682e582a482c80d82a982ed82e7",
+    "text": "すこしくらいの　しょうげきでは\rビクともしない　がんじょうな\rかわら"
+  },
+  {
+    "bank": "0x32",
+    "offset": "0x0C8E2A",
+    "bank_offset": "0x0E2A",
+    "format": "Shift-JIS",
+    "raw_hex": "82bf82e182ed82f182c6814082a282a482e682e80d836883938375838a82c9814082bf82a982a2",
+    "text": "ちゃわんと　いうより\rドンブリに　ちかい"
+  },
+  {
+    "bank": "0x32",
+    "offset": "0x0C8E52",
+    "bank_offset": "0x0E52",
+    "format": "Shift-JIS",
+    "raw_hex": "82a982d982a482cd814082cb82c482dc82c4",
+    "text": "かほうは　ねてまて"
+  },
+  {
+    "bank": "0x32",
+    "offset": "0x0C8E65",
+    "bank_offset": "0x0E65",
+    "format": "Shift-JIS",
+    "raw_hex": "82de82b882a982b582bb82a482c8814082ab82e582ad82aa0d82a982a282c482a082e9",
+    "text": "むずかしそうな　きょくが\rかいてある"
+  },
+  {
+    "bank": "0x32",
+    "offset": "0x0C8E89",
+    "bank_offset": "0x0E89",
+    "format": "Shift-JIS",
+    "raw_hex": "8343836b82cc82a882b582e182d482e882da82a4",
+    "text": "イヌのおしゃぶりぼう"
+  },
+  {
+    "bank": "0x32",
+    "offset": "0x0C8E9E",
+    "bank_offset": "0x0E9E",
+    "format": "Shift-JIS",
+    "raw_hex": "82a482bf82e382a4814082a982a282d182e182ad82cc0d82b182c682ed82e882aa814082a982a282c482a082e9",
+    "text": "うちゅう　かいびゃくの\rことわりが　かいてある"
+  },
+  {
+    "bank": "0x32",
+    "offset": "0x0C8ECC",
+    "bank_offset": "0x0ECC",
+    "format": "Shift-JIS",
+    "raw_hex": "817582a482c282ad82b582a2817682c6814082a982a982ea82c482a082e9",
+    "text": "「うつくしい」と　かかれてある"
+  },
+  {
+    "bank": "0x32",
+    "offset": "0x0C8EEB",
+    "bank_offset": "0x0EEB",
+    "format": "Shift-JIS",
+    "raw_hex": "82c682ad82d782c282b982a282cc814082b582eb82a2834d835e815b",
+    "text": "とくべつせいの　しろいギター"
+  },
+  {
+    "bank": "0x32",
+    "offset": "0x0C8F08",
+    "bank_offset": "0x0F08",
+    "format": "Shift-JIS",
+    "raw_hex": "817582a482c282ad82b582a2817682c6814082a982a982ea82c482a082e9",
+    "text": "「うつくしい」と　かかれてある"
+  },
+  {
+    "bank": "0x32",
+    "offset": "0x0C8F27",
+    "bank_offset": "0x0F27",
+    "format": "Shift-JIS",
+    "raw_hex": "82de82b882a982b582bb82a482c8814082ab82b282a482aa0d82c882e782f182be814082b982c182af82a282b8",
+    "text": "むずかしそうな　きごうが\rならんだ　せっけいず"
+  },
+  {
+    "bank": "0x32",
+    "offset": "0x0C8F55",
+    "bank_offset": "0x0F55",
+    "format": "Shift-JIS",
+    "raw_hex": "82c582f182b982c282cc814082b182a482b982ab",
+    "text": "でんせつの　こうせき"
+  },
+  {
+    "bank": "0x32",
+    "offset": "0x0C8F6A",
+    "bank_offset": "0x0F6A",
+    "format": "Shift-JIS",
+    "raw_hex": "82c782f182c8814082a082ad82eb82e0814082bb82a482b182a482c582ab82e9",
+    "text": "どんな　あくろも　そうこうできる"
+  },
+  {
+    "bank": "0x32",
+    "offset": "0x0C8F8B",
+    "bank_offset": "0x0F8B",
+    "format": "Shift-JIS",
+    "raw_hex": "82a882e882d082df82cc8375838d837d834383680d81408140814081408140814081408140814081400d81458260837b835e839382c582d082e582a482b6",
+    "text": "おりひめのブロマイド\r　　　　　　　　　　\r・Ａボタンでひょうじ"
+  },
+  {
+    "bank": "0x32",
+    "offset": "0x0C8FCA",
+    "bank_offset": "0x0FCA",
+    "format": "Shift-JIS",
+    "raw_hex": "838c836a82cc8375838d837d83438368814081400d81408140814081408140814081408140814081400d81458260837b835e839382c582d082e582a482b6",
+    "text": "レニのブロマイド　　\r　　　　　　　　　　\r・Ａボタンでひょうじ"
+  },
+  {
+    "bank": "0x32",
+    "offset": "0x0C91C8",
+    "bank_offset": "0x11C8",
+    "format": "Shift-JIS",
+    "raw_hex": "e0e7e07021",
+    "text": "珸瀾!"
+  },
+  {
+    "bank": "0x32",
+    "offset": "0x0C9540",
+    "bank_offset": "0x1540",
+    "format": "Shift-JIS",
+    "raw_hex": "e0e7e0703e",
+    "text": "珸瀾>"
+  },
+  {
+    "bank": "0x32",
+    "offset": "0x0C967D",
+    "bank_offset": "0x167D",
+    "format": "Shift-JIS",
+    "raw_hex": "e0e7e0703e",
+    "text": "珸瀾>"
+  },
+  {
+    "bank": "0x32",
+    "offset": "0x0C96C7",
+    "bank_offset": "0x16C7",
+    "format": "Shift-JIS",
+    "raw_hex": "56e056e356",
+    "text": "V澤綏"
+  },
+  {
+    "bank": "0x32",
+    "offset": "0x0C9AE8",
+    "bank_offset": "0x1AE8",
+    "format": "Shift-JIS",
+    "raw_hex": "e0e7e07021",
+    "text": "珸瀾!"
+  },
+  {
+    "bank": "0x32",
+    "offset": "0x0C9B49",
+    "bank_offset": "0x1B49",
+    "format": "Shift-JIS",
+    "raw_hex": "5ce65c82b382ad82e70d0d82df82c982e082c682dc82e782ca0d82a282a082a282ac82e882c50d82c482ab82f0814082ab82e882b382ad",
+    "text": "\\觸さくら\r\rめにもとまらぬ\rいあいぎりで\rてきを　きりさく"
+  },
+  {
+    "bank": "0x32",
+    "offset": "0x0C9B81",
+    "bank_offset": "0x1B81",
+    "format": "Shift-JIS",
+    "raw_hex": "82b782dd82ea0d0d82c882ac82c882bd82c50d82cd82c882ea82bd814082c482ab82e00d82ab82e882b382ad",
+    "text": "すみれ\r\rなぎなたで\rはなれた　てきも\rきりさく"
+  },
+  {
+    "bank": "0x32",
+    "offset": "0x0C9BAE",
+    "bank_offset": "0x1BAE",
+    "format": "Shift-JIS",
+    "raw_hex": "837d838a83410d0d82b982a282a982ad82c80d82b582e182b082ab82c50d82c482ab82f0814082a482bf82ca82ad",
+    "text": "マリア\r\rせいかくな\rしゃげきで\rてきを　うちぬく"
+  },
+  {
+    "bank": "0x32",
+    "offset": "0x0C9BDD",
+    "bank_offset": "0x1BDD",
+    "format": "Shift-JIS",
+    "raw_hex": "83418343838a83580d0d82a982a282d382ad838f835582c50d834c835982f082a282e282b782b182c682aa0d82c582ab82e9",
+    "text": "アイリス\r\rかいふくワザで\rキズをいやすことが\rできる"
+  },
+  {
+    "bank": "0x32",
+    "offset": "0x0C9C10",
+    "bank_offset": "0x1C10",
+    "format": "Shift-JIS",
+    "raw_hex": "82b182a482e782f10d0d82cd82ad82b082ab82d982a482c50d82c682a882ad82cc814082c482ab82e00d82b182a482b082ab82c582ab82e9",
+    "text": "こうらん\r\rはくげきほうで\rとおくの　てきも\rこうげきできる"
+  },
+  {
+    "bank": "0x32",
+    "offset": "0x0C9C49",
+    "bank_offset": "0x1C49",
+    "format": "Shift-JIS",
+    "raw_hex": "834a839383690d0d82ab82bd82a682e782ea82bd0d82a982ad82c682a482ac82c50d82c482ab82f0814082d382f182b382a2",
+    "text": "カンナ\r\rきたえられた\rかくとうぎで\rてきを　ふんさい"
+  },
+  {
+    "bank": "0x32",
+    "offset": "0x0C9C7C",
+    "bank_offset": "0x1C7C",
+    "format": "Shift-JIS",
+    "raw_hex": "82a882e882d082df0d0d8372815b838082b182a482b082ab82cd0d82d382ad82b782a482cc814082c482ab82e00d82b182a482b082ab82c582ab82e9",
+    "text": "おりひめ\r\rビームこうげきは\rふくすうの　てきも\rこうげきできる"
+  },
+  {
+    "bank": "0x32",
+    "offset": "0x0C9CB9",
+    "bank_offset": "0x1CB9",
+    "format": "Shift-JIS",
+    "raw_hex": "838c836a0d0d83898393835882f082c282a982a40d82b982f182c682a482cc0d8347834c83588370815b8367",
+    "text": "レニ\r\rランスをつかう\rせんとうの\rエキスパート"
+  },
+  {
+    "bank": "0x32",
+    "offset": "0x0C9CE6",
+    "bank_offset": "0x1CE6",
+    "format": "Shift-JIS",
+    "raw_hex": "82a882a882aa82dd0d0d82b982a282ac82cc0d82c982c682a482e882e382a482c50d82a082ad82f0814082ab82e882b382ad",
+    "text": "おおがみ\r\rせいぎの\rにとうりゅうで\rあくを　きりさく"
+  },
+  {
+    "bank": "0x32",
+    "offset": "0x0CA27A",
+    "bank_offset": "0x227A",
+    "format": "Shift-JIS",
+    "raw_hex": "e0e7e07021",
+    "text": "珸瀾!"
+  },
+  {
+    "bank": "0x32",
+    "offset": "0x0CA319",
+    "bank_offset": "0x2319",
+    "format": "Shift-JIS",
+    "raw_hex": "82b182ea82c50d82e682eb82b582a282c582b782a981480d814082cd82a20d814082a282a282a6",
+    "text": "これで\rよろしいですか？\r　はい\r　いいえ"
+  },
+  {
+    "bank": "0x32",
+    "offset": "0x0CA659",
+    "bank_offset": "0x2659",
+    "format": "Shift-JIS",
+    "raw_hex": "e0e7e07021",
+    "text": "珸瀾!"
+  },
+  {
+    "bank": "0x32",
+    "offset": "0x0CA975",
+    "bank_offset": "0x2975",
+    "format": "Shift-JIS",
+    "raw_hex": "815b815b815b815b815b815b815b815b",
+    "text": "ーーーーーーーー"
+  },
+  {
+    "bank": "0x32",
+    "offset": "0x0CAA5C",
+    "bank_offset": "0x2A5C",
+    "format": "Shift-JIS",
+    "raw_hex": "815b815b815b815b815b815b815b815b",
+    "text": "ーーーーーーーー"
+  },
+  {
+    "bank": "0x32",
+    "offset": "0x0CAB4A",
+    "bank_offset": "0x2B4A",
+    "format": "Shift-JIS",
+    "raw_hex": "e0e7e07021",
+    "text": "珸瀾!"
+  },
+  {
+    "bank": "0x32",
+    "offset": "0x0CABD9",
+    "bank_offset": "0x2BD9",
+    "format": "Shift-JIS",
+    "raw_hex": "e0e7e07021",
+    "text": "珸瀾!"
+  },
+  {
+    "bank": "0x32",
+    "offset": "0x0CAD2D",
+    "bank_offset": "0x2D2D",
+    "format": "Shift-JIS",
+    "raw_hex": "82b582e682a482a982a282b782a4",
+    "text": "しようかいすう"
+  },
+  {
+    "bank": "0x32",
+    "offset": "0x0CAD3C",
+    "bank_offset": "0x2D3C",
+    "format": "Shift-JIS",
+    "raw_hex": "82b582e582a482d08b4397cd",
+    "text": "しょうひ気力"
+  },
+  {
+    "bank": "0x32",
+    "offset": "0x0CAD49",
+    "bank_offset": "0x2D49",
+    "format": "Shift-JIS",
+    "raw_hex": "82b982a282b082f182c882b5",
+    "text": "せいげんなし"
+  },
+  {
+    "bank": "0x32",
+    "offset": "0x0CB006",
+    "bank_offset": "0x3006",
+    "format": "Shift-JIS",
+    "raw_hex": "e0e7e07021",
+    "text": "珸瀾!"
+  },
+  {
+    "bank": "0x32",
+    "offset": "0x0CB081",
+    "bank_offset": "0x3081",
+    "format": "Shift-JIS",
+    "raw_hex": "82ed82b482cc82b182a482a982f182cd0d82c482a282b082ab82cc82a982ad82cc82a482b182c582b582a90d82c582ab82dc82b982f18142",
+    "text": "わざのこうかんは\rていげきのかくのうこでしか\rできません。"
+  }
+]

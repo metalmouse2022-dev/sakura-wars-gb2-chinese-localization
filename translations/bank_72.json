@@ -1,0 +1,34 @@
+[
+  {
+    "bank": "0x72",
+    "offset": "0x1C9F21",
+    "bank_offset": "0x1F21",
+    "format": "Shift-JIS",
+    "raw_hex": "9e808d8073",
+    "text": "梳項s"
+  },
+  {
+    "bank": "0x72",
+    "offset": "0x1C9F75",
+    "bank_offset": "0x1F75",
+    "format": "Shift-JIS",
+    "raw_hex": "9d8d8f80",
+    "text": "搓準"
+  },
+  {
+    "bank": "0x72",
+    "offset": "0x1CBA50",
+    "bank_offset": "0x3A50",
+    "format": "Shift-JIS",
+    "raw_hex": "89fb8a80",
+    "text": "拐橿"
+  },
+  {
+    "bank": "0x72",
+    "offset": "0x1CBAFF",
+    "bank_offset": "0x3AFF",
+    "format": "Shift-JIS",
+    "raw_hex": "98b8e0e1",
+    "text": "从珮"
+  }
+]

@@ -1,0 +1,42 @@
+[
+  {
+    "bank": "0xD7",
+    "offset": "0x35E82C",
+    "bank_offset": "0x282C",
+    "format": "Shift-JIS",
+    "raw_hex": "909090902060",
+    "text": "瑞瑞 `"
+  },
+  {
+    "bank": "0xD7",
+    "offset": "0x35F05C",
+    "bank_offset": "0x305C",
+    "format": "Shift-JIS",
+    "raw_hex": "909090902060",
+    "text": "瑞瑞 `"
+  },
+  {
+    "bank": "0xD7",
+    "offset": "0x35FC85",
+    "bank_offset": "0x3C85",
+    "format": "Shift-JIS",
+    "raw_hex": "90e0e0e060e0e0",
+    "text": "説珥`珥"
+  },
+  {
+    "bank": "0xD7",
+    "offset": "0x35FDA3",
+    "bank_offset": "0x3DA3",
+    "format": "Shift-JIS",
+    "raw_hex": "e0d490e0e0e060e0e0",
+    "text": "獪説珥`珥"
+  },
+  {
+    "bank": "0xD7",
+    "offset": "0x35FE15",
+    "bank_offset": "0x3E15",
+    "format": "Shift-JIS",
+    "raw_hex": "90e0e0e060e0e0",
+    "text": "説珥`珥"
+  }
+]

@@ -1,0 +1,138 @@
+[
+  {
+    "bank": "0xC6",
+    "offset": "0x318F61",
+    "bank_offset": "0x0F61",
+    "format": "Shift-JIS",
+    "raw_hex": "8f90919293949596",
+    "text": "署葬灯楓"
+  },
+  {
+    "bank": "0xC6",
+    "offset": "0x3192A1",
+    "bank_offset": "0x12A1",
+    "format": "Shift-JIS",
+    "raw_hex": "95969798999a9b9c",
+    "text": "楓利劒屆"
+  },
+  {
+    "bank": "0xC6",
+    "offset": "0x3195A1",
+    "bank_offset": "0x15A1",
+    "format": "Shift-JIS",
+    "raw_hex": "898a8b8c8d8e8f90",
+    "text": "炎旧克署"
+  },
+  {
+    "bank": "0xC6",
+    "offset": "0x3195C1",
+    "bank_offset": "0x15C1",
+    "format": "Shift-JIS",
+    "raw_hex": "9192939495969798",
+    "text": "葬灯楓利"
+  },
+  {
+    "bank": "0xC6",
+    "offset": "0x3198A1",
+    "bank_offset": "0x18A1",
+    "format": "Shift-JIS",
+    "raw_hex": "8788898a8b8c8d8e",
+    "text": "㊧炎旧克"
+  },
+  {
+    "bank": "0xC6",
+    "offset": "0x3198C1",
+    "bank_offset": "0x18C1",
+    "format": "Shift-JIS",
+    "raw_hex": "9091929394959697",
+    "text": "髄駐舶沫"
+  },
+  {
+    "bank": "0xC6",
+    "offset": "0x3198E1",
+    "bank_offset": "0x18E1",
+    "format": "Shift-JIS",
+    "raw_hex": "999a9b9c9d9e9fa0",
+    "text": "劒屆撼泛"
+  },
+  {
+    "bank": "0xC6",
+    "offset": "0x319BE1",
+    "bank_offset": "0x1BE1",
+    "format": "Shift-JIS",
+    "raw_hex": "8a8b8c8d8e8f90ee",
+    "text": "葛訣誌扇"
+  },
+  {
+    "bank": "0xC6",
+    "offset": "0x319C01",
+    "bank_offset": "0x1C01",
+    "format": "Shift-JIS",
+    "raw_hex": "92939495969798ee",
+    "text": "駐舶沫偃"
+  },
+  {
+    "bank": "0xC6",
+    "offset": "0x319D05",
+    "bank_offset": "0x1D05",
+    "format": "Shift-JIS",
+    "raw_hex": "e0e1e2e3",
+    "text": "珮粤"
+  },
+  {
+    "bank": "0xC6",
+    "offset": "0x319F01",
+    "bank_offset": "0x1F01",
+    "format": "Shift-JIS",
+    "raw_hex": "8b8c8d8e8f9091ee",
+    "text": "旧克署宅"
+  },
+  {
+    "bank": "0xC6",
+    "offset": "0x319F21",
+    "bank_offset": "0x1F21",
+    "format": "Shift-JIS",
+    "raw_hex": "939495969798999a",
+    "text": "灯楓利劒"
+  },
+  {
+    "bank": "0xC6",
+    "offset": "0x31A221",
+    "bank_offset": "0x2221",
+    "format": "Shift-JIS",
+    "raw_hex": "8a8b8c8d8e8f9091",
+    "text": "葛訣誌髄"
+  },
+  {
+    "bank": "0xC6",
+    "offset": "0x31A241",
+    "bank_offset": "0x2241",
+    "format": "Shift-JIS",
+    "raw_hex": "939495969798999a",
+    "text": "灯楓利劒"
+  },
+  {
+    "bank": "0xC6",
+    "offset": "0x31A521",
+    "bank_offset": "0x2521",
+    "format": "Shift-JIS",
+    "raw_hex": "8788898a8b8c8d8e",
+    "text": "㊧炎旧克"
+  },
+  {
+    "bank": "0xC6",
+    "offset": "0x31A541",
+    "bank_offset": "0x2541",
+    "format": "Shift-JIS",
+    "raw_hex": "9091929394959697",
+    "text": "髄駐舶沫"
+  },
+  {
+    "bank": "0xC6",
+    "offset": "0x31A561",
+    "bank_offset": "0x2561",
+    "format": "Shift-JIS",
+    "raw_hex": "999a9b9c9d9e9fa0",
+    "text": "劒屆撼泛"
+  }
+]

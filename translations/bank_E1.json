@@ -1,0 +1,50 @@
+[
+  {
+    "bank": "0xE1",
+    "offset": "0x384ECF",
+    "bank_offset": "0x0ECF",
+    "format": "Shift-JIS",
+    "raw_hex": "8fac9c58",
+    "text": "小弭"
+  },
+  {
+    "bank": "0xE1",
+    "offset": "0x38505A",
+    "bank_offset": "0x105A",
+    "format": "Shift-JIS",
+    "raw_hex": "e0e0e0e0",
+    "text": "珥珥"
+  },
+  {
+    "bank": "0xE1",
+    "offset": "0x3850AA",
+    "bank_offset": "0x10AA",
+    "format": "Shift-JIS",
+    "raw_hex": "e0f0e0e0",
+    "text": "瑩珥"
+  },
+  {
+    "bank": "0xE1",
+    "offset": "0x38514A",
+    "bank_offset": "0x114A",
+    "format": "Shift-JIS",
+    "raw_hex": "e0e0e0e0",
+    "text": "珥珥"
+  },
+  {
+    "bank": "0xE1",
+    "offset": "0x38584D",
+    "bank_offset": "0x184D",
+    "format": "Shift-JIS",
+    "raw_hex": "e26f82eb",
+    "text": "穉ろ"
+  },
+  {
+    "bank": "0xE1",
+    "offset": "0x386EA9",
+    "bank_offset": "0x2EA9",
+    "format": "Shift-JIS",
+    "raw_hex": "89809b80928b",
+    "text": "園它昼"
+  }
+]

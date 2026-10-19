@@ -1,0 +1,50 @@
+[
+  {
+    "bank": "0xE2",
+    "offset": "0x3890E6",
+    "bank_offset": "0x10E6",
+    "format": "Shift-JIS",
+    "raw_hex": "e0ace0e660e0a0e3c82120",
+    "text": "牀琥`燿翳! "
+  },
+  {
+    "bank": "0xE2",
+    "offset": "0x38A934",
+    "bank_offset": "0x2934",
+    "format": "Shift-JIS",
+    "raw_hex": "8dad96b6e387",
+    "text": "痕霧繚"
+  },
+  {
+    "bank": "0xE2",
+    "offset": "0x38AD2F",
+    "bank_offset": "0x2D2F",
+    "format": "Shift-JIS",
+    "raw_hex": "e080708378",
+    "text": "烙pベ"
+  },
+  {
+    "bank": "0xE2",
+    "offset": "0x38B157",
+    "bank_offset": "0x3157",
+    "format": "Shift-JIS",
+    "raw_hex": "e86882d8",
+    "text": "鑄ぺ"
+  },
+  {
+    "bank": "0xE2",
+    "offset": "0x38B845",
+    "bank_offset": "0x3845",
+    "format": "Shift-JIS",
+    "raw_hex": "9f8f6f9f97",
+    "text": "沛o泓"
+  },
+  {
+    "bank": "0xE2",
+    "offset": "0x38BA3B",
+    "bank_offset": "0x3A3B",
+    "format": "Shift-JIS",
+    "raw_hex": "9060908d",
+    "text": "秦錐"
+  }
+]

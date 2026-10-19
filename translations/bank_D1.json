@@ -1,0 +1,74 @@
+[
+  {
+    "bank": "0xD1",
+    "offset": "0x34405E",
+    "bank_offset": "0x005E",
+    "format": "Shift-JIS",
+    "raw_hex": "68e8807c63",
+    "text": "h閠|c"
+  },
+  {
+    "bank": "0xD1",
+    "offset": "0x34538E",
+    "bank_offset": "0x138E",
+    "format": "Shift-JIS",
+    "raw_hex": "8e817e62",
+    "text": "氏~b"
+  },
+  {
+    "bank": "0xD1",
+    "offset": "0x345547",
+    "bank_offset": "0x1547",
+    "format": "Shift-JIS",
+    "raw_hex": "40609b97",
+    "text": "@`尢"
+  },
+  {
+    "bank": "0xD1",
+    "offset": "0x345644",
+    "bank_offset": "0x1644",
+    "format": "Shift-JIS",
+    "raw_hex": "7c8382788786",
+    "text": "|モx㊥"
+  },
+  {
+    "bank": "0xD1",
+    "offset": "0x345EAC",
+    "bank_offset": "0x1EAC",
+    "format": "Shift-JIS",
+    "raw_hex": "3c3c81764a",
+    "text": "<<」J"
+  },
+  {
+    "bank": "0xD1",
+    "offset": "0x345FB1",
+    "bank_offset": "0x1FB1",
+    "format": "Shift-JIS",
+    "raw_hex": "3c3c81764a",
+    "text": "<<」J"
+  },
+  {
+    "bank": "0xD1",
+    "offset": "0x3462DC",
+    "bank_offset": "0x22DC",
+    "format": "Shift-JIS",
+    "raw_hex": "e1c03f31",
+    "text": "眤?1"
+  },
+  {
+    "bank": "0xD1",
+    "offset": "0x3468F6",
+    "bank_offset": "0x28F6",
+    "format": "Shift-JIS",
+    "raw_hex": "68e8807c63",
+    "text": "h閠|c"
+  },
+  {
+    "bank": "0xD1",
+    "offset": "0x347226",
+    "bank_offset": "0x3226",
+    "format": "Shift-JIS",
+    "raw_hex": "68e8807d62",
+    "text": "h閠}b"
+  }
+]

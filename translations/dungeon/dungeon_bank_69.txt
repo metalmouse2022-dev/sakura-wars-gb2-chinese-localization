@@ -1,0 +1,3844 @@
+# 樱花大战GB2 汉化底稿: 地下城与出击剧情 (Bank 0x69)
+# 本文件条目数: 688
+# 规则: 在 CN: 下方直接输入中文译文。换行为实际换行，保留 <NAME> 等控制标签。
+============================================================
+
+# [0001] [ROM: 0x1A4000] [Bank: 0x69:0x0000] [CPU: 0x4000] [OrigLen: 9]
+JP: なんでしたっけ？
+CN: 是什么呢
+# [0002] [ROM: 0x1A4009] [Bank: 0x69:0x0009] [CPU: 0x4009] [OrigLen: 51]
+JP: ……れいりょくの　はどうが
+JP: 『やまと』にねむる
+JP: おんねんを　めざめさせた……
+JP: とか　いってましたね。
+CN: ……灵力作用
+CN: 沉睡的永远
+CN: 在『大和』醒来
+CN: 之类的说法
+# [0003] [ROM: 0x1A403C] [Bank: 0x69:0x003C] [CPU: 0x403C] [OrigLen: 19]
+JP: よく　おぼえていましたわね
+JP: <NAME>さん。
+CN: 记得真牢呢
+CN: <NAME>。
+# [0004] [ROM: 0x1A404F] [Bank: 0x69:0x004F] [CPU: 0x404F] [OrigLen: 42]
+JP: れいりょくの　はどう　とは
+JP: おそらく……
+JP: 『まじんき』　のチカラ
+JP: ではないかと……
+CN: 灵力作用　是
+CN: 大概……
+CN: 『魔神机』的
+CN: 力量吧
+# [0005] [ROM: 0x1A4079] [Bank: 0x69:0x0079] [CPU: 0x4079] [OrigLen: 27]
+JP: 『ぎしき』のじゃまだ　
+JP: なんてこと　いってましたね。
+CN: 『仪式』这话
+CN: 真奇怪。
+# [0006] [ROM: 0x1A4094] [Bank: 0x69:0x0094] [CPU: 0x4094] [OrigLen: 25]
+JP: そうですわね。
+JP: よくおぼえていましたね
+JP: <NAME>さん。
+CN: 是呢。
+CN: 记得真牢呢
+CN: <NAME>
+# [0007] [ROM: 0x1A40AD] [Bank: 0x69:0x00AD] [CPU: 0x40AD] [OrigLen: 54]
+JP: でも　それより　きになるのが
+JP: ……れいりょくの　はどうが
+JP: 『やまと』にねむる
+JP: おんねんを　めざめさせた……
+CN: 不过更在意
+CN: 灵力作用，
+CN: 沉睡在『大和』
+CN: 的永远苏醒
+# [0008] [ROM: 0x1A40E3] [Bank: 0x69:0x00E3] [CPU: 0x40E3] [OrigLen: 12]
+JP: という　ことばですわ。
+CN: 这词啊。
+# [0009] [ROM: 0x1A40EF] [Bank: 0x69:0x00EF] [CPU: 0x40EF] [OrigLen: 42]
+JP: れいりょくの　はどう　とは
+JP: おそらく……
+JP: 『まじんき』　のチカラ
+JP: ではないかと……
+CN: 灵力作用　是
+CN: 大概……
+CN: 『魔神机』的
+CN: 力量吧
+# [0010] [ROM: 0x1A4119] [Bank: 0x69:0x0119] [CPU: 0x4119] [OrigLen: 28]
+JP: よく　おぼえて
+JP: いないんですけど……
+JP: なんでしたっけ？
+CN: 记得清楚
+CN: 可是什么
+CN: 来着？
+# [0011] [ROM: 0x1A4135] [Bank: 0x69:0x0135] [CPU: 0x4135] [OrigLen: 24]
+JP: <NAME>さん
+JP: もうすこし　しっかり
+JP: してくださいな。
+CN: <NAME>
+CN: 再认真些
+CN: 好吗
+# [0012] [ROM: 0x1A414D] [Bank: 0x69:0x014D] [CPU: 0x414D] [OrigLen: 50]
+JP: ……れいりょくの　はどうが
+JP: 『やまと』にねむる
+JP: おんねんを　めざめさせた
+JP: とか　いってましたのよ。
+CN: ……灵力作用
+CN: 『大和』沉睡的
+CN: 永远苏醒
+CN: 之类的说法
+# [0013] [ROM: 0x1A417F] [Bank: 0x69:0x017F] [CPU: 0x417F] [OrigLen: 42]
+JP: れいりょくの　はどう　とは
+JP: おそらく……
+JP: 『まじんき』　のチカラ
+JP: ではないかと……
+CN: 灵力作用　是
+CN: 大概……
+CN: 『魔神机』的
+CN: 力量吧
+# [0014] [ROM: 0x1A41B8] [Bank: 0x69:0x01B8] [CPU: 0x41B8] [OrigLen: 51]
+JP: ……れいりょくの　はどうが
+JP: 『やまと』にねむる
+JP: おんねんを　めざめさせた
+JP: とか　いってましたわね……
+CN: ……灵力作用
+CN: 让沉睡在
+CN: 『大和』的
+CN: 永远苏醒了
+# [0015] [ROM: 0x1A41EB] [Bank: 0x69:0x01EB] [CPU: 0x41EB] [OrigLen: 42]
+JP: れいりょくの　はどう　とは
+JP: おそらく……
+JP: 『まじんき』　のチカラ
+JP: ではないかと……
+CN: 灵力作用　是
+CN: 大概……
+CN: 『魔神机』的
+CN: 力量吧
+# [0016] [ROM: 0x1A4215] [Bank: 0x69:0x0215] [CPU: 0x4215] [OrigLen: 42]
+JP: そして　なにより
+JP: 『いけにえを　もとめている』
+JP: という　ことばが
+JP: きになりますわ。
+CN: 而且
+CN: 最在意的是
+CN: 『寻求祭品』
+CN: 这句话
+# [0017] [ROM: 0x1A423F] [Bank: 0x69:0x023F] [CPU: 0x423F] [OrigLen: 33]
+JP: いけにえに　されている
+JP: ひとが　ほかにいるのかも
+JP: しれませんね！
+CN: 被当作祭品的
+CN: 人或许还有
+CN: 别人呢！
+# [0018] [ROM: 0x1A4260] [Bank: 0x69:0x0260] [CPU: 0x4260] [OrigLen: 15]
+JP: <NAME>さん！
+JP: いそぎますわよ！！
+CN: <NAME>！
+CN: 快走！！
+# [0019] [ROM: 0x1A426F] [Bank: 0x69:0x026F] [CPU: 0x426F] [OrigLen: 13]
+JP: なんですの！　これは？！
+CN: 怎么回事？！
+# [0020] [ROM: 0x1A427C] [Bank: 0x69:0x027C] [CPU: 0x427C] [OrigLen: 13]
+JP: すみれさん！
+JP: あれは！！
+CN: 堇！
+CN: 那是！
+# [0021] [ROM: 0x1A4289] [Bank: 0x69:0x0289] [CPU: 0x4289] [OrigLen: 18]
+JP: さいだんの　まんなかに
+JP: ひとが……
+CN: 祭坛中
+CN: 有个人……
+# [0022] [ROM: 0x1A429B] [Bank: 0x69:0x029B] [CPU: 0x429B] [OrigLen: 23]
+JP: あれは！　バラぐみの
+JP: よきひこさん　ですわ。
+CN: 薔薇丛里的
+CN: 良彦先生。
+# [0023] [ROM: 0x1A42B2] [Bank: 0x69:0x02B2] [CPU: 0x42B2] [OrigLen: 19]
+JP: へんなひかりに
+JP: つつまれていますね。
+CN: 被怪光
+CN: 包围着。
+# [0024] [ROM: 0x1A42C5] [Bank: 0x69:0x02C5] [CPU: 0x42C5] [OrigLen: 19]
+JP: なにかの　ふういん
+JP: のようですわね。
+CN: 是某种
+CN: 封印呢
+# [0025] [ROM: 0x1A42D8] [Bank: 0x69:0x02D8] [CPU: 0x42D8] [OrigLen: 22]
+JP: <NAME>さん
+JP: よきひこさんを
+JP: たすけますわよ！！
+CN: <NAME>
+CN: 救良彦先生
+CN: ！！
+# [0026] [ROM: 0x1A42EE] [Bank: 0x69:0x02EE] [CPU: 0x42EE] [OrigLen: 13]
+JP: す……　すみれちゃん？！
+CN: 堇…小堇？！
+# [0027] [ROM: 0x1A42FB] [Bank: 0x69:0x02FB] [CPU: 0x42FB] [OrigLen: 16]
+JP: よきひこさん！
+JP: ごぶじでして？
+CN: 良彦！
+CN: 没事？
+# [0028] [ROM: 0x1A430B] [Bank: 0x69:0x030B] [CPU: 0x430B] [OrigLen: 29]
+JP: だ…いじょうぶじゃ……
+JP: ないわ…よ……
+JP: まったく…もー。
+CN: 不…没事…
+CN: 不…是我…
+CN: 哎呀…
+# [0029] [ROM: 0x1A4328] [Bank: 0x69:0x0328] [CPU: 0x4328] [OrigLen: 28]
+JP: まっててくださいな。
+JP: すぐに　おたすけ
+JP: いたしますわ。
+CN: 请稍等。
+CN: 马上去救
+CN: 您
+# [0030] [ROM: 0x1A4344] [Bank: 0x69:0x0344] [CPU: 0x4344] [OrigLen: 25]
+JP: ま…まってちょうだい……
+JP: ここに…はいるには……
+CN: 等等…
+CN: 要进去的话…
+# [0031] [ROM: 0x1A435D] [Bank: 0x69:0x035D] [CPU: 0x435D] [OrigLen: 25]
+JP: そのさきの……
+JP: ストーンサークルに
+JP: ……ある……
+CN: 往前……
+CN: 石阵
+CN: ……有……
+# [0032] [ROM: 0x1A4376] [Bank: 0x69:0x0376] [CPU: 0x4376] [OrigLen: 59]
+JP: ぞうが…みつめ…あったとき
+JP: ………ひかりに…………………
+JP: ……………………………………
+JP: ……………………………………
+CN: 画像…的时候
+CN: ………光中……
+CN: …………………
+CN: …………………
+# [0033] [ROM: 0x1A43B1] [Bank: 0x69:0x03B1] [CPU: 0x43B1] [OrigLen: 24]
+JP: …………？
+JP: よきひこさん？！
+JP: よきひこさん？！
+CN: ……？
+CN: 良彦先生？！
+CN: …
+# [0034] [ROM: 0x1A43C9] [Bank: 0x69:0x03C9] [CPU: 0x43C9] [OrigLen: 12]
+JP: はやく　たすけないと！
+CN: 快去救人！
+# [0035] [ROM: 0x1A43D5] [Bank: 0x69:0x03D5] [CPU: 0x43D5] [OrigLen: 10]
+JP: あきらめましょう！
+CN: 放弃吧！
+# [0036] [ROM: 0x1A43DF] [Bank: 0x69:0x03DF] [CPU: 0x43DF] [OrigLen: 12]
+JP: はやく　たすけないと！
+CN: 快去救人！
+# [0037] [ROM: 0x1A43EB] [Bank: 0x69:0x03EB] [CPU: 0x43EB] [OrigLen: 28]
+JP: もちろんですわ。
+JP: このさきに　いけば
+JP: いいのですわね。
+CN: 当然。
+CN: 往前走
+CN: 就好了呢
+# [0038] [ROM: 0x1A4407] [Bank: 0x69:0x0407] [CPU: 0x4407] [OrigLen: 26]
+JP: ヒントは　
+JP: ぞうが　みつめあった　とき
+JP: ですわよ！
+CN: 提示
+CN: 雕像凝视时
+CN: 哦！
+# [0039] [ROM: 0x1A4421] [Bank: 0x69:0x0421] [CPU: 0x4421] [OrigLen: 11]
+JP: あきらめましょう……
+CN: 算了吧…
+# [0040] [ROM: 0x1A442C] [Bank: 0x69:0x042C] [CPU: 0x442C] [OrigLen: 43]
+JP: よ　よきひこさん……
+JP: ああ……　ハナのいのちは
+JP: みじかいもの　なのですわね
+JP: …………
+CN: 良彦先生…
+CN: 啊啊…花的
+CN: 生命短暂
+CN: ………
+# [0041] [ROM: 0x1A4457] [Bank: 0x69:0x0457] [CPU: 0x4457] [OrigLen: 28]
+JP: ……か……　かってに
+JP: ころさないで……
+JP: ちょうだい……
+CN: ……别乱
+CN: 碰我……
+CN: 求你了
+# [0042] [ROM: 0x1A4473] [Bank: 0x69:0x0473] [CPU: 0x4473] [OrigLen: 27]
+JP: ま……まだ……
+JP: だいじょうぶ…よ……
+JP: ガクッ…………
+CN: 还没……
+CN: 没事…哦
+CN: 咕咚……
+# [0043] [ROM: 0x1A448E] [Bank: 0x69:0x048E] [CPU: 0x448E] [OrigLen: 17]
+JP: よ……
+JP: よきひこさーーーん！！！
+CN: 好…
+CN: 良彦——！
+# [0044] [ROM: 0x1A449F] [Bank: 0x69:0x049F] [CPU: 0x449F] [OrigLen: 47]
+JP: ……そうだわ
+JP: ハナに　たとえてくれて
+JP: ありがとう　すみれちゃん……
+JP: ふたたび　ガクッ…………
+CN: ……是啊
+CN: 谢谢你
+CN: 把我比作花
+CN: 堇小姐…咕咚
+# [0045] [ROM: 0x1A44CE] [Bank: 0x69:0x04CE] [CPU: 0x44CE] [OrigLen: 15]
+JP: <NAME>さん！
+JP: いそぎますわよ！！
+CN: <NAME>！
+CN: 快走！！
+# [0046] [ROM: 0x1A44DD] [Bank: 0x69:0x04DD] [CPU: 0x44DD] [OrigLen: 26]
+JP: ヒントは　
+JP: ぞうが　みつめあった　とき
+JP: ですわよ！
+CN: 提示
+CN: 雕像凝视时
+CN: 哦！
+# [0047] [ROM: 0x1A4506] [Bank: 0x69:0x0506] [CPU: 0x4506] [OrigLen: 27]
+JP: ぞうが　みつめあった　とき
+JP: これが　ヒントですわよ。
+CN: 雕像凝视时
+CN: 这就是提示哦
+# [0048] [ROM: 0x1A4521] [Bank: 0x69:0x0521] [CPU: 0x4521] [OrigLen: 13]
+JP: <NAME>さん
+JP: いきますわよ！！
+CN: <NAME>
+CN: 走了！！
+# [0049] [ROM: 0x1A452E] [Bank: 0x69:0x052E] [CPU: 0x452E] [OrigLen: 19]
+JP: よきひこさん！
+JP: だいじょうぶですか？
+CN: 良彦！
+CN: 没事吧？
+# [0050] [ROM: 0x1A4541] [Bank: 0x69:0x0541] [CPU: 0x4541] [OrigLen: 36]
+JP: ありがと〜〒
+JP: まものに　つかまったときは
+JP: しぬかと　おもっちゃったわ。
+CN: 谢谢～〒
+CN: 被魔物抓住时
+CN: 还以为死了
+# [0051] [ROM: 0x1A4565] [Bank: 0x69:0x0565] [CPU: 0x4565] [OrigLen: 30]
+JP: おまけに　ここ
+JP: あつくて　あつくて……
+JP: もーーーイヤッ！！
+CN: 而且这里
+CN: 热死了……
+CN: 好烦！！
+# [0052] [ROM: 0x1A4583] [Bank: 0x69:0x0583] [CPU: 0x4583] [OrigLen: 16]
+JP: あら　この
+JP: かわいこちゃんは？
+CN: 哎呀
+CN: 可爱姑娘？
+# [0053] [ROM: 0x1A4593] [Bank: 0x69:0x0593] [CPU: 0x4593] [OrigLen: 37]
+JP: はじめまして。
+JP: 『まじんき』かいしゅうの
+JP: にんむを　うけている
+JP: <NAME>です。
+CN: 初次见面。
+CN: 回收
+CN: 『魔神机』
+CN: 我是<NAME>。
+# [0054] [ROM: 0x1A45B8] [Bank: 0x69:0x05B8] [CPU: 0x45B8] [OrigLen: 47]
+JP: あ〜ら　そうなの〜。
+JP: 『まじんき』のことなら
+JP: な〜んでも　あたしに
+JP: きいてちょうだいね〜ん〒
+CN: 啊～是这样～
+CN: 『魔神机』的事
+CN: 什么都行
+CN: 问人家～
+# [0055] [ROM: 0x1A45E7] [Bank: 0x69:0x05E7] [CPU: 0x45E7] [OrigLen: 4]
+JP: はい。
+CN: 是
+# [0056] [ROM: 0x1A45EB] [Bank: 0x69:0x05EB] [CPU: 0x45EB] [OrigLen: 7]
+JP: は　はい……
+CN: 是……
+# [0057] [ROM: 0x1A45F2] [Bank: 0x69:0x05F2] [CPU: 0x45F2] [OrigLen: 7]
+JP: しつもんする
+CN: 提问
+# [0058] [ROM: 0x1A45F9] [Bank: 0x69:0x05F9] [CPU: 0x45F9] [OrigLen: 24]
+JP: はい。
+JP: こちらこそ　よろしく
+JP: おねがいします。
+CN: 是。
+CN: 也请多
+CN: 关照。
+# [0059] [ROM: 0x1A4611] [Bank: 0x69:0x0611] [CPU: 0x4611] [OrigLen: 37]
+JP: あたしは
+JP: おおた　よきひこ　よ〜ん〒
+JP: よろしくね〜ん。
+JP: かわいこちゃん〒
+CN: 我是
+CN: 大田良彦～ん
+CN: 请多关照
+CN: 可爱姑娘
+# [0060] [ROM: 0x1A4636] [Bank: 0x69:0x0636] [CPU: 0x4636] [OrigLen: 7]
+JP: は　はい……
+CN: 是……
+# [0061] [ROM: 0x1A463D] [Bank: 0x69:0x063D] [CPU: 0x463D] [OrigLen: 35]
+JP: あら　なに　そのへんじは？
+JP: おとこなら　もっと
+JP: シャキッとしなさい。
+CN: 啊啦　怎么了？
+CN: 是男的更
+CN: 该打起精神
+# [0062] [ROM: 0x1A4660] [Bank: 0x69:0x0660] [CPU: 0x4660] [OrigLen: 37]
+JP: あたしは
+JP: おおた　よきひこ　よ〜ん〒
+JP: よろしくね〜ん。
+JP: かわいこちゃん〒
+CN: 我是
+CN: 大田良彦～ん
+CN: 请多关照
+CN: 可爱姑娘
+# [0063] [ROM: 0x1A4685] [Bank: 0x69:0x0685] [CPU: 0x4685] [OrigLen: 11]
+JP: す　すみれさ〜ん……
+CN: 堇小姐…
+# [0064] [ROM: 0x1A4690] [Bank: 0x69:0x0690] [CPU: 0x4690] [OrigLen: 39]
+JP: よきひこさんも
+JP: ていげきの　おかま……
+JP: あ　いえいえ　なかま
+JP: なのですわよ。
+CN: 良彦先生
+CN: 也是据点的人
+CN: 不，是同伴
+CN: 哦。
+# [0065] [ROM: 0x1A46B7] [Bank: 0x69:0x06B7] [CPU: 0x46B7] [OrigLen: 32]
+JP: まあ　すみれちゃんたら
+JP: ひどいんだから〒
+JP: チューしちゃうわよ〒
+CN: 小堇真是
+CN: 太坏了〒
+CN: 要亲上去了〒
+# [0066] [ROM: 0x1A46D7] [Bank: 0x69:0x06D7] [CPU: 0x46D7] [OrigLen: 25]
+JP: あの〜……
+JP: よきひこさんも
+JP: おかま　なのですか？
+CN: 那～
+CN: 良彦先生
+CN: 是男的？
+# [0067] [ROM: 0x1A46F0] [Bank: 0x69:0x06F0] [CPU: 0x46F0] [OrigLen: 36]
+JP: まあ！　ヒドイ！
+JP: こんなリッパなレディを
+JP: つかまえて　おかまだなんて！
+CN: 天哪！
+CN: 居然抓住
+CN: 这么棒的淑女
+# [0068] [ROM: 0x1A4714] [Bank: 0x69:0x0714] [CPU: 0x4714] [OrigLen: 17]
+JP: え？
+JP: おんなのひと　なんですか？
+CN: 诶？
+CN: 是男生吗？
+# [0069] [ROM: 0x1A4725] [Bank: 0x69:0x0725] [CPU: 0x4725] [OrigLen: 21]
+JP: そうよ　あたしは
+JP: ミスターレディなのよ〒
+CN: 没错呀
+CN: 人家是淑女
+# [0070] [ROM: 0x1A473A] [Bank: 0x69:0x073A] [CPU: 0x473A] [OrigLen: 11]
+JP: は……　はあ…………
+CN: 哈啊……
+# [0071] [ROM: 0x1A4745] [Bank: 0x69:0x0745] [CPU: 0x4745] [OrigLen: 18]
+JP: あ〜ら　なんだか
+JP: つれないわね〜。
+CN: 啊啦～
+CN: 真冷淡～
+# [0072] [ROM: 0x1A4764] [Bank: 0x69:0x0764] [CPU: 0x4764] [OrigLen: 25]
+JP: あっ……
+JP: あら　あたしったら
+JP: もう　ダメ…………
+CN: 啊……
+CN: 完了
+CN: 人家……
+# [0073] [ROM: 0x1A477D] [Bank: 0x69:0x077D] [CPU: 0x477D] [OrigLen: 32]
+JP: <NAME>さん
+JP: よきひこさんの　からだが
+JP: あつさで　よわっていますわ。
+CN: <NAME>
+CN: 良彦先生的身体
+CN: 快被热垮了
+# [0074] [ROM: 0x1A479D] [Bank: 0x69:0x079D] [CPU: 0x479D] [OrigLen: 19]
+JP: いちど　ていげきに
+JP: もどりますわよ。
+CN: 先回据点
+CN: 去吧～
+# [0075] [ROM: 0x1A47B0] [Bank: 0x69:0x07B0] [CPU: 0x47B0] [OrigLen: 8]
+JP: うわ〜〜〜！！
+CN: 哇～！
+# [0076] [ROM: 0x1A47B8] [Bank: 0x69:0x07B8] [CPU: 0x47B8] [OrigLen: 14]
+JP: すみれさん　ひめいです！！
+CN: 堇小姐是公主
+# [0077] [ROM: 0x1A47C6] [Bank: 0x69:0x07C6] [CPU: 0x47C6] [OrigLen: 14]
+JP: あのこえは　おじいさま！！
+CN: 那声音是爷爷
+# [0078] [ROM: 0x1A47D4] [Bank: 0x69:0x07D4] [CPU: 0x47D4] [OrigLen: 15]
+JP: このさきに　おじいさまが！？
+CN: 爷爷在前面！？
+# [0079] [ROM: 0x1A47E3] [Bank: 0x69:0x07E3] [CPU: 0x47E3] [OrigLen: 6]
+JP: キキキー！
+CN: 叽叽
+# [0080] [ROM: 0x1A47E9] [Bank: 0x69:0x07E9] [CPU: 0x47E9] [OrigLen: 15]
+JP: こんなときに……
+JP: <NAME>さん！？
+CN: 这种时候
+CN: <NAME>！？
+# [0081] [ROM: 0x1A47F8] [Bank: 0x69:0x07F8] [CPU: 0x47F8] [OrigLen: 13]
+JP: ここは　わたしにまかせて
+CN: 交给我吧
+# [0082] [ROM: 0x1A4805] [Bank: 0x69:0x0805] [CPU: 0x4805] [OrigLen: 34]
+JP: すみれさん！
+JP: ここは　わたしにまかせて
+JP: おくへ　いそいでください。
+CN: 堇小姐！
+CN: 这里交给我
+CN: 请快去后面
+# [0083] [ROM: 0x1A4827] [Bank: 0x69:0x0827] [CPU: 0x4827] [OrigLen: 23]
+JP: わかりましたわ！
+JP: <NAME>さん
+JP: たのみましたわよ！
+CN: 明白了！
+CN: <NAME>
+CN: 拜托你了
+# [0084] [ROM: 0x1A484D] [Bank: 0x69:0x084D] [CPU: 0x484D] [OrigLen: 13]
+JP: ここは　たのみますわよ。
+CN: 就拜托您啦
+# [0085] [ROM: 0x1A485A] [Bank: 0x69:0x085A] [CPU: 0x485A] [OrigLen: 17]
+JP: わたくしは　さきへ
+JP: まいります。
+CN: 我先行
+CN: 一步
+# [0086] [ROM: 0x1A486B] [Bank: 0x69:0x086B] [CPU: 0x486B] [OrigLen: 7]
+JP: すみれさん！
+CN: 堇！
+# [0087] [ROM: 0x1A4872] [Bank: 0x69:0x0872] [CPU: 0x4872] [OrigLen: 15]
+JP: <NAME>さん！
+JP: ごぶじでしたのね。
+CN: <NAME>！
+CN: 没事吧
+# [0088] [ROM: 0x1A4881] [Bank: 0x69:0x0881] [CPU: 0x4881] [OrigLen: 8]
+JP: おじいさまは？
+CN: 爷爷？
+# [0089] [ROM: 0x1A4889] [Bank: 0x69:0x0889] [CPU: 0x4889] [OrigLen: 39]
+JP: それが……
+JP: みあたらないのです
+JP: さがすのを　てつだって
+JP: くださらないかしら？
+CN: 那个……
+CN: 找不到他
+CN: 您能帮忙
+CN: 找找看吗？
+# [0090] [ROM: 0x1A48B0] [Bank: 0x69:0x08B0] [CPU: 0x48B0] [OrigLen: 8]
+JP: うわ〜〜〜！！
+CN: 哇～！
+# [0091] [ROM: 0x1A48B8] [Bank: 0x69:0x08B8] [CPU: 0x48B8] [OrigLen: 13]
+JP: すみれさん　ひめいが！！
+CN: 堇是公主！！
+# [0092] [ROM: 0x1A48C5] [Bank: 0x69:0x08C5] [CPU: 0x48C5] [OrigLen: 14]
+JP: あのこえは　おじいさま！！
+CN: 是爷爷！！
+# [0093] [ROM: 0x1A48D3] [Bank: 0x69:0x08D3] [CPU: 0x48D3] [OrigLen: 15]
+JP: このさきに　おじいさまが！？
+CN: 爷爷在前面！？
+# [0094] [ROM: 0x1A48E2] [Bank: 0x69:0x08E2] [CPU: 0x48E2] [OrigLen: 6]
+JP: キキキー！
+CN: 叽叽
+# [0095] [ROM: 0x1A48E8] [Bank: 0x69:0x08E8] [CPU: 0x48E8] [OrigLen: 15]
+JP: こんなときに……
+JP: <NAME>さん！？
+CN: 这种时候
+CN: <NAME>！？
+# [0096] [ROM: 0x1A48F7] [Bank: 0x69:0x08F7] [CPU: 0x48F7] [OrigLen: 12]
+JP: ここは　ボクにまかせて
+CN: 交给我吧
+# [0097] [ROM: 0x1A4903] [Bank: 0x69:0x0903] [CPU: 0x4903] [OrigLen: 33]
+JP: すみれさん！
+JP: ここは　ボクにまかせて
+JP: おくへ　いそいでください。
+CN: 堇小姐！
+CN: 这里交给我
+CN: 快去后面
+# [0098] [ROM: 0x1A4924] [Bank: 0x69:0x0924] [CPU: 0x4924] [OrigLen: 23]
+JP: わかりましたわ！
+JP: <NAME>さん
+JP: たのみましたわよ！
+CN: 明白了！
+CN: <NAME>
+CN: 拜托你了
+# [0099] [ROM: 0x1A494A] [Bank: 0x69:0x094A] [CPU: 0x494A] [OrigLen: 13]
+JP: ここは　たのみますわよ。
+CN: 就拜托您啦
+# [0100] [ROM: 0x1A4957] [Bank: 0x69:0x0957] [CPU: 0x4957] [OrigLen: 17]
+JP: わたくしは　さきへ
+JP: まいります。
+CN: 我先行
+CN: 一步
+# [0101] [ROM: 0x1A4968] [Bank: 0x69:0x0968] [CPU: 0x4968] [OrigLen: 7]
+JP: すみれさん！
+CN: 堇！
+# [0102] [ROM: 0x1A496F] [Bank: 0x69:0x096F] [CPU: 0x496F] [OrigLen: 15]
+JP: <NAME>さん！
+JP: ごぶじでしたのね。
+CN: <NAME>！
+CN: 没事吧
+# [0103] [ROM: 0x1A497E] [Bank: 0x69:0x097E] [CPU: 0x497E] [OrigLen: 8]
+JP: おじいさまは？
+CN: 爷爷？
+# [0104] [ROM: 0x1A4986] [Bank: 0x69:0x0986] [CPU: 0x4986] [OrigLen: 39]
+JP: それが……
+JP: みあたらないのです
+JP: さがすのを　てつだって
+JP: くださらないかしら？
+CN: 那个……
+CN: 找不到他
+CN: 您能帮忙
+CN: 找找看吗？
+# [0105] [ROM: 0x1A49AD] [Bank: 0x69:0x09AD] [CPU: 0x49AD] [OrigLen: 8]
+JP: グオオオォォ！
+CN: 吼哦哦
+# [0106] [ROM: 0x1A49B5] [Bank: 0x69:0x09B5] [CPU: 0x49B5] [OrigLen: 27]
+JP: トビラの　なかから
+JP: ものスゴイ　おとが
+JP: きこえるぞ。
+CN: 门那边传来
+CN: 了很吓人的
+CN: 声音
+# [0107] [ROM: 0x1A49D0] [Bank: 0x69:0x09D0] [CPU: 0x49D0] [OrigLen: 7]
+JP: もんをあける
+CN: 开门
+# [0108] [ROM: 0x1A49D7] [Bank: 0x69:0x09D7] [CPU: 0x49D7] [OrigLen: 8]
+JP: もんをあけない
+CN: 别开门
+# [0109] [ROM: 0x1A49DF] [Bank: 0x69:0x09DF] [CPU: 0x49DF] [OrigLen: 33]
+JP: ……ぶきみだな…………
+JP: ……あけるのは
+JP: ヤメておこう………………
+CN: ……有刀啊……
+CN: 还是别开
+CN: 门了……
+# [0110] [ROM: 0x1A4A00] [Bank: 0x69:0x0A00] [CPU: 0x4A00] [OrigLen: 9]
+JP: よし　あけるぞ！
+CN: 好，开！
+# [0111] [ROM: 0x1A4A09] [Bank: 0x69:0x0A09] [CPU: 0x4A09] [OrigLen: 26]
+JP: グオオオ！
+JP: スピ〜〜
+JP: ……………………………………
+CN: 吼哦哦！
+CN: 唧～～
+CN: …………
+# [0112] [ROM: 0x1A4A23] [Bank: 0x69:0x0A23] [CPU: 0x4A23] [OrigLen: 5]
+JP: ンガッ！
+CN: 咕！
+# [0113] [ROM: 0x1A4A28] [Bank: 0x69:0x0A28] [CPU: 0x4A28] [OrigLen: 34]
+JP: ンン〜？！……
+JP: わしの　ネムリを
+JP: ジャマ　するのは
+JP: だれジャ〜！！
+CN: 唔嗯〜？
+CN: 是谁呀
+CN: 打扰我
+CN: 睡觉〜！
+# [0114] [ROM: 0x1A4A4A] [Bank: 0x69:0x0A4A] [CPU: 0x4A4A] [OrigLen: 18]
+JP: ンン？
+JP: なんジャ？　オメエらは！！
+CN: 唔嗯？
+CN: 你们是啥！
+# [0115] [ROM: 0x1A4A5C] [Bank: 0x69:0x0A5C] [CPU: 0x4A5C] [OrigLen: 19]
+JP: おまえこそ　なにもの！？
+JP: まさか……
+CN: 你是什么
+CN: 难道…
+# [0116] [ROM: 0x1A4A6F] [Bank: 0x69:0x0A6F] [CPU: 0x4A6F] [OrigLen: 6]
+JP: おおボス？
+CN: 老大
+# [0117] [ROM: 0x1A4A75] [Bank: 0x69:0x0A75] [CPU: 0x4A75] [OrigLen: 37]
+JP: おまえが　おおボス？
+JP: 『まじんき』を　あつめている
+JP: おやだま　なのか？！
+CN: 你才是头目？
+CN: 『魔神机』的
+CN: 收集者？！
+# [0118] [ROM: 0x1A4A9A] [Bank: 0x69:0x0A9A] [CPU: 0x4A9A] [OrigLen: 29]
+JP: そのとおりジャ！
+JP: わしが　さいごの
+JP: おおボスなのジャ！！
+CN: 正是！
+CN: 老子才是
+CN: 最终头目！！
+# [0119] [ROM: 0x1A4AB7] [Bank: 0x69:0x0AB7] [CPU: 0x4AB7] [OrigLen: 40]
+JP: この　さきは
+JP: 『せいまじょう』……
+JP: ダレも　このさきへは
+JP: いかせぬのジャーッ！
+CN: 前面是
+CN: 『生命场』…
+CN: 谁都别想
+CN: 过去——！
+# [0120] [ROM: 0x1A4ADF] [Bank: 0x69:0x0ADF] [CPU: 0x4ADF] [OrigLen: 40]
+JP: やられちゃったのジャーッ！
+JP: わしが　おおボス　というのは
+JP: ウソなのジャーッ！！
+CN: 被打败啦——
+CN: 老子是头目
+CN: 是假的——！！
+# [0121] [ROM: 0x1A4B07] [Bank: 0x69:0x0B07] [CPU: 0x4B07] [OrigLen: 35]
+JP: ……………………………………
+JP: すみません…………
+JP: どちらさまですか？
+CN: …………
+CN: 对不起……
+CN: 您是哪位？
+# [0122] [ROM: 0x1A4B2A] [Bank: 0x69:0x0B2A] [CPU: 0x4B2A] [OrigLen: 20]
+JP: ………アアッ？
+JP: わしゃ　もんばんジャ！
+CN: ……啊？
+CN: 我是门卫
+# [0123] [ROM: 0x1A4B3E] [Bank: 0x69:0x0B3E] [CPU: 0x4B3E] [OrigLen: 40]
+JP: この　さきは
+JP: 『せいまじょう』……
+JP: ダレも　このさきへは
+JP: いかせぬのジャーッ！
+CN: 前面是
+CN: 『生命场』…
+CN: 谁都别想
+CN: 过去——！
+# [0124] [ROM: 0x1A4B66] [Bank: 0x69:0x0B66] [CPU: 0x4B66] [OrigLen: 22]
+JP: グアァ………
+JP: やられちゃったのジャーッ！！
+CN: 咕啊………
+CN: 被打败啦！
+# [0125] [ROM: 0x1A4B7C] [Bank: 0x69:0x0B7C] [CPU: 0x4B7C] [OrigLen: 8]
+JP: グオオオォォ！
+CN: 吼哦哦
+# [0126] [ROM: 0x1A4B84] [Bank: 0x69:0x0B84] [CPU: 0x4B84] [OrigLen: 27]
+JP: トビラの　なかから
+JP: ものスゴイ　おとが
+JP: きこえるわ。
+CN: 门后传来
+CN: 了很吓人的
+CN: 声音
+# [0127] [ROM: 0x1A4B9F] [Bank: 0x69:0x0B9F] [CPU: 0x4B9F] [OrigLen: 7]
+JP: もんをあける
+CN: 开门
+# [0128] [ROM: 0x1A4BA6] [Bank: 0x69:0x0BA6] [CPU: 0x4BA6] [OrigLen: 8]
+JP: もんをあけない
+CN: 别开门
+# [0129] [ROM: 0x1A4BAE] [Bank: 0x69:0x0BAE] [CPU: 0x4BAE] [OrigLen: 32]
+JP: ……ぶきみだわ…………
+JP: ……あけるのは
+JP: ヤメておきましょう……
+CN: ……有刀啊……
+CN: 还是别开
+CN: 门了…
+# [0130] [ROM: 0x1A4BCE] [Bank: 0x69:0x0BCE] [CPU: 0x4BCE] [OrigLen: 10]
+JP: よし　あけるわよ！
+CN: 好，开！
+# [0131] [ROM: 0x1A4BD8] [Bank: 0x69:0x0BD8] [CPU: 0x4BD8] [OrigLen: 26]
+JP: グオオオ！
+JP: スピ〜〜
+JP: ……………………………………
+CN: 吼哦哦！
+CN: 唧～～
+CN: …………
+# [0132] [ROM: 0x1A4BF2] [Bank: 0x69:0x0BF2] [CPU: 0x4BF2] [OrigLen: 5]
+JP: ンガッ！
+CN: 咕！
+# [0133] [ROM: 0x1A4BF7] [Bank: 0x69:0x0BF7] [CPU: 0x4BF7] [OrigLen: 34]
+JP: ンン〜？！……
+JP: わしの　ネムリを
+JP: ジャマ　するのは
+JP: だれジャ〜！！
+CN: 唔嗯〜？…
+CN: 是谁呀
+CN: 打扰我
+CN: 睡觉〜！
+# [0134] [ROM: 0x1A4C19] [Bank: 0x69:0x0C19] [CPU: 0x4C19] [OrigLen: 18]
+JP: ンン？
+JP: なんジャ？　オメエらは！！
+CN: 唔嗯？
+CN: 你们是啥！
+# [0135] [ROM: 0x1A4C2B] [Bank: 0x69:0x0C2B] [CPU: 0x4C2B] [OrigLen: 19]
+JP: あなたこそ　なにもの！？
+JP: まさか……
+CN: 你也是啥
+CN: 不会吧…
+# [0136] [ROM: 0x1A4C3E] [Bank: 0x69:0x0C3E] [CPU: 0x4C3E] [OrigLen: 6]
+JP: おおボス？
+CN: 老大
+# [0137] [ROM: 0x1A4C44] [Bank: 0x69:0x0C44] [CPU: 0x4C44] [OrigLen: 36]
+JP: あなたが　おおボス？
+JP: 『まじんき』を　あつめている
+JP: おやだま　なの？！
+CN: 你是头目？
+CN: 『魔神机』的
+CN: 收集者？！
+# [0138] [ROM: 0x1A4C68] [Bank: 0x69:0x0C68] [CPU: 0x4C68] [OrigLen: 29]
+JP: そのとおりジャ！
+JP: わしが　さいごの
+JP: おおボスなのジャ！！
+CN: 正是！
+CN: 老子才是
+CN: 最终头目！！
+# [0139] [ROM: 0x1A4C85] [Bank: 0x69:0x0C85] [CPU: 0x4C85] [OrigLen: 40]
+JP: この　さきは
+JP: 『せいまじょう』……
+JP: ダレも　このさきへは
+JP: いかせぬのジャーッ！
+CN: 前面是
+CN: 『生命场』…
+CN: 谁都别想
+CN: 过去——！
+# [0140] [ROM: 0x1A4CAD] [Bank: 0x69:0x0CAD] [CPU: 0x4CAD] [OrigLen: 40]
+JP: やられちゃったのジャーッ！
+JP: わしが　おおボス　というのは
+JP: ウソなのジャーッ！！
+CN: 被打败啦——
+CN: 老子是头目
+CN: 是假的——！！
+# [0141] [ROM: 0x1A4CD5] [Bank: 0x69:0x0CD5] [CPU: 0x4CD5] [OrigLen: 35]
+JP: ……………………………………
+JP: すみません…………
+JP: どちらさまですか？
+CN: …………
+CN: 对不起……
+CN: 您是哪位？
+# [0142] [ROM: 0x1A4CF8] [Bank: 0x69:0x0CF8] [CPU: 0x4CF8] [OrigLen: 20]
+JP: ………アアッ？
+JP: わしゃ　もんばんジャ！
+CN: ……啊？
+CN: 我是门卫
+# [0143] [ROM: 0x1A4D0C] [Bank: 0x69:0x0D0C] [CPU: 0x4D0C] [OrigLen: 40]
+JP: この　さきは
+JP: 『せいまじょう』……
+JP: ダレも　このさきへは
+JP: いかせぬのジャーッ！
+CN: 前面是
+CN: 『生命场』…
+CN: 谁都别想
+CN: 过去——！
+# [0144] [ROM: 0x1A4D34] [Bank: 0x69:0x0D34] [CPU: 0x4D34] [OrigLen: 22]
+JP: グアァ………
+JP: やられちゃったのジャーッ！！
+CN: 咕啊………
+CN: 被打败啦！
+# [0145] [ROM: 0x1A4D4A] [Bank: 0x69:0x0D4A] [CPU: 0x4D4A] [OrigLen: 10]
+JP: おや？
+JP: これは……
+CN: 咦？
+CN: 啥呢
+# [0146] [ROM: 0x1A4D54] [Bank: 0x69:0x0D54] [CPU: 0x4D54] [OrigLen: 29]
+JP: みずを　ためているのか？
+JP: いわゆる
+JP: ちょすいプールだな。
+CN: 在蓄水吗？
+CN: 所谓的
+CN: 储水池呢
+# [0147] [ROM: 0x1A4D71] [Bank: 0x69:0x0D71] [CPU: 0x4D71] [OrigLen: 32]
+JP: みずが　まんたんだ……
+JP: でも　なんで
+JP: こんなものが　あるんだ？
+CN: 水满了……
+CN: 怎么会有
+CN: 这种东西？
+# [0148] [ROM: 0x1A4D91] [Bank: 0x69:0x0D91] [CPU: 0x4D91] [OrigLen: 10]
+JP: あれ？
+JP: これは……
+CN: 咦？
+CN: 啥呢
+# [0149] [ROM: 0x1A4D9B] [Bank: 0x69:0x0D9B] [CPU: 0x4D9B] [OrigLen: 25]
+JP: みずが　まんたんだ……
+JP: みずを　ためているのか。
+CN: 水满了……
+CN: 在蓄水呢。
+# [0150] [ROM: 0x1A4DB4] [Bank: 0x69:0x0DB4] [CPU: 0x4DB4] [OrigLen: 33]
+JP: もしかしたら……
+JP: むこうのとうにも　
+JP: おなじものが　あるのかな？
+CN: 说不定……
+CN: 对面塔里
+CN: 也有？
+# [0151] [ROM: 0x1A4DD5] [Bank: 0x69:0x0DD5] [CPU: 0x4DD5] [OrigLen: 10]
+JP: あら？
+JP: これは……
+CN: 咦？
+CN: 啥呢
+# [0152] [ROM: 0x1A4DDF] [Bank: 0x69:0x0DDF] [CPU: 0x4DDF] [OrigLen: 30]
+JP: みずを　ためているのね。
+JP: いわゆる
+JP: ちょすいプールなのね。
+CN: 在蓄水呢。
+CN: 所谓的
+CN: 储水池呢。
+# [0153] [ROM: 0x1A4DFD] [Bank: 0x69:0x0DFD] [CPU: 0x4DFD] [OrigLen: 33]
+JP: みずが　まんたんだわ……
+JP: どうして　こんなものが
+JP: あるのかしら？
+CN: 水满了……
+CN: 怎么会有
+CN: 这种东西呢？
+# [0154] [ROM: 0x1A4E1E] [Bank: 0x69:0x0E1E] [CPU: 0x4E1E] [OrigLen: 10]
+JP: あら？
+JP: これは……
+CN: 咦？
+CN: 啥呢
+# [0155] [ROM: 0x1A4E28] [Bank: 0x69:0x0E28] [CPU: 0x4E28] [OrigLen: 26]
+JP: みずが　まんたんだわ……
+JP: みずを　ためているのね。
+CN: 水满了……
+CN: 在蓄水呢。
+# [0156] [ROM: 0x1A4E42] [Bank: 0x69:0x0E42] [CPU: 0x4E42] [OrigLen: 33]
+JP: もしかしたら……
+JP: むこうのとうにも　
+JP: おなじものが　ないかしら？
+CN: 说不定……
+CN: 对面塔里
+CN: 没有吧？
+# [0157] [ROM: 0x1A4E63] [Bank: 0x69:0x0E63] [CPU: 0x4E63] [OrigLen: 25]
+JP: プレイヤーせんたく
+JP: せいべつ　をえらんでください
+CN: 玩家选择
+CN: 请选择性别
+# [0158] [ROM: 0x1A4E7C] [Bank: 0x69:0x0E7C] [CPU: 0x4E7C] [OrigLen: 4]
+JP: おとこ
+CN: 男
+# [0159] [ROM: 0x1A4E80] [Bank: 0x69:0x0E80] [CPU: 0x4E80] [OrigLen: 4]
+JP: おんな
+CN: 女
+# [0160] [ROM: 0x1A4E84] [Bank: 0x69:0x0E84] [CPU: 0x4E84] [OrigLen: 27]
+JP: 　せいべつ　『おとこ』
+JP: パートナーをえらんでください
+CN: 性别『男』
+CN: 请选择搭档
+# [0161] [ROM: 0x1A4E9F] [Bank: 0x69:0x0E9F] [CPU: 0x4E9F] [OrigLen: 5]
+JP: アイリス
+CN: 爱丽
+# [0162] [ROM: 0x1A4EA4] [Bank: 0x69:0x0EA4] [CPU: 0x4EA4] [OrigLen: 4]
+JP: カンナ
+CN: 康
+# [0163] [ROM: 0x1A4EA8] [Bank: 0x69:0x0EA8] [CPU: 0x4EA8] [OrigLen: 4]
+JP: さくら
+CN: 樱
+# [0164] [ROM: 0x1A4EAC] [Bank: 0x69:0x0EAC] [CPU: 0x4EAC] [OrigLen: 27]
+JP: 　せいべつ　『おんな』
+JP: パートナーをえらんでください
+CN: 性别『女』
+CN: 请选择搭档
+# [0165] [ROM: 0x1A4EC7] [Bank: 0x69:0x0EC7] [CPU: 0x4EC7] [OrigLen: 5]
+JP: アイリス
+CN: 爱丽
+# [0166] [ROM: 0x1A4ECC] [Bank: 0x69:0x0ECC] [CPU: 0x4ECC] [OrigLen: 4]
+JP: カンナ
+CN: 康
+# [0167] [ROM: 0x1A4ED0] [Bank: 0x69:0x0ED0] [CPU: 0x4ED0] [OrigLen: 5]
+JP: おおがみ
+CN: 大神
+# [0168] [ROM: 0x1A4ED5] [Bank: 0x69:0x0ED5] [CPU: 0x4ED5] [OrigLen: 35]
+JP: 　せいべつ　『おとこ』
+JP: 　パートナー『アイリス』
+JP: これでいいですか？
+CN: 性别『男』
+CN: 搭档『爱丽丝』
+CN: 行吗？
+# [0169] [ROM: 0x1A4EF8] [Bank: 0x69:0x0EF8] [CPU: 0x4EF8] [OrigLen: 34]
+JP: 　せいべつ　『おとこ』
+JP: 　パートナー『カンナ』
+JP: これでいいですか？
+CN: 性别『男』
+CN: 搭档『康』
+CN: 这样行吗？
+# [0170] [ROM: 0x1A4F1A] [Bank: 0x69:0x0F1A] [CPU: 0x4F1A] [OrigLen: 34]
+JP: 　せいべつ　『おとこ』
+JP: 　パートナー『さくら』
+JP: これでいいですか？
+CN: 性别『男』
+CN: 搭档『樱』
+CN: 行吗？
+# [0171] [ROM: 0x1A4F3C] [Bank: 0x69:0x0F3C] [CPU: 0x4F3C] [OrigLen: 35]
+JP: 　せいべつ　『おんな』
+JP: 　パートナー『アイリス』
+JP: これでいいですか？
+CN: 性别『女』
+CN: 搭档『爱丽丝』
+CN: 行吗？
+# [0172] [ROM: 0x1A4F5F] [Bank: 0x69:0x0F5F] [CPU: 0x4F5F] [OrigLen: 34]
+JP: 　せいべつ　『おんな』
+JP: 　パートナー『カンナ』
+JP: これでいいですか？
+CN: 性别『女』
+CN: 搭档『康』
+CN: 这样行吗？
+# [0173] [ROM: 0x1A4F81] [Bank: 0x69:0x0F81] [CPU: 0x4F81] [OrigLen: 35]
+JP: 　せいべつ　『おんな』
+JP: 　パートナー『おおがみ』
+JP: これでいいですか？
+CN: 性别『女』
+CN: 搭档『大神』
+CN: 行吗？
+# [0174] [ROM: 0x1A4FA4] [Bank: 0x69:0x0FA4] [CPU: 0x4FA4] [OrigLen: 3]
+JP: はい
+CN: 是
+# [0175] [ROM: 0x1A4FA7] [Bank: 0x69:0x0FA7] [CPU: 0x4FA7] [OrigLen: 4]
+JP: いいえ
+CN: 否
+# [0176] [ROM: 0x1A4FAB] [Bank: 0x69:0x0FAB] [CPU: 0x4FAB] [OrigLen: 14]
+JP: トビラは　しまっています。
+CN: 门关着呢。
+# [0177] [ROM: 0x1A4FB9] [Bank: 0x69:0x0FB9] [CPU: 0x4FB9] [OrigLen: 21]
+JP: アイリス。
+JP: このトビラ　ひらかないわね。
+CN: 爱丽丝。
+CN: 这门开不了
+# [0178] [ROM: 0x1A4FCE] [Bank: 0x69:0x0FCE] [CPU: 0x4FCE] [OrigLen: 21]
+JP: そうだね。
+JP: カギが　かかってるのかな〜。
+CN: 是啊。
+CN: 上了锁吧～
+# [0179] [ROM: 0x1A4FE3] [Bank: 0x69:0x0FE3] [CPU: 0x4FE3] [OrigLen: 34]
+JP: それにしても
+JP: トビラの　うえにある
+JP: まじんぞう……
+JP: きみわる〜い。
+CN: 话说
+CN: 门上放的
+CN: 魔人偶……
+CN: 真晦气～
+# [0180] [ROM: 0x1A5005] [Bank: 0x69:0x1005] [CPU: 0x5005] [OrigLen: 35]
+JP: カギが　かかってるって
+JP: いうことは……　このとう……
+JP: あやしくない？
+CN: 门上了锁
+CN: 就是说……
+CN: 这塔不对劲？
+# [0181] [ROM: 0x1A5028] [Bank: 0x69:0x1028] [CPU: 0x5028] [OrigLen: 37]
+JP: うん。あやしいね……
+JP: でも　トビラが
+JP: ひらかないし……
+JP: どうしよう　<NAME>。
+CN: 嗯，很可疑……
+CN: 可门不开
+CN: 怎么办啊
+CN: <NAME>。
+# [0182] [ROM: 0x1A504D] [Bank: 0x69:0x104D] [CPU: 0x504D] [OrigLen: 10]
+JP: トビラを　しらべる
+CN: 查看门
+# [0183] [ROM: 0x1A5057] [Bank: 0x69:0x1057] [CPU: 0x5057] [OrigLen: 9]
+JP: トビラを　こわす
+CN: 破坏门
+# [0184] [ROM: 0x1A5060] [Bank: 0x69:0x1060] [CPU: 0x5060] [OrigLen: 16]
+JP: トビラを
+JP: しらべてみましょう。
+CN: 来查看
+CN: 这门吧。
+# [0185] [ROM: 0x1A5070] [Bank: 0x69:0x1070] [CPU: 0x5070] [OrigLen: 14]
+JP: そうだね。
+JP: そうしよう！！
+CN: 对啊。
+CN: 办！！
+# [0186] [ROM: 0x1A507E] [Bank: 0x69:0x107E] [CPU: 0x507E] [OrigLen: 23]
+JP: たいあたりで　このトビラ
+JP: こわしちゃおうか？
+CN: 用祭品
+CN: 开门如何？
+# [0187] [ROM: 0x1A5095] [Bank: 0x69:0x1095] [CPU: 0x5095] [OrigLen: 24]
+JP: ワオ！
+JP: おんなのこ　なのに
+JP: だいたんだね　<NAME>！
+CN: 哇！
+CN: 女孩子
+CN: <NAME>真强！
+# [0188] [ROM: 0x1A50AD] [Bank: 0x69:0x10AD] [CPU: 0x50AD] [OrigLen: 10]
+JP: じゃあ　いくわよ！
+CN: 去啦！
+# [0189] [ROM: 0x1A50B7] [Bank: 0x69:0x10B7] [CPU: 0x50B7] [OrigLen: 6]
+JP: エイッ！！
+CN: 呀！
+# [0190] [ROM: 0x1A50BD] [Bank: 0x69:0x10BD] [CPU: 0x50BD] [OrigLen: 7]
+JP: あいた〜……
+CN: 好痛～
+# [0191] [ROM: 0x1A50C4] [Bank: 0x69:0x10C4] [CPU: 0x50C4] [OrigLen: 11]
+JP: <NAME>！
+JP: だいじょうぶ？
+CN: <NAME>！
+CN: 没事吧
+# [0192] [ROM: 0x1A50CF] [Bank: 0x69:0x10CF] [CPU: 0x50CF] [OrigLen: 16]
+JP: イリスプティ<81>よジャンポール！
+CN: 爱丽丝跳跃！
+# [0193] [ROM: 0x1A50DF] [Bank: 0x69:0x10DF] [CPU: 0x50DF] [OrigLen: 23]
+JP: <NAME>は
+JP: たいきゅうちが　すこし
+JP: かいふくした。
+CN: <NAME>的
+CN: 体力
+CN: 稍微恢复了。
+# [0194] [ROM: 0x1A50F6] [Bank: 0x69:0x10F6] [CPU: 0x50F6] [OrigLen: 22]
+JP: ダメだわ……
+JP: このトビラ　こわせないわ……
+CN: 不行……
+CN: 门弄不开
+# [0195] [ROM: 0x1A510C] [Bank: 0x69:0x110C] [CPU: 0x510C] [OrigLen: 36]
+JP: う〜ん……
+JP: でも　トビラなんだから
+JP: あける　ほうほうは
+JP: あるはずだよ。
+CN: 唔～……
+CN: 可是门的话
+CN: 总有办法
+CN: 打开吧
+# [0196] [ROM: 0x1A5130] [Bank: 0x69:0x1130] [CPU: 0x5130] [OrigLen: 12]
+JP: しらべてみようよ
+JP: <NAME>。
+CN: 查查看
+CN: <NAME>。
+# [0197] [ROM: 0x1A514B] [Bank: 0x69:0x114B] [CPU: 0x514B] [OrigLen: 18]
+JP: とりあえず　しらべてみようよ
+JP: <NAME>。
+CN: 先来查查看吧
+CN: <NAME>。
+# [0198] [ROM: 0x1A515D] [Bank: 0x69:0x115D] [CPU: 0x515D] [OrigLen: 45]
+JP: ……………………………………
+JP: ……………………………………
+JP: ……………アイリス　これは？
+CN: …………………
+CN: ………
+CN: …爱丽丝　这是什么？
+# [0199] [ROM: 0x1A518A] [Bank: 0x69:0x118A] [CPU: 0x518A] [OrigLen: 35]
+JP: まじんぞうの　てが
+JP: 『なにかを　おく』ような
+JP: かたちに　なってるよ。
+CN: 魔人偶的手
+CN: 像是在放
+CN: 什么东西一样。
+# [0200] [ROM: 0x1A51AD] [Bank: 0x69:0x11AD] [CPU: 0x51AD] [OrigLen: 32]
+JP: このトビラを　あけるには
+JP: 『なにか』が　ひつよう
+JP: みたいだね。
+CN: 要开门的话
+CN: 好像需要
+CN: 『某物』。
+# [0201] [ROM: 0x1A51CD] [Bank: 0x69:0x11CD] [CPU: 0x51CD] [OrigLen: 32]
+JP: よーし　<NAME>。
+JP: まじんぞうの　てに
+JP: おくものを　さがしにいこう！
+CN: 好——<NAME>。
+CN: 去魔人偶手
+CN: 上找东西
+# [0202] [ROM: 0x1A51ED] [Bank: 0x69:0x11ED] [CPU: 0x51ED] [OrigLen: 45]
+JP: トビラを　あけるには
+JP: まじんぞうの　てに
+JP: 『なにか』を　おけば　
+JP: いいんじゃないかな〜？
+CN: 要开门的话
+CN: 把『某物』
+CN: 放到魔人偶
+CN: 如何～？
+# [0203] [ROM: 0x1A521A] [Bank: 0x69:0x121A] [CPU: 0x521A] [OrigLen: 11]
+JP: どうしよう……
+JP: <NAME>。
+CN: 咋办…
+CN: <NAME>
+# [0204] [ROM: 0x1A5225] [Bank: 0x69:0x1225] [CPU: 0x5225] [OrigLen: 6]
+JP: そうね……
+CN: 对啊
+# [0205] [ROM: 0x1A522B] [Bank: 0x69:0x122B] [CPU: 0x522B] [OrigLen: 9]
+JP: おきものをつかう
+CN: 使用道具
+# [0206] [ROM: 0x1A5234] [Bank: 0x69:0x1234] [CPU: 0x5234] [OrigLen: 9]
+JP: トビラを　こわす
+CN: 破坏门
+# [0207] [ROM: 0x1A523D] [Bank: 0x69:0x123D] [CPU: 0x523D] [OrigLen: 11]
+JP: じゅもんを　となえる
+CN: 咏唱咒语
+# [0208] [ROM: 0x1A5248] [Bank: 0x69:0x1248] [CPU: 0x5248] [OrigLen: 22]
+JP: たいあたりで
+JP: トビラを　こわしちゃおうか？
+CN: 用祭品
+CN: 破坏这门如何？
+# [0209] [ROM: 0x1A525E] [Bank: 0x69:0x125E] [CPU: 0x525E] [OrigLen: 23]
+JP: ダメだよ。
+JP: さっき　しっぱい
+JP: したじゃない。
+CN: 不行。
+CN: 刚才失败
+CN: 过了吧
+# [0210] [ROM: 0x1A5275] [Bank: 0x69:0x1275] [CPU: 0x5275] [OrigLen: 9]
+JP: そうだったわね。
+CN: 是啊没错
+# [0211] [ROM: 0x1A527E] [Bank: 0x69:0x127E] [CPU: 0x527E] [OrigLen: 20]
+JP: う〜ん……
+JP: どうすれば　いいのかな〜。
+CN: 唔～……
+CN: 咋办好～
+# [0212] [ROM: 0x1A5292] [Bank: 0x69:0x1292] [CPU: 0x5292] [OrigLen: 24]
+JP: ワオ！
+JP: おんなのこ　なのに
+JP: だいたんだね　<NAME>！
+CN: 哇！
+CN: 女孩子
+CN: <NAME>真强！
+# [0213] [ROM: 0x1A52AA] [Bank: 0x69:0x12AA] [CPU: 0x52AA] [OrigLen: 10]
+JP: じゃあ　いくわよ！
+CN: 去啦！
+# [0214] [ROM: 0x1A52B4] [Bank: 0x69:0x12B4] [CPU: 0x52B4] [OrigLen: 6]
+JP: エイッ！！
+CN: 呀！
+# [0215] [ROM: 0x1A52BA] [Bank: 0x69:0x12BA] [CPU: 0x52BA] [OrigLen: 7]
+JP: あいた〜……
+CN: 好痛～
+# [0216] [ROM: 0x1A52C1] [Bank: 0x69:0x12C1] [CPU: 0x52C1] [OrigLen: 11]
+JP: <NAME>！
+JP: だいじょうぶ？
+CN: <NAME>！
+CN: 没事吧
+# [0217] [ROM: 0x1A52CC] [Bank: 0x69:0x12CC] [CPU: 0x52CC] [OrigLen: 16]
+JP: イリスプティ<81>よジャンポール！
+CN: 爱丽丝跳跃！
+# [0218] [ROM: 0x1A52DC] [Bank: 0x69:0x12DC] [CPU: 0x52DC] [OrigLen: 23]
+JP: <NAME>は
+JP: たいきゅうちが　すこし
+JP: かいふくした。
+CN: <NAME>的
+CN: 体力
+CN: 稍微恢复了。
+# [0219] [ROM: 0x1A52F3] [Bank: 0x69:0x12F3] [CPU: 0x52F3] [OrigLen: 22]
+JP: ダメだわ……
+JP: このトビラ　こわせないわ……
+CN: 不行……
+CN: 门弄不开
+# [0220] [ROM: 0x1A5309] [Bank: 0x69:0x1309] [CPU: 0x5309] [OrigLen: 20]
+JP: う〜ん……
+JP: どうすれば　いいのかな〜。
+CN: 唔～……
+CN: 咋办好～
+# [0221] [ROM: 0x1A531D] [Bank: 0x69:0x131D] [CPU: 0x531D] [OrigLen: 19]
+JP: じゅもんを　となえて
+JP: みましょうか？
+CN: 咏唱咒语
+CN: 试试看？
+# [0222] [ROM: 0x1A5330] [Bank: 0x69:0x1330] [CPU: 0x5330] [OrigLen: 20]
+JP: アイリス　そのじゅもん
+JP: しってるよ！！
+CN: 爱丽丝
+CN: 知道咒语吗
+# [0223] [ROM: 0x1A5344] [Bank: 0x69:0x1344] [CPU: 0x5344] [OrigLen: 10]
+JP: ひらけ〜　ゴマ！！
+CN: 快开！！
+# [0224] [ROM: 0x1A537B] [Bank: 0x69:0x137B] [CPU: 0x537B] [OrigLen: 9]
+JP: ダメみたいね……
+CN: 不行呢
+# [0225] [ROM: 0x1A5384] [Bank: 0x69:0x1384] [CPU: 0x5384] [OrigLen: 20]
+JP: う〜ん……
+JP: どうすれば　いいのかな〜。
+CN: 唔～……
+CN: 咋办好～
+# [0226] [ROM: 0x1A53A7] [Bank: 0x69:0x13A7] [CPU: 0x53A7] [OrigLen: 14]
+JP: う〜ん……
+JP: どうしよう……
+CN: 唔～…
+CN: 怎么办
+# [0227] [ROM: 0x1A53B5] [Bank: 0x69:0x13B5] [CPU: 0x53B5] [OrigLen: 10]
+JP: あっ！　そうだ！！
+CN: 啊对了！
+# [0228] [ROM: 0x1A53BF] [Bank: 0x69:0x13BF] [CPU: 0x53BF] [OrigLen: 27]
+JP: さっき　みつけた
+JP: おきものを　つかってみようよ
+JP: <NAME>。
+CN: 把刚才道具
+CN: 试试吧
+CN: <NAME>。
+# [0229] [ROM: 0x1A53DA] [Bank: 0x69:0x13DA] [CPU: 0x53DA] [OrigLen: 31]
+JP: そうね！
+JP: おきものを
+JP: まじんぞうの　てに
+JP: おいてみましょう。
+CN: 对啊
+CN: 道具放到
+CN: 魔人偶手
+CN: 上试试
+# [0230] [ROM: 0x1A53F9] [Bank: 0x69:0x13F9] [CPU: 0x53F9] [OrigLen: 12]
+JP: トビラが　ひらいた！！
+CN: 门开了！！
+# [0231] [ROM: 0x1A5405] [Bank: 0x69:0x1405] [CPU: 0x5405] [OrigLen: 27]
+JP: やっぱり　この　おきものが
+JP: カギに　なってたんだよ。
+CN: 果然这个道具
+CN: 就是钥匙啊。
+# [0232] [ROM: 0x1A5420] [Bank: 0x69:0x1420] [CPU: 0x5420] [OrigLen: 24]
+JP: これで　なかに　はいれるね。
+JP: レッツゴー　<NAME>！
+CN: 这样能进去啦
+CN: 出发吧<NAME>！
+# [0233] [ROM: 0x1A5438] [Bank: 0x69:0x1438] [CPU: 0x5438] [OrigLen: 26]
+JP: さっき　みつけた
+JP: おきものを
+JP: つかってみましょう。
+CN: 把刚才道具
+CN: 试试看吧。
+# [0234] [ROM: 0x1A5452] [Bank: 0x69:0x1452] [CPU: 0x5452] [OrigLen: 34]
+JP: あっそうか！
+JP: その　おきものを
+JP: まじんぞうの　てに
+JP: おくんだね！！
+CN: 啊对了！
+CN: 道具要
+CN: 放到魔人偶
+CN: 手上啊
+# [0235] [ROM: 0x1A5474] [Bank: 0x69:0x1474] [CPU: 0x5474] [OrigLen: 8]
+JP: ええ　そうよ。
+CN: 嗯，是
+# [0236] [ROM: 0x1A547C] [Bank: 0x69:0x147C] [CPU: 0x547C] [OrigLen: 12]
+JP: トビラが　ひらいた！！
+CN: 门开了！！
+# [0237] [ROM: 0x1A5488] [Bank: 0x69:0x1488] [CPU: 0x5488] [OrigLen: 23]
+JP: この　おきものが
+JP: カギに　なってたんだね！！
+CN: 这道具
+CN: 原来是钥匙！！
+# [0238] [ROM: 0x1A549F] [Bank: 0x69:0x149F] [CPU: 0x549F] [OrigLen: 10]
+JP: <NAME>は　スゴイな〜。
+CN: <NAME>真厉害～
+# [0239] [ROM: 0x1A54A9] [Bank: 0x69:0x14A9] [CPU: 0x54A9] [OrigLen: 24]
+JP: これで　なかに　はいれるね。
+JP: レッツゴー　<NAME>！
+CN: 这样能进去啦
+CN: 出发吧<NAME>！
+# [0240] [ROM: 0x1A54C1] [Bank: 0x69:0x14C1] [CPU: 0x54C1] [OrigLen: 21]
+JP: こっちにも　おなじような
+JP: とうがあるよ。
+CN: 这边也有
+CN: 同样的塔。
+# [0241] [ROM: 0x1A54D6] [Bank: 0x69:0x14D6] [CPU: 0x54D6] [OrigLen: 24]
+JP: こっちは　はいれそうだね。
+JP: いってみよう　<NAME>。
+CN: 这边能进去呢。
+CN: 走吧<NAME>。
+# [0242] [ROM: 0x1A54EE] [Bank: 0x69:0x14EE] [CPU: 0x54EE] [OrigLen: 16]
+JP: なんか　ぶきみな
+JP: とうだね〜。
+CN: 好阴森的
+CN: 塔呀～
+# [0243] [ROM: 0x1A54FE] [Bank: 0x69:0x14FE] [CPU: 0x54FE] [OrigLen: 16]
+JP: アイリス
+JP: これは　なにかしら？
+CN: 爱丽丝
+CN: 这是什么
+# [0244] [ROM: 0x1A550E] [Bank: 0x69:0x150E] [CPU: 0x550E] [OrigLen: 13]
+JP: まものの　おきものだね。
+CN: 魔物的道具。
+# [0245] [ROM: 0x1A551B] [Bank: 0x69:0x151B] [CPU: 0x551B] [OrigLen: 35]
+JP: あれ？　<NAME>。
+JP: おきものの　うしろにある
+JP: まじんぞうに　みおぼえない？
+CN: 咦？<NAME>
+CN: 道具后面那尊
+CN: 魔人偶不眼熟吗
+# [0246] [ROM: 0x1A553E] [Bank: 0x69:0x153E] [CPU: 0x553E] [OrigLen: 15]
+JP: もうひとつの　とうのいりぐち
+CN: 另一座塔的入口
+# [0247] [ROM: 0x1A554D] [Bank: 0x69:0x154D] [CPU: 0x554D] [OrigLen: 14]
+JP: よきひこを　たすけたときの
+CN: 救良彦时的
+# [0248] [ROM: 0x1A555B] [Bank: 0x69:0x155B] [CPU: 0x555B] [OrigLen: 14]
+JP: せいまじょうの　いりぐちに
+CN: 生命场的入口
+# [0249] [ROM: 0x1A5569] [Bank: 0x69:0x1569] [CPU: 0x5569] [OrigLen: 32]
+JP: もうひとつの　とうの
+JP: いりぐちにあった　ぞうに
+JP: そっくりだわ。
+CN: 和另一座塔
+CN: 入口的像
+CN: 一模一样呢
+# [0250] [ROM: 0x1A5589] [Bank: 0x69:0x1589] [CPU: 0x5589] [OrigLen: 22]
+JP: うん。
+JP: アイリスも　そう
+JP: おもってたんだ。
+CN: 嗯。
+CN: 爱丽丝也
+CN: 这么想
+# [0251] [ROM: 0x1A559F] [Bank: 0x69:0x159F] [CPU: 0x559F] [OrigLen: 34]
+JP: なにか　かんけいが
+JP: あるかも　しれないね。
+JP: これ　もっていこうよ。
+CN: 或许有什么
+CN: 关联呢。
+CN: 带上它吧。
+# [0252] [ROM: 0x1A55C1] [Bank: 0x69:0x15C1] [CPU: 0x55C1] [OrigLen: 37]
+JP: よきひこさんを
+JP: たすけたときの
+JP: まじんぞうに
+JP: にている　きがするけど……
+CN: 觉得和救
+CN: 良彦先生时
+CN: 的魔人偶
+CN: 很像…
+# [0253] [ROM: 0x1A55E6] [Bank: 0x69:0x15E6] [CPU: 0x55E6] [OrigLen: 11]
+JP: エ〜ッ　ちがうよ〜。
+CN: 诶～不对～
+# [0254] [ROM: 0x1A55F1] [Bank: 0x69:0x15F1] [CPU: 0x55F1] [OrigLen: 35]
+JP: もうひとつの　とうの
+JP: いりぐちに　あった
+JP: ぞうに　そっくりなんだよ。
+CN: 和另一座塔
+CN: 入口那尊像
+CN: 一模一样哦。
+# [0255] [ROM: 0x1A5614] [Bank: 0x69:0x1614] [CPU: 0x5614] [OrigLen: 37]
+JP: この　おきものは　なにかに
+JP: つかえるかも　しれないから
+JP: もっていこうね。
+CN: 这个道具
+CN: 也许能派上用场，
+CN: 就带上吧。
+# [0256] [ROM: 0x1A5639] [Bank: 0x69:0x1639] [CPU: 0x5639] [OrigLen: 36]
+JP: せいまじょうの
+JP: いりぐちにあった
+JP: まじんぞうに　にている
+JP: きがするわ。
+CN: 觉得和
+CN: 生命场入口
+CN: 那尊魔人偶
+CN: 很像呢
+# [0257] [ROM: 0x1A565D] [Bank: 0x69:0x165D] [CPU: 0x565D] [OrigLen: 37]
+JP: それは　せいまじょう
+JP: じゃなくて　もうひとつの
+JP: とうの　いりぐちでしょ？
+CN: 那不是生命场
+CN: 是另一座塔
+CN: 的入口吧？
+# [0258] [ROM: 0x1A5682] [Bank: 0x69:0x1682] [CPU: 0x5682] [OrigLen: 16]
+JP: あっ！　そうそう。
+JP: そうだわ。
+CN: 啊！对了
+CN: 是呢。
+# [0259] [ROM: 0x1A5692] [Bank: 0x69:0x1692] [CPU: 0x5692] [OrigLen: 11]
+JP: しっかりしてよ　<NAME>。
+CN: 振作点<NAME>。
+# [0260] [ROM: 0x1A569D] [Bank: 0x69:0x169D] [CPU: 0x569D] [OrigLen: 37]
+JP: この　おきものは　なにかに
+JP: つかえるかも　しれないから
+JP: もっていこうね。
+CN: 这个道具
+CN: 也许能派上用场，
+CN: 就带上吧。
+# [0261] [ROM: 0x1A56D1] [Bank: 0x69:0x16D1] [CPU: 0x56D1] [OrigLen: 7]
+JP: わからない？
+CN: 不懂？
+# [0262] [ROM: 0x1A56D8] [Bank: 0x69:0x16D8] [CPU: 0x56D8] [OrigLen: 41]
+JP: このぞうは　もうひとつの
+JP: とうの　いりぐちに　あった
+JP: ぞうに　そっくりなんだよ。
+CN: 这像和另一座
+CN: 塔入口那尊
+CN: 一模一样哦。
+# [0263] [ROM: 0x1A5701] [Bank: 0x69:0x1701] [CPU: 0x5701] [OrigLen: 37]
+JP: なにか　かんけいが
+JP: あるかも　しれないから
+JP: このおきもの　もっていこう。
+CN: 或许有什么
+CN: 关联，带上
+CN: 这个道具吧。
+# [0264] [ROM: 0x1A5726] [Bank: 0x69:0x1726] [CPU: 0x5726] [OrigLen: 25]
+JP: まものの　おきものだ……
+JP: うわ〜　きみわるい……
+CN: 魔物的道具…
+CN: 哇好恶心…
+# [0265] [ROM: 0x1A573F] [Bank: 0x69:0x173F] [CPU: 0x573F] [OrigLen: 29]
+JP: ぶきみな　おきものだけど
+JP: もっていきましょう
+JP: アイリス。
+CN: 阴森的道具
+CN: 也带上吧
+CN: 爱丽丝。
+# [0266] [ROM: 0x1A575C] [Bank: 0x69:0x175C] [CPU: 0x575C] [OrigLen: 29]
+JP: <NAME>は　キーアイテム
+JP: 『サタンのおきもの』を
+JP: てにいれた。
+CN: <NAME>得到
+CN: 关键道具
+CN: 『撒旦摆饰』
+# [0267] [ROM: 0x1A5779] [Bank: 0x69:0x1779] [CPU: 0x5779] [OrigLen: 11]
+JP: じゃあ　いこう
+JP: <NAME>！
+CN: 那走吧
+CN: <NAME>！
+# [0268] [ROM: 0x1A5784] [Bank: 0x69:0x1784] [CPU: 0x5784] [OrigLen: 9]
+JP: なに！　なに！？
+CN: 什么！？
+# [0269] [ROM: 0x1A578D] [Bank: 0x69:0x178D] [CPU: 0x578D] [OrigLen: 19]
+JP: あっ！　アイリス！！
+JP: まものが！！！
+CN: 啊！爱丽丝！
+CN: 魔物
+# [0270] [ROM: 0x1A57A0] [Bank: 0x69:0x17A0] [CPU: 0x57A0] [OrigLen: 6]
+JP: やったね！
+CN: 好耶
+# [0271] [ROM: 0x1A57A6] [Bank: 0x69:0x17A6] [CPU: 0x57A6] [OrigLen: 5]
+JP: あっ！！
+CN: 啊！
+# [0272] [ROM: 0x1A57AB] [Bank: 0x69:0x17AB] [CPU: 0x57AB] [OrigLen: 23]
+JP: アイリス！　あれ！
+JP: ほのおの　まんなかに！！
+CN: 爱丽丝！看！
+CN: 在火中！
+# [0273] [ROM: 0x1A57C2] [Bank: 0x69:0x17C2] [CPU: 0x57C2] [OrigLen: 23]
+JP: あっ！
+JP: あれは『まじんき』の
+JP: 『たま』だ！！
+CN: 啊！
+CN: 魔神机
+CN: 『玉』！！
+# [0274] [ROM: 0x1A57D9] [Bank: 0x69:0x17D9] [CPU: 0x57D9] [OrigLen: 25]
+JP: でも……
+JP: ひにかこまれて
+JP: とりに　いけないわ……
+CN: 可是…
+CN: 被火围着
+CN: 拿不到…
+# [0275] [ROM: 0x1A57F2] [Bank: 0x69:0x17F2] [CPU: 0x57F2] [OrigLen: 30]
+JP: う〜ん……………………………
+JP: ……………………………………
+CN: 唔～………………
+CN: ………………
+# [0276] [ROM: 0x1A5810] [Bank: 0x69:0x1810] [CPU: 0x5810] [OrigLen: 15]
+JP: どうしよう………………………
+CN: 怎么办…………
+# [0277] [ROM: 0x1A581F] [Bank: 0x69:0x181F] [CPU: 0x581F] [OrigLen: 15]
+JP: ちょすいプールについてはなす
+CN: 说蓄水池的事
+# [0278] [ROM: 0x1A582E] [Bank: 0x69:0x182E] [CPU: 0x582E] [OrigLen: 11]
+JP: しょうかきを　さがす
+CN: 寻找灭火器
+# [0279] [ROM: 0x1A5839] [Bank: 0x69:0x1839] [CPU: 0x5839] [OrigLen: 10]
+JP: いきを　ふきかける
+CN: 哈一口气
+# [0280] [ROM: 0x1A5843] [Bank: 0x69:0x1843] [CPU: 0x5843] [OrigLen: 37]
+JP: たしか……となりの　とうの
+JP: おくじょうに　みずが
+JP: たくさんあったわよね。
+CN: 记得……旁边
+CN: 那座塔屋顶上
+CN: 有很多水呢
+# [0281] [ROM: 0x1A5868] [Bank: 0x69:0x1868] [CPU: 0x5868] [OrigLen: 30]
+JP: あれと　おなじものが
+JP: このとうにも
+JP: あるんじゃないかしら？
+CN: 这座塔里
+CN: 说不定
+CN: 也有同样的呢
+# [0282] [ROM: 0x1A5886] [Bank: 0x69:0x1886] [CPU: 0x5886] [OrigLen: 23]
+JP: おみず？…………………………
+JP: あっ　そうか！
+CN: 水？………
+CN: 啊，对了！
+# [0283] [ROM: 0x1A589D] [Bank: 0x69:0x189D] [CPU: 0x589D] [OrigLen: 40]
+JP: あれだけ　たくさんの
+JP: おみずが　あれば
+JP: このほのおを
+JP: けせるかもしれないね！！
+CN: 有那么多
+CN: 水的话，
+CN: 也许能熄灭
+CN: 这火焰！！
+# [0284] [ROM: 0x1A58C5] [Bank: 0x69:0x18C5] [CPU: 0x58C5] [OrigLen: 10]
+JP: <NAME>　あったまいー！
+CN: <NAME>真聪明～
+# [0285] [ROM: 0x1A58CF] [Bank: 0x69:0x18CF] [CPU: 0x58CF] [OrigLen: 20]
+JP: じゃあ　おくじょうへ
+JP: レッツ　ゴー！！
+CN: 那去屋顶
+CN: 出发吧！！
+# [0286] [ROM: 0x1A58E3] [Bank: 0x69:0x18E3] [CPU: 0x58E3] [OrigLen: 16]
+JP: しょうかきを
+JP: さがしましょう。
+CN: 去找
+CN: 灭火器吧。
+# [0287] [ROM: 0x1A58F3] [Bank: 0x69:0x18F3] [CPU: 0x58F3] [OrigLen: 39]
+JP: しょうかき？
+JP: ダメだよ。
+JP: このほのおは　しょうかき
+JP: なんかじゃ　きえないよ。
+CN: 灭火器？
+CN: 不行啦。
+CN: 灭火器
+CN: 灭不了这火。
+# [0288] [ROM: 0x1A591A] [Bank: 0x69:0x191A] [CPU: 0x591A] [OrigLen: 41]
+JP: しょうぼうしゃ　みたいに
+JP: たくさんの　おみずを
+JP: かけないと　きえないよ
+JP: きっと。
+CN: 得像消防车
+CN: 那样浇上
+CN: 大量的水
+CN: 才灭得掉。
+# [0289] [ROM: 0x1A5943] [Bank: 0x69:0x1943] [CPU: 0x5943] [OrigLen: 36]
+JP: う〜ん……
+JP: どうしようかなぁ〜……………
+JP: ……………………………………
+CN: 唔～……
+CN: 怎么办呀～…
+CN: ………………
+# [0290] [ROM: 0x1A5967] [Bank: 0x69:0x1967] [CPU: 0x5967] [OrigLen: 17]
+JP: フーフー　ふいて
+JP: みましょうか？
+CN: 呼呼吹吹
+CN: 好吗？
+# [0291] [ROM: 0x1A5978] [Bank: 0x69:0x1978] [CPU: 0x5978] [OrigLen: 8]
+JP: フーフーふく？
+CN: 吹口气
+# [0292] [ROM: 0x1A5980] [Bank: 0x69:0x1980] [CPU: 0x5980] [OrigLen: 24]
+JP: おたんじょうケーキの
+JP: ロウソクじゃないんだよ！
+CN: 又不是生日
+CN: 蛋糕蜡烛！
+# [0293] [ROM: 0x1A5998] [Bank: 0x69:0x1998] [CPU: 0x5998] [OrigLen: 27]
+JP: そんなので　このほのおが
+JP: きえるわけ　ないでしょ！！
+CN: 那种东西
+CN: 灭不了这火！！
+# [0294] [ROM: 0x1A59B3] [Bank: 0x69:0x19B3] [CPU: 0x59B3] [OrigLen: 14]
+JP: う〜ん……　どうしよう……
+CN: 唔～怎么办…
+# [0295] [ROM: 0x1A59CC] [Bank: 0x69:0x19CC] [CPU: 0x59CC] [OrigLen: 50]
+JP: かじ　みたいだから
+JP: しょうぼうしゃ　みたいに　
+JP: たくさんの　おみずを　
+JP: かけたら　きえるかもね……
+CN: 像火灾一样，
+CN: 像消防车
+CN: 那样浇很多水
+CN: 也许能熄灭……
+# [0296] [ROM: 0x1A59FE] [Bank: 0x69:0x19FE] [CPU: 0x59FE] [OrigLen: 14]
+JP: う〜ん……　どうしよう……
+CN: 唔～怎么办…
+# [0297] [ROM: 0x1A5A0C] [Bank: 0x69:0x1A0C] [CPU: 0x5A0C] [OrigLen: 16]
+JP: そうだ！！
+JP: おくじょうだ！！！
+CN: 对了！
+CN: 屋顶！！
+# [0298] [ROM: 0x1A5A1C] [Bank: 0x69:0x1A1C] [CPU: 0x5A1C] [OrigLen: 32]
+JP: となりの　とうのおくじょうに
+JP: おみずが　たくさん
+JP: あったよね！
+CN: 旁边塔的
+CN: 屋顶上有
+CN: 很多水吧！
+# [0299] [ROM: 0x1A5A3C] [Bank: 0x69:0x1A3C] [CPU: 0x5A3C] [OrigLen: 36]
+JP: あれだけの　おみずがあれば
+JP: この　ほのおを
+JP: けせるんじゃ　ないかな〜。
+CN: 有那么多水，
+CN: 这火焰
+CN: 应该能灭掉吧～
+# [0300] [ROM: 0x1A5A60] [Bank: 0x69:0x1A60] [CPU: 0x5A60] [OrigLen: 32]
+JP: こっちのとうにも
+JP: おみずが　あるかどうか
+JP: しらべにいこうよ！！
+CN: 这塔里
+CN: 有没有水
+CN: 去查查看吧！！
+# [0301] [ROM: 0x1A5A80] [Bank: 0x69:0x1A80] [CPU: 0x5A80] [OrigLen: 27]
+JP: うう〜ん……
+JP: こんなに　ほのおが
+JP: もえてるんじゃ……
+CN: 唔～…
+CN: 火这么旺
+CN: 没法灭……
+# [0302] [ROM: 0x1A5A9B] [Bank: 0x69:0x1A9B] [CPU: 0x5A9B] [OrigLen: 50]
+JP: かじ　みたいだから
+JP: しょうぼうしゃ　みたいに　
+JP: たくさんの　おみずを　
+JP: かけたら　きえるかもね……
+CN: 像火灾一样，
+CN: 像消防车
+CN: 那样浇很多水
+CN: 也许能熄灭……
+# [0303] [ROM: 0x1A5ACD] [Bank: 0x69:0x1ACD] [CPU: 0x5ACD] [OrigLen: 32]
+JP: ………………………う〜ん……
+JP: かんがえてても
+JP: しょうがないね。
+CN: ……唔～……
+CN: 再想也没
+CN: 办法呢。
+# [0304] [ROM: 0x1A5AED] [Bank: 0x69:0x1AED] [CPU: 0x5AED] [OrigLen: 16]
+JP: さきに　すすんでみようよ
+JP: <NAME>。
+CN: 先往前走吧
+CN: <NAME>。
+# [0305] [ROM: 0x1A5AFD] [Bank: 0x69:0x1AFD] [CPU: 0x5AFD] [OrigLen: 15]
+JP: ちょすいプールについてはなす
+CN: 说蓄水池的事
+# [0306] [ROM: 0x1A5B0C] [Bank: 0x69:0x1B0C] [CPU: 0x5B0C] [OrigLen: 11]
+JP: しょうかきを　さがす
+CN: 寻找灭火器
+# [0307] [ROM: 0x1A5B17] [Bank: 0x69:0x1B17] [CPU: 0x5B17] [OrigLen: 10]
+JP: いきを　ふきかける
+CN: 哈一口气
+# [0308] [ROM: 0x1A5B21] [Bank: 0x69:0x1B21] [CPU: 0x5B21] [OrigLen: 36]
+JP: たしか……この　とうの
+JP: おくじょうに
+JP: みずが　たくさん
+JP: あったわよね。
+CN: 记得……这座
+CN: 塔屋顶上
+CN: 有很多
+CN: 水呢。
+# [0309] [ROM: 0x1A5B45] [Bank: 0x69:0x1B45] [CPU: 0x5B45] [OrigLen: 23]
+JP: おみず？…………………………
+JP: あっ　そうか！
+CN: 水？………
+CN: 啊，对了！
+# [0310] [ROM: 0x1A5B5C] [Bank: 0x69:0x1B5C] [CPU: 0x5B5C] [OrigLen: 41]
+JP: あのプールいっぱいの
+JP: おみずを　つかえば
+JP: このほのおを
+JP: けせるかもしれないね！！
+CN: 那一池水
+CN: 用来灭火
+CN: 也许能
+CN: 熄灭这火焰！！
+# [0311] [ROM: 0x1A5B85] [Bank: 0x69:0x1B85] [CPU: 0x5B85] [OrigLen: 10]
+JP: <NAME>　あったまいー！
+CN: <NAME>真聪明～
+# [0312] [ROM: 0x1A5B8F] [Bank: 0x69:0x1B8F] [CPU: 0x5B8F] [OrigLen: 20]
+JP: じゃあ　おくじょうへ
+JP: レッツ　ゴー！！
+CN: 那去屋顶
+CN: 出发吧！！
+# [0313] [ROM: 0x1A5BA3] [Bank: 0x69:0x1BA3] [CPU: 0x5BA3] [OrigLen: 16]
+JP: しょうかきを
+JP: さがしましょう。
+CN: 去找
+CN: 灭火器吧。
+# [0314] [ROM: 0x1A5BB3] [Bank: 0x69:0x1BB3] [CPU: 0x5BB3] [OrigLen: 39]
+JP: しょうかき？
+JP: ダメだよ。
+JP: このほのおは　しょうかき
+JP: なんかじゃ　きえないよ。
+CN: 灭火器？
+CN: 不行啦。
+CN: 灭火器
+CN: 灭不了这火。
+# [0315] [ROM: 0x1A5BDA] [Bank: 0x69:0x1BDA] [CPU: 0x5BDA] [OrigLen: 41]
+JP: しょうぼうしゃ　みたいに
+JP: たくさんの　おみずを
+JP: かけないと　きえないよ
+JP: きっと。
+CN: 得像消防车
+CN: 那样浇上
+CN: 大量的水
+CN: 才灭得掉。
+# [0316] [ROM: 0x1A5C03] [Bank: 0x69:0x1C03] [CPU: 0x5C03] [OrigLen: 36]
+JP: う〜ん……
+JP: どうしようかなぁ〜……………
+JP: ……………………………………
+CN: 唔～……
+CN: 怎么办呀～…
+CN: ………………
+# [0317] [ROM: 0x1A5C27] [Bank: 0x69:0x1C27] [CPU: 0x5C27] [OrigLen: 17]
+JP: フーフー　ふいて
+JP: みましょうか？
+CN: 呼呼吹吹
+CN: 好吗？
+# [0318] [ROM: 0x1A5C38] [Bank: 0x69:0x1C38] [CPU: 0x5C38] [OrigLen: 8]
+JP: フーフーふく？
+CN: 吹口气
+# [0319] [ROM: 0x1A5C40] [Bank: 0x69:0x1C40] [CPU: 0x5C40] [OrigLen: 24]
+JP: おたんじょうケーキの
+JP: ロウソクじゃないんだよ！
+CN: 又不是生日
+CN: 蛋糕蜡烛！
+# [0320] [ROM: 0x1A5C58] [Bank: 0x69:0x1C58] [CPU: 0x5C58] [OrigLen: 27]
+JP: そんなので　このほのおが
+JP: きえるわけ　ないでしょ！！
+CN: 那种东西
+CN: 灭不了这火！！
+# [0321] [ROM: 0x1A5C73] [Bank: 0x69:0x1C73] [CPU: 0x5C73] [OrigLen: 14]
+JP: う〜ん……　どうしよう……
+CN: 唔～怎么办…
+# [0322] [ROM: 0x1A5C8C] [Bank: 0x69:0x1C8C] [CPU: 0x5C8C] [OrigLen: 50]
+JP: かじ　みたいだから
+JP: しょうぼうしゃ　みたいに　
+JP: たくさんの　おみずを　
+JP: かけたら　きえるかもね……
+CN: 像火灾一样，
+CN: 像消防车
+CN: 那样浇很多水
+CN: 也许能熄灭……
+# [0323] [ROM: 0x1A5CBE] [Bank: 0x69:0x1CBE] [CPU: 0x5CBE] [OrigLen: 14]
+JP: う〜ん……　どうしよう……
+CN: 唔～怎么办…
+# [0324] [ROM: 0x1A5CCC] [Bank: 0x69:0x1CCC] [CPU: 0x5CCC] [OrigLen: 16]
+JP: そうだ！！
+JP: おくじょうだ！！！
+CN: 对了！
+CN: 屋顶！！
+# [0325] [ROM: 0x1A5CDC] [Bank: 0x69:0x1CDC] [CPU: 0x5CDC] [OrigLen: 30]
+JP: このとうの　おくじょうに
+JP: おみずが　たくさん
+JP: あったよね！
+CN: 这座塔的
+CN: 屋顶上有
+CN: 很多水吧！
+# [0326] [ROM: 0x1A5CFA] [Bank: 0x69:0x1CFA] [CPU: 0x5CFA] [OrigLen: 36]
+JP: あれだけの　おみずがあれば
+JP: この　ほのおを
+JP: けせるんじゃ　ないかな〜。
+CN: 有那么多水，
+CN: 这火焰
+CN: 应该能灭掉吧～
+# [0327] [ROM: 0x1A5D1E] [Bank: 0x69:0x1D1E] [CPU: 0x5D1E] [OrigLen: 27]
+JP: もういちど　おくじょうへ
+JP: いって　しらべてみようよ！
+CN: 再回屋顶
+CN: 去查看一下吧！
+# [0328] [ROM: 0x1A5D39] [Bank: 0x69:0x1D39] [CPU: 0x5D39] [OrigLen: 28]
+JP: あら？
+JP: こっちにも　みずがたくさん
+JP: ためられているわ。
+CN: 咦？
+CN: 这边也积着
+CN: 好多水呢。
+# [0329] [ROM: 0x1A5D55] [Bank: 0x69:0x1D55] [CPU: 0x5D55] [OrigLen: 15]
+JP: なんだか　プールみたいだね。
+CN: 感觉像水池呢。
+# [0330] [ROM: 0x1A5D64] [Bank: 0x69:0x1D64] [CPU: 0x5D64] [OrigLen: 20]
+JP: どうして　こんなものが
+JP: あるのかしら？
+CN: 为何会有
+CN: 这种东西？
+# [0331] [ROM: 0x1A5D78] [Bank: 0x69:0x1D78] [CPU: 0x5D78] [OrigLen: 21]
+JP: このみず……なにかに
+JP: つかえないかしら。
+CN: 这水…
+CN: 能派上用场吗
+# [0332] [ROM: 0x1A5D8D] [Bank: 0x69:0x1D8D] [CPU: 0x5D8D] [OrigLen: 16]
+JP: あら？
+JP: これは　なにかしら……
+CN: 咦？
+CN: 是什么呢…
+# [0333] [ROM: 0x1A5D9D] [Bank: 0x69:0x1D9D] [CPU: 0x5D9D] [OrigLen: 24]
+JP: おみずが　たくさんあるよ。
+JP: プールみたいだね。
+CN: 好多水呀。
+CN: 像个小水池。
+# [0334] [ROM: 0x1A5DB5] [Bank: 0x69:0x1DB5] [CPU: 0x5DB5] [OrigLen: 20]
+JP: どうして　こんなものが
+JP: あるのかしら？
+CN: 为何会有
+CN: 这种东西？
+# [0335] [ROM: 0x1A5DC9] [Bank: 0x69:0x1DC9] [CPU: 0x5DC9] [OrigLen: 16]
+JP: アイリス！
+JP: みずが　あるわ！！
+CN: 爱丽丝！
+CN: 有水！
+# [0336] [ROM: 0x1A5DD9] [Bank: 0x69:0x1DD9] [CPU: 0x5DD9] [OrigLen: 41]
+JP: うわ〜　まんたんだ〜。
+JP: これだけあれば
+JP: あの　ほのおを　けせるかも
+JP: しれないね。
+CN: 哇～满满～
+CN: 有这么多
+CN: 也许能熄灭
+CN: 那火焰。
+# [0337] [ROM: 0x1A5E02] [Bank: 0x69:0x1E02] [CPU: 0x5E02] [OrigLen: 19]
+JP: うわ〜。
+JP: おみずが　いっぱいある〜。
+CN: 哇～
+CN: 好多水～
+# [0338] [ROM: 0x1A5E15] [Bank: 0x69:0x1E15] [CPU: 0x5E15] [OrigLen: 48]
+JP: …………これだけの　おみずが
+JP: あれば　もしかしたら……
+JP: あの　ほのおを
+JP: けせるかもしれないよ。
+CN: …有这么多
+CN: 水的话，
+CN: 说不定能熄灭
+CN: 那火焰呢。
+# [0339] [ROM: 0x1A5E45] [Bank: 0x69:0x1E45] [CPU: 0x5E45] [OrigLen: 26]
+JP: あっ！　これはなに？！
+JP: おみずが　いっぱいあるよ。
+CN: 啊！这是啥？！
+CN: 好多水呢。
+# [0340] [ROM: 0x1A5E5F] [Bank: 0x69:0x1E5F] [CPU: 0x5E5F] [OrigLen: 15]
+JP: これは　ちょすいプールだわ。
+CN: 这是蓄水池呢。
+# [0341] [ROM: 0x1A5E6E] [Bank: 0x69:0x1E6E] [CPU: 0x5E6E] [OrigLen: 48]
+JP: …………これだけの　おみずが
+JP: あれば　もしかしたら……
+JP: あの　ほのおを
+JP: けせるかもしれないよ。
+CN: …有这么多
+CN: 水的话，
+CN: 说不定能熄灭
+CN: 那火焰呢。
+# [0342] [ROM: 0x1A5E9E] [Bank: 0x69:0x1E9E] [CPU: 0x5E9E] [OrigLen: 40]
+JP: ところで　<NAME>。
+JP: この　おみずを　どうつかえば
+JP: あの　ほのおを
+JP: けせるのかな〜？
+CN: 对了<NAME>
+CN: 这水怎么用
+CN: 才能熄灭
+CN: 那火焰呢～？
+# [0343] [ROM: 0x1A5EC6] [Bank: 0x69:0x1EC6] [CPU: 0x5EC6] [OrigLen: 16]
+JP: プールをこわして　したにながす
+CN: 破坏水池放水
+# [0344] [ROM: 0x1A5ED6] [Bank: 0x69:0x1ED6] [CPU: 0x5ED6] [OrigLen: 9]
+JP: バケツで　はこぶ
+CN: 用桶运水
+# [0345] [ROM: 0x1A5EDF] [Bank: 0x69:0x1EDF] [CPU: 0x5EDF] [OrigLen: 13]
+JP: パイプをしたまで　とおす
+CN: 管道通到下面
+# [0346] [ROM: 0x1A5EEC] [Bank: 0x69:0x1EEC] [CPU: 0x5EEC] [OrigLen: 41]
+JP: プールを　こわすのよ！
+JP: そうすれば　いっきに　みずが
+JP: したに　ながれていくわ！！
+CN: 弄坏水池！
+CN: 水就会一口气
+CN: 流到下面！！
+# [0347] [ROM: 0x1A5F15] [Bank: 0x69:0x1F15] [CPU: 0x5F15] [OrigLen: 40]
+JP: これだけの　みずが
+JP: ながれ　おちれば
+JP: あの　ほのおも
+JP: きえるんじゃないかしら。
+CN: 这么多水
+CN: 流下去的话
+CN: 那火焰
+CN: 也会熄灭吧。
+# [0348] [ROM: 0x1A5F3D] [Bank: 0x69:0x1F3D] [CPU: 0x5F3D] [OrigLen: 16]
+JP: そうか！！
+JP: <NAME>　てんさーい！！
+CN: 对呀！
+CN: <NAME>天才！
+# [0349] [ROM: 0x1A5F4D] [Bank: 0x69:0x1F4D] [CPU: 0x5F4D] [OrigLen: 28]
+JP: よーし！
+JP: じゃあ　まんなかにある
+JP: せんを　こわそう！！
+CN: 好！
+CN: 弄坏中间
+CN: 的栓！！
+# [0350] [ROM: 0x1A5F69] [Bank: 0x69:0x1F69] [CPU: 0x5F69] [OrigLen: 40]
+JP: バケツを　つかうのよ。
+JP: バケツリレーで
+JP: このみずを　したまで
+JP: はこびましょう。
+CN: 用水桶。
+CN: 用水桶接力
+CN: 把水运到
+CN: 下面去吧。
+# [0351] [ROM: 0x1A5F91] [Bank: 0x69:0x1F91] [CPU: 0x5F91] [OrigLen: 29]
+JP: え〜　アイリス
+JP: そんな　つかれること
+JP: やりたくないよ〜。
+CN: 诶～爱丽丝
+CN: 那么累
+CN: 不想做～。
+# [0352] [ROM: 0x1A5FAE] [Bank: 0x69:0x1FAE] [CPU: 0x5FAE] [OrigLen: 36]
+JP: ……………………………………
+JP: ……………………………………
+JP: そうだ！！
+CN: ………………
+CN: ………………
+CN: 对了！！
+# [0353] [ROM: 0x1A5FD2] [Bank: 0x69:0x1FD2] [CPU: 0x5FD2] [OrigLen: 24]
+JP: まんなかにある
+JP: プールの　せんを
+JP: こわそうよ！
+CN: 中间
+CN: 水池的栓
+CN: 弄坏它！
+# [0354] [ROM: 0x1A5FEA] [Bank: 0x69:0x1FEA] [CPU: 0x5FEA] [OrigLen: 27]
+JP: そしたら　おみずが
+JP: したに　ながれて
+JP: いっちゃうよ。
+CN: 水就会
+CN: 流到下面
+CN: 去了哦。
+# [0355] [ROM: 0x1A6005] [Bank: 0x69:0x2005] [CPU: 0x6005] [OrigLen: 32]
+JP: パイプを　ひきましょう！
+JP: みずを　したまで
+JP: ゆうどうするのよ！
+CN: 接管道吧！
+CN: 把水引导到
+CN: 下面去！
+# [0356] [ROM: 0x1A6025] [Bank: 0x69:0x2025] [CPU: 0x6025] [OrigLen: 31]
+JP: え〜　アイリス
+JP: そんな　めんどくさいこと
+JP: やりたくないよ〜。
+CN: 诶～爱丽丝
+CN: 那么麻烦
+CN: 不想做～。
+# [0357] [ROM: 0x1A6044] [Bank: 0x69:0x2044] [CPU: 0x6044] [OrigLen: 36]
+JP: ……………………………………
+JP: ……………………………………
+JP: そうだ！！
+CN: ………………
+CN: ………………
+CN: 对了！！
+# [0358] [ROM: 0x1A6068] [Bank: 0x69:0x2068] [CPU: 0x6068] [OrigLen: 24]
+JP: まんなかにある
+JP: プールの　せんを
+JP: こわそうよ！
+CN: 中间
+CN: 水池的栓
+CN: 弄坏它！
+# [0359] [ROM: 0x1A6080] [Bank: 0x69:0x2080] [CPU: 0x6080] [OrigLen: 27]
+JP: そしたら　おみずが
+JP: したに　ながれて
+JP: いっちゃうよ。
+CN: 水就会
+CN: 流到下面
+CN: 去了哦。
+# [0360] [ROM: 0x1A60AA] [Bank: 0x69:0x20AA] [CPU: 0x60AA] [OrigLen: 36]
+JP: ……………………………………
+JP: ……………………………………
+JP: そうだ！！
+CN: ………………
+CN: ………………
+CN: 对了！！
+# [0361] [ROM: 0x1A60CE] [Bank: 0x69:0x20CE] [CPU: 0x60CE] [OrigLen: 24]
+JP: まんなかにある
+JP: プールの　せんを
+JP: こわそうよ！
+CN: 中间
+CN: 水池的栓
+CN: 弄坏它！
+# [0362] [ROM: 0x1A60E6] [Bank: 0x69:0x20E6] [CPU: 0x60E6] [OrigLen: 27]
+JP: そしたら　おみずが
+JP: したに　ながれて
+JP: いっちゃうよ。
+CN: 水就会
+CN: 流到下面
+CN: 去了哦。
+# [0363] [ROM: 0x1A6101] [Bank: 0x69:0x2101] [CPU: 0x6101] [OrigLen: 25]
+JP: しまった！
+JP: てきが　あらわれたわ！
+JP: アイリス！！
+CN: 糟了！
+CN: 有敌人！
+CN: 爱丽丝！
+# [0364] [ROM: 0x1A611A] [Bank: 0x69:0x211A] [CPU: 0x611A] [OrigLen: 36]
+JP: そんなの　ほっといて！
+JP: ちょすいプールの　せんだけを
+JP: こうげきしよう！
+CN: 别管那些！
+CN: 只攻击蓄水池
+CN: 的栓就好！
+# [0365] [ROM: 0x1A613E] [Bank: 0x69:0x213E] [CPU: 0x613E] [OrigLen: 26]
+JP: やったわ！！
+JP: あっ！
+JP: キャ〜〜！　ながされるぅ……
+CN: 成功！
+CN: 啊！
+CN: 呀～被冲走…
+# [0366] [ROM: 0x1A6158] [Bank: 0x69:0x2158] [CPU: 0x6158] [OrigLen: 35]
+JP: この　おみずを　どうつかって
+JP: あの　ほのおを
+JP: けしたらいいのかなー。
+CN: 这水要怎么用
+CN: 才能熄灭
+CN: 那火焰呢～？
+# [0367] [ROM: 0x1A617B] [Bank: 0x69:0x217B] [CPU: 0x617B] [OrigLen: 8]
+JP: そうね…………
+CN: 是啊…
+# [0368] [ROM: 0x1A6183] [Bank: 0x69:0x2183] [CPU: 0x6183] [OrigLen: 16]
+JP: プールをこわして　したにながす
+CN: 破坏水池放水
+# [0369] [ROM: 0x1A6193] [Bank: 0x69:0x2193] [CPU: 0x6193] [OrigLen: 9]
+JP: バケツで　はこぶ
+CN: 用桶运水
+# [0370] [ROM: 0x1A619C] [Bank: 0x69:0x219C] [CPU: 0x619C] [OrigLen: 13]
+JP: パイプをしたまで　とおす
+CN: 管道通到下面
+# [0371] [ROM: 0x1A61A9] [Bank: 0x69:0x21A9] [CPU: 0x61A9] [OrigLen: 7]
+JP: あいた〜……
+CN: 好痛～
+# [0372] [ROM: 0x1A61B0] [Bank: 0x69:0x21B0] [CPU: 0x61B0] [OrigLen: 20]
+JP: あっ！
+JP: ほのおが　きえてるよ
+JP: <NAME>！！！
+CN: 啊！
+CN: 火灭了呀
+CN: <NAME>！！
+# [0373] [ROM: 0x1A61C4] [Bank: 0x69:0x21C4] [CPU: 0x61C4] [OrigLen: 17]
+JP: ほんとだ！
+JP: だいせいこうだわ！！
+CN: 真的！
+CN: 成功啦！
+# [0374] [ROM: 0x1A61D5] [Bank: 0x69:0x21D5] [CPU: 0x61D5] [OrigLen: 24]
+JP: よーし！
+JP: 『まじんき』を
+JP: とりもどそう
+JP: <NAME>！！
+CN: 好！
+CN: 夺回
+CN: 魔神机
+CN: <NAME>！！
+# [0375] [ROM: 0x1A61ED] [Bank: 0x69:0x21ED] [CPU: 0x61ED] [OrigLen: 37]
+JP: あらららららら。
+JP: だれですか？
+JP: きょかも　なしに
+JP: ほのおを　けしたのは？
+CN: 哎呀呀呀。
+CN: 是谁？
+CN: 未经许可
+CN: 灭火了？
+# [0376] [ROM: 0x1A6212] [Bank: 0x69:0x2212] [CPU: 0x6212] [OrigLen: 13]
+JP: あなたたち　なんですか？
+CN: 你们是谁？
+# [0377] [ROM: 0x1A621F] [Bank: 0x69:0x221F] [CPU: 0x621F] [OrigLen: 12]
+JP: おまえは　なにもの！！
+CN: 你是什么人
+# [0378] [ROM: 0x1A622B] [Bank: 0x69:0x222B] [CPU: 0x622B] [OrigLen: 46]
+JP: あらららららら。
+JP: きいているのは　このわたくし
+JP: なのに。　おバカちゃんなの？
+JP: あなたたち？
+CN: 哎呀呀呀。
+CN: 该提问的是
+CN: 本小姐吧。
+CN: 小笨蛋吗？
+# [0379] [ROM: 0x1A6259] [Bank: 0x69:0x2259] [CPU: 0x6259] [OrigLen: 15]
+JP: アイリス　バカじゃないもん！
+CN: 爱丽丝才不笨！
+# [0380] [ROM: 0x1A6268] [Bank: 0x69:0x2268] [CPU: 0x6268] [OrigLen: 46]
+JP: あらららららら。
+JP: こども　だったんですね。
+JP: こどもを　あいてにしても
+JP: じかんのムダですね。
+CN: 哎呀呀呀。
+CN: 是小孩啊。
+CN: 跟小孩计较
+CN: 浪费时间呢。
+# [0381] [ROM: 0x1A6296] [Bank: 0x69:0x2296] [CPU: 0x6296] [OrigLen: 37]
+JP: じゃ　もういちど
+JP: ほのおを　もやして
+JP: おしごとの　つづきを
+JP: しましょう。
+CN: 那就重新
+CN: 点起火来
+CN: 继续我的
+CN: 工作吧。
+# [0382] [ROM: 0x1A62BB] [Bank: 0x69:0x22BB] [CPU: 0x62BB] [OrigLen: 18]
+JP: アイリス　こどもじゃ
+JP: ないもん！！
+CN: 爱丽丝不是
+CN: 小孩！
+# [0383] [ROM: 0x1A62CD] [Bank: 0x69:0x22CD] [CPU: 0x62CD] [OrigLen: 32]
+JP: アイリス。
+JP: そんなことより
+JP: なにを　しているのか
+JP: きかないと。
+CN: 爱丽丝。
+CN: 先要问
+CN: 它在做啥
+CN: 才行。
+# [0384] [ROM: 0x1A62ED] [Bank: 0x69:0x22ED] [CPU: 0x62ED] [OrigLen: 24]
+JP: そ　そうだね……
+JP: おまえは　なにを
+JP: してるの！
+CN: 说得对…
+CN: 你在做
+CN: 什么！
+# [0385] [ROM: 0x1A6305] [Bank: 0x69:0x2305] [CPU: 0x6305] [OrigLen: 35]
+JP: あらららららら。
+JP: わたくしが　ほのおで
+JP: 『たま』を　まもっている……
+CN: 哎呀呀呀。
+CN: 我用火焰
+CN: 守护『玉』……
+# [0386] [ROM: 0x1A6328] [Bank: 0x69:0x2328] [CPU: 0x6328] [OrigLen: 34]
+JP: それぐらいのこと
+JP: みたら　わかるじゃ
+JP: ないですか。　おバカちゃん。
+CN: 这种事
+CN: 看了就明白
+CN: 吧。小笨蛋。
+# [0387] [ROM: 0x1A634A] [Bank: 0x69:0x234A] [CPU: 0x634A] [OrigLen: 26]
+JP: アイリス　バカじゃない……
+JP: バカじゃないもん〜……
+CN: 爱丽丝不笨…
+CN: 不笨嘛～……
+# [0388] [ROM: 0x1A6364] [Bank: 0x69:0x2364] [CPU: 0x6364] [OrigLen: 28]
+JP: ア　アイリスが
+JP: ないちゃった……
+JP: どうしようかしら……
+CN: 爱丽丝
+CN: 哭了……
+CN: 怎么办……
+# [0389] [ROM: 0x1A6380] [Bank: 0x69:0x2380] [CPU: 0x6380] [OrigLen: 11]
+JP: アイリスを　はげます
+CN: 鼓励爱丽丝
+# [0390] [ROM: 0x1A638B] [Bank: 0x69:0x238B] [CPU: 0x638B] [OrigLen: 10]
+JP: アイリスを　かばう
+CN: 护爱丽丝
+# [0391] [ROM: 0x1A6395] [Bank: 0x69:0x2395] [CPU: 0x6395] [OrigLen: 37]
+JP: アイリスがんばって！
+JP: まものの　いうことなんか
+JP: きにしちゃ　いけないわ！
+CN: 爱丽丝加油！
+CN: 魔物的话
+CN: 别放在心上！
+# [0392] [ROM: 0x1A63BA] [Bank: 0x69:0x23BA] [CPU: 0x63BA] [OrigLen: 12]
+JP: ……うん。
+JP: わかった。
+CN: …嗯。
+CN: 好。
+# [0393] [ROM: 0x1A63C6] [Bank: 0x69:0x23C6] [CPU: 0x63C6] [OrigLen: 33]
+JP: おまえは　だれに　いわれて
+JP: 『まじんき』を　まもって
+JP: いるの！！
+CN: 你是被谁
+CN: 指使守护
+CN: 魔神机！！
+# [0394] [ROM: 0x1A63E7] [Bank: 0x69:0x23E7] [CPU: 0x63E7] [OrigLen: 35]
+JP: ア　アイリスが
+JP: ないちゃった……
+JP: よくも　アイリスを
+JP: なかしたわね！
+CN: 爱丽丝
+CN: 哭了……
+CN: 竟敢惹哭
+CN: 爱丽丝！
+# [0395] [ROM: 0x1A640A] [Bank: 0x69:0x240A] [CPU: 0x640A] [OrigLen: 10]
+JP: ゆるさないわよ！！
+CN: 不饶你！
+# [0396] [ROM: 0x1A6418] [Bank: 0x69:0x2418] [CPU: 0x6418] [OrigLen: 37]
+JP: おまえは　いったい
+JP: だれにいわれて　『まじんき』
+JP: を　まもっているの！！
+CN: 你到底是
+CN: 受谁指使
+CN: 守护魔神机！！
+# [0397] [ROM: 0x1A645B] [Bank: 0x69:0x245B] [CPU: 0x645B] [OrigLen: 41]
+JP: そうだわ。
+JP: だれにいわれて　『まじんき』
+JP: を　まもっているのか
+JP: ききださないと。
+CN: 对呢。
+CN: 得问出它
+CN: 受谁指使
+CN: 守护魔神机。
+# [0398] [ROM: 0x1A6484] [Bank: 0x69:0x2484] [CPU: 0x6484] [OrigLen: 37]
+JP: おまえは　いったい
+JP: だれにいわれて　『まじんき』
+JP: を　まもっているの！！
+CN: 你到底是
+CN: 受谁指使
+CN: 守护魔神机！！
+# [0399] [ROM: 0x1A64A9] [Bank: 0x69:0x24A9] [CPU: 0x64A9] [OrigLen: 32]
+JP: え？　だれにいわれて
+JP: この『たま』を
+JP: まもっているか？　って。
+CN: 咦？问
+CN: 受谁指使
+CN: 守护『玉』？
+# [0400] [ROM: 0x1A64C9] [Bank: 0x69:0x24C9] [CPU: 0x64C9] [OrigLen: 43]
+JP: それは　ちょっと
+JP: かんべんしてください。
+JP: 『まかいおうさま』の…なんて
+JP: いえません。
+CN: 那个嘛，
+CN: 请恕我
+CN: 不能说。
+CN: 『魔界王大人』…
+# [0401] [ROM: 0x1A64F4] [Bank: 0x69:0x24F4] [CPU: 0x64F4] [OrigLen: 9]
+JP: 『まかいおう』？
+CN: 魔界王？
+# [0402] [ROM: 0x1A64FD] [Bank: 0x69:0x24FD] [CPU: 0x64FD] [OrigLen: 33]
+JP: あらららららら。
+JP: あなたたち　ひみつをしって
+JP: しまったのですね。
+CN: 哎呀呀呀。
+CN: 你们已经
+CN: 知道秘密了。
+# [0403] [ROM: 0x1A651E] [Bank: 0x69:0x251E] [CPU: 0x651E] [OrigLen: 36]
+JP: しかたありません。
+JP: やっつけちゃいましょう。
+JP: かかって　いらっしゃい。
+CN: 没办法。
+CN: 解决掉你们。
+CN: 放马过来吧。
+# [0404] [ROM: 0x1A6542] [Bank: 0x69:0x2542] [CPU: 0x6542] [OrigLen: 35]
+JP: すみませーーーん！
+JP: 『たま』をうばわれて
+JP: しまいましたーーーーー！！
+CN: 对不起——！
+CN: 『玉』被抢
+CN: 走了！！
+# [0405] [ROM: 0x1A6565] [Bank: 0x69:0x2565] [CPU: 0x6565] [OrigLen: 24]
+JP: <NAME>は
+JP: 『まじんき<81>よたま』を
+JP: かいしゅうした。
+CN: <NAME>
+CN: 回收了
+CN: 『魔神机之玉』
+# [0406] [ROM: 0x1A657D] [Bank: 0x69:0x257D] [CPU: 0x657D] [OrigLen: 11]
+JP: やったね　アイリス！
+CN: 爱丽丝好棒
+# [0407] [ROM: 0x1A6588] [Bank: 0x69:0x2588] [CPU: 0x6588] [OrigLen: 12]
+JP: うん！
+JP: やったね　<NAME>！
+CN: 嗯！
+CN: <NAME>好棒
+# [0408] [ROM: 0x1A6594] [Bank: 0x69:0x2594] [CPU: 0x6594] [OrigLen: 17]
+JP: じゃあ　
+JP: ていげきに　もどろう！
+CN: 那么
+CN: 回帝剧吧！
+# [0409] [ROM: 0x1A65A5] [Bank: 0x69:0x25A5] [CPU: 0x65A5] [OrigLen: 13]
+JP: これは　なに？
+JP: プール？
+CN: 啥？
+CN: 水池？
+# [0410] [ROM: 0x1A65B2] [Bank: 0x69:0x25B2] [CPU: 0x65B2] [OrigLen: 35]
+JP: そうね。
+JP: みずを　ためておくための
+JP: ちょすいプール
+JP: じゃないかしら。
+CN: 是啊。
+CN: 用来蓄水
+CN: 的蓄水池
+CN: 不是吗？
+# [0411] [ROM: 0x1A65D5] [Bank: 0x69:0x25D5] [CPU: 0x65D5] [OrigLen: 16]
+JP: ふ〜ん……
+JP: ところでさー　<NAME>。
+CN: 哼～……
+CN: 话说<NAME>
+# [0412] [ROM: 0x1A65E5] [Bank: 0x69:0x25E5] [CPU: 0x65E5] [OrigLen: 40]
+JP: 『まじんき』を　かこんでいる
+JP: ほのおを　けす　ほうほうは
+JP: なにか　みつかった？
+CN: 熄灭包围
+CN: 魔神机的火焰
+CN: 方法找到了吗？
+# [0413] [ROM: 0x1A660D] [Bank: 0x69:0x260D] [CPU: 0x660D] [OrigLen: 3]
+JP: うん
+CN: 嗯
+# [0414] [ROM: 0x1A6610] [Bank: 0x69:0x2610] [CPU: 0x6610] [OrigLen: 7]
+JP: みつからない
+CN: 没找到
+# [0415] [ROM: 0x1A6617] [Bank: 0x69:0x2617] [CPU: 0x6617] [OrigLen: 20]
+JP: それが……
+JP: まだ　みつからないのよ……
+CN: 问题是…
+CN: 还没找到…
+# [0416] [ROM: 0x1A662B] [Bank: 0x69:0x262B] [CPU: 0x662B] [OrigLen: 27]
+JP: そうなの……
+JP: なんか　いいアイデアは
+JP: ないかな〜……
+CN: 这样啊…
+CN: 有好点子
+CN: 吗～……
+# [0417] [ROM: 0x1A6646] [Bank: 0x69:0x2646] [CPU: 0x6646] [OrigLen: 24]
+JP: うん。　みつかったわ。
+JP: バッチリよ　アイリス。
+CN: 嗯，找到了
+CN: 完美哦爱丽丝
+# [0418] [ROM: 0x1A665E] [Bank: 0x69:0x265E] [CPU: 0x665E] [OrigLen: 16]
+JP: ホント？！
+JP: どんな　ほうほう？
+CN: 真的？
+CN: 啥方法？
+# [0419] [ROM: 0x1A666E] [Bank: 0x69:0x266E] [CPU: 0x666E] [OrigLen: 14]
+JP: たいりょうの　みずをかける
+CN: 浇大量的水
+# [0420] [ROM: 0x1A667C] [Bank: 0x69:0x267C] [CPU: 0x667C] [OrigLen: 11]
+JP: しょうかきを　さがす
+CN: 寻找灭火器
+# [0421] [ROM: 0x1A6687] [Bank: 0x69:0x2687] [CPU: 0x6687] [OrigLen: 13]
+JP: きょだいウチワで　あおぐ
+CN: 用大团扇扇风
+# [0422] [ROM: 0x1A6694] [Bank: 0x69:0x2694] [CPU: 0x6694] [OrigLen: 39]
+JP: たいりょうの　みずを
+JP: かければ　あの　ほのおでも
+JP: きえるんじゃ　ないかしら？
+CN: 浇上大量的水
+CN: 那火焰
+CN: 应该也会熄灭吧？
+# [0423] [ROM: 0x1A66BB] [Bank: 0x69:0x26BB] [CPU: 0x66BB] [OrigLen: 32]
+JP: そりゃ　そうだけど……
+JP: たいりょうの　みずって
+JP: どこにあるの？
+CN: 话是没错…
+CN: 可大量的水
+CN: 在哪呢？
+# [0424] [ROM: 0x1A66DB] [Bank: 0x69:0x26DB] [CPU: 0x66DB] [OrigLen: 12]
+JP: この　ちょすいプールに
+CN: 这个蓄水池
+# [0425] [ROM: 0x1A66E7] [Bank: 0x69:0x26E7] [CPU: 0x66E7] [OrigLen: 11]
+JP: これから　さがすのよ
+CN: 接下来去找
+# [0426] [ROM: 0x1A6701] [Bank: 0x69:0x2701] [CPU: 0x6701] [OrigLen: 18]
+JP: ないの？
+JP: それじゃ　ダメじゃない。
+CN: 没有吗？
+CN: 那不行。
+# [0427] [ROM: 0x1A6713] [Bank: 0x69:0x2713] [CPU: 0x6713] [OrigLen: 26]
+JP: う〜ん……
+JP: なにか　いいアイデアは
+JP: ないかな〜……
+CN: 唔～…
+CN: 有好点子
+CN: 吗～……
+# [0428] [ROM: 0x1A672D] [Bank: 0x69:0x272D] [CPU: 0x672D] [OrigLen: 16]
+JP: それは　これから
+JP: さがすのよ。
+CN: 那个以后
+CN: 再找。
+# [0429] [ROM: 0x1A673D] [Bank: 0x69:0x273D] [CPU: 0x673D] [OrigLen: 19]
+JP: エエッ？！
+JP: それじゃ　ダメじゃない。
+CN: 诶？！
+CN: 那可不行。
+# [0430] [ROM: 0x1A6750] [Bank: 0x69:0x2750] [CPU: 0x6750] [OrigLen: 26]
+JP: う〜ん……
+JP: なにか　いいアイデアは
+JP: ないかな〜……
+CN: 唔～…
+CN: 有好点子
+CN: 吗～……
+# [0431] [ROM: 0x1A676A] [Bank: 0x69:0x276A] [CPU: 0x676A] [OrigLen: 25]
+JP: この　ちょすいプールに
+JP: たくさん　あるじゃない。
+CN: 这蓄水池
+CN: 里不是很多吗。
+# [0432] [ROM: 0x1A6783] [Bank: 0x69:0x2783] [CPU: 0x6783] [OrigLen: 37]
+JP: あっ　そうか！
+JP: ちょすいプールを　こわして
+JP: みずをながせば　いいんだ！！
+CN: 啊，对了！
+CN: 弄坏蓄水池
+CN: 放水就行！！
+# [0433] [ROM: 0x1A67A8] [Bank: 0x69:0x27A8] [CPU: 0x67A8] [OrigLen: 17]
+JP: <NAME>　あったまいい〜
+JP: やるぅ〜！！
+CN: <NAME>聪明～
+CN: 来劲～！
+# [0434] [ROM: 0x1A67B9] [Bank: 0x69:0x27B9] [CPU: 0x67B9] [OrigLen: 12]
+JP: じゃあ　レッツゴー！！
+CN: 出发吧！！
+# [0435] [ROM: 0x1A67C5] [Bank: 0x69:0x27C5] [CPU: 0x67C5] [OrigLen: 17]
+JP: <NAME>　あったまいい〜
+JP: やるぅ〜！！
+CN: <NAME>聪明～
+CN: 来劲～！
+# [0436] [ROM: 0x1A67D6] [Bank: 0x69:0x27D6] [CPU: 0x67D6] [OrigLen: 12]
+JP: じゃあ　レッツゴー！！
+CN: 出发吧！！
+# [0437] [ROM: 0x1A67E2] [Bank: 0x69:0x27E2] [CPU: 0x67E2] [OrigLen: 16]
+JP: しょうかきを
+JP: さがしましょう。
+CN: 去找
+CN: 灭火器吧。
+# [0438] [ROM: 0x1A67F2] [Bank: 0x69:0x27F2] [CPU: 0x67F2] [OrigLen: 40]
+JP: しょうかき？
+JP: ダメだよ。
+JP: この　ほのおは　しょうかき
+JP: なんかじゃ　きえないよ。
+CN: 灭火器？
+CN: 不行啦。
+CN: 灭火器
+CN: 灭不了这火。
+# [0439] [ROM: 0x1A681A] [Bank: 0x69:0x281A] [CPU: 0x681A] [OrigLen: 41]
+JP: しょうぼうしゃ　みたいに
+JP: たくさんの　おみずを
+JP: かけないと　きえないよ
+JP: きっと。
+CN: 得像消防车
+CN: 那样浇上
+CN: 大量的水
+CN: 才灭得掉。
+# [0440] [ROM: 0x1A6843] [Bank: 0x69:0x2843] [CPU: 0x6843] [OrigLen: 27]
+JP: う〜ん……
+JP: なんか　いいアイデア……
+JP: ないかな〜……
+CN: 唔～…
+CN: 有什么好
+CN: 点子吗～…
+# [0441] [ROM: 0x1A685E] [Bank: 0x69:0x285E] [CPU: 0x685E] [OrigLen: 28]
+JP: きょだいなウチワで　あおぐ
+JP: っていうのは　どうかしら？
+CN: 用大团扇扇风
+CN: 你看如何？
+# [0442] [ROM: 0x1A687A] [Bank: 0x69:0x287A] [CPU: 0x687A] [OrigLen: 24]
+JP: きょだいなウチワ？
+JP: そんなの　どこに　あるの？
+CN: 大团扇？
+CN: 那种东西在哪？
+# [0443] [ROM: 0x1A6892] [Bank: 0x69:0x2892] [CPU: 0x6892] [OrigLen: 12]
+JP: これから　さがすのよ。
+CN: 接下来找。
+# [0444] [ROM: 0x1A689E] [Bank: 0x69:0x289E] [CPU: 0x689E] [OrigLen: 49]
+JP: エエ〜　いまから
+JP: さがすのは　たいへんだよ。
+JP: それに　こんなところに
+JP: うちわなんて　ないよぉ……
+CN: 诶～现在
+CN: 去找太累啦。
+CN: 这种地方…
+CN: 哪有团扇呀……
+# [0445] [ROM: 0x1A68CF] [Bank: 0x69:0x28CF] [CPU: 0x68CF] [OrigLen: 23]
+JP: なんか　べつの　ほうほうを
+JP: かんがえようよ。
+CN: 想个别的
+CN: 方法吧。
+# [0446] [ROM: 0x1A68E6] [Bank: 0x69:0x28E6] [CPU: 0x68E6] [OrigLen: 14]
+JP: う〜ん……　どうしよう……
+CN: 唔～怎么办…
+# [0447] [ROM: 0x1A68F4] [Bank: 0x69:0x28F4] [CPU: 0x68F4] [OrigLen: 46]
+JP: しょうぼうしゃ　みたいに　
+JP: たくさんの　おみずを　
+JP: かけることが　できたら
+JP: きえるのにな〜
+CN: 要是能像
+CN: 消防车那样
+CN: 浇上大量的水
+CN: 就能灭了～
+# [0448] [ROM: 0x1A6922] [Bank: 0x69:0x2922] [CPU: 0x6922] [OrigLen: 27]
+JP: う〜ん……
+JP: なんか　いいアイデア……
+JP: ないかな〜……
+CN: 唔～…
+CN: 有什么好
+CN: 点子吗～…
+# [0449] [ROM: 0x1A6948] [Bank: 0x69:0x2948] [CPU: 0x6948] [OrigLen: 46]
+JP: しょうぼうしゃ　みたいに　
+JP: たくさんの　おみずを　
+JP: かけることが　できたら
+JP: きえるのにな〜
+CN: 要是能像
+CN: 消防车那样
+CN: 浇上大量的水
+CN: 就能灭了～
+# [0450] [ROM: 0x1A6976] [Bank: 0x69:0x2976] [CPU: 0x6976] [OrigLen: 27]
+JP: う〜ん……
+JP: なんか　いいアイデア……
+JP: ないかな〜……
+CN: 唔～…
+CN: 有什么好
+CN: 点子吗～…
+# [0451] [ROM: 0x1A6991] [Bank: 0x69:0x2991] [CPU: 0x6991] [OrigLen: 14]
+JP: トビラは　しまっています。
+CN: 门是关着的。
+# [0452] [ROM: 0x1A699F] [Bank: 0x69:0x299F] [CPU: 0x699F] [OrigLen: 20]
+JP: アイリス。
+JP: このトビラ　ひらかないね。
+CN: 爱丽丝。
+CN: 门打不开。
+# [0453] [ROM: 0x1A69B3] [Bank: 0x69:0x29B3] [CPU: 0x69B3] [OrigLen: 21]
+JP: そうだね。
+JP: カギが　かかってるのかな〜。
+CN: 是啊。
+CN: 上锁了吗～？
+# [0454] [ROM: 0x1A69C8] [Bank: 0x69:0x29C8] [CPU: 0x69C8] [OrigLen: 34]
+JP: それにしても
+JP: トビラの　うえにある
+JP: まじんぞう……
+JP: きみわる〜い。
+CN: 话说
+CN: 门上的
+CN: 魔人偶……
+CN: 真晦气～。
+# [0455] [ROM: 0x1A69EA] [Bank: 0x69:0x29EA] [CPU: 0x69EA] [OrigLen: 43]
+JP: カギが　かかってるって
+JP: いうことは……　このとう……
+JP: あやしくないかい？
+JP: アイリス。
+CN: 上了锁
+CN: 就是说……
+CN: 这塔不奇怪吗？
+CN: 爱丽丝。
+# [0456] [ROM: 0x1A6A15] [Bank: 0x69:0x2A15] [CPU: 0x6A15] [OrigLen: 41]
+JP: アイリスも　そうおもうよ……
+JP: でも　トビラが
+JP: ひらかないし……
+JP: どうしよう　<NAME>。
+CN: 爱丽丝也这么想…
+CN: 可是门
+CN: 打不开…
+CN: 怎么办<NAME>
+# [0457] [ROM: 0x1A6A3E] [Bank: 0x69:0x2A3E] [CPU: 0x6A3E] [OrigLen: 10]
+JP: トビラを　しらべる
+CN: 调查门
+# [0458] [ROM: 0x1A6A48] [Bank: 0x69:0x2A48] [CPU: 0x6A48] [OrigLen: 9]
+JP: トビラを　こわす
+CN: 破坏门
+# [0459] [ROM: 0x1A6A51] [Bank: 0x69:0x2A51] [CPU: 0x6A51] [OrigLen: 14]
+JP: トビラを　しらべてみよう。
+CN: 调查一下门。
+# [0460] [ROM: 0x1A6A5F] [Bank: 0x69:0x2A5F] [CPU: 0x6A5F] [OrigLen: 14]
+JP: そうだね。
+JP: そうしよう！！
+CN: 对。
+CN: 就这么办
+# [0461] [ROM: 0x1A6A6D] [Bank: 0x69:0x2A6D] [CPU: 0x6A6D] [OrigLen: 22]
+JP: たいあたりで
+JP: トビラを　こわしちゃおうか？
+CN: 用身体撞
+CN: 把门撞坏吧？
+# [0462] [ROM: 0x1A6A83] [Bank: 0x69:0x2A83] [CPU: 0x6A83] [OrigLen: 24]
+JP: そうだね。
+JP: こわしちゃおう！
+JP: <NAME>　ガンバレ！！
+CN: 对。
+CN: 撞坏它！
+CN: <NAME>加油！！
+# [0463] [ROM: 0x1A6A9B] [Bank: 0x69:0x2A9B] [CPU: 0x6A9B] [OrigLen: 6]
+JP: エイッ！！
+CN: 呀！
+# [0464] [ROM: 0x1A6AA1] [Bank: 0x69:0x2AA1] [CPU: 0x6AA1] [OrigLen: 7]
+JP: あいた〜……
+CN: 好痛～
+# [0465] [ROM: 0x1A6AA8] [Bank: 0x69:0x2AA8] [CPU: 0x6AA8] [OrigLen: 11]
+JP: <NAME>！
+JP: だいじょうぶ？
+CN: <NAME>！
+CN: 没事吧
+# [0466] [ROM: 0x1A6AB3] [Bank: 0x69:0x2AB3] [CPU: 0x6AB3] [OrigLen: 16]
+JP: イリスプティ<81>よジャンポール！
+CN: 爱丽丝跳跃！
+# [0467] [ROM: 0x1A6AC3] [Bank: 0x69:0x2AC3] [CPU: 0x6AC3] [OrigLen: 23]
+JP: <NAME>は
+JP: たいきゅうちが　すこし
+JP: かいふくした。
+CN: <NAME>的
+CN: 体力稍微
+CN: 恢复了。
+# [0468] [ROM: 0x1A6ADA] [Bank: 0x69:0x2ADA] [CPU: 0x6ADA] [OrigLen: 21]
+JP: ダメだ……
+JP: このトビラは　こわせない……
+CN: 不行…
+CN: 门弄不坏……
+# [0469] [ROM: 0x1A6AEF] [Bank: 0x69:0x2AEF] [CPU: 0x6AEF] [OrigLen: 36]
+JP: う〜ん……
+JP: でも　トビラなんだから
+JP: あける　ほうほうは
+JP: あるはずだよ。
+CN: 唔～……
+CN: 既是门
+CN: 就有打开
+CN: 的方法吧。
+# [0470] [ROM: 0x1A6B13] [Bank: 0x69:0x2B13] [CPU: 0x6B13] [OrigLen: 12]
+JP: しらべてみようよ
+JP: <NAME>。
+CN: 查查看吧
+CN: <NAME>
+# [0471] [ROM: 0x1A6B2E] [Bank: 0x69:0x2B2E] [CPU: 0x6B2E] [OrigLen: 18]
+JP: とりあえず　しらべてみようよ
+JP: <NAME>。
+CN: 总之先查查看
+CN: <NAME>。
+# [0472] [ROM: 0x1A6B40] [Bank: 0x69:0x2B40] [CPU: 0x6B40] [OrigLen: 45]
+JP: ……………………………………
+JP: ……………………………………
+JP: ……………アイリス　これは？
+CN: ………………
+CN: ………………
+CN: …爱丽丝这是什么？
+# [0473] [ROM: 0x1A6B6D] [Bank: 0x69:0x2B6D] [CPU: 0x6B6D] [OrigLen: 35]
+JP: まじんぞうの　てが
+JP: 『なにかを　おく』ような
+JP: かたちに　なってるよ。
+CN: 魔人偶的手
+CN: 像是在放
+CN: 什么东西一样。
+# [0474] [ROM: 0x1A6B90] [Bank: 0x69:0x2B90] [CPU: 0x6B90] [OrigLen: 32]
+JP: このトビラを　あけるには
+JP: 『なにか』が　ひつよう
+JP: みたいだね。
+CN: 要开这扇门
+CN: 好像需要
+CN: 『某物』。
+# [0475] [ROM: 0x1A6BB0] [Bank: 0x69:0x2BB0] [CPU: 0x6BB0] [OrigLen: 32]
+JP: よーし　<NAME>。
+JP: まじんぞうの　てに
+JP: おくものを　さがしにいこう！
+CN: 好—<NAME>
+CN: 去找要放
+CN: 在魔人偶手上的！
+# [0476] [ROM: 0x1A6BD0] [Bank: 0x69:0x2BD0] [CPU: 0x6BD0] [OrigLen: 45]
+JP: トビラを　あけるには
+JP: まじんぞうの　てに
+JP: 『なにか』を　おけば　
+JP: いいんじゃないかな〜？
+CN: 要开门的话
+CN: 把『某物』
+CN: 放到魔人偶
+CN: 如何～？
+# [0477] [ROM: 0x1A6BFD] [Bank: 0x69:0x2BFD] [CPU: 0x6BFD] [OrigLen: 11]
+JP: どうしよう……
+JP: <NAME>。
+CN: 怎么办
+CN: <NAME>。
+# [0478] [ROM: 0x1A6C08] [Bank: 0x69:0x2C08] [CPU: 0x6C08] [OrigLen: 7]
+JP: そうだね……
+CN: 是啊…
+# [0479] [ROM: 0x1A6C0F] [Bank: 0x69:0x2C0F] [CPU: 0x6C0F] [OrigLen: 9]
+JP: おきものをつかう
+CN: 使用道具
+# [0480] [ROM: 0x1A6C18] [Bank: 0x69:0x2C18] [CPU: 0x6C18] [OrigLen: 9]
+JP: トビラを　こわす
+CN: 破坏门
+# [0481] [ROM: 0x1A6C21] [Bank: 0x69:0x2C21] [CPU: 0x6C21] [OrigLen: 11]
+JP: じゅもんを　となえる
+CN: 咏唱咒语
+# [0482] [ROM: 0x1A6C2C] [Bank: 0x69:0x2C2C] [CPU: 0x6C2C] [OrigLen: 22]
+JP: たいあたりで
+JP: トビラを　こわしちゃおうか？
+CN: 用身体撞
+CN: 把门撞坏吧？
+# [0483] [ROM: 0x1A6C42] [Bank: 0x69:0x2C42] [CPU: 0x6C42] [OrigLen: 23]
+JP: ダメだよ。
+JP: さっき　しっぱい
+JP: したじゃない。
+CN: 不行。
+CN: 刚才
+CN: 失败了。
+# [0484] [ROM: 0x1A6C59] [Bank: 0x69:0x2C59] [CPU: 0x6C59] [OrigLen: 8]
+JP: そうだったね。
+CN: 是啊。
+# [0485] [ROM: 0x1A6C61] [Bank: 0x69:0x2C61] [CPU: 0x6C61] [OrigLen: 20]
+JP: う〜ん……
+JP: どうすれば　いいのかな〜。
+CN: 唔～……
+CN: 咋办好～
+# [0486] [ROM: 0x1A6C75] [Bank: 0x69:0x2C75] [CPU: 0x6C75] [OrigLen: 24]
+JP: そうだね。
+JP: こわしちゃおう！
+JP: <NAME>　ガンバレ！！
+CN: 对。
+CN: 撞坏它！
+CN: <NAME>加油！！
+# [0487] [ROM: 0x1A6C8D] [Bank: 0x69:0x2C8D] [CPU: 0x6C8D] [OrigLen: 6]
+JP: エイッ！！
+CN: 呀！
+# [0488] [ROM: 0x1A6C93] [Bank: 0x69:0x2C93] [CPU: 0x6C93] [OrigLen: 7]
+JP: あいた〜……
+CN: 好痛～
+# [0489] [ROM: 0x1A6C9A] [Bank: 0x69:0x2C9A] [CPU: 0x6C9A] [OrigLen: 11]
+JP: <NAME>！
+JP: だいじょうぶ？
+CN: <NAME>！
+CN: 没事吧
+# [0490] [ROM: 0x1A6CA5] [Bank: 0x69:0x2CA5] [CPU: 0x6CA5] [OrigLen: 16]
+JP: イリスプティ<81>よジャンポール！
+CN: 爱丽丝跳跃！
+# [0491] [ROM: 0x1A6CB5] [Bank: 0x69:0x2CB5] [CPU: 0x6CB5] [OrigLen: 23]
+JP: <NAME>は
+JP: たいきゅうちが　すこし
+JP: かいふくした。
+CN: <NAME>的
+CN: 体力稍微
+CN: 恢复了。
+# [0492] [ROM: 0x1A6CCC] [Bank: 0x69:0x2CCC] [CPU: 0x6CCC] [OrigLen: 21]
+JP: ダメだ……
+JP: このトビラは　こわせない……
+CN: 不行…
+CN: 门弄不坏……
+# [0493] [ROM: 0x1A6CE1] [Bank: 0x69:0x2CE1] [CPU: 0x6CE1] [OrigLen: 20]
+JP: う〜ん……
+JP: どうすれば　いいのかな〜。
+CN: 唔～……
+CN: 咋办好～
+# [0494] [ROM: 0x1A6CF5] [Bank: 0x69:0x2CF5] [CPU: 0x6CF5] [OrigLen: 17]
+JP: じゅもんを　となえて
+JP: みようか？
+CN: 咏唱咒语
+CN: 试试？
+# [0495] [ROM: 0x1A6D06] [Bank: 0x69:0x2D06] [CPU: 0x6D06] [OrigLen: 20]
+JP: アイリス　そのじゅもん
+JP: しってるよ！！
+CN: 爱丽丝
+CN: 知道那咒语！
+# [0496] [ROM: 0x1A6D1A] [Bank: 0x69:0x2D1A] [CPU: 0x6D1A] [OrigLen: 10]
+JP: ひらけ〜　ゴマ！！
+CN: 快开！！
+# [0497] [ROM: 0x1A6D51] [Bank: 0x69:0x2D51] [CPU: 0x6D51] [OrigLen: 10]
+JP: ダメみたいだね……
+CN: 不行……
+# [0498] [ROM: 0x1A6D5B] [Bank: 0x69:0x2D5B] [CPU: 0x6D5B] [OrigLen: 20]
+JP: う〜ん……
+JP: どうすれば　いいのかな〜。
+CN: 唔～……
+CN: 咋办好～
+# [0499] [ROM: 0x1A6D7E] [Bank: 0x69:0x2D7E] [CPU: 0x6D7E] [OrigLen: 20]
+JP: う〜ん……
+JP: どうすれば　いいのかな〜。
+CN: 唔～……
+CN: 咋办好～
+# [0500] [ROM: 0x1A6D92] [Bank: 0x69:0x2D92] [CPU: 0x6D92] [OrigLen: 10]
+JP: あっ！　そうだ！！
+CN: 对了！！
+# [0501] [ROM: 0x1A6D9C] [Bank: 0x69:0x2D9C] [CPU: 0x6D9C] [OrigLen: 27]
+JP: さっき　みつけた
+JP: おきものを　つかってみようよ
+JP: <NAME>。
+CN: 用刚才找的
+CN: 道具试试吧
+CN: <NAME>。
+# [0502] [ROM: 0x1A6DB7] [Bank: 0x69:0x2DB7] [CPU: 0x6DB7] [OrigLen: 32]
+JP: あっそうだね！
+JP: おきものを
+JP: まじんぞうの　てに
+JP: おいてみよう。
+CN: 对呢！
+CN: 道具
+CN: 放到魔人偶
+CN: 手上吧。
+# [0503] [ROM: 0x1A6DD7] [Bank: 0x69:0x2DD7] [CPU: 0x6DD7] [OrigLen: 12]
+JP: トビラが　ひらいた！！
+CN: 门开了！！
+# [0504] [ROM: 0x1A6DE3] [Bank: 0x69:0x2DE3] [CPU: 0x6DE3] [OrigLen: 27]
+JP: やっぱり　この　おきものが
+JP: カギに　なってたんだよ。
+CN: 果然这道具
+CN: 就是钥匙啊。
+# [0505] [ROM: 0x1A6DFE] [Bank: 0x69:0x2DFE] [CPU: 0x6DFE] [OrigLen: 24]
+JP: これで　なかに　はいれるね。
+JP: レッツゴー　<NAME>！
+CN: 这样能进去啦
+CN: 出发吧<NAME>！
+# [0506] [ROM: 0x1A6E16] [Bank: 0x69:0x2E16] [CPU: 0x6E16] [OrigLen: 24]
+JP: さっき　みつけた
+JP: おきものを
+JP: つかってみよう。
+CN: 刚才找的
+CN: 道具
+CN: 用用看。
+# [0507] [ROM: 0x1A6E2E] [Bank: 0x69:0x2E2E] [CPU: 0x6E2E] [OrigLen: 34]
+JP: あっそうか！
+JP: その　おきものを
+JP: まじんぞうの　てに
+JP: おくんだね！！
+CN: 啊对了！
+CN: 道具要
+CN: 放到魔人偶
+CN: 手上啊
+# [0508] [ROM: 0x1A6E50] [Bank: 0x69:0x2E50] [CPU: 0x6E50] [OrigLen: 9]
+JP: うん　そうだよ。
+CN: 嗯，对。
+# [0509] [ROM: 0x1A6E59] [Bank: 0x69:0x2E59] [CPU: 0x6E59] [OrigLen: 12]
+JP: トビラが　ひらいた！！
+CN: 门开了！！
+# [0510] [ROM: 0x1A6E65] [Bank: 0x69:0x2E65] [CPU: 0x6E65] [OrigLen: 23]
+JP: この　おきものが
+JP: カギに　なってたんだね！！
+CN: 这道具
+CN: 原来是钥匙！！
+# [0511] [ROM: 0x1A6E7C] [Bank: 0x69:0x2E7C] [CPU: 0x6E7C] [OrigLen: 10]
+JP: <NAME>は　スゴイな〜。
+CN: <NAME>真厉害～
+# [0512] [ROM: 0x1A6E86] [Bank: 0x69:0x2E86] [CPU: 0x6E86] [OrigLen: 24]
+JP: これで　なかに　はいれるね。
+JP: レッツゴー　<NAME>！
+CN: 这样能进去啦
+CN: 出发吧<NAME>！
+# [0513] [ROM: 0x1A6E9E] [Bank: 0x69:0x2E9E] [CPU: 0x6E9E] [OrigLen: 21]
+JP: こっちにも　おなじような
+JP: とうがあるよ。
+CN: 这边也有
+CN: 同样的塔。
+# [0514] [ROM: 0x1A6EB3] [Bank: 0x69:0x2EB3] [CPU: 0x6EB3] [OrigLen: 24]
+JP: こっちは　はいれそうだね。
+JP: いってみよう　<NAME>。
+CN: 这边能进去呢。
+CN: 走吧<NAME>。
+# [0515] [ROM: 0x1A6ECB] [Bank: 0x69:0x2ECB] [CPU: 0x6ECB] [OrigLen: 16]
+JP: なんか　ぶきみな
+JP: とうだね〜。
+CN: 好阴森的
+CN: 塔呀～
+# [0516] [ROM: 0x1A6EDB] [Bank: 0x69:0x2EDB] [CPU: 0x6EDB] [OrigLen: 10]
+JP: アイリス　これは？
+CN: 这是啥？
+# [0517] [ROM: 0x1A6EE5] [Bank: 0x69:0x2EE5] [CPU: 0x6EE5] [OrigLen: 13]
+JP: まものの　おきものだね。
+CN: 魔物的道具。
+# [0518] [ROM: 0x1A6EF2] [Bank: 0x69:0x2EF2] [CPU: 0x6EF2] [OrigLen: 35]
+JP: あれ？　<NAME>。
+JP: おきものの　うしろにある
+JP: まじんぞうに　みおぼえない？
+CN: 咦？<NAME>
+CN: 道具后面那尊
+CN: 魔人偶不眼熟吗
+# [0519] [ROM: 0x1A6F15] [Bank: 0x69:0x2F15] [CPU: 0x6F15] [OrigLen: 15]
+JP: もうひとつの　とうのいりぐち
+CN: 另一座塔的入口
+# [0520] [ROM: 0x1A6F24] [Bank: 0x69:0x2F24] [CPU: 0x6F24] [OrigLen: 14]
+JP: よきひこを　たすけたときの
+CN: 救良彦时的
+# [0521] [ROM: 0x1A6F32] [Bank: 0x69:0x2F32] [CPU: 0x6F32] [OrigLen: 14]
+JP: せいまじょうの　いりぐちに
+CN: 生命场的入口
+# [0522] [ROM: 0x1A6F40] [Bank: 0x69:0x2F40] [CPU: 0x6F40] [OrigLen: 32]
+JP: もうひとつの　とうの
+JP: いりぐちにあった　ぞうに
+JP: そっくりだね。
+CN: 和另一座塔
+CN: 入口的像
+CN: 一模一样呢
+# [0523] [ROM: 0x1A6F60] [Bank: 0x69:0x2F60] [CPU: 0x6F60] [OrigLen: 22]
+JP: うん。
+JP: アイリスも　そう
+JP: おもってたんだ。
+CN: 嗯。
+CN: 爱丽丝也
+CN: 这么想
+# [0524] [ROM: 0x1A6F76] [Bank: 0x69:0x2F76] [CPU: 0x6F76] [OrigLen: 34]
+JP: なにか　かんけいが
+JP: あるかも　しれないね。
+JP: これ　もっていこうよ。
+CN: 或许有什么
+CN: 关联呢。
+CN: 带上它吧。
+# [0525] [ROM: 0x1A6F98] [Bank: 0x69:0x2F98] [CPU: 0x6F98] [OrigLen: 31]
+JP: よきひこさんを
+JP: たすけたときの
+JP: まじんぞうに
+JP: そっくりだね。
+CN: 救良彦
+CN: 先生时
+CN: 魔人偶
+CN: 很像呢。
+# [0526] [ROM: 0x1A6FB7] [Bank: 0x69:0x2FB7] [CPU: 0x6FB7] [OrigLen: 11]
+JP: エ〜ッ　ちがうよ〜。
+CN: 诶～不对～
+# [0527] [ROM: 0x1A6FC2] [Bank: 0x69:0x2FC2] [CPU: 0x6FC2] [OrigLen: 35]
+JP: もうひとつの　とうの
+JP: いりぐちに　あった
+JP: ぞうに　そっくりなんだよ。
+CN: 和另一座塔
+CN: 入口那尊像
+CN: 一模一样哦。
+# [0528] [ROM: 0x1A6FE5] [Bank: 0x69:0x2FE5] [CPU: 0x6FE5] [OrigLen: 37]
+JP: この　おきものは　なにかに
+JP: つかえるかも　しれないから
+JP: もっていこうね。
+CN: 这个道具
+CN: 也许能派上用场，
+CN: 就带上吧。
+# [0529] [ROM: 0x1A700A] [Bank: 0x69:0x300A] [CPU: 0x700A] [OrigLen: 32]
+JP: せいまじょうの
+JP: いりぐちにあった
+JP: まじんぞうに　そっくりだね。
+CN: 生命场
+CN: 入口处的
+CN: 魔人偶很像呢。
+# [0530] [ROM: 0x1A702A] [Bank: 0x69:0x302A] [CPU: 0x702A] [OrigLen: 32]
+JP: エ〜ッ……
+JP: せいまじょうの　いりぐちに
+JP: そんなの　なかったよ。
+CN: 诶～…
+CN: 生命场入口
+CN: 没那东西。
+# [0531] [ROM: 0x1A704A] [Bank: 0x69:0x304A] [CPU: 0x704A] [OrigLen: 19]
+JP: いいかげんなこと
+JP: いわないでよ　<NAME>。
+CN: 别乱说啦
+CN: <NAME>！
+# [0532] [ROM: 0x1A705D] [Bank: 0x69:0x305D] [CPU: 0x705D] [OrigLen: 39]
+JP: これは　もうひとつの
+JP: とうの　いりぐちに　あった
+JP: ぞうに　そっくりなんだよ。
+CN: 这和另一座
+CN: 塔入口的
+CN: 那尊像一模一样哦。
+# [0533] [ROM: 0x1A7084] [Bank: 0x69:0x3084] [CPU: 0x7084] [OrigLen: 37]
+JP: この　おきものは　なにかに
+JP: つかえるかも　しれないから
+JP: もっていこうね。
+CN: 这个道具
+CN: 也许能派上用场，
+CN: 就带上吧。
+# [0534] [ROM: 0x1A70B8] [Bank: 0x69:0x30B8] [CPU: 0x70B8] [OrigLen: 8]
+JP: わからないの？
+CN: 不懂？
+# [0535] [ROM: 0x1A70C0] [Bank: 0x69:0x30C0] [CPU: 0x70C0] [OrigLen: 41]
+JP: このぞうは　もうひとつの
+JP: とうの　いりぐちに　あった
+JP: ぞうに　そっくりじゃない。
+CN: 这尊像和
+CN: 另一座塔入口
+CN: 那尊并不像。
+# [0536] [ROM: 0x1A70E9] [Bank: 0x69:0x30E9] [CPU: 0x70E9] [OrigLen: 37]
+JP: なにか　かんけいが
+JP: あるかも　しれないから
+JP: このおきもの　もっていこう。
+CN: 或许有什么
+CN: 关联，带上
+CN: 这个道具吧。
+# [0537] [ROM: 0x1A710E] [Bank: 0x69:0x310E] [CPU: 0x710E] [OrigLen: 25]
+JP: まものの　おきものだ……
+JP: うわ〜　きみわるい……
+CN: 魔物的道具…
+CN: 哇好恶心…
+# [0538] [ROM: 0x1A7127] [Bank: 0x69:0x3127] [CPU: 0x7127] [OrigLen: 32]
+JP: ぶきみな　おきものだけど
+JP: とりあえず　もっていこう
+JP: アイリス。
+CN: 道具虽阴森
+CN: 先带上吧
+CN: 爱丽丝。
+# [0539] [ROM: 0x1A7147] [Bank: 0x69:0x3147] [CPU: 0x7147] [OrigLen: 29]
+JP: <NAME>は　キーアイテム
+JP: 『サタンのおきもの』を
+JP: てにいれた。
+CN: <NAME>得到
+CN: 关键道具
+CN: 『撒旦摆饰』
+# [0540] [ROM: 0x1A7164] [Bank: 0x69:0x3164] [CPU: 0x7164] [OrigLen: 11]
+JP: じゃあ　いこう
+JP: <NAME>！
+CN: 那走吧
+CN: <NAME>！
+# [0541] [ROM: 0x1A716F] [Bank: 0x69:0x316F] [CPU: 0x716F] [OrigLen: 9]
+JP: な！　なんだ！？
+CN: 什么！？
+# [0542] [ROM: 0x1A7178] [Bank: 0x69:0x3178] [CPU: 0x7178] [OrigLen: 19]
+JP: あっ！　アイリス！！
+JP: まものが！！！
+CN: 啊！爱丽丝！
+CN: 魔物
+# [0543] [ROM: 0x1A718B] [Bank: 0x69:0x318B] [CPU: 0x718B] [OrigLen: 6]
+JP: やったね！
+CN: 好耶
+# [0544] [ROM: 0x1A7191] [Bank: 0x69:0x3191] [CPU: 0x7191] [OrigLen: 5]
+JP: あっ！！
+CN: 啊！
+# [0545] [ROM: 0x1A7196] [Bank: 0x69:0x3196] [CPU: 0x7196] [OrigLen: 23]
+JP: アイリス！　あれ！
+JP: ほのおの　まんなかに！！
+CN: 爱丽丝！看！
+CN: 在火中！
+# [0546] [ROM: 0x1A71AD] [Bank: 0x69:0x31AD] [CPU: 0x71AD] [OrigLen: 23]
+JP: あっ！
+JP: あれは『まじんき』の
+JP: 『たま』だ！！
+CN: 啊！
+CN: 魔神机
+CN: 『玉』！！
+# [0547] [ROM: 0x1A71C4] [Bank: 0x69:0x31C4] [CPU: 0x71C4] [OrigLen: 24]
+JP: でも……
+JP: ひにかこまれて
+JP: とりに　いけない……
+CN: 可是…
+CN: 被火围着
+CN: 拿不到
+# [0548] [ROM: 0x1A71DC] [Bank: 0x69:0x31DC] [CPU: 0x71DC] [OrigLen: 30]
+JP: う〜ん……………………………
+JP: ……………………………………
+CN: 唔～………………
+CN: ………………
+# [0549] [ROM: 0x1A71FA] [Bank: 0x69:0x31FA] [CPU: 0x71FA] [OrigLen: 15]
+JP: どうしよう………………………
+CN: 怎么办…………
+# [0550] [ROM: 0x1A7209] [Bank: 0x69:0x3209] [CPU: 0x7209] [OrigLen: 15]
+JP: ちょすいプールについてはなす
+CN: 说蓄水池的事
+# [0551] [ROM: 0x1A7218] [Bank: 0x69:0x3218] [CPU: 0x7218] [OrigLen: 11]
+JP: しょうかきを　さがす
+CN: 寻找灭火器
+# [0552] [ROM: 0x1A7223] [Bank: 0x69:0x3223] [CPU: 0x7223] [OrigLen: 10]
+JP: いきを　ふきかける
+CN: 哈一口气
+# [0553] [ROM: 0x1A722D] [Bank: 0x69:0x322D] [CPU: 0x722D] [OrigLen: 36]
+JP: たしか……となりの　とうの
+JP: おくじょうに
+JP: みずが　たくさんあったよね。
+CN: 记得…旁边
+CN: 塔的屋顶上
+CN: 有很多水吧。
+# [0554] [ROM: 0x1A7251] [Bank: 0x69:0x3251] [CPU: 0x7251] [OrigLen: 29]
+JP: あれと　おなじものが
+JP: このとうにも
+JP: あるんじゃないかな？
+CN: 这座塔里
+CN: 说不定
+CN: 也有同样的呢
+# [0555] [ROM: 0x1A726E] [Bank: 0x69:0x326E] [CPU: 0x726E] [OrigLen: 23]
+JP: おみず？…………………………
+JP: あっ　そうか！
+CN: 水？………
+CN: 啊，对了！
+# [0556] [ROM: 0x1A7285] [Bank: 0x69:0x3285] [CPU: 0x7285] [OrigLen: 40]
+JP: あれだけ　たくさんの
+JP: おみずが　あれば
+JP: このほのおを
+JP: けせるかもしれないね！！
+CN: 有那么多
+CN: 水的话，
+CN: 也许能熄灭
+CN: 这火焰！！
+# [0557] [ROM: 0x1A72AD] [Bank: 0x69:0x32AD] [CPU: 0x72AD] [OrigLen: 10]
+JP: <NAME>　あったまいー！
+CN: <NAME>真聪明～
+# [0558] [ROM: 0x1A72B7] [Bank: 0x69:0x32B7] [CPU: 0x72B7] [OrigLen: 20]
+JP: じゃあ　おくじょうへ
+JP: レッツ　ゴー！！
+CN: 那去屋顶
+CN: 出发吧！！
+# [0559] [ROM: 0x1A72CB] [Bank: 0x69:0x32CB] [CPU: 0x72CB] [OrigLen: 14]
+JP: しょうかきを
+JP: さがそうか。
+CN: 去找
+CN: 灭火器。
+# [0560] [ROM: 0x1A72D9] [Bank: 0x69:0x32D9] [CPU: 0x72D9] [OrigLen: 39]
+JP: しょうかき？
+JP: ダメだよ。
+JP: このほのおは　しょうかき
+JP: なんかじゃ　きえないよ。
+CN: 灭火器？
+CN: 不行啦。
+CN: 灭火器
+CN: 灭不了这火。
+# [0561] [ROM: 0x1A7300] [Bank: 0x69:0x3300] [CPU: 0x7300] [OrigLen: 41]
+JP: しょうぼうしゃ　みたいに
+JP: たくさんの　おみずを
+JP: かけないと　きえないよ
+JP: きっと。
+CN: 得像消防车
+CN: 那样浇上
+CN: 大量的水
+CN: 才灭得掉。
+# [0562] [ROM: 0x1A7329] [Bank: 0x69:0x3329] [CPU: 0x7329] [OrigLen: 36]
+JP: う〜ん……
+JP: どうしようかなぁ〜……………
+JP: ……………………………………
+CN: 唔～……
+CN: 怎么办呀～…
+CN: ………………
+# [0563] [ROM: 0x1A734D] [Bank: 0x69:0x334D] [CPU: 0x734D] [OrigLen: 14]
+JP: フーフー　ふいてみようか？
+CN: 呼呼吹吹看？
+# [0564] [ROM: 0x1A735B] [Bank: 0x69:0x335B] [CPU: 0x735B] [OrigLen: 8]
+JP: フーフーふく？
+CN: 吹口气
+# [0565] [ROM: 0x1A7363] [Bank: 0x69:0x3363] [CPU: 0x7363] [OrigLen: 24]
+JP: おたんじょうケーキの
+JP: ロウソクじゃないんだよ！
+CN: 又不是生日
+CN: 蛋糕蜡烛！
+# [0566] [ROM: 0x1A737B] [Bank: 0x69:0x337B] [CPU: 0x737B] [OrigLen: 27]
+JP: そんなので　このほのおが
+JP: きえるわけ　ないでしょ！！
+CN: 那种东西
+CN: 灭不了这火！！
+# [0567] [ROM: 0x1A7396] [Bank: 0x69:0x3396] [CPU: 0x7396] [OrigLen: 14]
+JP: う〜ん……　どうしよう……
+CN: 唔～怎么办…
+# [0568] [ROM: 0x1A73AF] [Bank: 0x69:0x33AF] [CPU: 0x73AF] [OrigLen: 50]
+JP: かじ　みたいだから
+JP: しょうぼうしゃ　みたいに　
+JP: たくさんの　おみずを　
+JP: かけたら　きえるかもね……
+CN: 像火灾一样，
+CN: 像消防车
+CN: 那样浇很多水
+CN: 也许能熄灭……
+# [0569] [ROM: 0x1A73E1] [Bank: 0x69:0x33E1] [CPU: 0x73E1] [OrigLen: 14]
+JP: う〜ん……　どうしよう……
+CN: 唔～怎么办…
+# [0570] [ROM: 0x1A73EF] [Bank: 0x69:0x33EF] [CPU: 0x73EF] [OrigLen: 16]
+JP: そうだ！！
+JP: おくじょうだ！！！
+CN: 对了！
+CN: 屋顶！！
+# [0571] [ROM: 0x1A73FF] [Bank: 0x69:0x33FF] [CPU: 0x73FF] [OrigLen: 32]
+JP: となりの　とうのおくじょうに
+JP: おみずが　たくさん
+JP: あったよね！
+CN: 旁边塔的
+CN: 屋顶上有
+CN: 很多水吧！
+# [0572] [ROM: 0x1A741F] [Bank: 0x69:0x341F] [CPU: 0x741F] [OrigLen: 36]
+JP: あれだけの　おみずがあれば
+JP: この　ほのおを
+JP: けせるんじゃ　ないかな〜。
+CN: 有那么多水，
+CN: 这火焰
+CN: 应该能灭掉吧～
+# [0573] [ROM: 0x1A7443] [Bank: 0x69:0x3443] [CPU: 0x7443] [OrigLen: 32]
+JP: こっちのとうにも
+JP: おみずが　あるかどうか
+JP: しらべにいこうよ！！
+CN: 这塔里
+CN: 有没有水
+CN: 去查查看吧！！
+# [0574] [ROM: 0x1A7463] [Bank: 0x69:0x3463] [CPU: 0x7463] [OrigLen: 27]
+JP: うう〜ん……
+JP: こんなに　ほのおが
+JP: もえてるんじゃ……
+CN: 唔～…
+CN: 火这么旺
+CN: 没法灭……
+# [0575] [ROM: 0x1A747E] [Bank: 0x69:0x347E] [CPU: 0x747E] [OrigLen: 50]
+JP: かじ　みたいだから
+JP: しょうぼうしゃ　みたいに　
+JP: たくさんの　おみずを　
+JP: かけたら　きえるかもね……
+CN: 像火灾一样，
+CN: 像消防车
+CN: 那样浇很多水
+CN: 也许能熄灭……
+# [0576] [ROM: 0x1A74B0] [Bank: 0x69:0x34B0] [CPU: 0x74B0] [OrigLen: 32]
+JP: ………………………う〜ん……
+JP: かんがえてても
+JP: しょうがないね。
+CN: ……唔～……
+CN: 再想也没
+CN: 办法呢。
+# [0577] [ROM: 0x1A74D0] [Bank: 0x69:0x34D0] [CPU: 0x74D0] [OrigLen: 16]
+JP: さきに　すすんでみようよ
+JP: <NAME>。
+CN: 先往前走吧
+CN: <NAME>。
+# [0578] [ROM: 0x1A74E0] [Bank: 0x69:0x34E0] [CPU: 0x74E0] [OrigLen: 15]
+JP: ちょすいプールについてはなす
+CN: 说蓄水池的事
+# [0579] [ROM: 0x1A74EF] [Bank: 0x69:0x34EF] [CPU: 0x74EF] [OrigLen: 11]
+JP: しょうかきを　さがす
+CN: 寻找灭火器
+# [0580] [ROM: 0x1A74FA] [Bank: 0x69:0x34FA] [CPU: 0x74FA] [OrigLen: 10]
+JP: いきを　ふきかける
+CN: 哈一口气
+# [0581] [ROM: 0x1A7504] [Bank: 0x69:0x3504] [CPU: 0x7504] [OrigLen: 34]
+JP: たしか……この　とうの
+JP: おくじょうに
+JP: みずが　たくさんあったよね。
+CN: 记得…这座
+CN: 塔屋顶上
+CN: 有很多水吧。
+# [0582] [ROM: 0x1A7526] [Bank: 0x69:0x3526] [CPU: 0x7526] [OrigLen: 23]
+JP: おみず？…………………………
+JP: あっ　そうか！
+CN: 水？………
+CN: 啊，对了！
+# [0583] [ROM: 0x1A753D] [Bank: 0x69:0x353D] [CPU: 0x753D] [OrigLen: 41]
+JP: あのプールいっぱいの
+JP: おみずを　つかえば
+JP: このほのおを
+JP: けせるかもしれないね！！
+CN: 那一池水
+CN: 用来灭火
+CN: 也许能
+CN: 熄灭这火焰！！
+# [0584] [ROM: 0x1A7566] [Bank: 0x69:0x3566] [CPU: 0x7566] [OrigLen: 10]
+JP: <NAME>　あったまいー！
+CN: <NAME>真聪明～
+# [0585] [ROM: 0x1A7570] [Bank: 0x69:0x3570] [CPU: 0x7570] [OrigLen: 20]
+JP: じゃあ　おくじょうへ
+JP: レッツ　ゴー！！
+CN: 那去屋顶
+CN: 出发吧！！
+# [0586] [ROM: 0x1A7584] [Bank: 0x69:0x3584] [CPU: 0x7584] [OrigLen: 14]
+JP: しょうかきを
+JP: さがそうか。
+CN: 去找
+CN: 灭火器。
+# [0587] [ROM: 0x1A7592] [Bank: 0x69:0x3592] [CPU: 0x7592] [OrigLen: 39]
+JP: しょうかき？
+JP: ダメだよ。
+JP: このほのおは　しょうかき
+JP: なんかじゃ　きえないよ。
+CN: 灭火器？
+CN: 不行啦。
+CN: 灭火器
+CN: 灭不了这火。
+# [0588] [ROM: 0x1A75B9] [Bank: 0x69:0x35B9] [CPU: 0x75B9] [OrigLen: 41]
+JP: しょうぼうしゃ　みたいに
+JP: たくさんの　おみずを
+JP: かけないと　きえないよ
+JP: きっと。
+CN: 得像消防车
+CN: 那样浇上
+CN: 大量的水
+CN: 才灭得掉。
+# [0589] [ROM: 0x1A75E2] [Bank: 0x69:0x35E2] [CPU: 0x75E2] [OrigLen: 36]
+JP: う〜ん……
+JP: どうしようかなぁ〜……………
+JP: ……………………………………
+CN: 唔～……
+CN: 怎么办呀～…
+CN: ………………
+# [0590] [ROM: 0x1A7606] [Bank: 0x69:0x3606] [CPU: 0x7606] [OrigLen: 14]
+JP: フーフー　ふいてみようか？
+CN: 呼呼吹吹看？
+# [0591] [ROM: 0x1A7614] [Bank: 0x69:0x3614] [CPU: 0x7614] [OrigLen: 8]
+JP: フーフーふく？
+CN: 吹口气
+# [0592] [ROM: 0x1A761C] [Bank: 0x69:0x361C] [CPU: 0x761C] [OrigLen: 24]
+JP: おたんじょうケーキの
+JP: ロウソクじゃないんだよ！
+CN: 又不是生日
+CN: 蛋糕蜡烛！
+# [0593] [ROM: 0x1A7634] [Bank: 0x69:0x3634] [CPU: 0x7634] [OrigLen: 27]
+JP: そんなので　このほのおが
+JP: きえるわけ　ないでしょ！！
+CN: 那种东西
+CN: 灭不了这火！！
+# [0594] [ROM: 0x1A764F] [Bank: 0x69:0x364F] [CPU: 0x764F] [OrigLen: 14]
+JP: う〜ん……　どうしよう……
+CN: 唔～怎么办…
+# [0595] [ROM: 0x1A7668] [Bank: 0x69:0x3668] [CPU: 0x7668] [OrigLen: 50]
+JP: かじ　みたいだから
+JP: しょうぼうしゃ　みたいに　
+JP: たくさんの　おみずを　
+JP: かけたら　きえるかもね……
+CN: 像火灾一样，
+CN: 像消防车
+CN: 那样浇很多水
+CN: 也许能熄灭……
+# [0596] [ROM: 0x1A769A] [Bank: 0x69:0x369A] [CPU: 0x769A] [OrigLen: 14]
+JP: う〜ん……　どうしよう……
+CN: 唔～怎么办…
+# [0597] [ROM: 0x1A76A8] [Bank: 0x69:0x36A8] [CPU: 0x76A8] [OrigLen: 16]
+JP: そうだ！！
+JP: おくじょうだ！！！
+CN: 对了！
+CN: 屋顶！！
+# [0598] [ROM: 0x1A76B8] [Bank: 0x69:0x36B8] [CPU: 0x76B8] [OrigLen: 30]
+JP: このとうの　おくじょうに
+JP: おみずが　たくさん
+JP: あったよね！
+CN: 这座塔的
+CN: 屋顶上有
+CN: 很多水吧！
+# [0599] [ROM: 0x1A76D6] [Bank: 0x69:0x36D6] [CPU: 0x76D6] [OrigLen: 36]
+JP: あれだけの　おみずがあれば
+JP: この　ほのおを
+JP: けせるんじゃ　ないかな〜。
+CN: 有那么多水，
+CN: 这火焰
+CN: 应该能灭掉吧～
+# [0600] [ROM: 0x1A76FA] [Bank: 0x69:0x36FA] [CPU: 0x76FA] [OrigLen: 27]
+JP: もういちど　おくじょうへ
+JP: いって　しらべてみようよ！
+CN: 再回屋顶
+CN: 去查看一下吧！
+# [0601] [ROM: 0x1A7715] [Bank: 0x69:0x3715] [CPU: 0x7715] [OrigLen: 23]
+JP: おや？
+JP: こっちにも　みずがたくさん
+JP: あるぞ。
+CN: 哦？
+CN: 这边也
+CN: 好多水啊。
+# [0602] [ROM: 0x1A772C] [Bank: 0x69:0x372C] [CPU: 0x772C] [OrigLen: 15]
+JP: なんだか　プールみたいだね。
+CN: 感觉像水池呢。
+# [0603] [ROM: 0x1A773B] [Bank: 0x69:0x373B] [CPU: 0x773B] [OrigLen: 17]
+JP: なんで　こんなものが
+JP: あるんだ？
+CN: 怎么会有
+CN: 这个？
+# [0604] [ROM: 0x1A774C] [Bank: 0x69:0x374C] [CPU: 0x774C] [OrigLen: 20]
+JP: このみず……なにかに
+JP: つかえないかな。
+CN: 这水…
+CN: 能派上用场吧
+# [0605] [ROM: 0x1A7760] [Bank: 0x69:0x3760] [CPU: 0x7760] [OrigLen: 13]
+JP: おや？
+JP: なんだ　これは？
+CN: 哦？
+CN: 是啥？
+# [0606] [ROM: 0x1A776D] [Bank: 0x69:0x376D] [CPU: 0x776D] [OrigLen: 24]
+JP: おみずが　たくさんあるよ。
+JP: プールみたいだね。
+CN: 好多水呀。
+CN: 像个小水池。
+# [0607] [ROM: 0x1A7785] [Bank: 0x69:0x3785] [CPU: 0x7785] [OrigLen: 17]
+JP: なんで　こんなものが
+JP: あるんだ？
+CN: 怎么会有
+CN: 这个？
+# [0608] [ROM: 0x1A7796] [Bank: 0x69:0x3796] [CPU: 0x7796] [OrigLen: 16]
+JP: アイリス！
+JP: みずが　あるよ！！
+CN: 爱丽丝！
+CN: 有水！
+# [0609] [ROM: 0x1A77A6] [Bank: 0x69:0x37A6] [CPU: 0x77A6] [OrigLen: 41]
+JP: うわ〜　まんたんだ〜。
+JP: これだけあれば
+JP: あの　ほのおを　けせるかも
+JP: しれないね。
+CN: 哇～满满～
+CN: 有这么多
+CN: 也许能熄灭
+CN: 那火焰。
+# [0610] [ROM: 0x1A77CF] [Bank: 0x69:0x37CF] [CPU: 0x77CF] [OrigLen: 19]
+JP: うわ〜。
+JP: おみずが　いっぱいある〜。
+CN: 哇～
+CN: 好多水～
+# [0611] [ROM: 0x1A77E2] [Bank: 0x69:0x37E2] [CPU: 0x77E2] [OrigLen: 48]
+JP: …………これだけの　おみずが
+JP: あれば　もしかしたら……
+JP: あの　ほのおを
+JP: けせるかもしれないよ。
+CN: …有这么多
+CN: 水的话，
+CN: 说不定能熄灭
+CN: 那火焰呢。
+# [0612] [ROM: 0x1A7812] [Bank: 0x69:0x3812] [CPU: 0x7812] [OrigLen: 26]
+JP: あっ！　これはなに？！
+JP: おみずが　いっぱいあるよ。
+CN: 啊！这是啥？！
+CN: 好多水呢。
+# [0613] [ROM: 0x1A782C] [Bank: 0x69:0x382C] [CPU: 0x782C] [OrigLen: 15]
+JP: これは　ちょすいプールだな。
+CN: 这是蓄水池呀。
+# [0614] [ROM: 0x1A783B] [Bank: 0x69:0x383B] [CPU: 0x783B] [OrigLen: 48]
+JP: …………これだけの　おみずが
+JP: あれば　もしかしたら……
+JP: あの　ほのおを
+JP: けせるかもしれないよ。
+CN: …有这么多
+CN: 水的话，
+CN: 说不定能熄灭
+CN: 那火焰呢。
+# [0615] [ROM: 0x1A786B] [Bank: 0x69:0x386B] [CPU: 0x786B] [OrigLen: 40]
+JP: ところで　<NAME>。
+JP: この　おみずを　どうつかえば
+JP: あの　ほのおを
+JP: けせるのかな〜？
+CN: 对了<NAME>
+CN: 这水怎么用
+CN: 才能熄灭
+CN: 那火焰呢～？
+# [0616] [ROM: 0x1A7893] [Bank: 0x69:0x3893] [CPU: 0x7893] [OrigLen: 16]
+JP: プールをこわして　したにながす
+CN: 破坏水池放水
+# [0617] [ROM: 0x1A78A3] [Bank: 0x69:0x38A3] [CPU: 0x78A3] [OrigLen: 9]
+JP: バケツで　はこぶ
+CN: 用桶运水
+# [0618] [ROM: 0x1A78AC] [Bank: 0x69:0x38AC] [CPU: 0x78AC] [OrigLen: 13]
+JP: パイプをしたまで　とおす
+CN: 管道通到下面
+# [0619] [ROM: 0x1A78B9] [Bank: 0x69:0x38B9] [CPU: 0x78B9] [OrigLen: 39]
+JP: プールを　こわそう！
+JP: そうすれば　いっきに　みずが
+JP: したに　ながれていく！！
+CN: 弄坏水池！
+CN: 这样水就会
+CN: 一下流下去！！
+# [0620] [ROM: 0x1A78E0] [Bank: 0x69:0x38E0] [CPU: 0x78E0] [OrigLen: 39]
+JP: これだけの　みずが
+JP: ながれ　おちれば
+JP: あの　ほのおも
+JP: きえるんじゃないかな。
+CN: 这些水
+CN: 流下去的话
+CN: 那火焰
+CN: 也会熄灭吧。
+# [0621] [ROM: 0x1A7907] [Bank: 0x69:0x3907] [CPU: 0x7907] [OrigLen: 16]
+JP: そうか！！
+JP: <NAME>　てんさーい！！
+CN: 对呀！
+CN: <NAME>天才！
+# [0622] [ROM: 0x1A7917] [Bank: 0x69:0x3917] [CPU: 0x7917] [OrigLen: 28]
+JP: よーし！
+JP: じゃあ　まんなかにある
+JP: せんを　こわそう！！
+CN: 好！
+CN: 弄坏中间
+CN: 的栓！！
+# [0623] [ROM: 0x1A7933] [Bank: 0x69:0x3933] [CPU: 0x7933] [OrigLen: 39]
+JP: バケツを　つかうんだ。
+JP: バケツリレーで
+JP: このみずを　したまで
+JP: はこぶんだよ。
+CN: 用水桶。
+CN: 水桶接力
+CN: 把水运到
+CN: 下面去。
+# [0624] [ROM: 0x1A795A] [Bank: 0x69:0x395A] [CPU: 0x795A] [OrigLen: 29]
+JP: え〜　アイリス
+JP: そんな　つかれること
+JP: やりたくないよ〜。
+CN: 诶～爱丽丝
+CN: 那么累
+CN: 不想做～。
+# [0625] [ROM: 0x1A7977] [Bank: 0x69:0x3977] [CPU: 0x7977] [OrigLen: 36]
+JP: ……………………………………
+JP: ……………………………………
+JP: そうだ！！
+CN: ………………
+CN: ………………
+CN: 对了！！
+# [0626] [ROM: 0x1A799B] [Bank: 0x69:0x399B] [CPU: 0x799B] [OrigLen: 24]
+JP: まんなかにある
+JP: プールの　せんを
+JP: こわそうよ！
+CN: 中间
+CN: 水池的栓
+CN: 弄坏它！
+# [0627] [ROM: 0x1A79B3] [Bank: 0x69:0x39B3] [CPU: 0x79B3] [OrigLen: 27]
+JP: そしたら　おみずが
+JP: したに　ながれて
+JP: いっちゃうよ。
+CN: 水就会
+CN: 流到下面
+CN: 去了哦。
+# [0628] [ROM: 0x1A79CE] [Bank: 0x69:0x39CE] [CPU: 0x79CE] [OrigLen: 29]
+JP: パイプを　ひこう！
+JP: みずを　したまで
+JP: ゆうどうするんだ！
+CN: 接管道！
+CN: 把水引到
+CN: 下面去！
+# [0629] [ROM: 0x1A79EB] [Bank: 0x69:0x39EB] [CPU: 0x79EB] [OrigLen: 31]
+JP: え〜　アイリス
+JP: そんな　めんどくさいこと
+JP: やりたくないよ〜。
+CN: 诶～爱丽丝
+CN: 那么麻烦
+CN: 不想做～。
+# [0630] [ROM: 0x1A7A0A] [Bank: 0x69:0x3A0A] [CPU: 0x7A0A] [OrigLen: 36]
+JP: ……………………………………
+JP: ……………………………………
+JP: そうだ！！
+CN: ………………
+CN: ………………
+CN: 对了！！
+# [0631] [ROM: 0x1A7A2E] [Bank: 0x69:0x3A2E] [CPU: 0x7A2E] [OrigLen: 24]
+JP: まんなかにある
+JP: プールの　せんを
+JP: こわそうよ！
+CN: 中间
+CN: 水池的栓
+CN: 弄坏它！
+# [0632] [ROM: 0x1A7A46] [Bank: 0x69:0x3A46] [CPU: 0x7A46] [OrigLen: 27]
+JP: そしたら　おみずが
+JP: したに　ながれて
+JP: いっちゃうよ。
+CN: 水就会
+CN: 流到下面
+CN: 去了哦。
+# [0633] [ROM: 0x1A7A70] [Bank: 0x69:0x3A70] [CPU: 0x7A70] [OrigLen: 36]
+JP: ……………………………………
+JP: ……………………………………
+JP: そうだ！！
+CN: ………………
+CN: ………………
+CN: 对了！！
+# [0634] [ROM: 0x1A7A94] [Bank: 0x69:0x3A94] [CPU: 0x7A94] [OrigLen: 24]
+JP: まんなかにある
+JP: プールの　せんを
+JP: こわそうよ！
+CN: 中间
+CN: 水池的栓
+CN: 弄坏它！
+# [0635] [ROM: 0x1A7AAC] [Bank: 0x69:0x3AAC] [CPU: 0x7AAC] [OrigLen: 27]
+JP: そしたら　おみずが
+JP: したに　ながれて
+JP: いっちゃうよ。
+CN: 水就会
+CN: 流到下面
+CN: 去了哦。
+# [0636] [ROM: 0x1A7AC7] [Bank: 0x69:0x3AC7] [CPU: 0x7AC7] [OrigLen: 25]
+JP: しまった！
+JP: てきが　あらわれたぞ！
+JP: アイリス！！
+CN: 糟了！
+CN: 有敌人！
+CN: 爱丽丝！
+# [0637] [ROM: 0x1A7AE0] [Bank: 0x69:0x3AE0] [CPU: 0x7AE0] [OrigLen: 36]
+JP: そんなの　ほっといて！
+JP: ちょすいプールの　せんだけを
+JP: こうげきしよう！
+CN: 别管那些！
+CN: 只攻击蓄水池
+CN: 的栓就好！
+# [0638] [ROM: 0x1A7B04] [Bank: 0x69:0x3B04] [CPU: 0x7B04] [OrigLen: 25]
+JP: やったぞ！！
+JP: あっ！
+JP: うわ〜〜！　ながされる……
+CN: 成功！
+CN: 啊！
+CN: 哇～被冲走…
+# [0639] [ROM: 0x1A7B1D] [Bank: 0x69:0x3B1D] [CPU: 0x7B1D] [OrigLen: 35]
+JP: この　おみずを　どうつかって
+JP: あの　ほのおを
+JP: けしたらいいのかなー。
+CN: 这水要怎么用
+CN: 才能熄灭
+CN: 那火焰呢～？
+# [0640] [ROM: 0x1A7B40] [Bank: 0x69:0x3B40] [CPU: 0x7B40] [OrigLen: 10]
+JP: そうだねー…………
+CN: 是啊……
+# [0641] [ROM: 0x1A7B4A] [Bank: 0x69:0x3B4A] [CPU: 0x7B4A] [OrigLen: 16]
+JP: プールをこわして　したにながす
+CN: 破坏水池放水
+# [0642] [ROM: 0x1A7B5A] [Bank: 0x69:0x3B5A] [CPU: 0x7B5A] [OrigLen: 9]
+JP: バケツで　はこぶ
+CN: 用桶运水
+# [0643] [ROM: 0x1A7B63] [Bank: 0x69:0x3B63] [CPU: 0x7B63] [OrigLen: 13]
+JP: パイプをしたまで　とおす
+CN: 管道通到下面
+# [0644] [ROM: 0x1A7B70] [Bank: 0x69:0x3B70] [CPU: 0x7B70] [OrigLen: 7]
+JP: げほげほ……
+CN: 咳咳…
+# [0645] [ROM: 0x1A7B77] [Bank: 0x69:0x3B77] [CPU: 0x7B77] [OrigLen: 20]
+JP: あっ！
+JP: ほのおが　きえてるよ
+JP: <NAME>！！！
+CN: 啊！
+CN: 火灭了呀
+CN: <NAME>！！
+# [0646] [ROM: 0x1A7B8B] [Bank: 0x69:0x3B8B] [CPU: 0x7B8B] [OrigLen: 16]
+JP: ほんとだ！
+JP: だいせいこうだ！！
+CN: 真的！
+CN: 大成功！
+# [0647] [ROM: 0x1A7B9B] [Bank: 0x69:0x3B9B] [CPU: 0x7B9B] [OrigLen: 24]
+JP: よーし！
+JP: 『まじんき』を
+JP: とりもどそう
+JP: <NAME>！！
+CN: 好！
+CN: 夺回
+CN: 魔神机
+CN: <NAME>！！
+# [0648] [ROM: 0x1A7BB3] [Bank: 0x69:0x3BB3] [CPU: 0x7BB3] [OrigLen: 37]
+JP: あらららららら。
+JP: だれですか？
+JP: きょかも　なしに
+JP: ほのおを　けしたのは？
+CN: 哎呀呀呀。
+CN: 是谁？
+CN: 未经许可
+CN: 灭火了？
+# [0649] [ROM: 0x1A7BD8] [Bank: 0x69:0x3BD8] [CPU: 0x7BD8] [OrigLen: 13]
+JP: あなたたち　なんですか？
+CN: 你们是谁？
+# [0650] [ROM: 0x1A7BE5] [Bank: 0x69:0x3BE5] [CPU: 0x7BE5] [OrigLen: 12]
+JP: おまえは　なにもの！！
+CN: 你是什么人
+# [0651] [ROM: 0x1A7BF1] [Bank: 0x69:0x3BF1] [CPU: 0x7BF1] [OrigLen: 46]
+JP: あらららららら。
+JP: きいているのは　このわたくし
+JP: なのに。　おバカちゃんなの？
+JP: あなたたち？
+CN: 哎呀呀呀。
+CN: 该提问的是
+CN: 本小姐吧。
+CN: 小笨蛋吗？
+# [0652] [ROM: 0x1A7C1F] [Bank: 0x69:0x3C1F] [CPU: 0x7C1F] [OrigLen: 15]
+JP: アイリス　バカじゃないもん！
+CN: 爱丽丝才不笨！
+# [0653] [ROM: 0x1A7C2E] [Bank: 0x69:0x3C2E] [CPU: 0x7C2E] [OrigLen: 46]
+JP: あらららららら。
+JP: こども　だったんですね。
+JP: こどもを　あいてにしても
+JP: じかんのムダですね。
+CN: 哎呀呀呀。
+CN: 是小孩啊。
+CN: 跟小孩计较
+CN: 浪费时间呢。
+# [0654] [ROM: 0x1A7C5C] [Bank: 0x69:0x3C5C] [CPU: 0x7C5C] [OrigLen: 37]
+JP: じゃ　もういちど
+JP: ほのおを　もやして
+JP: おしごとの　つづきを
+JP: しましょう。
+CN: 那就重新
+CN: 点起火来
+CN: 继续我的
+CN: 工作吧。
+# [0655] [ROM: 0x1A7C81] [Bank: 0x69:0x3C81] [CPU: 0x7C81] [OrigLen: 18]
+JP: アイリス　こどもじゃ
+JP: ないもん！！
+CN: 爱丽丝不是
+CN: 小孩！
+# [0656] [ROM: 0x1A7C93] [Bank: 0x69:0x3C93] [CPU: 0x7C93] [OrigLen: 32]
+JP: アイリス。
+JP: そんなことより
+JP: なにを　しているのか
+JP: きかないと。
+CN: 爱丽丝。
+CN: 先要问
+CN: 它在做啥
+CN: 才行。
+# [0657] [ROM: 0x1A7CB3] [Bank: 0x69:0x3CB3] [CPU: 0x7CB3] [OrigLen: 24]
+JP: そ　そうだね……
+JP: おまえは　なにを
+JP: してるの！
+CN: 说得对…
+CN: 你在做
+CN: 什么！
+# [0658] [ROM: 0x1A7CCB] [Bank: 0x69:0x3CCB] [CPU: 0x7CCB] [OrigLen: 35]
+JP: あらららららら。
+JP: わたくしが　ほのおで
+JP: 『たま』を　まもっている……
+CN: 哎呀呀呀。
+CN: 我用火焰
+CN: 守护『玉』……
+# [0659] [ROM: 0x1A7CEE] [Bank: 0x69:0x3CEE] [CPU: 0x7CEE] [OrigLen: 34]
+JP: それぐらいのこと
+JP: みたら　わかるじゃ
+JP: ないですか。　おバカちゃん。
+CN: 这种事
+CN: 看了就明白
+CN: 吧。小笨蛋。
+# [0660] [ROM: 0x1A7D10] [Bank: 0x69:0x3D10] [CPU: 0x7D10] [OrigLen: 26]
+JP: アイリス　バカじゃない……
+JP: バカじゃないもん〜……
+CN: 爱丽丝不笨…
+CN: 不笨嘛～……
+# [0661] [ROM: 0x1A7D2A] [Bank: 0x69:0x3D2A] [CPU: 0x7D2A] [OrigLen: 25]
+JP: ア　アイリスが
+JP: ないちゃった……
+JP: どうしよう……
+CN: 爱丽丝
+CN: 哭了……
+CN: 怎么办…
+# [0662] [ROM: 0x1A7D43] [Bank: 0x69:0x3D43] [CPU: 0x7D43] [OrigLen: 11]
+JP: アイリスを　はげます
+CN: 鼓励爱丽丝
+# [0663] [ROM: 0x1A7D4E] [Bank: 0x69:0x3D4E] [CPU: 0x7D4E] [OrigLen: 10]
+JP: アイリスを　かばう
+CN: 护爱丽丝
+# [0664] [ROM: 0x1A7D58] [Bank: 0x69:0x3D58] [CPU: 0x7D58] [OrigLen: 38]
+JP: アイリスがんばるんだ！
+JP: まものの　いうことなんか
+JP: きにしちゃ　いけない！！
+CN: 爱丽丝加油！
+CN: 魔物的话
+CN: 别放心上！！
+# [0665] [ROM: 0x1A7D7E] [Bank: 0x69:0x3D7E] [CPU: 0x7D7E] [OrigLen: 12]
+JP: ……うん。
+JP: わかった。
+CN: …嗯。
+CN: 好。
+# [0666] [ROM: 0x1A7D8A] [Bank: 0x69:0x3D8A] [CPU: 0x7D8A] [OrigLen: 33]
+JP: おまえは　だれに　いわれて
+JP: 『まじんき』を　まもって
+JP: いるの！！
+CN: 你是被谁
+CN: 指使守护
+CN: 魔神机！！
+# [0667] [ROM: 0x1A7DAB] [Bank: 0x69:0x3DAB] [CPU: 0x7DAB] [OrigLen: 30]
+JP: ア　アイリスを
+JP: なかしたな〜！
+JP: ゆるさないぞ！　まもの！！
+CN: 竟敢惹哭
+CN: 爱丽丝～！
+CN: 不饶你！
+# [0668] [ROM: 0x1A7DCD] [Bank: 0x69:0x3DCD] [CPU: 0x7DCD] [OrigLen: 38]
+JP: おまえは　いったい
+JP: だれにいわれて　『まじんき』
+JP: を　まもっているんだ！！
+CN: 你到底是
+CN: 受谁指使
+CN: 守护魔神机的！！
+# [0669] [ROM: 0x1A7E11] [Bank: 0x69:0x3E11] [CPU: 0x7E11] [OrigLen: 40]
+JP: そうだ。
+JP: だれにいわれて　『まじんき』
+JP: を　まもっているのか
+JP: ききださないと。
+CN: 对。
+CN: 得问出它
+CN: 受谁指使
+CN: 守护魔神机的。
+# [0670] [ROM: 0x1A7E39] [Bank: 0x69:0x3E39] [CPU: 0x7E39] [OrigLen: 38]
+JP: おまえは　いったい
+JP: だれにいわれて　『まじんき』
+JP: を　まもっているんだ！！
+CN: 你到底是
+CN: 受谁指使
+CN: 守护魔神机的！！
+# [0671] [ROM: 0x1A7E5F] [Bank: 0x69:0x3E5F] [CPU: 0x7E5F] [OrigLen: 32]
+JP: え？　だれにいわれて
+JP: この『たま』を
+JP: まもっているか？　って。
+CN: 咦？问
+CN: 受谁指使
+CN: 守护『玉』？
+# [0672] [ROM: 0x1A7E7F] [Bank: 0x69:0x3E7F] [CPU: 0x7E7F] [OrigLen: 43]
+JP: それは　ちょっと
+JP: かんべんしてください。
+JP: 『まかいおうさま』の…なんて
+JP: いえません。
+CN: 那个嘛，
+CN: 请恕我
+CN: 不能说。
+CN: 『魔界王大人』…
+# [0673] [ROM: 0x1A7EAA] [Bank: 0x69:0x3EAA] [CPU: 0x7EAA] [OrigLen: 9]
+JP: 『まかいおう』？
+CN: 魔界王？
+# [0674] [ROM: 0x1A7EB3] [Bank: 0x69:0x3EB3] [CPU: 0x7EB3] [OrigLen: 33]
+JP: あらららららら。
+JP: あなたたち　ひみつをしって
+JP: しまったのですね。
+CN: 哎呀呀呀。
+CN: 你们已经
+CN: 知道秘密了。
+# [0675] [ROM: 0x1A7ED4] [Bank: 0x69:0x3ED4] [CPU: 0x7ED4] [OrigLen: 36]
+JP: しかたありません。
+JP: やっつけちゃいましょう。
+JP: かかって　いらっしゃい。
+CN: 没办法。
+CN: 解决掉你们。
+CN: 放马过来吧。
+# [0676] [ROM: 0x1A7EF8] [Bank: 0x69:0x3EF8] [CPU: 0x7EF8] [OrigLen: 35]
+JP: すみませーーーん！
+JP: 『たま』をうばわれて
+JP: しまいましたーーーーー！！
+CN: 对不起——！
+CN: 『玉』被抢
+CN: 走了！！
+# [0677] [ROM: 0x1A7F1B] [Bank: 0x69:0x3F1B] [CPU: 0x7F1B] [OrigLen: 24]
+JP: <NAME>は
+JP: 『まじんき<81>よたま』を
+JP: かいしゅうした。
+CN: <NAME>
+CN: 回收了
+CN: 『魔神机之玉』
+# [0678] [ROM: 0x1A7F33] [Bank: 0x69:0x3F33] [CPU: 0x7F33] [OrigLen: 11]
+JP: やったね　アイリス！
+CN: 爱丽丝好棒
+# [0679] [ROM: 0x1A7F3E] [Bank: 0x69:0x3F3E] [CPU: 0x7F3E] [OrigLen: 12]
+JP: うん！
+JP: やったね　<NAME>！
+CN: 嗯！
+CN: <NAME>好棒
+# [0680] [ROM: 0x1A7F4A] [Bank: 0x69:0x3F4A] [CPU: 0x7F4A] [OrigLen: 16]
+JP: じゃあ
+JP: ていげきに　もどろう！
+CN: 那么
+CN: 回帝剧吧！
+# [0681] [ROM: 0x1A7F5A] [Bank: 0x69:0x3F5A] [CPU: 0x7F5A] [OrigLen: 13]
+JP: これは　なに？
+JP: プール？
+CN: 啥？
+CN: 水池？
+# [0682] [ROM: 0x1A7F67] [Bank: 0x69:0x3F67] [CPU: 0x7F67] [OrigLen: 35]
+JP: そうだね。
+JP: みずを　ためておくための
+JP: ちょすいプール
+JP: じゃないかな。
+CN: 对呢。
+CN: 用来蓄水
+CN: 的蓄水池
+CN: 不是吗？
+# [0683] [ROM: 0x1A7F8A] [Bank: 0x69:0x3F8A] [CPU: 0x7F8A] [OrigLen: 16]
+JP: ふ〜ん……
+JP: ところでさー　<NAME>。
+CN: 哼～……
+CN: 话说<NAME>
+# [0684] [ROM: 0x1A7F9A] [Bank: 0x69:0x3F9A] [CPU: 0x7F9A] [OrigLen: 40]
+JP: 『まじんき』を　かこんでいる
+JP: ほのおを　けす　ほうほうは
+JP: なにか　みつかった？
+CN: 熄灭包围
+CN: 魔神机的火焰
+CN: 方法找到了吗？
+# [0685] [ROM: 0x1A7FC2] [Bank: 0x69:0x3FC2] [CPU: 0x7FC2] [OrigLen: 3]
+JP: うん
+CN: 嗯
+# [0686] [ROM: 0x1A7FC5] [Bank: 0x69:0x3FC5] [CPU: 0x7FC5] [OrigLen: 7]
+JP: みつからない
+CN: 没找到
+# [0687] [ROM: 0x1A7FCC] [Bank: 0x69:0x3FCC] [CPU: 0x7FCC] [OrigLen: 13]
+JP: う〜ん　みつからないな。
+CN: 唔～没找到。
+# [0688] [ROM: 0x1A7FD9] [Bank: 0x69:0x3FD9] [CPU: 0x7FD9] [OrigLen: 27]
+JP: そうなの……
+JP: なんか　いいアイデアは
+JP: ないかな〜……
+CN: 这样啊…
+CN: 有好点子
+CN: 吗～……

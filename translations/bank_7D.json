@@ -1,0 +1,18 @@
+[
+  {
+    "bank": "0x7D",
+    "offset": "0x1F59A1",
+    "bank_offset": "0x19A1",
+    "format": "Shift-JIS",
+    "raw_hex": "88e8788d58",
+    "text": "郁x更"
+  },
+  {
+    "bank": "0x7D",
+    "offset": "0x1F6488",
+    "bank_offset": "0x2488",
+    "format": "Shift-JIS",
+    "raw_hex": "9e809082",
+    "text": "梳垂"
+  }
+]

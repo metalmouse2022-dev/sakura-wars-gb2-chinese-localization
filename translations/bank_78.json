@@ -1,0 +1,34 @@
+[
+  {
+    "bank": "0x78",
+    "offset": "0x1E060E",
+    "bank_offset": "0x060E",
+    "format": "Shift-JIS",
+    "raw_hex": "ed826d82ed",
+    "text": "墲mわ"
+  },
+  {
+    "bank": "0x78",
+    "offset": "0x1E0BC5",
+    "bank_offset": "0x0BC5",
+    "format": "Shift-JIS",
+    "raw_hex": "9f828f808782",
+    "text": "氓準№"
+  },
+  {
+    "bank": "0x78",
+    "offset": "0x1E1463",
+    "bank_offset": "0x1463",
+    "format": "Shift-JIS",
+    "raw_hex": "e7808380",
+    "text": "轢ム"
+  },
+  {
+    "bank": "0x78",
+    "offset": "0x1E2CA3",
+    "bank_offset": "0x2CA3",
+    "format": "Shift-JIS",
+    "raw_hex": "9f828f808781",
+    "text": "氓準〟"
+  }
+]
